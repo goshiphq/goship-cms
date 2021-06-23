@@ -1,0 +1,64 @@
+{
+  "ShippingServices": [
+    { "title": "LTL Freight", "url": "/articles/ltl-freight-shipping" },
+    {
+      "title": "Truckload Freight",
+      "url": "/articles/truckload-freight-shipping"
+    },
+    { "title": "Small Business", "url": "/articles/small-business-shipping" },
+    { "title": "Large Items", "url": "/articles/large-item-shipping" },
+    { "title": "International", "url": "/articles/international-shipping" },
+    {
+      "title": "LTL Less than Truckload Quote",
+      "url": "quote-ltl"
+    },
+    {
+      "title": "FTL Full Truckload Quote",
+      "url": "quote-ftl"
+    }
+  ],
+  "MoreLinks": [
+    {
+      "title": "Shipping Furniture",
+      "url": "/articles/small-business-shipping"
+    },
+    {
+      "title": "Shipping from LA to San Francisco",
+      "url": "/articles/small-business-shipping"
+    },
+    {
+      "title": "Cheap shipping for household items",
+      "url": "/articles/small-business-shipping"
+    },
+    {
+      "title": "How to ship a bed",
+      "url": "/articles/small-business-shipping"
+    },
+    {
+      "title": "How to prepare shipping to Canada",
+      "url": "/articles/small-business-shipping"
+    },
+    {
+      "title": "Shipping guide for household items",
+      "url": "/articles/small-business-shipping"
+    },
+    {
+      "title": "Transporting furniture from Craigslist",
+      "url": "/articles/small-business-shipping"
+    },
+    {
+      "title": "Cheapest way to move furniture",
+      "url": "/articles/small-business-shipping"
+    }
+  ],
+  "LearnLinks": [
+    {
+      "title": "All about small-business shipping",
+      "url": "/articles/small-business-shipping"
+    },
+    {
+      "title": "All about some other shipping",
+      "url": "/articles/small-business-shipping"
+    }
+  ]
+}
