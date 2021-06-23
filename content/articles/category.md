@@ -1,3 +1,6 @@
+---
+title: What is the best way for small businesses?
+---
 ## What is the best way for small businesses?
 
 From booking to communications to payment, GoShip helps you transport freight faster, cheaper, safer, and easier so you can stay focused on your business.
