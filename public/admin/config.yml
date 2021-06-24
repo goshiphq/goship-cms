@@ -67,3 +67,39 @@ collections:
                           required: false,
                           widget: "string",
                         }
+      - name: "links"
+        label: "Links"
+        file: "content/site/links.yaml"
+        widget: "object"
+        summary: "{{fields.name}}: {{fields.birthdate}}"
+        fields:
+          - name: "shippingservices"
+            label: "Shipping Services"
+            widget: "list"
+            fields:
+              - name: "title"
+                label: "Title"
+                widget: "string"
+              - name: "url"
+                label: "URL"
+                widget: "string"
+          - name: "morelinks"
+            label: "More Links"
+            widget: "list"
+            fields:
+              - name: "title"
+                label: "Title"
+                widget: "string"
+              - name: "url"
+                label: "URL"
+                widget: "string"
+          - name: "learnlinks"
+            label: "Learn"
+            widget: "list"
+            fields:
+              - name: "title"
+                label: "Title"
+                widget: "string"
+              - name: "url"
+                label: "URL"
+                widget: "string"
