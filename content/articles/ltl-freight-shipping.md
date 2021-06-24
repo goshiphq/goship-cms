@@ -1,5 +1,6 @@
-LTL Freight Shipping: What Is LTL Freight?
-==========================================
+---
+title: "LTL Freight Shipping: What Is LTL Freight?"
+---
 
 ![LTL Freight](https://www.goship.com/wp-content/uploads/2019/08/1.jpg)
 
@@ -169,3 +170,4 @@ What LTL freight services do we provide? 
 -   Freight insurance options. Often, carrier liability is not enough to guarantee a shipment's safety and cover the value in case of damage. GoShip.com wants to secure our customers and offers full-coverage freight insurance options. 
 -   Shipping to and from Canada. Apart from cross-country shipping, we also provide shipping to and from Canada. If needed, GoShip.com can assign a professional customs broker that will help you with all the required documentation and customs clearance. 
 
+ 

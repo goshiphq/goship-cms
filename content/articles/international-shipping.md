@@ -1,5 +1,6 @@
-Shipping to Canada Guide
-========================
+---
+title: Shipping to Canada Guide
+---
 
 ![international shipping](https://www.goship.com/wp-content/uploads/2019/02/International-Shipping--1200x450.jpg)
 

@@ -1,0 +1,202 @@
+category:
+  - id: freight
+    image: freight.png
+    title: Freight
+    article: "/articles/category.md"
+    examples:
+      - LTL (Less than Truckload)
+      - FTL (Full Truckload)
+      - Logistics
+    buckets:
+      - title: LTL and FTL
+        subcategories:
+          - id: ltl
+            title: LTL
+            destination: "/articles/ltl-freight-shipping"
+          - id: ftl
+            title: FTL
+            destination: "/articles/truckload-freight-shipping"
+          - id: small-business
+            title: Small Business
+            destination: "/articles/small-business-shipping"
+          - id: large-items
+            title: Large Items
+            destination: "/articles/large-item-shipping"
+          - id: international
+            title: International
+            destination: "/articles/international-shipping"
+          - id: logistics-transportation
+            title: Logistics/Transportation
+            destination: "/article/industry-logistics"
+      - title: Shipping Companies
+        subcategories: []
+      - title: Shipping Locations
+        subcategories: []
+      - title: Low Cost Shipping
+        subcategories: []
+  - id: e-commerce
+    title: e-Commerce
+    image: electronics.png
+    article: "/articles/ecommerce.md"
+    examples:
+      - Laptops
+      - TVs
+      - Batteries
+      - LED Signage
+    buckets:
+      - title: Platforms
+        subcategories:
+          - id: ecommerce-shipping-guide
+            title: eCommerce Shipping Guide
+            destination: "/blog/ecommerce-shipping-guide"
+      - title: Shipping Locations
+        subcategories: []
+      - title: Low Cost Shipping
+        subcategories:
+          - id: apparel
+            title: Apparel
+          - id: electronics
+            title: Electronics
+            destination: "/articles/industry-shipping-electronics"
+          - id: laptop
+            title: laptop
+          - id: computer
+            title: computer
+          - id: monitor
+            title: monitor
+          - id: phone
+            title: phone
+          - id: hard-drive
+            title: hard drive
+  - id: industrial-manufacturing
+    title: Industrial and Manufacturing
+    image: manufacturing.png
+    article: "/articles/manufacturing.md"
+    examples:
+      - Wholesale Products
+      - Machinery
+      - Industrial Equipment
+      - Auto Parts
+    buckets:
+      - title: Automotive
+        subcategories: []
+      - title: Automotive
+        subcategories:
+          - id: auto-parts
+            title: Auto Parts
+            destination: "/articles/industry-auto-parts"
+          - id: transmission
+            title: transmission
+          - id: bumpers-fenders
+            title: bumpers / fenders
+          - id: auto-glass
+            title: windshields / auto glass
+          - id: exhaust
+            title: exhaust
+          - id: car hood
+            title: car hood
+          - id: engine
+            title: engine
+          - id: tires
+            title: tires
+      - title: Building and Materials
+        subcategories: []
+      - title: Equipment/Machinery
+        subcategories:
+          - id: machinery
+            title: Machinery
+            destination: "/articles/industry-manufacturing-equipment"
+          - id: construction
+            title: Construction
+            destination: "/article/industry-construction"
+          - id: farm-equipment
+            title: farm equipment transport
+          - id: excavator
+            title: excavator
+          - id: cnc-milling-machine
+            title: CNC Milling Machine
+          - id: backhoe
+            title: backhoe
+          - id: crane
+            title: crane
+          - id: calculator
+            title: equipment shipping calculator
+  - id: food-beverage
+    image: food-beverage.png
+    title: Food & Beverage
+    article: "/articles/category.md"
+    examples:
+      - Crops
+      - Dry Food
+      - Perishable Food
+      - Beverages
+    buckets:
+      - title: Frozen
+        subcategories: []
+      - title: Perishables
+        subcategories: []
+      - title: Alcohol
+        subcategories: []
+      - title: General
+        subcategories: []
+  - id: wholesale-retail-trade
+    title: Wholesale and Retail Trade
+    image: food-beverage.png
+    article: "/articles/wholesale.md"
+    examples:
+      - Crops
+      - Dry Food
+      - Perishable Food
+      - Beverages
+    buckets:
+      - title: Apparel
+        subcategories:
+          - id: apparel
+            title: Apparel
+            destination: "/articles/industry-apparel"
+          - id: industrial-sewing-machine
+            title: industrial sewing machine
+          - id: shirts
+            title: shirts
+          - id: dresses
+            title: dresses
+          - id: coats
+            title: coats
+          - id: pants
+            title: pants
+          - id: shoes
+            title: shoes
+          - id: accessories
+            title: accessories
+      - title: Wholesale
+        subcategories: []
+      - title: General
+        subcategories: []
+  - id: furniture
+    image: furniture.png
+    title: Furniture
+    article: "/articles/category.md"
+    examples:
+      - Office
+      - Home
+      - Appliances
+    buckets:
+      - title: Home
+        subcategories: []
+      - title: Office
+        subcategories:
+          - id: PPE
+            title: PPE
+          - id: cleaning-supplies
+            title: Cleaning Supplies
+          - id: furniture
+            title: Furniture
+            destination: "/article/industry-furniture"
+          - id: office-furniture
+            title: Office Furniture
+      - title: Appliances
+        subcategories:
+          - id: appliances
+            title: Appliances
+      - title: Other
+        subcategories: []

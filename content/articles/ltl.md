@@ -1,6 +1,6 @@
-
-LTL Freight Shipping: What Is LTL Freight?
-==========================================
+---
+title: "LTL Freight Shipping: What Is LTL Freight?"
+---
 
 ![LTL Freight](https://www.goship.com/wp-content/uploads/2019/08/1.jpg)
 

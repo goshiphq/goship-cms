@@ -1,5 +1,6 @@
-Shipping for Small Business
-===========================
+---
+title: Shipping for Small Business
+---
 
 ![Small business shipping](https://www.goship.com/wp-content/uploads/2017/11/iStock-843476502-1200x450.jpg)
 
