@@ -8,8 +8,6 @@ collections:
   - name: "blog"
     label: "Blog Posts"
     folder: "content/blog"
-    format: "json-frontmatter"
-    extension: ".json"
     create: true
     fields:
       - { name: "image", label: "Image", widget: "image" }
