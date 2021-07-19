@@ -2,7 +2,7 @@ category:
   - id: freight
     image: freight.png
     title: Freight
-    article: "/articles/category.md"
+    article: "category"
     examples:
       - LTL (Less than Truckload)
       - FTL (Full Truckload)
@@ -37,7 +37,7 @@ category:
   - id: e-commerce
     title: e-Commerce
     image: electronics.png
-    article: "/articles/ecommerce.md"
+    article: "ecommerce"
     examples:
       - Laptops
       - TVs
@@ -71,7 +71,7 @@ category:
   - id: industrial-manufacturing
     title: Industrial and Manufacturing
     image: manufacturing.png
-    article: "/articles/manufacturing.md"
+    article: "manufacturing"
     examples:
       - Wholesale Products
       - Machinery
@@ -124,7 +124,7 @@ category:
   - id: food-beverage
     image: food-beverage.png
     title: Food & Beverage
-    article: "/articles/category.md"
+    article: "category"
     examples:
       - Crops
       - Dry Food
@@ -142,7 +142,7 @@ category:
   - id: wholesale-retail-trade
     title: Wholesale and Retail Trade
     image: food-beverage.png
-    article: "/articles/wholesale.md"
+    article: "wholesale"
     examples:
       - Crops
       - Dry Food
@@ -175,7 +175,7 @@ category:
   - id: furniture
     image: furniture.png
     title: Furniture
-    article: "/articles/category.md"
+    article: "category"
     examples:
       - Office
       - Home
