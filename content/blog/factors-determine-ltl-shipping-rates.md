@@ -1,5 +1,6 @@
 ---
 title: "Which Factors Determine LTL Freight Rates?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/factors-determine-ltl-shipping-rates.jpg"
 postedAt: 1530086431000
 news: false
 author: "GoShip Admin"

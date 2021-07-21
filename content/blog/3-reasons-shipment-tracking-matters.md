@@ -1,5 +1,6 @@
 ---
 title: "3 Reasons Why Shipment Tracking Matters To Customers"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-reasons-shipment-tracking-matters.jpg"
 postedAt: 1558501228000
 news: false
 author: "mderesh"

@@ -1,5 +1,6 @@
 ---
 title: "What Is Supply Chain Visibility And Why Is It Important?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-supply-chain-visibility-and-why-is-it-important.jpg"
 postedAt: 1618376459000
 news: false
 author: "GoShip Admin"

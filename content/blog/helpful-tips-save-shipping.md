@@ -1,5 +1,6 @@
 ---
 title: "Helpful Tips to Save on Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/helpful-tips-save-shipping.jpg"
 postedAt: 1522828257000
 news: false
 author: "GoShip Admin"

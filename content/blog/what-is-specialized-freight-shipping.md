@@ -1,5 +1,6 @@
 ---
 title: "What is Specialized Freight Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-specialized-freight-shipping.jpg"
 postedAt: 1605073522000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "How to Prepare for Christmas Shipping Season 2019"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-prepare-to-christmas-shipping-season-2019.jpg"
 postedAt: 1575954003000
 news: false
 author: "GoShip Admin"

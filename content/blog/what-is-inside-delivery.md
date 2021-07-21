@@ -1,5 +1,6 @@
 ---
 title: "What Is Inside Delivery and Inside Pickup?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-inside-delivery.jpg"
 postedAt: 1520397928000
 news: false
 author: "GoShip Admin"

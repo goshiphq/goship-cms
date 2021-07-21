@@ -1,5 +1,6 @@
 ---
 title: "How Much Does It Cost To Ship Furniture?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/cost-to-ship-furniture.jpg"
 postedAt: 1556686850000
 news: false
 author: "GoShip Admin"

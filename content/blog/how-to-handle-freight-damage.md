@@ -1,5 +1,6 @@
 ---
 title: "How to Handle Freight Damage"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-handle-freight-damage.jpg"
 postedAt: 1591765241000
 news: false
 author: "GoShip Admin"

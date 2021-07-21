@@ -1,5 +1,6 @@
 ---
 title: "How Digital Technology is Affecting Freight Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/digital-technology-affecting-freight-shipping.jpg"
 postedAt: 1518075328000
 news: false
 author: "GoShip Admin"

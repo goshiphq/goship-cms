@@ -1,5 +1,6 @@
 ---
 title: "Preparing Your Business for the Holiday Season"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/preparing-your-business-for-the-holiday-season.jpg"
 postedAt: 1539147609000
 news: false
 author: "GoShip Admin"

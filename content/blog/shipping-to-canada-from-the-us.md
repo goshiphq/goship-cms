@@ -1,5 +1,6 @@
 ---
 title: "Tips on Shipping to Canada From the U.S."
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/shipping-to-canada-from-the-us.jpg"
 postedAt: 1551243650000
 news: false
 author: "GoShip Admin"

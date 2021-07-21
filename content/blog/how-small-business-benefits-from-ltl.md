@@ -1,5 +1,6 @@
 ---
 title: "The Benefits of Using LTL For Small Business Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-small-business-benefits-from-ltl.jpg"
 postedAt: 1514360126000
 news: false
 author: "GoShip Admin"

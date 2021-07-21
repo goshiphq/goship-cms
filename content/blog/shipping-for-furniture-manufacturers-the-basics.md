@@ -1,5 +1,6 @@
 ---
 title: "Shipping for Furniture Manufacturers: The Basics"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/shipping-for-furniture-manufacturers-the-basics.jpg"
 postedAt: 1605675270000
 news: false
 author: "GoShip Admin"

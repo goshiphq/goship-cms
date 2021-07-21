@@ -1,5 +1,6 @@
 ---
 title: "Ready. Set. GoShip!"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/ready-set-goship.jpg"
 postedAt: 1497626305000
 news: false
 author: "kmagilton"

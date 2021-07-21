@@ -1,5 +1,6 @@
 ---
 title: "All You Need to Know About Shipping Furniture"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/shipping-furniture.jpg"
 postedAt: 1540963903000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "Trade Show Shipping: 3 Things To Know"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/trade-show-shipping-3-things-to-know.jpg"
 postedAt: 1563339601000
 news: false
 author: "GoShip Admin"

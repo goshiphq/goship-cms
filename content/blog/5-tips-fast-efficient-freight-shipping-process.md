@@ -1,5 +1,6 @@
 ---
 title: "5 Tips for a Fast & Efficient Freight Shipping Process"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/5-tips-fast-efficient-freight-shipping-process.jpg"
 postedAt: 1531296031000
 news: false
 author: "GoShip Admin"

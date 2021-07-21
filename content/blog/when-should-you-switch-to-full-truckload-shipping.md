@@ -1,5 +1,6 @@
 ---
 title: "When Should You Switch to Full Truckload Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/when-should-you-switch-to-full-truckload-shipping.jpg"
 postedAt: 1602651995000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "What Are The Types of Trailers In Truckload Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-types-of-trailers-in-truckload-shipping.jpg"
 postedAt: 1571806822000
 news: false
 author: "GoShip Admin"

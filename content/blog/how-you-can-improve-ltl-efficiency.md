@@ -1,5 +1,6 @@
 ---
 title: "How You Can Improve LTL Efficiency"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-you-can-improve-ltl-efficiency.jpg"
 postedAt: 1513755343000
 news: false
 author: "GoShip Admin"

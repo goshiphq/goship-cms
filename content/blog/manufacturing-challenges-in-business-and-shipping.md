@@ -1,5 +1,6 @@
 ---
 title: "Manufacturing Challenges in Business and Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/manufacturing-challenges-in-business-and-shipping.jpg"
 postedAt: 1604465809000
 news: false
 author: "GoShip Admin"

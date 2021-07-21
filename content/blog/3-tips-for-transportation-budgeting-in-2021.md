@@ -1,5 +1,6 @@
 ---
 title: "3 Tips for Transportation Budgeting in 2021"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-tips-for-transportation-budgeting-in-2021.jpg"
 postedAt: 1608095577000
 news: false
 author: "GoShip Admin"

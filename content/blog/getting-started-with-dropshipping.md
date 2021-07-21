@@ -1,5 +1,6 @@
 ---
 title: "Getting Started with Dropshipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/getting-started-with-dropshipping.png"
 postedAt: 1625202022000
 news: false
 author: "GoShip Admin"

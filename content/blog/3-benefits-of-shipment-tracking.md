@@ -1,5 +1,6 @@
 ---
 title: "3 Benefits of Shipment Tracking"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-benefits-of-shipment-tracking.jpg"
 postedAt: 1537333243000
 news: false
 author: "GoShip Admin"

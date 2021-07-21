@@ -1,5 +1,6 @@
 ---
 title: "Four Freight Saving Tips for Shippers"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/four-freight-saving-tips-for-shippers.jpg"
 postedAt: 1525247156000
 news: false
 author: "GoShip Admin"

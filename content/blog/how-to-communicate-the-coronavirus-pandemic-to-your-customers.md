@@ -1,5 +1,6 @@
 ---
 title: "How To Communicate The Coronavirus Pandemic To Your Customers"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-communicate-the-coronavirus-pandemic-to-your-customers.jpg"
 postedAt: 1585112414000
 news: false
 author: "GoShip Admin"

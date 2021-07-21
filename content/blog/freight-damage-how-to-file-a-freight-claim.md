@@ -1,5 +1,6 @@
 ---
 title: "Freight Damage: How to File a Freight Claim"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/freight-damage-how-to-file-a-freight-claim.jpg"
 postedAt: 1552496422000
 news: false
 author: "mderesh"

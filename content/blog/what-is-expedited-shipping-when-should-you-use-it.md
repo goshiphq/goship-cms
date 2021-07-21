@@ -1,5 +1,6 @@
 ---
 title: "When Should You Use Expedited Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-expedited-shipping-when-should-you-use-it.jpg"
 postedAt: 1562130027000
 news: false
 author: "GoShip Admin"

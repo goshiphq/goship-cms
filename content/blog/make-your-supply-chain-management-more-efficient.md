@@ -1,5 +1,6 @@
 ---
 title: "How To Make Your Supply Chain Management More Efficient"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/make-your-supply-chain-management-more-efficient.jpg"
 postedAt: 1597208401000
 news: false
 author: "GoShip Admin"

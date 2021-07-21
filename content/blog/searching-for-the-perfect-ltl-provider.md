@@ -1,5 +1,6 @@
 ---
 title: "Searching for the Perfect LTL Provider"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/searching-for-the-perfect-ltl-provider.png"
 postedAt: 1514964905000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "What Are The Main Truckload Shipping Trends In 2020?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-main-truckload-shipping-trends-in-2020.jpg"
 postedAt: 1579496432000
 news: false
 author: "GoShip Admin"

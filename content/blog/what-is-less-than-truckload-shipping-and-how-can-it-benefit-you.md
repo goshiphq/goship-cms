@@ -1,5 +1,6 @@
 ---
 title: "What is Less Than Truckload Shipping & How Can It Help You?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-less-than-truckload-shipping-and-how-can-it-benefit-you.jpg"
 postedAt: 1553058005000
 news: false
 author: "mderesh"

@@ -1,5 +1,6 @@
 ---
 title: "How to Pack for a Winter Move"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-pack-pack-for-a-winter-move.jpg"
 postedAt: 1517385619000
 news: false
 author: "GoShip Admin"

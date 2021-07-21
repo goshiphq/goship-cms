@@ -1,5 +1,6 @@
 ---
 title: "2020 LTL Shipping Trends: 3 Key Updates on the Market"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/2020-ltl-shipping-trends-3-key-updates-on-the-market.jpg"
 postedAt: 1577163656000
 news: false
 author: "GoShip Admin"

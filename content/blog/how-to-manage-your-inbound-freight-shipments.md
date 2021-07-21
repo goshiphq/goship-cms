@@ -1,5 +1,6 @@
 ---
 title: "How To Manage Your Inbound Freight Shipments"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-manage-your-inbound-freight-shipments.jpg"
 postedAt: 1582088450000
 news: false
 author: "GoShip Admin"

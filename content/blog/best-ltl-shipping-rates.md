@@ -1,5 +1,6 @@
 ---
 title: "5 Steps To Get the Best LTL Shipping Rates"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/best-ltl-shipping-rates.jpg"
 postedAt: 1550638817000
 news: false
 author: "GoShip Admin"

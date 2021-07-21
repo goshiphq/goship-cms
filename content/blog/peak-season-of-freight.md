@@ -1,5 +1,6 @@
 ---
 title: "Peak Season of Freight"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/peak-season-of-freight.jpg"
 postedAt: 1536123614000
 news: false
 author: "GoShip Admin"

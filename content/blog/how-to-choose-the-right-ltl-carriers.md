@@ -1,5 +1,6 @@
 ---
 title: "How to Choose the Right LTL Carriers?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-choose-the-right-ltl-carriers.jpg"
 postedAt: 1561525206000
 news: false
 author: "GoShip Admin"

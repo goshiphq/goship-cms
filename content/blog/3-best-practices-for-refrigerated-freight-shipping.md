@@ -1,5 +1,6 @@
 ---
 title: "3 Best Practices for Refrigerated Freight Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-refrigerated-freight-shipping.jpg"
 postedAt: 1584507621000
 news: false
 author: "GoShip Admin"

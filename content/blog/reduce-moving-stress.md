@@ -1,5 +1,6 @@
 ---
 title: "How To Reduce Moving Stress"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/reduce-moving-stress.jpg"
 postedAt: 1527666357000
 news: false
 author: "GoShip Admin"

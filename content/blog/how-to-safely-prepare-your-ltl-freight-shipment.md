@@ -1,5 +1,6 @@
 ---
 title: "How to Safely Pack and Prepare LTL Freight Shipment?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-safely-prepare-your-ltl-freight-shipment.jpg"
 postedAt: 1527061525000
 news: false
 author: "GoShip Admin"

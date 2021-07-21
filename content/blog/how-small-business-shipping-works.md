@@ -1,5 +1,6 @@
 ---
 title: "How Does Small Business Shipping Work?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-small-business-shipping-works.jpg"
 postedAt: 1553662808000
 news: false
 author: "GoShip Admin"

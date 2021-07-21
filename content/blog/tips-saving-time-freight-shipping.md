@@ -1,5 +1,6 @@
 ---
 title: "5 Tips on How To Save Time On Freight Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/tips-saving-time-freight-shipping.jpg"
 postedAt: 1519793150000
 news: false
 author: "GoShip Admin"

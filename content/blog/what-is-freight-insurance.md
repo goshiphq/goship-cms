@@ -1,5 +1,6 @@
 ---
 title: "What is Freight Insurance and Why Do I Need It?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-freight-insurance.jpg"
 postedAt: 1547010037000
 news: false
 author: "GoShip Admin"

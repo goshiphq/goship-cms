@@ -1,5 +1,6 @@
 ---
 title: "The Logistics Behind Santa Claus"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/the-logistics-behind-santa-claus.jpg"
 postedAt: 1545195627000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "LTL Freight Shipping For Beginners"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/ltl-freight-shipping-for-beginners.jpg"
 postedAt: 1557896459000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "5 Key Freight Shipping Terms You Should Know"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/5-key-freight-shipping-terms-you-should-know.jpg"
 postedAt: 1592370044000
 news: false
 author: "GoShip Admin"

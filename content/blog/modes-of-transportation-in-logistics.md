@@ -1,5 +1,6 @@
 ---
 title: "Modes of Transportation: Transport & Logistics"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/modes-of-transportation-in-logistics.jpg"
 postedAt: 1562734806000
 news: false
 author: "GoShip Admin"

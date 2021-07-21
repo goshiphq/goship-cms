@@ -1,5 +1,6 @@
 ---
 title: "What Is Moving Season & When Is The Best Time To Move?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/moving-season-best-time-to-move.jpg"
 postedAt: 1565758849000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "Preparing for Hurricane Season"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/preparing-for-hurricane-season.jpg"
 postedAt: 1536728412000
 news: false
 author: "GoShip Admin"

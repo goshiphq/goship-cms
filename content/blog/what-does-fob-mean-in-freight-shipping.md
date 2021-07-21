@@ -1,5 +1,6 @@
 ---
 title: "What Does FOB Mean In Freight Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-does-fob-mean-in-freight-shipping.jpg"
 postedAt: 1618981255000
 news: false
 author: "GoShip Admin"

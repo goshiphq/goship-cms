@@ -1,5 +1,6 @@
 ---
 title: "The Best Way to Move Your Mattress"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/best-way-move-mattress.jpg"
 postedAt: 1528271116000
 news: false
 author: "GoShip Admin"

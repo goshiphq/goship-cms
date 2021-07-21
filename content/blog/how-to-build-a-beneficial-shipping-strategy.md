@@ -1,5 +1,6 @@
 ---
 title: "How to Build a Beneficial Shipping Strategy"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-build-a-beneficial-shipping-strategy.jpg"
 postedAt: 1547614826000
 news: false
 author: "GoShip Admin"

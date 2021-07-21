@@ -1,5 +1,6 @@
 ---
 title: "How Shippers and Businesses Can Support Green Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-shippers-can-support-green-shipping.jpg"
 postedAt: 1555909213000
 news: false
 author: "GoShip Admin"

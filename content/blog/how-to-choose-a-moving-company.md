@@ -1,5 +1,6 @@
 ---
 title: "How To Choose a Moving Company"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-choose-a-moving-company.jpg"
 postedAt: 1555477209000
 news: false
 author: "GoShip Admin"

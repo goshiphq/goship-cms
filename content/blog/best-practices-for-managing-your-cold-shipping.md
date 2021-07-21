@@ -1,5 +1,6 @@
 ---
 title: "Best Practices for Managing Your Cold Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/best-practices-for-managing-your-cold-shipping.jpg"
 postedAt: 1616562046000
 news: false
 author: "GoShip Admin"

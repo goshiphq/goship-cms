@@ -1,5 +1,6 @@
 ---
 title: "2018 Trends Affecting Shipping Costs"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/2018-trends-affecting-shipping-costs.jpg"
 postedAt: 1528865113000
 news: false
 author: "GoShip Admin"

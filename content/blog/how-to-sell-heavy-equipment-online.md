@@ -1,5 +1,6 @@
 ---
 title: "How to Sell Heavy Equipment Online"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-sell-heavy-equipment-online.jpg"
 postedAt: 1594789244000
 news: false
 author: "GoShip Admin"

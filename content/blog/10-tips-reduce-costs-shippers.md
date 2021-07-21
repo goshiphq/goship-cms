@@ -1,5 +1,6 @@
 ---
 title: "10 Easy Ways to Reduce Shipping Costs"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/10-tips-reduce-costs-shippers.jpg"
 postedAt: 1512545426000
 news: false
 author: "kmagilton"

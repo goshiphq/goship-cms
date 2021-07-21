@@ -1,5 +1,6 @@
 ---
 title: "2021 Outlook: Small Business Trends"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/2021-outlook-small-business-trends.jpg"
 postedAt: 1606896008000
 news: false
 author: "GoShip Admin"

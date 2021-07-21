@@ -1,5 +1,6 @@
 ---
 title: "What Is the Bill of Lading (BOL)?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-the-bill-of-lading-bol.jpg"
 postedAt: 1559106001000
 news: false
 author: "mderesh"

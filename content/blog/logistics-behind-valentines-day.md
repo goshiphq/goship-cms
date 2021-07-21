@@ -1,5 +1,6 @@
 ---
 title: "The Logistics Behind Valentine's Day"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/logistics-behind-valentines-day.jpg"
 postedAt: 1518594348000
 news: false
 author: "GoShip Admin"

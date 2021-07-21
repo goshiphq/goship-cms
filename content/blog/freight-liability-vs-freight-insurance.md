@@ -1,5 +1,6 @@
 ---
 title: "Freight Liability vs. Freight Insurance"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/freight-liability-vs-freight-insurance.jpg"
 postedAt: 1524037540000
 news: false
 author: "GoShip Admin"

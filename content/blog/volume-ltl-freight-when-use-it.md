@@ -1,5 +1,6 @@
 ---
 title: "What Is Volume LTL Freight and When Can You Use It?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/volume-ltl-freight-when-use-it.jpg"
 postedAt: 1566363630000
 news: false
 author: "GoShip Admin"

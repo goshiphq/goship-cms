@@ -1,5 +1,6 @@
 ---
 title: "7 Most Common LTL Shipping Mistakes"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/7-most-common-ltl-shipping-mistakes.jpg"
 postedAt: 1542776414000
 news: false
 author: "GoShip Admin"

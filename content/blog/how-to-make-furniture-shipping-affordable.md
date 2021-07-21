@@ -1,5 +1,6 @@
 ---
 title: "How to Make Furniture Shipping Affordable"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-make-furniture-shipping-affordable.jpg"
 postedAt: 1607490016000
 news: false
 author: "GoShip Admin"

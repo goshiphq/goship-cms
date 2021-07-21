@@ -1,5 +1,6 @@
 ---
 title: "What Are the Types of Freight Carriers?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-types-of-freight-carriers.jpg"
 postedAt: 1588741207000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "How to Measure Your Freight Shipment Properly?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-measure-your-freight-shipment-properly.jpg"
 postedAt: 1573534852000
 news: false
 author: "GoShip Admin"

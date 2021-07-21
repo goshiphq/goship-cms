@@ -1,5 +1,6 @@
 ---
 title: "Choosing the Right FTL Carriers"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/choosing-the-right-ftl-carriers.jpg"
 postedAt: 1625029243000
 news: false
 author: "GoShip Admin"

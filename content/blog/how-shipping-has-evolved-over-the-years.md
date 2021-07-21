@@ -1,5 +1,6 @@
 ---
 title: "How Shipping Has Evolved Over the Years"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-shipping-has-evolved-over-the-years.jpg"
 postedAt: 1538542802000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "5 Signs It’s Time to Change Your LTL Shipping Provider"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/5-signs-its-time-to-change-your-ltl-shipping-provider.jpg"
 postedAt: 1535518821000
 news: false
 author: "kmagilton"

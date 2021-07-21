@@ -1,5 +1,6 @@
 ---
 title: "The Evolution of Retail: The Role of Visibility"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/the-evolution-of-retail-the-role-of-visibility.jpg"
 postedAt: 1582693213000
 news: false
 author: "GoShip Admin"

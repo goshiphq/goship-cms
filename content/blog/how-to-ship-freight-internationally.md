@@ -1,5 +1,6 @@
 ---
 title: "How To Ship Freight Internationally?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-freight-internationally.jpg"
 postedAt: 1580101237000
 news: false
 author: "GoShip Admin"

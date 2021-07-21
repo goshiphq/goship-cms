@@ -1,5 +1,6 @@
 ---
 title: "What are the Types of LTL Freight Packaging?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-types-of-ltl-freight-packaging.jpg"
 postedAt: 1560920434000
 news: false
 author: "GoShip Admin"

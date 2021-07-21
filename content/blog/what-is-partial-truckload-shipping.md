@@ -1,5 +1,6 @@
 ---
 title: "What Is Partial Truckload Shipping & When Should You Use It?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-partial-truckload-shipping.jpg"
 postedAt: 1580706046000
 news: false
 author: "GoShip Admin"

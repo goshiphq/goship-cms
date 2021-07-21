@@ -1,5 +1,6 @@
 ---
 title: "How Technology Is Affecting the LTL Shipping Industry"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/technology-affecting-ltl-industry.jpg"
 postedAt: 1533104131000
 news: false
 author: "GoShip Admin"

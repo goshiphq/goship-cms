@@ -1,5 +1,6 @@
 ---
 title: "What Are The Benefits of Using Mobile Shipping Apps?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-benefits-of-using-mobile-shipping-apps.jpg"
 postedAt: 1580274003000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "3 Tips on How to Get the Best Truckload Quotes"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-tips-on-how-to-get-the-best-truckload-quotes.jpg"
 postedAt: 1600232404000
 news: false
 author: "GoShip Admin"

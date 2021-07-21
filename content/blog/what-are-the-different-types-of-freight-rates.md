@@ -1,5 +1,6 @@
 ---
 title: "What Are the Different Types of Freight Rates?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-different-types-of-freight-rates.jpg"
 postedAt: 1575349225000
 news: false
 author: "GoShip Admin"

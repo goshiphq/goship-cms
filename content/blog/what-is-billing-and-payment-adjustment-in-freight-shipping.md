@@ -1,5 +1,6 @@
 ---
 title: "What Is Billing and Payment Adjustment in Freight Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-billing-and-payment-adjustment-in-freight-shipping.jpg"
 postedAt: 1572915631000
 news: false
 author: "GoShip Admin"

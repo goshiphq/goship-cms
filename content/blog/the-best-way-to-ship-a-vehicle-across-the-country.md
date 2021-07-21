@@ -1,5 +1,6 @@
 ---
 title: "The Best Way to Ship a Vehicle Across the Country"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/the-best-way-to-ship-a-vehicle-across-the-country.jpg"
 postedAt: 1601355967000
 news: false
 author: "GoShip Admin"

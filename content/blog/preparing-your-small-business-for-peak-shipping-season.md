@@ -1,5 +1,6 @@
 ---
 title: "Preparing Your Small Business for Peak Shipping Season"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/preparing-your-small-business-for-peak-shipping-season.jpg"
 postedAt: 1599022848000
 news: false
 author: "GoShip Admin"

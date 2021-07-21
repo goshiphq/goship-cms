@@ -1,5 +1,6 @@
 ---
 title: "How Are Mobile Shipping Apps Changing the Shipping Industry?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-are-mobile-shipping-apps-changing-the-shipping-industry.jpg"
 postedAt: 1593579629000
 news: false
 author: "GoShip Admin"

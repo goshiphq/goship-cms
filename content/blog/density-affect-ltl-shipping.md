@@ -1,5 +1,6 @@
 ---
 title: "How Does Density Affect LTL Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/density-affect-ltl-shipping.jpg"
 postedAt: 1534309251000
 news: false
 author: "GoShip Admin"

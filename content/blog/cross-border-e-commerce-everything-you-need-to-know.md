@@ -1,5 +1,6 @@
 ---
 title: "Cross Border E-Commerce: Everything You Need To Know"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/cross-border-e-commerce-everything-you-need-to-know.jpg"
 postedAt: 1579064429000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "3 Best Practices For Successful LTL Shipments"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-successful-ltl-shipments.jpg"
 postedAt: 1581310819000
 news: false
 author: "GoShip Admin"

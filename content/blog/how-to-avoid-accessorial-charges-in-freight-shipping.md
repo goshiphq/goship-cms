@@ -1,5 +1,6 @@
 ---
 title: "How to Avoid Accessorial Charges in Freight Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-avoid-accessorial-charges-in-freight-shipping.jpg"
 postedAt: 1574139625000
 news: false
 author: "GoShip Admin"

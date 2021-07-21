@@ -1,5 +1,6 @@
 ---
 title: "What Is Truckload Shipping and How Does It Work?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-truckload-shipping-and-how-does-it-work.jpg"
 postedAt: 1567573207000
 news: false
 author: "GoShip Admin"

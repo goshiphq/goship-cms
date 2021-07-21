@@ -1,5 +1,6 @@
 ---
 title: "What is an Embargo in Freight Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-an-embargo-in-freight-shipping.jpg"
 postedAt: 1622178024000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "Five Moving Scams to Look Out For"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/five-moving-scams-look.jpg"
 postedAt: 1526456705000
 news: false
 author: "GoShip Admin"

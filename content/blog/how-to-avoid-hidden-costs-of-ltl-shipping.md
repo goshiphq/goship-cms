@@ -1,5 +1,6 @@
 ---
 title: "How to Avoid Hidden Costs of LTL Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-avoid-hidden-costs-of-ltl-shipping.jpg"
 postedAt: 1598418011000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "Palletizing LTL Freight: Everything You Need to Know"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/palletizing-ltl-freight-everything-you-need-to-know.jpg"
 postedAt: 1550034002000
 news: false
 author: "GoShip Admin"

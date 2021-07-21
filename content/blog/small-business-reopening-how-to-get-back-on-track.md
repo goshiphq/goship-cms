@@ -1,5 +1,6 @@
 ---
 title: "Small Businesses Reopening: How to Get Back On Track"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/small-business-reopening-how-to-get-back-on-track.jpg"
 postedAt: 1589346026000
 news: false
 author: "GoShip Admin"

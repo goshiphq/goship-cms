@@ -1,5 +1,6 @@
 ---
 title: "Delivering Love: How Does Valentine's Day Logistics Work?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/delivering-love-how-does-valentines-day-logistics-work.jpg"
 postedAt: 1613539518000
 news: false
 author: "GoShip Admin"

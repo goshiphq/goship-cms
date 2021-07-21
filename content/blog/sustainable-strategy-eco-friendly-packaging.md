@@ -1,5 +1,6 @@
 ---
 title: "Sustainable Strategy: Eco Friendly Packaging"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/sustainable-strategy-eco-friendly-packaging.jpg"
 postedAt: 1624424431000
 news: false
 author: "GoShip Admin"

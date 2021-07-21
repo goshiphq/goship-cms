@@ -1,5 +1,6 @@
 ---
 title: "What is the Difference Between an LTL and FTL Freight Quote?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-the-difference-between-an-ltl-and-ftl-freight-quote.jpg"
 postedAt: 1602047257000
 news: false
 author: "GoShip Admin"

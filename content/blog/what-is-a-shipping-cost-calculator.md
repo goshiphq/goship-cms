@@ -1,5 +1,6 @@
 ---
 title: "What is a Shipping Cost Calculator?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-a-shipping-cost-calculator.jpg"
 postedAt: 1622610032000
 news: false
 author: "GoShip Admin"

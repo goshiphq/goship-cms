@@ -1,5 +1,6 @@
 ---
 title: "Winter Shipping Tips to Stay Ahead of the Storm"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/winter-shipping-tips-stay-ahead-storm.jpg"
 postedAt: 1515571853000
 news: false
 author: "GoShip Admin"

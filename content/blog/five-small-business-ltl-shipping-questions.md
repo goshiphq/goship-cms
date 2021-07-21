@@ -1,5 +1,6 @@
 ---
 title: "5 Important LTL Shipping Questions To Ask"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/five-small-business-ltl-shipping-questions.jpg"
 postedAt: 1510933610000
 news: false
 author: "GoShip Admin"

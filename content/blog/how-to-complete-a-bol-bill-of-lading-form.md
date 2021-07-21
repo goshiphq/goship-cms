@@ -1,5 +1,6 @@
 ---
 title: "How to Complete a BOL: Bill of Lading Form"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-complete-a-bol-bill-of-lading-form.png"
 postedAt: 1619586028000
 news: false
 author: "GoShip Admin"

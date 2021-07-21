@@ -1,5 +1,6 @@
 ---
 title: "What Is Vendor Compliance Program for Retail?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-a-vendor-compliance-program-retail.jpg"
 postedAt: 1579669238000
 news: false
 author: "GoShip Admin"

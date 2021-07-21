@@ -1,5 +1,6 @@
 ---
 title: "What Is LTL Freight? An Ultimate Guide"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/ltl-freight-shipping-guide.jpg"
 postedAt: 1521013537000
 news: false
 author: "GoShip Admin"

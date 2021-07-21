@@ -1,5 +1,6 @@
 ---
 title: "What Long Term Trends Will Emerge In The Retail Industry?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-long-term-trends-will-emerge-in-retail-industry.jpg"
 postedAt: 1586322046000
 news: false
 author: "GoShip Admin"

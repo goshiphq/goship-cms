@@ -1,5 +1,6 @@
 ---
 title: "All About Craigslist Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/all-about-craigslist-shipping.jpg"
 postedAt: 1546405217000
 news: false
 author: "GoShip Admin"

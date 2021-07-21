@@ -1,5 +1,6 @@
 ---
 title: "A Guide to Different Types of Shipping Pallets"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/a-guide-to-different-types-of-shipping-pallets.jpg"
 postedAt: 1620190830000
 news: false
 author: "GoShip Admin"

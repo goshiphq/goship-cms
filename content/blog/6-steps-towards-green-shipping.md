@@ -1,5 +1,6 @@
 ---
 title: "6 Steps Towards Greener Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/6-steps-towards-green-shipping.jpg"
 postedAt: 1534914054000
 news: false
 author: "kmagilton"

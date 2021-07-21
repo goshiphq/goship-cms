@@ -1,5 +1,6 @@
 ---
 title: "Questions to Ask Your LTL Shipping Provider"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/questions-to-ask-your-ltl-shipping-provider.jpg"
 postedAt: 1541566823000
 news: false
 author: "GoShip Admin"

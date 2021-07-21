@@ -1,5 +1,6 @@
 ---
 title: "The Future of Sustainable Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/future-green-shipping.jpg"
 postedAt: 1523433057000
 news: false
 author: "GoShip Admin"

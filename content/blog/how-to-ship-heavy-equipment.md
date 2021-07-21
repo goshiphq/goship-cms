@@ -1,5 +1,6 @@
 ---
 title: "How to Ship Heavy Equipment"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-heavy-equipment.jpeg"
 postedAt: 1617771626000
 news: false
 author: "GoShip Admin"

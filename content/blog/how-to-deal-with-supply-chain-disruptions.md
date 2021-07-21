@@ -1,5 +1,6 @@
 ---
 title: "How to Deal with Supply Chain Disruptions"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-deal-with-supply-chain-disruptions.png"
 postedAt: 1625643558000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "Last Mile Delivery: What Is It And How To Improve Your Service?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/last-mile-delivery-improve-service.jpg"
 postedAt: 1566968411000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "How To Prepare For The Holiday Shipping Season"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/prepare-for-the-holiday-shipping-season.jpg"
 postedAt: 1571202004000
 news: false
 author: "GoShip Admin"

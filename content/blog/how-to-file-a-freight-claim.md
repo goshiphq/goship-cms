@@ -1,5 +1,6 @@
 ---
 title: "How To File A Freight Claim?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-file-a-freight-claim.jpg"
 postedAt: 1591160430000
 news: false
 author: "GoShip Admin"

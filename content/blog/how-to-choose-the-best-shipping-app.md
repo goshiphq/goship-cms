@@ -1,5 +1,6 @@
 ---
 title: "How To Choose the Best Shipping App?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-choose-the-best-shipping-app.jpg"
 postedAt: 1576558844000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "Attain Better Inventory Accuracy to Improve Order Fulfillment"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/attain-better-inventory-accuracy-to-improve-order-fulfillment.jpg"
 postedAt: 1612934132000
 news: false
 author: "GoShip Admin"

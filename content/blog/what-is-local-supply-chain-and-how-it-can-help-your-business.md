@@ -1,5 +1,6 @@
 ---
 title: "What is Local Supply Chain and How Can it Help Your Business?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-local-supply-chain-and-how-it-can-help-your-business.jpg"
 postedAt: 1608701392000
 news: false
 author: "GoShip Admin"

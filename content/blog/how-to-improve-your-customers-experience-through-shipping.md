@@ -1,5 +1,6 @@
 ---
 title: "How To Improve Your Customers Experience Through Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-improve-your-customers-experience-through-shipping.jpg"
 postedAt: 1545800452000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "Optimizing Your Truckload Shipping Strategy"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/optimizing-your-truckload-shipping-strategy.jpg"
 postedAt: 1596603647000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "5 Tips for Shipping Fragile Items"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/5-tips-shipping-fragile-items.jpg"
 postedAt: 1529481636000
 news: false
 author: "GoShip Admin"

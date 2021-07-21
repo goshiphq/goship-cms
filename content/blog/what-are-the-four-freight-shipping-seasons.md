@@ -1,5 +1,6 @@
 ---
 title: "What Are The Four Freight Shipping Seasons?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-four-freight-shipping-seasons.jpg"
 postedAt: 1589950811000
 news: false
 author: "GoShip Admin"

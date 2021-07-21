@@ -1,5 +1,6 @@
 ---
 title: "4 Tips to Make LTL Shipping Easy"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-make-ltl-shipping-easy.png"
 postedAt: 1519188327000
 news: false
 author: "GoShip Admin"

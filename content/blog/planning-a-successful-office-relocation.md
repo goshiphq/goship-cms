@@ -1,5 +1,6 @@
 ---
 title: "7 Steps For a Successful Office Relocation"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/planning-a-successful-office-relocation.jpg"
 postedAt: 1525851946000
 news: false
 author: "GoShip Admin"

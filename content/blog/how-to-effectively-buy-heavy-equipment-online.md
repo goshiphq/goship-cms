@@ -1,5 +1,6 @@
 ---
 title: "How to Effectively Buy Heavy Equipment Online"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-effectively-buy-heavy-equipment-online.png"
 postedAt: 1595998856000
 news: false
 author: "GoShip Admin"

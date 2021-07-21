@@ -1,5 +1,6 @@
 ---
 title: "An Introduction to Freight Insurance"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/an-introduction-to-freight-insurance.jpg"
 postedAt: 1533704405000
 news: false
 author: "kmagilton"

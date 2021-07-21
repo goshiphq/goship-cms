@@ -1,5 +1,6 @@
 ---
 title: "What Is Expedited Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-expedited-shipping.jpg"
 postedAt: 1565154008000
 news: false
 author: "GoShip Admin"

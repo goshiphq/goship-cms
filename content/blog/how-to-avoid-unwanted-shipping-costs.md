@@ -1,5 +1,6 @@
 ---
 title: "How to Avoid Unwanted Shipping Costs"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-avoid-unwanted-shipping-costs.jpg"
 postedAt: 1537938027000
 news: false
 author: "GoShip Admin"

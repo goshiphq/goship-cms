@@ -1,5 +1,6 @@
 ---
 title: "What Is LTL Freight Consolidation & Why Should You Use It?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-ltl-freight-consolidation-why-should-you-use-it.jpg"
 postedAt: 1578395305000
 news: false
 author: "GoShip Admin"

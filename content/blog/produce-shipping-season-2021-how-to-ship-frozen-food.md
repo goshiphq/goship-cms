@@ -1,5 +1,6 @@
 ---
 title: "Produce Shipping Season 2021: How to Ship Frozen Food"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/produce-shipping-season-2021-how-to-ship-frozen-food.jpg"
 postedAt: 1615352433000
 news: false
 author: "GoShip Admin"

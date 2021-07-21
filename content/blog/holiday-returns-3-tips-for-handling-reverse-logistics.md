@@ -1,5 +1,6 @@
 ---
 title: "Holiday Returns: 3 Tips For Handling Reverse Logistics"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/holiday-returns-3-tips-for-handling-reverse-logistics.jpg"
 postedAt: 1610514003000
 news: false
 author: "GoShip Admin"

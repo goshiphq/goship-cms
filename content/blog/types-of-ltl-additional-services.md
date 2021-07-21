@@ -1,5 +1,6 @@
 ---
 title: "What Are The Different Types Of LTL Services?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/types-of-ltl-additional-services.jpg"
 postedAt: 1564549218000
 news: false
 author: "GoShip Admin"

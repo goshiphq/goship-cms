@@ -1,5 +1,6 @@
 ---
 title: "Package vs Pallet Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/package-vs-pallet-shipping.jpg"
 postedAt: 1522223120000
 news: false
 author: "GoShip Admin"

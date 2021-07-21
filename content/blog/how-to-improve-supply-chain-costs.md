@@ -1,5 +1,6 @@
 ---
 title: "5 Ways To Reduce Supply Chain Costs"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-improve-supply-chain-costs.jpg"
 postedAt: 1516779616000
 news: false
 author: "GoShip Admin"

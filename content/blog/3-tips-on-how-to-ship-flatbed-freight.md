@@ -1,5 +1,6 @@
 ---
 title: "3 Tips On How To Ship Flatbed Freight"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-tips-on-how-to-ship-flatbed-freight.jpg"
 postedAt: 1599627615000
 news: false
 author: "GoShip Admin"

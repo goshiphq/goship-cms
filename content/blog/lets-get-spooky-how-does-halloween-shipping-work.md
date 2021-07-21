@@ -1,5 +1,6 @@
 ---
 title: "Let’s Get Spooky: How Does Halloween Shipping Work?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/lets-get-spooky-how-does-halloween-shipping-work.jpg"
 postedAt: 1603861512000
 news: false
 author: "GoShip Admin"

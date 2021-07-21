@@ -1,5 +1,6 @@
 ---
 title: "Annual International Roadcheck 2021: Getting Ready"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/annual-international-roadcheck-2021-getting-ready.jpg"
 postedAt: 1615957215000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "3 Key Benefits of Truckload Freight Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-benefits-truckload-freight-shipping.jpg"
 postedAt: 1569387611000
 news: false
 author: "GoShip Admin"

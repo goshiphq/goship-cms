@@ -1,5 +1,6 @@
 ---
 title: "Moving Terms You Should Know"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/moving-terms-you-should-know.jpg"
 postedAt: 1516207445000
 news: false
 author: "GoShip Admin"

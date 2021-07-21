@@ -1,5 +1,6 @@
 ---
 title: "3 Unpopular Ways To Reduce Supply Chain Costs"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/reduce-supply-chain-costs.jpg"
 postedAt: 1524642350000
 news: false
 author: "GoShip Admin"

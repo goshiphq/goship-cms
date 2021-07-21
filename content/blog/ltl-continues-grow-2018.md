@@ -1,5 +1,6 @@
 ---
 title: "LTL Continues To Grow In 2018"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/ltl-continues-grow-2018.jpg"
 postedAt: 1521618358000
 news: false
 author: "GoShip Admin"

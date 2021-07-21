@@ -1,5 +1,6 @@
 ---
 title: "Dealing with Damaged Freight: Types of Freight Damage"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/dealing-with-damaged-freight.jpg"
 postedAt: 1622005203000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "Shipping Oversized Items: Everything You Need To Know"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/buying-oversized-items-online.jpg"
 postedAt: 1544590851000
 news: false
 author: "GoShip Admin"

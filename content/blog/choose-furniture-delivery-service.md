@@ -1,5 +1,6 @@
 ---
 title: "How To Choose a Furniture Delivery Service"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/choose-furniture-delivery-service.jpg"
 postedAt: 1557291600000
 news: false
 author: "mderesh"

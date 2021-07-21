@@ -1,5 +1,6 @@
 ---
 title: "What Is Retail Consolidation and Is It Right for You?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-retail-consolidation-and-is-it-right-for-you.jpg"
 postedAt: 1583298056000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "3 Best Practices for Building A Strong Local Supply Chain"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-building-a-strong-local-supply-chain.jpg"
 postedAt: 1612331738000
 news: false
 author: "GoShip Admin"

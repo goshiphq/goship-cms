@@ -1,5 +1,6 @@
 ---
 title: "Top 3 Benefits of Using Online Shipping Platforms"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/benefits-of-using-an-online-shipping-service.jpg"
 postedAt: 1539752415000
 news: false
 author: "GoShip Admin"

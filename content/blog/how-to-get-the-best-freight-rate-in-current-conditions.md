@@ -1,5 +1,6 @@
 ---
 title: "How to Get the Best Freight Rate in Current Conditions"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-get-the-best-freight-rate-in-current-conditions.jpg"
 postedAt: 1595394042000
 news: false
 author: "GoShip Admin"

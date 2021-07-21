@@ -1,5 +1,6 @@
 ---
 title: "5 Common Freight Shipping Challenges"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/5-common-freight-shipping-challenges.png"
 postedAt: 1513150512000
 news: false
 author: "GoShip Admin"

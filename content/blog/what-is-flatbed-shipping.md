@@ -1,5 +1,6 @@
 ---
 title: "What Is Flatbed Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-flatbed-shipping.jpg"
 postedAt: 1568178010000
 news: false
 author: "GoShip Admin"

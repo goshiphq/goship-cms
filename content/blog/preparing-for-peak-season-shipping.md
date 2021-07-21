@@ -1,5 +1,6 @@
 ---
 title: "Preparing for Peak Season Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/preparing-for-peak-season-shipping.jpg"
 postedAt: 1620795652000
 news: false
 author: "GoShip Admin"

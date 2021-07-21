@@ -1,5 +1,6 @@
 ---
 title: "How to Efficiently Ship During the Holiday Season"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-efficiently-ship-during-the-holiday-season.jpg"
 postedAt: 1542171626000
 news: false
 author: "GoShip Admin"

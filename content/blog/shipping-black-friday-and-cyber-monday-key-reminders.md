@@ -1,5 +1,6 @@
 ---
 title: "Shipping Black Friday and Cyber Monday: Key Reminders"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/shipping-black-friday-and-cyber-monday-key-reminders.jpg"
 postedAt: 1606279725000
 news: false
 author: "GoShip Admin"

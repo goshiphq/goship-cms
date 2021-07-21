@@ -1,5 +1,6 @@
 ---
 title: "Everything You Need to Know About LTL Freight Class"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/blog-everything-you-need-to-know-about-ltl-freight-class.jpg"
 postedAt: 1551848406000
 news: false
 author: "GoShip Admin"

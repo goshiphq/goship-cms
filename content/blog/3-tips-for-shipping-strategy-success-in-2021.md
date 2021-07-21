@@ -1,5 +1,6 @@
 ---
 title: "3 Tips for Shipping Strategy Success in 2021"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-tips-for-shipping-strategy-success-in-2021.jpg"
 postedAt: 1611118827000
 news: false
 author: "GoShip Admin"

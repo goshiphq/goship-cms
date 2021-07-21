@@ -1,5 +1,6 @@
 ---
 title: "Outsourcing Your Logistics Operations"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/outsourcing-your-logistics-operations.jpg"
 postedAt: 1622782836000
 news: false
 author: "GoShip Admin"

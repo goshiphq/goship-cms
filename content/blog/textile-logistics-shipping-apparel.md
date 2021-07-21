@@ -1,5 +1,6 @@
 ---
 title: "Textile Logistics: What To Consider When Shipping Apparel"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/textile-logistics-shipping-apparel.jpg"
 postedAt: 1580878806000
 news: false
 author: "GoShip Admin"

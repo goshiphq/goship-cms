@@ -1,5 +1,6 @@
 ---
 title: "Moving Season: 3 Tips for Moving Cross-Country"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/tips-and-tricks-to-successfully-move-cross-country.jpg"
 postedAt: 1617166834000
 news: false
 author: "GoShip Admin"

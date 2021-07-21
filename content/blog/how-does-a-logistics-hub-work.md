@@ -1,5 +1,6 @@
 ---
 title: "How Does a Logistics Hub Work?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-does-a-logistics-hub-work.jpg"
 postedAt: 1623214836000
 news: false
 author: "GoShip Admin"

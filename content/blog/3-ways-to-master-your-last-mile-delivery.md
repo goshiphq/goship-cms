@@ -1,5 +1,6 @@
 ---
 title: "3 Ways To Master Your Last-Mile Delivery"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-ways-to-master-your-last-mile-delivery.jpg"
 postedAt: 1611723606000
 news: false
 author: "GoShip Admin"

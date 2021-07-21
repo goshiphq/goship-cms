@@ -1,5 +1,6 @@
 ---
 title: "What Is a Customs Broker & When Do You Need One?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-does-customs-broker-do-and-do-you-need-one.jpg"
 postedAt: 1560315627000
 news: false
 author: "GoShip Admin"

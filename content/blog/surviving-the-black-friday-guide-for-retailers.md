@@ -1,5 +1,6 @@
 ---
 title: "Surviving Black Friday: Guide for Retailers"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/surviving-the-black-friday-guide-for-retailers.jpg"
 postedAt: 1574744435000
 news: false
 author: "GoShip Admin"

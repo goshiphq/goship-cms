@@ -1,5 +1,6 @@
 ---
 title: "What Are Specialized Freight Shipping Services?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-specialized-freight-shipping-services.jpg"
 postedAt: 1621400409000
 news: false
 author: "GoShip Admin"

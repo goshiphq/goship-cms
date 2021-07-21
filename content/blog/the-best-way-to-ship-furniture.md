@@ -1,5 +1,6 @@
 ---
 title: "The Best Way To Ship Furniture Across Country"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/the-best-way-to-ship-furniture.jpg"
 postedAt: 1548824448000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "What is Dry Van Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-dry-van-shipping.jpg"
 postedAt: 1568782843000
 news: false
 author: "GoShip Admin"

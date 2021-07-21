@@ -1,5 +1,6 @@
 ---
 title: "What Is Deadstock and How Do I Get Rid of It?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-deadstock-and-how-to-get-rid-of-it.jpg"
 postedAt: 1614747637000
 news: false
 author: "GoShip Admin"

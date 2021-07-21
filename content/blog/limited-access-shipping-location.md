@@ -1,5 +1,6 @@
 ---
 title: "What Is Limited Access Shipping?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/limited-access-shipping-location.jpg"
 postedAt: 1554267609000
 news: false
 author: "mderesh"

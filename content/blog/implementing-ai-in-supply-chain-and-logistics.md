@@ -1,5 +1,6 @@
 ---
 title: "Implementing AI in Supply Chain and Logistics"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/implementing-ai-in-supply-chain-and-logistics.jpg"
 postedAt: 1623846605000
 news: false
 author: "GoShip Admin"

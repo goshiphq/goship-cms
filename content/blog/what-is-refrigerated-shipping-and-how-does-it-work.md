@@ -1,5 +1,6 @@
 ---
 title: "What Is Refrigerated Shipping and How Does It Work?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-refrigerated-shipping-and-how-does-it-work.jpg"
 postedAt: 1569992426000
 news: false
 author: "GoShip Admin"

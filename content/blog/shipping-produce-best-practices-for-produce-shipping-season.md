@@ -1,5 +1,6 @@
 ---
 title: "Shipping Produce: Best Practices for Produce Shipping Season"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/shipping-produce-best-practices-for-produce-shipping-season.jpg"
 postedAt: 1590555659000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "Technology Trends in Road Freight"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/key-technology-trends-in-road-freight.jpg"
 postedAt: 1587531643000
 news: false
 author: "GoShip Admin"

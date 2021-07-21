@@ -1,5 +1,6 @@
 ---
 title: "Learn the Jargon: Freight Shipping Terms You Need to Know"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/learn-jargon-freight-shipping-terms-need-know.jpg"
 postedAt: 1532494839000
 news: false
 author: "kmagilton"

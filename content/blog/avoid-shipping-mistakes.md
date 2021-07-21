@@ -1,5 +1,6 @@
 ---
 title: "How to Avoid Making Freight Shipping Mistakes"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/avoid-shipping-mistakes.jpg"
 postedAt: 1511940619000
 news: false
 author: "kmagilton"

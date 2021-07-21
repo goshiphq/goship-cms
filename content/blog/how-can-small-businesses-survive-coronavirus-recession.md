@@ -1,5 +1,6 @@
 ---
 title: "How Small Businesses Can Survive The Coronavirus"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-can-small-businesses-survive-coronavirus-recession.jpg"
 postedAt: 1585717244000
 news: false
 author: "GoShip Admin"

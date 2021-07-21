@@ -1,5 +1,6 @@
 ---
 title: "How To Increase Customer Loyalty Through Returns"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-increase-customer-loyalty-through-returns.jpg"
 postedAt: 1588136455000
 news: false
 author: "GoShip Admin"

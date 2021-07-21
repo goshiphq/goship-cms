@@ -1,5 +1,6 @@
 ---
 title: "GoShip Appoints Zane Salim as Chief Executive Officer"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/goship-appoints-zane-salim-as-chief-executive-officer.png"
 postedAt: 1611063417000
 news: true
 author: "gwarder"

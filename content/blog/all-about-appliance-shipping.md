@@ -1,5 +1,6 @@
 ---
 title: "8 Tips for Appliance Shipping"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/all-about-appliance-shipping.jpg"
 postedAt: 1543381232000
 news: false
 author: "GoShip Admin"

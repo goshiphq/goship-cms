@@ -1,5 +1,6 @@
 ---
 title: "eCommerce Shipping Guide"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/ecommerce-shipping-guide.jpg"
 postedAt: 1621864002000
 news: false
 author: "GoShip Admin"

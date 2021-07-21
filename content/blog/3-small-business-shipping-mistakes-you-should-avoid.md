@@ -1,5 +1,6 @@
 ---
 title: "3 Small Business Shipping Mistakes You Should Avoid"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-small-business-shipping-mistakes-you-should-avoid.jpg"
 postedAt: 1597813212000
 news: false
 author: "GoShip Admin"

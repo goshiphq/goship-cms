@@ -1,5 +1,6 @@
 ---
 title: "5 Key Benefits of LTL Shipping for Retail Businesses"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/5-key-benefits-of-ltl-shipping-for-retail-businesses.jpg"
 postedAt: 1549429201000
 news: false
 author: "GoShip Admin"

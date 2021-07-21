@@ -1,5 +1,6 @@
 ---
 title: "Key LTL Shipping Trends for 2019"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/key-ltl-trends-for-2019-and-beyond.jpg"
 postedAt: 1543986048000
 news: false
 author: "GoShip Admin"

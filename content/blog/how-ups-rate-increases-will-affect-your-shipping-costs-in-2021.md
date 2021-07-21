@@ -1,5 +1,6 @@
 ---
 title: "How UPS Rate Increases Will Affect Your Shipping Costs in 2021"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-ups-rate-increases-will-affect-your-shipping-costs-in-2021.jpg"
 postedAt: 1614142836000
 news: false
 author: "GoShip Admin"

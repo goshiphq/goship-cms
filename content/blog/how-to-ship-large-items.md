@@ -1,5 +1,6 @@
 ---
 title: "How to Ship Large Items Across the Country"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-large-items.jpg"
 postedAt: 1548219618000
 news: false
 author: "GoShip Admin"

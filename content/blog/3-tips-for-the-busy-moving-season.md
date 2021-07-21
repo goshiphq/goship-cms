@@ -1,5 +1,6 @@
 ---
 title: "3 Tips for the Busy Moving Season"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-tips-for-the-busy-moving-season.jpg"
 postedAt: 1600837523000
 news: false
 author: "GoShip Admin"

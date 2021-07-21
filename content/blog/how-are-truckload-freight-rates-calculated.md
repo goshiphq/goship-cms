@@ -1,5 +1,6 @@
 ---
 title: "How Are Truckload Freight Rates Calculated?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-are-truckload-freight-rates-calculated.jpg"
 postedAt: 1570597257000
 news: false
 author: "GoShip Admin"

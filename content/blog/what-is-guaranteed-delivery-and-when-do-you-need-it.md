@@ -1,5 +1,6 @@
 ---
 title: "What is Guaranteed Delivery in LTL and When Do You Need It?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-guaranteed-delivery-and-when-do-you-need-it.jpg"
 postedAt: 1563944424000
 news: false
 author: "GoShip Admin"

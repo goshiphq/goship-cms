@@ -1,5 +1,6 @@
 ---
 title: "3 Best Practices for Full Truckload (FTL) Freight Management"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-full-truckload-ftl-freight-management.jpg"
 postedAt: 1583902826000
 news: false
 author: "GoShip Admin"

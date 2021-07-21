@@ -1,5 +1,6 @@
 ---
 title: "Creating a Successful Small Business Shipping Strategy"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/creating-a-successful-small-business-shipping-strategy.png"
 postedAt: 1586926855000
 news: false
 author: "GoShip Admin"

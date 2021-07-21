@@ -1,5 +1,6 @@
 ---
 title: "Full Truckload vs Less Than Truckload: What Is the Difference?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/full-truckload-vs-less-than-truckload-what-is-the-difference.jpg"
 postedAt: 1554872410000
 news: false
 author: "GoShip Admin"

@@ -1,5 +1,6 @@
 ---
 title: "How Does Shipping Automotive Parts Work?"
+image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-does-the-shipping-of-automotive-parts-work.jpg"
 postedAt: 1594184449000
 news: false
 author: "GoShip Admin"
