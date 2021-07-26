@@ -2,7 +2,7 @@ category:
   - id: freight
     image: freight.png
     title: Freight
-    article: "category"
+    article: freight-shipping-services
     examples:
       - LTL (Less than Truckload)
       - FTL (Full Truckload)
@@ -12,22 +12,22 @@ category:
         subcategories:
           - id: ltl
             title: LTL
-            destination: "/articles/ltl-freight-shipping"
+            destination: /articles/ltl-freight-shipping
           - id: ftl
             title: FTL
-            destination: "/articles/truckload-freight-shipping"
+            destination: /articles/truckload-freight-shipping
           - id: small-business
             title: Small Business
-            destination: "/articles/small-business-shipping"
+            destination: /articles/small-business-shipping
           - id: large-items
             title: Large Items
-            destination: "/articles/large-item-shipping"
+            destination: /articles/large-item-shipping
           - id: international
             title: International
-            destination: "/articles/international-shipping"
+            destination: /articles/international-shipping
           - id: logistics-transportation
             title: Logistics/Transportation
-            destination: "/article/industry-logistics"
+            destination: /article/industry-logistics
       - title: Shipping Companies
         subcategories: []
       - title: Shipping Locations
@@ -37,7 +37,7 @@ category:
   - id: e-commerce
     title: e-Commerce
     image: electronics.png
-    article: "ecommerce"
+    article: ecommerce
     examples:
       - Laptops
       - TVs
@@ -48,7 +48,7 @@ category:
         subcategories:
           - id: ecommerce-shipping-guide
             title: eCommerce Shipping Guide
-            destination: "/blog/ecommerce-shipping-guide"
+            destination: /blog/ecommerce-shipping-guide
       - title: Shipping Locations
         subcategories: []
       - title: Low Cost Shipping
@@ -57,7 +57,7 @@ category:
             title: Apparel
           - id: electronics
             title: Electronics
-            destination: "/articles/industry-shipping-electronics"
+            destination: /articles/industry-shipping-electronics
           - id: laptop
             title: laptop
           - id: computer
@@ -71,7 +71,7 @@ category:
   - id: industrial-manufacturing
     title: Industrial and Manufacturing
     image: manufacturing.png
-    article: "manufacturing"
+    article: manufacturing
     examples:
       - Wholesale Products
       - Machinery
@@ -84,7 +84,7 @@ category:
         subcategories:
           - id: auto-parts
             title: Auto Parts
-            destination: "/articles/industry-auto-parts"
+            destination: /articles/industry-auto-parts
           - id: transmission
             title: transmission
           - id: bumpers-fenders
@@ -105,10 +105,10 @@ category:
         subcategories:
           - id: machinery
             title: Machinery
-            destination: "/articles/industry-manufacturing-equipment"
+            destination: /articles/industry-manufacturing-equipment
           - id: construction
             title: Construction
-            destination: "/article/industry-construction"
+            destination: /article/industry-construction
           - id: farm-equipment
             title: farm equipment transport
           - id: excavator
@@ -124,7 +124,7 @@ category:
   - id: food-beverage
     image: food-beverage.png
     title: Food & Beverage
-    article: "category"
+    article: category
     examples:
       - Crops
       - Dry Food
@@ -142,7 +142,7 @@ category:
   - id: wholesale-retail-trade
     title: Wholesale and Retail Trade
     image: food-beverage.png
-    article: "wholesale"
+    article: wholesale
     examples:
       - Crops
       - Dry Food
@@ -153,7 +153,7 @@ category:
         subcategories:
           - id: apparel
             title: Apparel
-            destination: "/articles/industry-apparel"
+            destination: /articles/industry-apparel
           - id: industrial-sewing-machine
             title: industrial sewing machine
           - id: shirts
@@ -175,7 +175,7 @@ category:
   - id: furniture
     image: furniture.png
     title: Furniture
-    article: "category"
+    article: category
     examples:
       - Office
       - Home
@@ -191,7 +191,7 @@ category:
             title: Cleaning Supplies
           - id: furniture
             title: Furniture
-            destination: "/article/industry-furniture"
+            destination: /article/industry-furniture
           - id: office-furniture
             title: Office Furniture
       - title: Appliances
