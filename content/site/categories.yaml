@@ -124,7 +124,7 @@ category:
   - id: food-beverage
     image: food-beverage.png
     title: Food & Beverage
-    article: category
+    article: shipping-food
     examples:
       - Crops
       - Dry Food
