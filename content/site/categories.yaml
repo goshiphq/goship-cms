@@ -142,7 +142,7 @@ category:
   - id: wholesale-retail-trade
     title: Wholesale and Retail Trade
     image: food-beverage.png
-    article: wholesale
+    article: wholesale-shipping
     examples:
       - Crops
       - Dry Food
