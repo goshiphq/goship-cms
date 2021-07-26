@@ -175,7 +175,7 @@ category:
   - id: furniture
     image: furniture.png
     title: Furniture
-    article: category
+    article: shipping-furniture
     examples:
       - Office
       - Home
