@@ -1,5 +1,5 @@
 ---
-title: Industrial Equipment
+title: Industrial Equipment
 ---
 ## Hauling Equipment with GoShip 
 
