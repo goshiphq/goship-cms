@@ -1,8 +1,7 @@
 ---
 title: Shipping to Canada Guide
+image: "https://storage.googleapis.com/goshiprepo/prod/articles/images/international-shipping.jpg"
 ---
-
-![international shipping](https://www.goship.com/wp-content/uploads/2019/02/International-Shipping--1200x450.jpg)
 
 *If you are a small business or an individual who ships goods throughout the U.S., you have probably thought about expanding your customer base to Canada. GoShip.com provides reliable international shipping services to and from Canada, and can help you enter the global market smoothly!\
 *

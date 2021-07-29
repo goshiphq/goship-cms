@@ -1,8 +1,7 @@
 ---
 title: Truckload Freight Shipping
+image: "https://storage.googleapis.com/goshiprepo/prod/articles/images/truckload-freight-shipping.png"
 ---
-
-![truckload shipping](https://www.goship.com/wp-content/uploads/2019/08/Untitled-design-1.png)
 
 *At GoShip.com, we make quoting truckload freight shipments simple. With our online calculating tools, you can get a list of competitive truckload shipping rates from our reliable carriers. When you're shipping truckload, you can rely on our technology, carrier network, and tailored solutions for your business.*
 

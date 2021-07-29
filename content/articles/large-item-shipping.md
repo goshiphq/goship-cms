@@ -1,8 +1,7 @@
 ---
 title: Large Item Shipping
+image: "https://storage.googleapis.com/goshiprepo/prod/articles/images/large-item-shipping.jpg"
 ---
-
-![Shipping large item on pallet](https://www.goship.com/wp-content/uploads/2017/11/iStock-533310135a-1200x450.jpg)
 
 _When you're shipping large items, GoShip.com can help. Our expertise and contacts in the industry ensure that you'll get a good match. We can help move your items across town or across the country fast and easy._
 

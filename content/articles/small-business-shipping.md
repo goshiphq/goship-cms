@@ -1,8 +1,8 @@
 ---
 title: Shipping for Small Business
+image: "https://storage.googleapis.com/goshiprepo/prod/articles/images/small-business-shipping.jpg"
 ---
 
-![Small business shipping](https://www.goship.com/wp-content/uploads/2017/11/iStock-843476502-1200x450.jpg)
 
 *When it comes to small business shipping, many business owners are not sure where they should start. Do they need to set up shipping accounts? Work with one company, or many? What's the best solution for their company's specific needs? What are the best shipping options for small businesses? GoShip.com's extensive experience with small business shipping solutions means we can help you find the right answers for your company's needs. *
 

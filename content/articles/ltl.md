@@ -1,8 +1,7 @@
 ---
 title: "LTL Freight Shipping: What Is LTL Freight?"
+image: "https://storage.googleapis.com/goshiprepo/prod/articles/images/ltl.jpg"
 ---
-
-![LTL Freight](https://www.goship.com/wp-content/uploads/2019/08/1.jpg)
 
 LTL Freight Shipping & LTL Quotes
 ---------------------------------
