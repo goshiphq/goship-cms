@@ -13,8 +13,6 @@ shippingservices:
     url: quote-ltl
   - title: FTL Full Truckload Quote
     url: quote-ftl
-  - title: Goose
-    url: goose.com
 morelinks:
   - title: Shipping Furniture
     url: /articles/small-business-shipping
@@ -32,8 +30,25 @@ morelinks:
     url: /articles/small-business-shipping
   - title: Cheapest way to move furniture
     url: /articles/small-business-shipping
-learnlinks:
-  - title: All about small-business shipping
-    url: /articles/small-business-shipping
-  - title: All about some other shipping
-    url: /articles/small-business-shipping
+industrylinks:
+  - title: Apparel
+    url: /articles/apparel
+  - title: Auto Parts
+    url: /articles/auto-parts
+  - title: Construction
+    url: /articles/construction
+  - title: CPG
+    url: /articles/consumer-packaged-goods
+  - title: Electronics
+    url: /articles/ecommerce-shipping-solutions
+  - title: Food & Beverage
+    url: /articles/shipping-food
+  - title: Furniture
+    url: /articles/shipping-furniture
+  - title: Healthcare
+    url: /articles/healthcare
+  - title: Manufacturing Equipment
+    url: /articles/manufacturinge-equipment
+  - title: Retail
+    url: /articles/retail
+
