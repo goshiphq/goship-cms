@@ -1,33 +1,16 @@
 ---
 title: Large Item Shipping
-image: "https://storage.googleapis.com/goshiprepo/prod/articles/images/large-item-shipping.jpg"
+image: https://storage.googleapis.com/goshiprepo/prod/articles/images/large-item-shipping.jpg
 ---
-
-_When you're shipping large items, GoShip.com can help. Our expertise and contacts in the industry ensure that you'll get a good match. We can help move your items across town or across the country fast and easy._
-
-Load Type
-
-Less Than TruckloadFull Truckload
-
-From
-
-ZIP code
-
-To
-
-ZIP code
-
-Pickup Date
-
-Get Quote
+*When you're shipping large items, GoShip.com can help. Our expertise and contacts in the industry ensure that you'll get a good match. We can help move your items across town or across the country fast and easy.*
 
 ## The Benefits of Shipping Large Items with GoShip.com
 
-- Free and instant [freight quotes](https://www.goship.com/)
-- [Full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) and [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) shipping options
-- 24/7 shipment tracking
-- A wide network of freight carriers
-- The self-service platform that lets you book a shipment easily within a few clicks
+* Free and instant [freight quotes](https://www.goship.com/)
+* [Full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) and [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) shipping options
+* 24/7 shipment tracking
+* A wide network of freight carriers
+* The self-service platform that lets you book a shipment easily within a few clicks
 
 At GoShip.com, we can help you find the right solutions for your company. We offer various price points and carrier options so you can choose what works best for your budget and timeline.
 
@@ -95,11 +78,11 @@ Shipping appliances can be difficult. Most traditional shipping companies don't 
 
 Shipping appliances such as refrigerators, dishwashers, or stoves require a little extra care to avoid damaging them during shipping.
 
-- Defrost refrigerators at least 24 hours ahead of time
-- Remove and pack all shelves and drawers separately
-- Clean and pack ovens, all racks, knobs, and grills separately
-- Washers and dryers should have their hoses removed and packed by themselves --- with the dryer's drum properly secured
-- All appliances with doors should have them taped and secured to avoid falling open during transit
+* Defrost refrigerators at least 24 hours ahead of time
+* Remove and pack all shelves and drawers separately
+* Clean and pack ovens, all racks, knobs, and grills separately
+* Washers and dryers should have their hoses removed and packed by themselves --- with the dryer's drum properly secured
+* All appliances with doors should have them taped and secured to avoid falling open during transit
 
 ### How does appliance delivery work?
 
@@ -127,8 +110,8 @@ Our cross-country shipping services will move your items across the country easi
 
 ### What you need to know about cross-country freight shipping
 
-- How long should I expect the move to take? A typical cross-country move should take less than a week. Generally, it takes between two and five business days, depending on how far your destination is. It's good to also understand unforeseen circumstances such as holiday or weather delays.
-- How much will cross-country shipping cost? The [cost](https://www.goship.com/blog/factors-determine-ltl-shipping-rates/) of your cross-country move will depend on the size of your shipment, the weight of your shipment, the distance traveled, and whether you need any additional services.
+* How long should I expect the move to take? A typical cross-country move should take less than a week. Generally, it takes between two and five business days, depending on how far your destination is. It's good to also understand unforeseen circumstances such as holiday or weather delays.
+* How much will cross-country shipping cost? The [cost](https://www.goship.com/blog/factors-determine-ltl-shipping-rates/) of your cross-country move will depend on the size of your shipment, the weight of your shipment, the distance traveled, and whether you need any additional services.
 
 ### How to ship freight cross-country?
 
