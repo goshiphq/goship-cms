@@ -1,0 +1,30 @@
+name: 'Submodule Notify Parent'
+# This action will update the marketing branch of the goship-oyster repo whenever new material becomes available
+
+on:
+  push:
+    branches:
+      - master    
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  notify:
+    name: 'Submodule Notify Parent'
+    runs-on: ubuntu-latest
+
+    # Use the Bash shell regardless whether the GitHub Actions runner is ubuntu-latest, macos-latest, or windows-latest
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    - name: Github REST API Call
+      env:
+        CMS_TOKEN: ${{ secrets.CMS_TOKEN }}
+        PARENT_REPO: goshiphq/goship-oyster
+        PARENT_BRANCH: marketing
+        WORKFLOW_ID: 12327490
+      run: |
+        curl -fL --retry 3 -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ env.CMS_TOKEN }}" https://api.github.com/repos/${{ env.PARENT_REPO }}/actions/workflows/${{ env.WORKFLOW_ID }}/dispatches -d '{"ref":"${{ env.PARENT_BRANCH }}"}'
