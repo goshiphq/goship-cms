@@ -51,4 +51,19 @@ industrylinks:
     url: /articles/manufacturinge-equipment
   - title: Retail
     url: /articles/retail
+resourceslinks:
+  - title: About Us
+    url: /about-us
+  - title: GoShip App
+    url: https://beta.goship.com/
+  - title: News
+    url: /news
+  - title: eBooks
+    url: /#
+  - title: Claims
+    url: /claims
+  - title: Freight Insurance
+    url: /#
+  - title: FAQ
+    url: /faq
 
