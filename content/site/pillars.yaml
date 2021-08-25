@@ -1,0 +1,121 @@
+pillars:
+  - id: freight
+    image: freight.png
+    title: Freight
+    article: freight-shipping-services
+    examples:
+      - LTL (Less than Truckload)
+      - FTL (Full Truckload)
+      - Logistics
+    subcategories:
+      - title: LTL
+        url: /articles/ltl-freight-shipping
+      - title: FTL
+        url: /articles/truckload-freight-shipping
+      - title: Small Business
+        url: /articles/small-business-shipping
+      - title: Large Items
+        url: /articles/large-item-shipping
+      - title: International
+        url: /articles/international-shipping
+      - title: Logistics/Transportation
+  - id: e-commerce
+    title: e-Commerce
+    image: electronics.png
+    article: ecommerce-shipping-solutions
+    examples:
+      - Laptops
+      - TVs
+      - Batteries
+      - LED Signage
+    subcategories:
+      - title: eCommerce Shipping Guide
+        url: /blog/ecommerce-shipping-guide
+      - title: Apparel
+      - title: Electronics
+        url: /articles/industry-shipping-electronics
+      - id: laptop
+        title: laptop
+      - id: computer
+        title: computer
+      - id: monitor
+        title: monitor
+      - id: phone
+        title: phone
+      - id: hard-drive
+        title: hard drive
+  - id: industrial-manufacturing
+    title: Industrial and Manufacturing
+    image: manufacturing.png
+    article: industrial%C2%A0equipment
+    examples:
+      - Wholesale Products
+      - Machinery
+      - Industrial Equipment
+      - Auto Parts
+    subcategories:
+      - title: Auto Parts
+        url: /articles/industry-auto-parts
+      - title: transmission
+      - title: bumpers / fenders
+      - title: windshields / auto glass
+      - title: exhaust
+      - title: car hood
+      - title: engine
+      - title: tires
+      - title: Machinery
+        url: /articles/industry-manufacturing-equipment
+      - title: Construction
+        url: /article/industry-construction
+      - title: farm equipment transport
+      - title: excavator
+      - title: CNC Milling Machine
+      - title: backhoe
+      - title: crane
+      - title: equipment shipping calculator
+  - id: food-beverage
+    image: food-beverage.png
+    title: Food & Beverage
+    article: shipping-food
+    examples:
+      - Crops
+      - Dry Food
+      - Perishable Food
+      - Beverages
+    subcategories: []
+  - id: wholesale-retail-trade
+    title: Wholesale and Retail Trade
+    image: food-beverage.png
+    article: wholesale-shipping
+    examples:
+      - Crops
+      - Dry Food
+      - Perishable Food
+      - Beverages
+    subcategories:
+      - title: Apparel
+        url: /articles/industry-apparel
+      - title: industrial sewing machine
+      - title: shirts
+      - title: dresses
+      - title: coats
+      - title: pants
+      - title: shoes
+      - title: accessories
+  - id: furniture
+    image: furniture.png
+    title: Furniture
+    article: shipping-furniture
+    examples:
+      - Office
+      - Home
+      - Appliances
+    subcategories:
+      - id: PPE
+        title: PPE
+      - title: Cleaning Supplies
+      - title: Furniture
+        url: /article/industry-furniture
+      - title: Office Furniture
+      - title: Appliances
+
