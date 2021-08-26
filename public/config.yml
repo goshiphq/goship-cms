@@ -59,6 +59,17 @@ collections:
                       required: false,
                       widget: "string",
                     }
+              - name: "moreguides"
+                label: "More Guides"
+                widget: "list"
+                fields:
+                  - { name: "title", label: "Title", widget: "string" }
+                  - {
+                      name: "url",
+                      label: "Destination",
+                      required: false,
+                      widget: "string",
+                    }
   - name: "links"
     label: "Links"
     file: "content/site/links.yaml"

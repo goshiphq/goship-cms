@@ -19,6 +19,21 @@ pillars:
       - title: International
         url: /articles/international-shipping
       - title: Logistics/Transportation
+    moreguides:
+      - title: LTL Freight Shipping
+        url: /articles/ltl-freight-shipping
+      - title: Shipping to Canada Guide
+        url: /articles/international-shipping
+      - title: What is Freight Class?
+        url: /blog/what-is-freight-class/
+      - title: What Are the Types of Freight Carriers?
+        url: /posts/what-are-the-types-of-freight-carriers
+      - title: Truckload Freight Shipping
+        url: /articles/truckload-freight-shipping
+      - title: What is Freight Shipping? 
+        url: /blog/what-is-freight-shipping/
+      - title: What is a Shipping Cost Calculator?
+        url: /posts/what-is-a-shipping-cost-calculator
   - id: e-commerce
     title: e-Commerce
     image: electronics.png
@@ -44,6 +59,23 @@ pillars:
         title: phone
       - id: hard-drive
         title: hard drive
+    moreguides:
+      - title: eCommerce Shipping Guide
+        url: /posts/ecommerce-shipping-guide
+      - title: CPG Logistics
+        url: /industries/cpg/
+      - title: Eco Friendly Packaging Guide
+        url: /blog/sustainable-strategy-eco-friendly-packaging/
+      - title: Cyber Monday Shipping
+        url: /posts/shipping-black-friday-and-cyber-monday-key-reminders
+      - title: Getting Started with Dropshipping
+        url: /posts/getting-started-with-dropshipping
+      - title: Small Business Shipping
+        url: /shipping-services/small-business-shipping/
+      - title: Cross Border E-Commerce
+        url: /posts/cross-border-e-commerce-everything-you-need-to-know
+      - title: Craigslist Shipping Guide
+        url: /posts/all-about-craigslist-shipping
   - id: industrial-manufacturing
     title: Industrial and Manufacturing
     image: manufacturing.png
@@ -73,6 +105,17 @@ pillars:
       - title: backhoe
       - title: crane
       - title: equipment shipping calculator
+    moreguides:
+      - title: Construction Logistics
+        url: /industries/construction/
+      - title: Choosing an FTL Carrier
+        url: /posts/choosing-the-right-ftl-carriers
+      - title: How to Ship Heavy Equipment
+        url: /posts/how-to-ship-heavy-equipment
+      - title: Shipping Machinery
+        url: /industries/manufacturing-equipment/
+      - title: Manufacturing Logistics Challenges
+        url: /posts/manufacturing-challenges-in-business-and-shipping
   - id: food-beverage
     image: food-beverage.png
     title: Food & Beverage
@@ -83,6 +126,13 @@ pillars:
       - Perishable Food
       - Beverages
     subcategories: []
+    moreguides:
+      - title: Produce Shipping
+        url: /posts/shipping-produce-best-practices-for-produce-shipping-season
+      - title: Refrigerated Shipping Guide
+        url: /posts/3-best-practices-for-refrigerated-freight-shipping
+      - title: Cold Shipping Best Practices
+        url: /posts/best-practices-for-managing-your-cold-shipping
   - id: wholesale-retail-trade
     title: Wholesale and Retail Trade
     image: food-beverage.png
@@ -102,6 +152,21 @@ pillars:
       - title: pants
       - title: shoes
       - title: accessories
+    moreguides:
+      - title: Apparel Shipping
+        url: /industries/apparel/
+      - title: Vendor Compliance Program for Retail
+        url: /posts/what-is-a-vendor-compliance-program-retail/
+      - title: LTL Shipping for Retail
+        url: /posts/5-key-benefits-of-ltl-shipping-for-retail-businesses
+      - title: CPG Logistics
+        url: /industries/cpg/
+      - title: Textile Logistics
+        url: /posts/textile-logistics-shipping-apparel
+      - title: Black Friday Shipping
+        url: /posts/shipping-black-friday-and-cyber-monday-key-reminders
+      - title: Electronic Item Shipping
+        url: /industries/shipping-electronics/
   - id: furniture
     image: furniture.png
     title: Furniture
@@ -118,4 +183,21 @@ pillars:
         url: /article/industry-furniture
       - title: Office Furniture
       - title: Appliances
+    moreguides:
+      - title: Shipping Furniture
+        url: /industries/shipping-furniture/
+      - title: Tips for Moving Cross-Country
+        url: /posts/tips-and-tricks-to-successfully-move-cross-country
+      - title: Affordable Furniture Shipping
+        url: /posts/how-to-make-furniture-shipping-affordable
+      - title: How to Choose a Moving Company
+        url: /posts/how-to-choose-a-moving-company
+      - title: How to Ship Appliances
+        url: /blog/appliance-shipping-how-to-ship-appliances/
+      - title: Shipping for Furniture Manufacturers
+        url: /posts/shipping-for-furniture-manufacturers-the-basics
+      - title: Choosing a Furniture Delivery Service
+        url: /posts/choose-furniture-delivery-service
+      - title: Ship Large Items Across the Country
+        url: /posts/how-to-ship-large-items
 
