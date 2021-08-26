@@ -59,7 +59,7 @@ pillars:
         title: phone
       - id: hard-drive
         title: hard drive
-      moreguides:
+    moreguides:
       - title: eCommerce Shipping Guide
         url: /posts/ecommerce-shipping-guide
       - title: CPG Logistics
