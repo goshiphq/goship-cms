@@ -3,7 +3,7 @@ pillars:
     image: freight.png
     title: Freight
     article: freight-shipping-services
-    frontend: true
+    frontpage: true
     industry: false
     examples:
       - LTL (Less than Truckload)
@@ -40,7 +40,7 @@ pillars:
     title: e-Commerce
     image: electronics.png
     article: ecommerce-shipping-solutions
-    frontend: true
+    frontpage: true
     industry: true
     examples:
       - Laptops
@@ -84,7 +84,7 @@ pillars:
     title: Industrial and Manufacturing
     image: manufacturing.png
     article: industrial%C2%A0equipment
-    frontend: true
+    frontpage: true
     industry: true
     examples:
       - Wholesale Products
@@ -126,7 +126,7 @@ pillars:
     image: food-beverage.png
     title: Food & Beverage
     article: shipping-food
-    frontend: true
+    frontpage: true
     industry: true
     examples:
       - Crops
@@ -145,7 +145,7 @@ pillars:
     title: Wholesale and Retail Trade
     image: food-beverage.png
     article: wholesale-shipping
-    frontend: true
+    frontpage: true
     industry: true
     examples:
       - Crops
@@ -181,7 +181,7 @@ pillars:
     image: furniture.png
     title: Furniture
     article: shipping-furniture
-    frontend: true
+    frontpage: true
     industry: false
     examples:
       - Office
