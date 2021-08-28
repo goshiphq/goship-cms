@@ -50,17 +50,6 @@ collections:
               - { name: "examples", label: "Examples", widget: "list" }
               - { name: "frontpage", label: "Frontpage", widget: "boolean" }
               - { name: "industry", label: "Industry", widget: "boolean" }
-              - name: "subcategories"
-                label: "Subcategory"
-                widget: "list"
-                fields:
-                  - { name: "title", label: "Title", widget: "string" }
-                  - {
-                      name: "url",
-                      label: "Destination",
-                      required: false,
-                      widget: "string",
-                    }
               - name: "moreguides"
                 label: "More Guides"
                 widget: "list"

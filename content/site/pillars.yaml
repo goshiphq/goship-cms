@@ -9,18 +9,6 @@ pillars:
       - LTL (Less than Truckload)
       - FTL (Full Truckload)
       - Logistics
-    subcategories:
-      - title: LTL
-        url: /articles/ltl-freight-shipping
-      - title: FTL
-        url: /articles/truckload-freight-shipping
-      - title: Small Business
-        url: /articles/small-business-shipping
-      - title: Large Items
-        url: /articles/large-item-shipping
-      - title: International
-        url: /articles/international-shipping
-      - title: Logistics/Transportation
     moreguides:
       - title: LTL Freight Shipping
         url: /articles/ltl-freight-shipping
@@ -47,22 +35,6 @@ pillars:
       - TVs
       - Batteries
       - LED Signage
-    subcategories:
-      - title: eCommerce Shipping Guide
-        url: /blog/ecommerce-shipping-guide
-      - title: Apparel
-      - title: Electronics
-        url: /articles/industry-shipping-electronics
-      - id: laptop
-        title: laptop
-      - id: computer
-        title: computer
-      - id: monitor
-        title: monitor
-      - id: phone
-        title: phone
-      - id: hard-drive
-        title: hard drive
     moreguides:
       - title: eCommerce Shipping Guide
         url: /posts/ecommerce-shipping-guide
@@ -91,26 +63,6 @@ pillars:
       - Machinery
       - Industrial Equipment
       - Auto Parts
-    subcategories:
-      - title: Auto Parts
-        url: /articles/industry-auto-parts
-      - title: transmission
-      - title: bumpers / fenders
-      - title: windshields / auto glass
-      - title: exhaust
-      - title: car hood
-      - title: engine
-      - title: tires
-      - title: Machinery
-        url: /articles/industry-manufacturing-equipment
-      - title: Construction
-        url: /article/industry-construction
-      - title: farm equipment transport
-      - title: excavator
-      - title: CNC Milling Machine
-      - title: backhoe
-      - title: crane
-      - title: equipment shipping calculator
     moreguides:
       - title: Construction Logistics
         url: /industries/construction/
@@ -133,7 +85,6 @@ pillars:
       - Dry Food
       - Perishable Food
       - Beverages
-    subcategories: []
     moreguides:
       - title: Produce Shipping
         url: /posts/shipping-produce-best-practices-for-produce-shipping-season
@@ -152,16 +103,6 @@ pillars:
       - Dry Food
       - Perishable Food
       - Beverages
-    subcategories:
-      - title: Apparel
-        url: /articles/industry-apparel
-      - title: industrial sewing machine
-      - title: shirts
-      - title: dresses
-      - title: coats
-      - title: pants
-      - title: shoes
-      - title: accessories
     moreguides:
       - title: Apparel Shipping
         url: /industries/apparel/
@@ -187,14 +128,6 @@ pillars:
       - Office
       - Home
       - Appliances
-    subcategories:
-      - id: PPE
-        title: PPE
-      - title: Cleaning Supplies
-      - title: Furniture
-        url: /article/industry-furniture
-      - title: Office Furniture
-      - title: Appliances
     moreguides:
       - title: Shipping Furniture
         url: /industries/shipping-furniture/
