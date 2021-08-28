@@ -48,6 +48,8 @@ collections:
               - { name: "image", label: "Image", widget: "image" }
               - { name: "article", label: "Article", widget: "string" }
               - { name: "examples", label: "Examples", widget: "list" }
+              - { name: "frontpage", label: "Frontpage", widget: "boolean" }
+              - { name: "industry", label: "Industry", widget: "boolean" }
               - name: "subcategories"
                 label: "Subcategory"
                 widget: "list"
