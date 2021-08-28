@@ -1,4 +1,68 @@
 pillars:
+  - id: apparel
+    image: freight.png
+    title: Apparel
+    article: apparel
+    frontpage: false
+    industry: true
+    examples: []
+    moreguides: []
+  - id: auto-parts
+    image: freight.png
+    title: Auto Parts
+    article: auto-parts
+    frontpage: false
+    industry: true
+    examples: []
+    moreguides: []
+  - id: construction
+    image: freight.png
+    title: Construction
+    article: construction
+    frontpage: false
+    industry: true
+    examples: []
+    moreguides: []
+  - id: cpg
+    image: consumer-goods.png
+    title: CPG
+    article: consumer-packaged-goods
+    frontpage: false
+    industry: true
+    examples: []
+    moreguides: []
+  - id: cpg
+    image: consumer-goods.png
+    title: CPG
+    article: consumer-packaged-goods
+    frontpage: false
+    industry: true
+    examples: []
+    moreguides: []
+  - id: healthcare
+    image: healthcare.png
+    title: Healthcare
+    article: healthcare
+    frontpage: false
+    industry: true
+    examples: []
+    moreguides: []
+  - id: manufacturing-equipment
+    image: manufacturing.png
+    title: Manufacturing Equipment
+    article: manufacturinge-equipment
+    frontpage: false
+    industry: true
+    examples: []
+    moreguides: []
+  - id: retail
+    image: manufacturing.png
+    title: retail
+    article: retail
+    frontpage: false
+    industry: true
+    examples: []
+    moreguides: []
   - id: freight
     image: freight.png
     title: Freight
@@ -57,7 +121,7 @@ pillars:
     image: manufacturing.png
     article: industrial%C2%A0equipment
     frontpage: true
-    industry: true
+    industry: false
     examples:
       - Wholesale Products
       - Machinery
@@ -97,7 +161,7 @@ pillars:
     image: food-beverage.png
     article: wholesale-shipping
     frontpage: true
-    industry: true
+    industry: false
     examples:
       - Crops
       - Dry Food
@@ -123,7 +187,7 @@ pillars:
     title: Furniture
     article: shipping-furniture
     frontpage: true
-    industry: false
+    industry: true
     examples:
       - Office
       - Home
