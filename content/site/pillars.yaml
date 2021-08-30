@@ -27,13 +27,11 @@ pillars:
     industry: true
     examples: []
     moreguides: []
-  - id: consumer-packaged-goods
-    image: consumer-goods.png
-    title: CPG
+  - id: electronics
+    title: Electronics
+    image: electronics.png
     frontpage: false
     industry: true
-    examples: []
-    moreguides: []
   - id: healthcare
     image: healthcare.png
     title: Healthcare
@@ -83,7 +81,7 @@ pillars:
     title: e-Commerce
     image: electronics.png
     frontpage: true
-    industry: true
+    industry: false
     examples:
       - Laptops
       - TVs
