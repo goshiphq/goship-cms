@@ -13,27 +13,6 @@ shippingservices:
     url: /quote-ltl
   - title: FTL Full Truckload Quote
     url: /quote-ftl
-industrylinks:
-  - title: Apparel
-    url: /articles/apparel
-  - title: Auto Parts
-    url: /articles/auto-parts
-  - title: Construction
-    url: /articles/construction
-  - title: CPG
-    url: /articles/consumer-packaged-goods
-  - title: Electronics
-    url: /articles/ecommerce-shipping-solutions
-  - title: Food & Beverage
-    url: /articles/shipping-food
-  - title: Furniture
-    url: /articles/shipping-furniture
-  - title: Healthcare
-    url: /articles/healthcare
-  - title: Manufacturing Equipment
-    url: /articles/manufacturinge-equipment
-  - title: Retail
-    url: /articles/retail
 resourceslinks:
   - title: About Us
     url: /about-us
