@@ -9,9 +9,9 @@ shippingservices:
     url: /shipping-services/large-item-shipping
   - title: International
     url: /shipping-services/international-shipping
-  - title: LTL Less than Truckload Quote
+  - title: LTL Quote
     url: /shipping-services/quote-ltl
-  - title: FTL Full Truckload Quote
+  - title: FTL Quote
     url: /shipping-services/quote-ftl
 resourceslinks:
   - title: About Us
