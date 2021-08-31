@@ -10,9 +10,9 @@ shippingservices:
   - title: International
     url: /articles/international-shipping
   - title: LTL Less than Truckload Quote
-    url: /quote-ltl
+    url: /articles/quote-ltl
   - title: FTL Full Truckload Quote
-    url: /quote-ftl
+    url: /articles/quote-ftl
 resourceslinks:
   - title: About Us
     url: /about-us
