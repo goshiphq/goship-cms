@@ -48,7 +48,7 @@ pillars:
     moreguides: []
   - id: retail
     image: manufacturing.png
-    title: retail
+    title: Retail
     frontpage: false
     industry: true
     examples: []
