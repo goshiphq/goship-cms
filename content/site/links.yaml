@@ -1,18 +1,18 @@
 shippingservices:
   - title: LTL Freight
-    url: /articles/ltl-freight-shipping
+    url: /shipping-services/ltl-freight-shipping
   - title: Truckload Freight
-    url: /articles/truckload-freight-shipping
+    url: /shipping-services/truckload-freight-shipping
   - title: Small Business
-    url: /articles/small-business-shipping
+    url: /shipping-services/small-business-shipping
   - title: Large Items
-    url: /articles/large-item-shipping
+    url: /shipping-services/large-item-shipping
   - title: International
-    url: /articles/international-shipping
+    url: /shipping-services/international-shipping
   - title: LTL Less than Truckload Quote
-    url: /articles/quote-ltl
+    url: /shipping-services/quote-ltl
   - title: FTL Full Truckload Quote
-    url: /articles/quote-ftl
+    url: /shipping-services/quote-ftl
 resourceslinks:
   - title: About Us
     url: /about-us
@@ -23,14 +23,14 @@ resourceslinks:
   - title: eBooks
     url: /resources/ebooks
   - title: Freight Insurance
-    url: /articles/freight-insurance
+    url: /resources/freight-insurance
   - title: Carrier Claims
     url: /claims
   - title: All-Risk Insurance Claims
-    url: /articles/filing-a-falvey-freight-claim
+    url: /resources/filing-a-falvey-freight-claim
   - title: Getting Help with TaskRabbit
-    url: /articles/get-help-with-taskrabbit
+    url: /resources/get-help-with-taskrabbit
   - title: Carriers
-    url: /articles/goship-freight-carriers
+    url: /resources/goship-freight-carriers
   - title: Partnerships
-    url: /articles/partnerships
+    url: /resources/partnerships
