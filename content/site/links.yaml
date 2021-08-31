@@ -21,9 +21,9 @@ resourceslinks:
   - title: News
     url: /news
   - title: eBooks
-    url: /#
+    url: /resources/ebooks
   - title: Freight Insurance
-    url: /#
+    url: /articles/freight-insurance
   - title: Carrier Claims
     url: /claims
   - title: All-Risk Insurance Claims
