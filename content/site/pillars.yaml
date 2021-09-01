@@ -77,7 +77,7 @@ pillars:
         url: /blog/what-is-freight-shipping/
       - title: What is a Shipping Cost Calculator?
         url: /posts/what-is-a-shipping-cost-calculator
-  - id: e-commerce
+  - id: ecommerce
     title: e-Commerce
     image: electronics.png
     frontpage: true
