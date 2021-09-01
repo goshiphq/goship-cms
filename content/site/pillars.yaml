@@ -81,7 +81,7 @@ pillars:
     title: e-Commerce
     image: electronics.png
     frontpage: true
-    industry: false
+    industry: true
     examples:
       - Laptops
       - TVs
