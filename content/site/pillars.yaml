@@ -39,20 +39,6 @@ pillars:
     industry: true
     examples: []
     moreguides: []
-  - id: manufacturing-equipment
-    image: manufacturing.png
-    title: Manufacturing Equipment
-    frontpage: false
-    industry: true
-    examples: []
-    moreguides: []
-  - id: retail
-    image: manufacturing.png
-    title: Retail
-    frontpage: false
-    industry: true
-    examples: []
-    moreguides: []
   - id: freight
     image: freight.png
     title: Freight
@@ -105,7 +91,8 @@ pillars:
       - title: Craigslist Shipping Guide
         url: /posts/all-about-craigslist-shipping
   - id: industrial-manufacturing
-    title: Industrial and Manufacturing
+    title: Manufacturing Equipment
+    fronttitle: Industrial and Manufacturing
     image: manufacturing.png
     frontpage: true
     industry: false
@@ -143,7 +130,8 @@ pillars:
       - title: Cold Shipping Best Practices
         url: /posts/best-practices-for-managing-your-cold-shipping
   - id: wholesale-retail-trade
-    title: Wholesale and Retail Trade
+    title: Retail
+    fronttitle: Wholesale and Retail Trade
     image: food-beverage.png
     frontpage: true
     industry: false
