@@ -134,7 +134,7 @@ pillars:
     fronttitle: Wholesale and Retail Trade
     image: food-beverage.png
     frontpage: true
-    industry: false
+    industry: true
     examples:
       - Crops
       - Dry Food
