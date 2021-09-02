@@ -64,7 +64,7 @@ pillars:
       - title: What is a Shipping Cost Calculator?
         url: /posts/what-is-a-shipping-cost-calculator
   - id: ecommerce
-    title: e-Commerce
+    title: Ecommerce
     image: electronics.png
     frontpage: true
     industry: true
@@ -74,7 +74,7 @@ pillars:
       - Batteries
       - LED Signage
     moreguides:
-      - title: eCommerce Shipping Guide
+      - title: Ecommerce Shipping Guide
         url: /posts/ecommerce-shipping-guide
       - title: CPG Logistics
         url: /industries/cpg/
@@ -86,7 +86,7 @@ pillars:
         url: /posts/getting-started-with-dropshipping
       - title: Small Business Shipping
         url: /shipping-services/small-business-shipping/
-      - title: Cross Border E-Commerce
+      - title: Cross Border Ecommerce
         url: /posts/cross-border-e-commerce-everything-you-need-to-know
       - title: Craigslist Shipping Guide
         url: /posts/all-about-craigslist-shipping
@@ -95,7 +95,7 @@ pillars:
     fronttitle: Industrial and Manufacturing
     image: manufacturing.png
     frontpage: true
-    industry: false
+    industry: true
     examples:
       - Wholesale Products
       - Machinery
