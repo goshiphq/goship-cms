@@ -2,7 +2,7 @@
 image: images/adobestock_332256969.jpeg
 title: "Step-by-step Guide: How to Ship Liquids"
 intro: Shipping Liquids
-postedAt: 2021-09-09T12:38:23.888Z
+postedAt: 2021-09-08T12:38:23.888Z
 ---
 <!--\[if gte mso 9]><xml>
  <w:WordDocument>
