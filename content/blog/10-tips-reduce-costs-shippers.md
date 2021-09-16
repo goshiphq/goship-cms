@@ -1,10 +1,33 @@
 ---
-title: "10 Easy Ways to Reduce Shipping Costs"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/10-tips-reduce-costs-shippers.jpg"
+keywords: shipping, freight
+author: kmagilton
+title: 10 Easy Ways to Reduce Shipping Costs
+intro: >-
+  Shipping can be a costly task that may put you off-budget, but there are ways
+  to make sure you keep your costs in check. If it’s your first time or fiftieth
+  time, we have compiled a list for you to help you reduce shipping costs to a
+  minimum. 
+
+
+  Choosing your provider
+
+  -
+
+
+  Using a reliable provider for your freight transportation is crucial to reduce shipping costs. A good provider would have a large list of carriers across the region they service. 
+
+
+  Research carriers
+
+  -
+
+
+  It is always best to understand your ca
 postedAt: 1512545426000
 news: false
-author: "kmagilton"
-intro: "Shipping can be a costly task that may put you off-budget, but there are ways to make sure you keep your costs in check. If it’s your first time or fiftieth time, we have compiled a list for you to help you reduce shipping costs to a minimum. \n\nChoosing your provider\n-\n\nUsing a reliable provider for your freight transportation is crucial to reduce shipping costs. A good provider would have a large list of carriers across the region they service. \n\nResearch carriers\n-\n\nIt is always best to understand your ca"
+description: Ways to Reduce Shipping Costs
+altText: Green piggy bank
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/10-tips-reduce-costs-shippers.jpg
 ---
 Shipping can be a [costly task](https://www.goship.com/blog/how-to-avoid-unwanted-shipping-costs/) that may put you off-budget, but there are ways to make sure you keep your costs in check. If it’s your first time or fiftieth time, we have compiled a list for you to help you reduce shipping costs to a minimum.
 
