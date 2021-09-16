@@ -27,13 +27,13 @@ The biggest concern in shipping liquids is leakage. Failing to pack your item pr
 
 Thankfully, there are many ways to ship liquids safely, and our step-by-step guide is a full-proof way for your liquids to arrive without any leaks.
 
-### [](<>)<!--\\[if !supportLists]-->1.   <!--\\[endif]-->Double-seal your items.
+### [](<>)1.   Double-seal your items.
 
 Ensure that your items have extra plastic wrapping around the lid or cap to prevent leaks.
 
 If the item doesn’t have a double seal, wrap a tough strip of tape around the lid to ensure it won’t pop off.
 
-### [](<>)<!--\\[if !supportLists]-->2.   <!--\\[endif]-->Put the item in a waterproof bag, twice!
+### [](<>)2.   Put the item in a waterproof bag, twice!
 
 If the packaging of your item fails, bagging it ensures that the liquid will remain contained, preventing damage to other packaged.
 
@@ -43,7 +43,7 @@ Fold or twist the ends with a rubber band, then cover with tape.
 
 It will be a good idea to repeat the process with a second waterproof bag.
 
-### [](<>)<!--\\[if !supportLists]-->3.   <!--\\[endif]-->Securely pack your item in a cardboard box.
+### [](<>)3.   Securely pack your item in a cardboard box.
 
 Find a cardboard box that is large enough to hold the item and packing material.
 
@@ -53,13 +53,13 @@ Set your item in the box, then fill it with enough packing material so that the 
 
 Remember to add another layer of packing material on top of the liquid!
 
-### [](<>)<!--\\[if !supportLists]-->4.   <!--\\[endif]-->Seal the box.
+### [](<>)4.   Seal the box.
 
 Make sure that the box closes entirely and that you tape over any seams with strong packing tape.
 
 Most of the time, one layer of tape isn’t enough. Use as much tape as needed until you feel confident that the box won’t burst during the shipment.
 
-### [](<>)<!--\\[if !supportLists]-->5.   <!--\\[endif]-->Label your box.
+### [](<>)5.   Label your box.
 
 Labeling your box ensures that the carrier and recipient will know how to handle the package.
 
@@ -91,4 +91,3 @@ Simply get a quotation online and book a carrier’s services.
 
 <https://expresswaycourier.com/5-tips-for-packing-and-shipping-liquids/>
 
-<!--EndFragment-->
