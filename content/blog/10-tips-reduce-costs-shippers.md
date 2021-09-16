@@ -23,7 +23,7 @@ intro: >-
 
 
   It is always best to understand your ca
-postedAt: 1512545426000
+postedAt: "1512502286000"
 news: false
 description: Ways to Reduce Shipping Costs
 altText: Green piggy bank
