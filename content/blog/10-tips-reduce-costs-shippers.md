@@ -1,5 +1,5 @@
 ---
-keywords: shipping, freight
+keywords: freight, shipping
 author: kmagilton
 title: 10 Easy Ways to Reduce Shipping Costs
 intro: >-
