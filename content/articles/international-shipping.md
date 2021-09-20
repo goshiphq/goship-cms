@@ -1,6 +1,11 @@
 ---
 title: Shipping to Canada Guide
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/international-shipping.jpg
+description: If you are a small business or an individual who ships goods
+  throughout the U.S., you have probably thought about expanding your customer
+  base to Canada. GoShip.com provides reliable international shipping services
+  to and from Canada, and can help you enter the global market smoothly!
+keywords: ltl ftl less than truckload full truckload canada international
 ---
 \*If you are a small business or an individual who ships goods throughout the U.S., you have probably thought about expanding your customer base to Canada. GoShip.com provides reliable international shipping services to and from Canada, and can help you enter the global market smoothly!
 
@@ -17,6 +22,8 @@ If you consider expanding to Canada, the first thing to think about is a seamles
 3. Fill in all of the required information about your shipment.
 4. Process the required documentation with our licensed customs broker (if you do not have one)
 5. You're all set! Stay tuned and track your shipment through GoShip.com.
+
+![truckload freight in canada](images/truckload-freight-canada.jpg "FTL and LTL freight in Canada")
 
 ## FAQs
 
