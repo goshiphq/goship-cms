@@ -13,7 +13,6 @@ keywords: how to ship an engine
 altText: engine shipping
 image: images/admin-ajax.jpg
 ---
-<!--StartFragment-->
 
 Many people are hesitant to ship engines and transmissions. They’re bulky, heavy, and irregularly shaped. They also contain potentially hazardous liquids and oils. Despite these concerns, engines are actually one of the easiest items to ship! They’re durable machines that can handle the shipping process with ease.
 
