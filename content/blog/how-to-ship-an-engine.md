@@ -74,10 +74,10 @@ Through [GoShip.com](https://www.goship.com/), you’ll find the best deals for 
 
 **Sources**
 
-<https://www.tsishipping.com/commercial/engines-transmissions>
+https://www.tsishipping.com/commercial/engines-transmissions
 
-<https://www.freightrun.com/services/oversize-load/engine-shipping>
+https://www.freightrun.com/services/oversize-load/engine-shipping
 
-<https://www.tsishipping.com/resource-center/how-do-i-ship-engines-transmissions>
+https://www.tsishipping.com/resource-center/how-do-i-ship-engines-transmissions
 
-<!--EndFragment-->
+
