@@ -31,31 +31,31 @@ If you consider expanding to Canada, the first thing to think about is a seamles
 
 Whether you are an individual shipper or a small business, there are some things you should know about shipping to and from Canada.
 
-## What documents do I need to ship to/from Canada?
+### What documents do I need to ship to/from Canada?
 
 The essential documents for both Canadian and U.S. shippers cover a commercial invoice and bill of lading. There may be other required documents depending on the type of commodity used. For the complete list of necessary paperwork and documents, click [here](https://www.cbsa-asfc.gc.ca/import/guide-eng.html).
 
-## What are freight liability policies in Canada?
+### What are freight liability policies in Canada?
 
 The carriers' freight liability is limited by Canadian law regulations to $2 CAD per pound unless there is no alternative agreement between the carrier and the shipper. Take these restrictions into consideration when calculating risks. If your shipment's declared value exceeds the limit, you should consider getting freight insurance.
 
-## How much does shipping to Canada cost?
+### How much does shipping to Canada cost?
 
 The cost of your shipment will depend on many factors like freight type, weight, dimensions, lane, etc. For certain products, shipping to Canada may be more expensive than the regular domestic shipping due to the import taxes.
 
-## Are there any extra duties and taxes for shipping to Canada?
+### Are there any extra duties and taxes for shipping to Canada?
 
 Yes. Like any country, Canada has custom taxes for imported goods. All taxes are based on the shipment's type, declared value and commodity type. Everything that exceeds $20 CAD in value is a subject of 5% duty (for some states, the duties may differ). To see all of the Canada Custom Tariffs, click [here](https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2018/menu-eng.html).
 
-## What items are prohibited for transportation to Canada?
+### What items are prohibited for transportation to Canada?
 
 Canada has a list of restricted or prohibited items for import and export, and some of them require special permits for commercial transportation. You can see the full list of prohibited goods [here](https://www.cbsa-asfc.gc.ca/publications/dm-md/d9-eng.html). Please note that our service does not provide shipping of any personal effects to Canada.
 
-## What are transit times for shipments from the U.S. to Canada?
+### What are transit times for shipments from the U.S. to Canada?
 
 Depending on the destination address and shipment type, the transit time may differ. The final shipping date is arranged with your carrier, however, it cannot be fully guaranteed due to the customer, weather conditions and other unpredictable circumstances.
 
-## Is there a stated currency for international shipping payments?
+### Is there a stated currency for international shipping payments?
 
 Yes, all of the payments are held in USD. Shippers need to have a billable U.S. address in order to process a payment.
 
