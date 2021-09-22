@@ -1,10 +1,13 @@
 ---
 title: Shipping for Small Business
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/small-business-shipping.jpg
+description: GoShip.com offers reliable, fast, small business shipping solutions
+  and services throughout the United States. Click here to book a shipment!
+keywords: shipping for small business
 ---
 *When it comes to small business shipping, many business owners are not sure where they should start. Do they need to set up shipping accounts? Work with one company, or many? What's the best solution for their company's specific needs? What are the best shipping options for small businesses? GoShip.com's extensive experience with small business shipping solutions means we can help you find the right answers for your company's needs.* 
 
-## What are the best shipping options for a small business? 
+## What are the best shipping options for a small business?
 
 Small business owners often have to wear many hats. Managing everything from the production process to the ultimate [customer experience](https://www.goship.com/blog/how-to-improve-your-customers-experience-through-shipping/) can be overwhelming. Shipping and logistics are the crucial parts of any business, whether it's small or large. For small businesses, shipping means even more, because it lets you provide a customized customer experience and retain your customers. Retailers know that their job is not done once the sale is closed. Every aspect of the interaction they have with consumers is an opportunity to impress them --- or to lose their business forever.  
 
@@ -25,6 +28,12 @@ No matter how small or big your business is, you will work with other companies 
 ### Working with a small business shipping service  
 
 Trying to manage all the branches of your business at once can turn into a nightmare. Properly managed logistics and shipping require time and effort. That's where shipping platforms come into play. Your logistics partners will handle most of the burden, like searching for better freight rates, [carriers](https://www.goship.com/blog/how-to-choose-the-right-ltl-carriers/), shipment tracking, and billing. Platforms like GoShip.com have tools for instant freight quoting, regular shipment updates, and a user-friendly interface. 
+
+
+
+![Small business owner checking shipments in warehouse](images/small-business-shipping.jpg "Small Business Shipping")
+
+
 
 ## Small business shipping solutions: why use a shipping platform? 
 
@@ -58,6 +67,12 @@ Truckload freight shipping is a convenient and most common way of shipping freig
 * Faster transit times. Since truckload trucks are dedicated to just your freight, it likely that FTL loads will reach the destination faster than LTL ones. There's no transit stops in truckload shipping, which also makes it faster.
 * Reliability. No stops during transit lead to less freight handling, which reduces the risk of freight damage, theft, or loss.
 * Costs. Although full truckload shipping is usually more expensive, if you have large volumes of freight and ship frequently, in the long run, it may be more cost-efficient than using other shipping modes. 
+
+
+
+![Small business owner reviewing recent shipments](images/small-business-shipper.jpg "Small Business Owner")
+
+
 
 ## Why choose GoShip's small business shipping service? 
 
