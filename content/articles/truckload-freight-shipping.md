@@ -1,17 +1,17 @@
 ---
 title: Truckload Freight Shipping
-image: "https://storage.googleapis.com/goshiprepo/prod/articles/images/truckload-freight-shipping.png"
+image: https://storage.googleapis.com/goshiprepo/prod/articles/images/truckload-freight-shipping.png
+description: Truckload shipping is the most common type of over-the-road freight
+  transportation. Carriers who move truckload use different equipment types.
+keywords: truckload ftl freight shipping
 ---
-
 *At GoShip.com, we make quoting truckload freight shipments simple. With our online calculating tools, you can get a list of competitive truckload shipping rates from our reliable carriers. When you're shipping truckload, you can rely on our technology, carrier network, and tailored solutions for your business.*
 
-What is Truckload Freight?
---------------------------
+## What is Truckload Freight?
 
 Full truckload freight shipping means moving freight that fills an entire truck trailer, or the majority of a trailer's space. A truckload shipment is a shipment that consists of more than 6 pallets of goods. Trailer for truckload shipping can handle up to 43,000 lbs, with an average size of 48 to 53 ft in length. Truckload shipping is the most common type of over-the-road freight transportation. Carriers who move truckload use different equipment types, including dry vans, flatbeds, and refrigerated trailers.
 
-What are the benefits of truckload freight shipping?
-----------------------------------------------------
+## What are the benefits of truckload freight shipping?
 
 ### Reliability
 
@@ -29,8 +29,13 @@ Truckload shipping has a wide coverage of trailers and modes. This means you can
 
 Usually, truckload is more expensive than LTL. However, it can be cheaper if you have heavy, high-volume loads. In that case, shipping will be a much more cost-effective option than booking several LTL shipments.
 
-What are the types of truckload freight shipping?
--------------------------------------------------
+
+
+![Woman looking out window while hauling full truckload ftl freight](images/ftl-truck-driver.jpg "FTL Freight Driver")
+
+
+
+## What are the types of truckload freight shipping?
 
 ### Dry Van Shipping
 
@@ -78,8 +83,7 @@ Height: 58 -- 62 inches
 
 Maximum capacity: 48,000 lbs
 
-What is the difference between full truckload (FTL) and less-than-truckload (LTL) shipping?
--------------------------------------------------------------------------------------------
+## What is the difference between full truckload (FTL) and less-than-truckload (LTL) shipping?
 
 The main difference between FTL and LTL shipping is that truckload shipping suggests filling an entire truck trailer with your freight, while LTL means only filling a small part of the trailer's space.
 
@@ -89,35 +93,38 @@ Additionally, there is a difference between the pricing of the two modes. LTL sh
 
 Essentially, both FTL and LTL can be beneficial for your shipment. However, it depends on many factors like freight volume, commodity type, lane, and address destination. Truckload shipping can be a better solution for shippers who move large quantities of goods since it becomes more cost-efficient in that case. With enough freight to fill in the
 
-How are truckload freight rates calculated?
--------------------------------------------
+## How are truckload freight rates calculated?
 
 Despite truckload freight rates depend on some unchangeable factors, they can be fluctuating. To understand the nature of truckload freight rates, let's take a look at the key factors that determine truckload freight rates:
 
--   Origin and destination address
--   Shipment weight and dimensions
--   Seasonality
--   Lead time and flexibility
--   Urgency
--   Fuel surcharge
--   Commodity type
--   Assecorial charges
+* Origin and destination address
+* Shipment weight and dimensions
+* Seasonality
+* Lead time and flexibility
+* Urgency
+* Fuel surcharge
+* Commodity type
+* Assecorial charges
 
 Truckload freight rates can vary not just because of the weight, but also because of spikes in seasonal capacity demand and volatile fuel prices. It's important to know that the more time you give a shipping company or the carrier to provide a freight rate, the lower it will be.
 
-Truckload shipping with GoShip.com
-----------------------------------
+
+
+![Carrier securing full truckload ftl freight in trailer](images/securing-ftl-truckload-pallet.jpg "Securing Full Truckload Freight")
+
+
+
+## Truckload shipping with GoShip.com
 
 Truckload shipping is the most commonly used shipping option. Here at GoShip.com, we make it simple with our wide network of freight carriers, instant freight quotes, and 24/7 shipment tracking.
 
--   A wide network of reliable active carrier partners
--   Instant freight quotes
--   Online shipment booking
--   Real-time tracking and tracing 24/7 through our online portal
--   Custom solutions to meet your business needs
+* A wide network of reliable active carrier partners
+* Instant freight quotes
+* Online shipment booking
+* Real-time tracking and tracing 24/7 through our online portal
+* Custom solutions to meet your business needs
 
-Why Choose GoShip.com?
-----------------------
+## Why Choose GoShip.com?
 
 With GoShip.com, the process of arranging your shipments is easy and convenient. We have long-standing relationships with thousands of reliable, experienced carriers across the country. Our self-service website makes finding the carrier that's right for you as simple as possible. We offer free quote comparisons, online booking, and tracking tools, and customizable solutions to meet your exact needs.
 
