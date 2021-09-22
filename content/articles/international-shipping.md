@@ -23,6 +23,8 @@ If you consider expanding to Canada, the first thing to think about is a seamles
 4. Process the required documentation with our licensed customs broker (if you do not have one)
 5. You're all set! Stay tuned and track your shipment through GoShip.com.
 
+
+
 ![truckload freight in canada](images/truckload-freight-canada.jpg "FTL and LTL freight in Canada")
 
 ## FAQs
