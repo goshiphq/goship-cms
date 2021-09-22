@@ -1,6 +1,10 @@
 ---
 title: Large Item Shipping
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/large-item-shipping.jpg
+description: GoShip's large item shipping allows you to ship over-sized or heavy
+  items with ease. Learn more about our shipping services and get a free quote
+  today!
+keywords: large item shipping
 ---
 *When you're shipping large items, GoShip.com can help. Our expertise and contacts in the industry ensure that you'll get a good match. We can help move your items across town or across the country fast and easy.*
 
@@ -70,6 +74,12 @@ An online shipping platform with a wide range of shipping services can be a solu
 
 The ultimate [cost](https://www.goship.com/blog/cost-to-ship-furniture/) of moving a piece of furniture depends on many factors: weight, dimensions, commodity type, lane, accessorial charges, etc. Depending on the shipment volume and the transportation method you will choose, the price can differ.
 
+
+
+![woman and man shipping large furniture](images/shipping-furniture.jpg "Shipping Furniture")
+
+
+
 ## Appliance Delivery
 
 Shipping appliances can be difficult. Most traditional shipping companies don't have the capacity or the capability to handle large appliances such as washing machines, ovens, or refrigerators. What's more, you may not have enough appliances to fill a semi-trailer. That's where GoShip.com can make shipping appliances easier for you. Our appliance shipping and delivery services provide a cost-effective, easy-to-use, and time-saving way to ship appliances where you need them the most.
@@ -101,6 +111,12 @@ If you are shipping large items sold or bought on Craigslist, parcel delivery se
 ### How LTL shipping can benefit Craigslist buyers and sellers
 
 We can pair Craigslist buyers and sellers with the carriers that best fit their budgets and schedules. With a large array of carriers to choose from, customers can rest easy. The user-friendly platform of GoShip.com takes the hassle out of the shipping process. Users can get a free quote and book their shipment from the same screen. Arranging for delivery by a trusted carrier through GoShip.com helps buyers and sellers avoid worrying about Craigslist shipping scams.
+
+
+
+![Man carrying large item up stairs](images/shipping-large-items.jpg "Large Item Shipping")
+
+
 
 ## Cross Country Items Shipping
 
