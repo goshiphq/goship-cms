@@ -1,5 +1,8 @@
 ---
-title: Auto Parts
+title: Shipping Automotive Parts | GoShip. Online Shipping Platform
+description: Whether you are a seller or buyer of automotive parts, you know
+  that shipping car parts can be difficult for the automotive industry.
+keywords: auto parts shipping
 ---
 # Auto Parts Shipping Quotes with GoShip
 
@@ -29,6 +32,12 @@ While shipping auto parts across the country can be quite costly, you can find a
 ## How long does the shipping take?
 
 Delivery times depend on the distance, shipping type, and other factors. Shipping to remote destinations can take from 5 to 14 days if your auto parts are not the only ones in the load because the driver will drop other shipments on the way. It also depends on the shipping mode: while LTL is cost-efficient, it often takes longer than FTL.
+
+
+
+![small business owner pulling inventory to ship auto parts](images/shipping-auto-parts.jpg "Shipping Auto Parts")
+
+
 
 ## How to pack auto parts before shipping?
 
