@@ -1,27 +1,32 @@
 ---
 title: Getting an LTL Quote
+description: GoShip provides instant LTL quotes at wholesale pricing with no
+  obligation to buy. Get your free quote in under 60 seconds.
+keywords: ltl quote
 ---
-
 Booking a shipment doesn’t have to be difficult, and shipping platforms like GoShip.com help simplify the process through our wide network of reputable carriers and negotiated rates. With GoShip.com’s freight class calculator, you’ll get access to the lowest LTL quote in no time!
-
-
 
 ## How to Get an LTL Freight Shipping Quote
 
 When you get an LTL freight quote from GoShip.com, you can compare freight shipping quotes online from thousands of carriers to see which rate is the best for your shipment. GoShip.com handles the payment and provides users with an online bill of lading (BOL), so you’ll never have to stress while shipping your goods. Less than truckload freight shipping doesn’t have to be difficult, so it is important to understand how to ship it in the most cost-effective and practical way. Here are **[a few tips](/blog/ltl-freight-shipping-guide/)** to help you through the LTL freight shipping process.
 
-
 ## **Why Use GoShip.com for Getting An Instant LTL Quote**
 
-*   Instant and free LTL quotes
-*   Completely online booking
-*   Self-service and no need to talk to a broker
-*   24/7 shipment tracking
-*   Shipping large and over-sized items
-*   Truckload and LTL freight shipping
-*   Responsive mobile app
-*   [Full value freight insurance](/shipping-services/freight-insurance/)
-*   [Simple shipping to and from Canada](/shipping-services/international-shipping/)
+* Instant and free LTL quotes
+* Completely online booking
+* Self-service and no need to talk to a broker
+* 24/7 shipment tracking
+* Shipping large and over-sized items
+* Truckload and LTL freight shipping
+* Responsive mobile app
+* [Full value freight insurance](/shipping-services/freight-insurance/)
+* [Simple shipping to and from Canada](/shipping-services/international-shipping/)
+
+
+
+![Woman on computer quoting ltl shipments while sitting at desk](images/quoting-ltl-shipments.jpg "Getting an LTL quote")
+
+
 
 ## **How to Get an LTL Freight Shipping Quote with GoShip.com**
 
@@ -30,7 +35,6 @@ Getting an accurate freight shipping quote online doesn’t have to be difficult
 ### Choose your shipping mode
 
 We provide both full truckload and less-than-truckload shipping, so you can choose whether your shipment needs an FTL or LTL shipping quote.
-
 
 ### Provide origin and destination information
 
@@ -47,6 +51,12 @@ With GoShip.com, you’re in control. Once you have provided all of the accurate
 ### Payment
 
 We ensure your safety and security through our secure website. We partner with [PayFabric](https://www.payfabric.com/) – a reliable and secure cloud-based payment processing platform. All credit cards are accepted with a U.S. billing address. You can be confident and have peace of mind with the secure and quick transfers on our platform!
+
+
+
+![Truck driver with ltl shipment sitting next to him](images/carrier-moving-ltl-freight.jpg "Carrier moving LTL freight")
+
+
 
 ## **Why Choose GoShip.com for an LTL Quote?**
 
@@ -69,11 +79,3 @@ Another great aspect of GoShip.com is that it’s a helpful solution for individ
 ## **Get instant LTL quotes and simple, affordable shipping!**
 
 Getting an accurate LTL freight quote for shipment has never been easier! Get your free shipping estimate right now with GoShip.com!
-
-
-
-
-
-
-
-
