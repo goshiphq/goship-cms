@@ -1,5 +1,8 @@
 ---
-title: Apparel
+title: Wholesale Clothing Shipping | Apparel Supply Chain | GoShip.com
+description: Apparel supply chain is complex and time-sensitive. It is important
+  to know how to ship wholesale clothes.
+keywords: apparel shipping
 ---
 # Wholesale Clothing Shipping & Apparel Supply Chain
 
@@ -22,6 +25,12 @@ To avoid any bottlenecks in logistics operations, it’s important to make sure 
 ### Technology
 
 Today retailers have endless opportunities to acquire new technology. In terms of shipping, there are also applications for managing and tracking shipments, and getting updates. A good textile logistics partner will usually provide an application with everything needed to manage the transportation process.
+
+
+
+![small business owner boxing and shipping apparel via ltl freight](images/shipping-apparel.jpg "Business Shipping Apparel")
+
+
 
 ## How long does it take for bulk apparel to ship?
 
