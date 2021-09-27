@@ -1,7 +1,9 @@
 ---
-title: Truckload Quote 
+title: Full Truckload Quote
+description: With GoShip, you can get full truckload quotes at wholesale pricing
+  in under 60 seconds. Compare FTL rates with no obligation to buy today.
+keywords: ftl quote
 ---
-
 ## Get an Instant Truckload Freight Quotes In a Few Clicks!
 
 Booking a shipment doesn’t have to be difficult, and shipping services like GoShip.com help simplify the process through our wide network of reputable carriers and negotiated rates. With GoShip.com’s [freight rate calculator](https://beta.goship.com), you’ll get access to instant truckload freight quotes without having to talk to a freight broker.
@@ -20,24 +22,32 @@ With GoShip.com, you can get a freight quote in no time with these three steps:
 
 We’re here to make the shipping process as simple as possible for you.
 
-*   Accessible, easy-to-use platform
-*   User profiles
-*   High visibility & shipment tracking
-*   Historical data
-*   [Freight insurance](/shipping-services/freight-insurance)
-*   International shipping
+* Accessible, easy-to-use platform
+* User profiles
+* High visibility & shipment tracking
+* Historical data
+* [Freight insurance](/shipping-services/freight-insurance)
+* International shipping
+
+
+
+![carrier and business owner reviewing ftl full truckload quotes in warehouse](images/reviewing-ftl-quotes.jpg "Getting FTL Quote")
+
+
 
 ## Get Freight Quotes with GoShip.com
 
 ### Shipment information
+
 Let us know the origin and destination city.
 
 ### Getting a freight quote
+
 Choose the truck you need, and we provide you with the list of instant freight rates.
 
 ### Payment
+
 We ensure your safety and security through our secure web browser.
 
 Get instant truckload freight quotes and simple, affordable shipping!
 Getting an accurate truckload freight quote has never been easier! Get your free shipping estimate right now with GoShip.com!
-
