@@ -5,7 +5,7 @@ intro: Freight shipping is the process of transporting goods, commodities, and
   truckload (FTL), less than truckload (LTL), international marine shipping, and
   air freight. Let’s begin!
 postedAt: "1632946193882"
-news: true
+news: false
 description: Freight shipping is the process of transporting goods and cargo by
   land, sea, or air. Learn about the different modes of freight shipping and
   their benefits.
