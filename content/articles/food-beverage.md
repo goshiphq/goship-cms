@@ -26,15 +26,17 @@ Not a small ask, but necessary in order to protect their margins. To meet these 
 
 By leveraging a freight marketplace, food shippers get a clear read on the costs and transit times and can select the right fit for their freight. GoShip offers these quotes within seconds and free of cost, so shippers can stay on schedule without waiting or eating into their budgets. 
 
- 
+
+
+![business owner packaging and weighing coffee before shipping](images/packing-and-shipping-coffee.jpg "Preparing to Ship")
+
+
 
 ### Food Shipping Services
 
 When it comes to transporting [food and beverages](https://www.goship.com/industries/food-beverage-supply-chain/), merchants are confronted by many unique and difficult challenges such as strict delivery deadlines that preserve food quality and provide grocery stores with inventory long before its expiration date. Getting ahead and staying on top of planned shipping is crucial to strengthening your food supply chain operations because of these strict deadlines. 
 
 Food and beverages that are perishable are operating on even stricter deadlines and cannot afford to withstand any disruptions in the supply chain. Perishable goods are also heavily dependent on the use of temperature-controlled transport, also known as [refrigerated or reefer vans](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/). GoShip can help implement consistent and dependable solutions for frozen foods, meats, dairy, baked goods, and other perishable foods at great rates! 
-
- 
 
 ### Shipping Frozen Food 
 
@@ -46,7 +48,11 @@ Making sure your package of frozen foods is packaged correctly is important beca
 
 At GoShip, we can help you plan a fast and easy shipping process with one of our many reliable, pre-vetted carriers to help make sure your frozen foods arrive on time and in perfect condition. Visit our [food and beverage page](https://www.goship.com/industries/food-beverage-supply-chain/) to learn more about how GoShip can help you safely ship your frozen foods, or fill out our [Get a Quote](https://www.goship.com/) form and see which providers best suit your shipping needs. 
 
- 
+
+
+![woman reviewing packaging before shipping food](images/reviewing-food-packaging-before-shipping.jpg "Shipping Perishables")
+
+
 
 ## Shipping Perishables 
 
@@ -62,15 +68,17 @@ Finally, proper warehousing is critical. Every stop for your perishable between 
 
 By planning ahead—when packaging, when selecting a carrier, when warehousing—you can ship perishables quickly and safely, maximizing your time on shelf and ability to get into consumers’ hands. 
 
- 
+
+
+![small business owners packing and preparing to ship food and beverages at table](images/business-owners-shipping-food-and-bev.jpg "Shipping Perishables")
+
+
 
 ### Shipping Meat 
 
 Food quality and extreme delivery deadlines are just some of the many challenges [food and beverage](https://www.goship.com/industries/food-beverage-supply-chain/) retailers are facing. Fast and planned shipping is what can help strengthen your entire business mechanism. Perishable products like meat require thorough supply chain planning that cannot survive any disruptions. With logistics playing such a large role in transporting temperature-sensitive shipments, GoShip can provide you with consistent and workable solutions for shipping meat and other perishables. 
 
 [Refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/) have special protection from sun and rain apart from in-built refrigeration systems. Also, there is a strict compliance policy for reefer carriers, so it is a safe and reliable way to ship meat. GoShip offers free refrigerated shipping rates for your meat supply chain! 
-
- 
 
 ### Shipping Fruit & Shipping Vegetables 
 
@@ -80,17 +88,11 @@ Packaging is also a huge factor in the safety of your fruits and vegetables. 
 
 GoShip can bridge you to the right shipper that provides safe and quick end-to-end temperature control for shipping your produce at a great price! 
 
- 
-
 ### Shipping Dairy Products 
 
 Over the past year, grocery ecommerce has become the most popular means of food shopping, prompting dairy shippers to strengthen their supply chains. Unfortunately, shipping dairy products is one of the more challenging aspects of transportation. 
 
- 
-
 When shipping dairy products, you want to select a reliable carrier because dairy is so tricky, with a proclivity to spoil and delicate packaging. Dairy shippers must prioritize finding the right carrier with a strong reliability record. That is why leveraging a freight marketplace like GoShip is the best option, because you are allowed to select a carrier that fits your needs and sets their customers and products as their top priority. 
-
- 
 
 ## Shipping Liquids 
 
@@ -106,7 +108,11 @@ Because shipping liquids carries additional risk, you should select a carrier wi
 
 Finally, you should make sure that you are falling on the right side of any carrier agreement and local laws. Many carriers will have specific requirements dependent on the contents of your liquid shipment, and most governments have laws on how certain liquids, like alcohol, are shipped. 
 
- 
+
+
+![business owner reviewing manufacturing line before shipping liquids in bottles](images/beverage-bottling.jpg "Shipping Liquids")
+
+
 
 ### Safest Way to Ship Liquids 
 
@@ -114,15 +120,11 @@ Shipping liquids require enhanced safety and planning because many liquids are p
 
 When looking for a carrier, make sure the company is compliant with the [FDA Food Safety Modernization Act](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/food-safety-modernization-act-fsma). Let GoShip help deliver liquids and beverages straight to your customer's table with our advanced transportation solutions, carrier network, tracking capabilities, and decades of experience in shipping [food and beverage](https://www.goship.com/industries/food-beverage-supply-chain/) products. 
 
- 
-
 ### Can you ship liquids to Canada? 
 
 Shipping liquids across the northern border to Canada is somewhat of a gray area. The short answer is yes, you can ship liquids to Canada, although there are a number of prohibited liquids that you are unable to ship, including (but not limited to) gasoline, nail polish and remover, perfumes that contain alcohol, alcoholic beverages, poisons, and flammable or explosive liquids. Depending on what you are shipping, even if its not prohibited, you may need a permit to ship it north of the border. 
 
 To see if the item you wish to ship is prohibited or requires a permit, check out [Canada's shipping guidances](https://inspection.canada.ca/importing-food-plants-or-animals/plant-and-plant-product-imports/airs/eng/1300127512994/1300127627409). 
-
- 
 
 ## Shipping Alcohol 
 
@@ -133,8 +135,6 @@ Shipping alcohol directly to consumers likely has legal constraints. For exampl
 Shipping alcohol tends to be more expensive than shipping most similarly sized items, so finding a reliable carrier that is affordable and trustworthy is a necessity. Using an online freight marketplace, like GoShip, allows you to run through a large list of pre-vetted carriers to find the right fit for your freight.  
 
 Overall, shipping alcohol can be an easy process if you make sure you (1) package your alcohol correctly, (2) make sure you operate within legal means to ship alcohol to its destination, and (3) choose the right carrier to ship your alcohol.  
-
- 
 
 ### Shipping Beer 
 
@@ -148,17 +148,11 @@ Once you expand to shipping beer across state lines, you must start worrying 
 
 In short, when shipping beer, follow the best practices for shipping liquid perishables, but work in close concert with your carrier and within the confines of both origin and destination laws. 
 
- 
 
-### Shipping Liquor 
 
-Safety is a primary concern when shipping spirits, so make sure to properly organize your shipping process. Many carriers accept shipments that contain alcoholic beverages, but there are some additional steps to the process. 
+![Man stocking shelves with recent wine shipment](images/business-owner-stocking-wine.jpg "Shipping Alcohol")
 
-Most carriers require labeling liquor shipments and providing proper packaging for the bottles, like double-sealing, waterproof packaging, and then boxing. We recommend you completely cover the shipment in something soft to reduce the risk of glass damage and to absorb any liquid if the bottle breaks. 
 
-Additionally, some states require you obtain a special license for shipping alcohol. Once you meet the necessary requirements, GoShip can help you [find quotes](https://www.goship.com/faq/ltl-quote/) from a wide variety of pre-vetted carriers. Final delivery requires an adult over 21 with proper identification to sign for the package, so you’ll want tight coordination between you, the recipient, and the carrier. 
-
- 
 
 ### Shipping Wine 
 
@@ -172,7 +166,13 @@ Finally, shipping wine can be more expensive compared to other goods due to�
 
 With GoShip, you can circumvent a number of these challenges. We’ll ship your wine to your customer safely and quickly through our network of over 50,000 pre-vetted carriers, and at wholesale prices, giving you the peace of mind in knowing you’ve gotten the best rates. 
 
- 
+### Shipping Liquor 
+
+Safety is a primary concern when shipping spirits, so make sure to properly organize your shipping process. Many carriers accept shipments that contain alcoholic beverages, but there are some additional steps to the process. 
+
+Most carriers require labeling liquor shipments and providing proper packaging for the bottles, like double-sealing, waterproof packaging, and then boxing. We recommend you completely cover the shipment in something soft to reduce the risk of glass damage and to absorb any liquid if the bottle breaks. 
+
+Additionally, some states require you obtain a special license for shipping alcohol. Once you meet the necessary requirements, GoShip can help you [find quotes](https://www.goship.com/faq/ltl-quote/) from a wide variety of pre-vetted carriers. Final delivery requires an adult over 21 with proper identification to sign for the package, so you’ll want tight coordination between you, the recipient, and the carrier. 
 
 ### Shipping Whiskey 
 
