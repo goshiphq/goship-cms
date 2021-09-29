@@ -1,5 +1,5 @@
 ---
-keywords: freight, shipping
+keywords: freight, shipping, costs
 author: kmagilton
 title: 10 Easy Ways to Reduce Shipping Costs
 intro: "Shipping can be a costly task that may put you off-budget, but there are
