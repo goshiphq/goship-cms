@@ -8,7 +8,7 @@ Booking a shipment doesn’t have to be difficult, and shipping platforms like G
 
 # How to Get an LTL Freight Shipping Quote
 
-When you get an LTL freight quote from GoShip, you can compare freight shipping quotes online from thousands of carriers to see which rate is the best for your shipment. GoShip handles the payment and provides users with an online bill of lading (BOL), so you’ll never have to stress while shipping your goods. Less than truckload freight shipping doesn’t have to be difficult, so it is important to understand how to ship it in the most cost-effective and practical way. Here are **[a few tips](https://www.goship.com/blog/how-to-make-ltl-shipping-easy/)** to help you through the LTL freight shipping process.
+When you get an LTL freight quote from GoShip, you can compare freight shipping quotes online from thousands of carriers to see which rate is the best for your shipment. GoShip handles the payment and provides users with an online [bill of lading](https://www.fedex.com/en-us/shipping/freight/bill-of-lading.html) (BOL), so you’ll never have to stress while shipping your goods. Less than truckload freight shipping doesn’t have to be difficult, so it is important to understand how to ship it in the most cost-effective and practical way. Here are **[a few tips](https://www.goship.com/blog/how-to-make-ltl-shipping-easy/)** to help you through the LTL freight shipping process.
 
 ## **Why Use GoShip for Getting An Instant LTL Quote**
 
