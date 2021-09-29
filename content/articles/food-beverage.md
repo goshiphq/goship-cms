@@ -1,5 +1,8 @@
 ---
-title: Shipping Food
+title: Shipping Food and Beverages | GoShip
+description: Using instant pricing and guaranteed capacity from GoShip, shipping
+  food and beverages has never been easier.
+keywords: shipping food
 ---
 ## How to Ship Food 
 
