@@ -6,7 +6,7 @@ intro: Booking your freight can be more complicated than you’d expect. Asid
   needs. In this article, you’ll learn about the most common types of freight
   transportation.
 postedAt: "1632945914633"
-news: true
+news: false
 description: Dry vans are commonly preferred due to their availability and
   price. Flatbeds are preferred for their higher maximum capacity and higher
   weight limit.
