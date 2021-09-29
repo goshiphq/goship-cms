@@ -3,7 +3,7 @@ title: 5 Considerations in Choosing an Online Shipping Company
 intro: Whether you’re a business owner or an individual shipper, choosing the
   best online shipping company for small business or online store can be tricky.
 postedAt: "1633022820000"
-news: true
+news: false
 description: Whether you’re a business owner or an individual shipper, choosing
   the best online shipping company for small business or online store can be
   tricky.
