@@ -6,7 +6,7 @@ intro: Many people are hesitant to ship engines and transmissions. They’re
   easiest items to ship! They’re durable machines that can handle the shipping
   process with ease.
 postedAt: "1632168034918"
-news: true
+news: false
 description: Learn how to securely shipping your engine with a freight carrier
   with proper packaging, documentation, and pricing in this GoShip guide
 keywords: how to ship an engine
