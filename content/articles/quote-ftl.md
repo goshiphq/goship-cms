@@ -7,19 +7,19 @@ keywords: truckload freight quotes
 ---
 # Get a Full Truckload Freight Quote in a Seconds
 
-Booking a shipment doesn’t have to be difficult, and shipping services like GoShip.com help simplify the process through our wide network of reputable carriers and negotiated rates. With GoShip.com’s [freight rate calculator](https://beta.goship.com), you’ll get access to instant truckload freight quotes without having to talk to a freight broker.
+Booking a shipment doesn’t have to be difficult, and shipping services like GoShip help simplify the process through our wide network of reputable carriers and negotiated rates. With GoShip’s [freight rate calculator](https://beta.goship.com), you’ll get access to instant truckload freight quotes without having to talk to a freight broker.
 
-When you get a freight quote from GoShip.com, you get a list of competitive rates just within a few clicks! You just choose dates and enter basic shipment information, and get an instant list of estimates. GoShip.com provides users with an online bill of lading (BOL), so you’ll never have to stress while shipping your goods. Freight shipping doesn’t have to be difficult, so we provide the simple online booking, instant quotes, and affordable shipping services.
+When you get a freight quote from GoShip, you get a list of competitive rates just within a few clicks! You just choose dates and enter basic shipment information, and get an instant list of estimates. GoShip provides users with an online [bill of lading](https://www.fedex.com/en-us/shipping/freight/bill-of-lading.html) (BOL), so you’ll never have to stress while shipping your goods. Freight shipping doesn’t have to be difficult, so we provide the simple online booking, instant quotes, and affordable shipping services.
 
 ## How do I get a freight quote?
 
-With GoShip.com, you can get a freight quote in no time with these three steps:
+With GoShip, you can get a freight quote in no time with these three steps:
 
 1. Enter the city or a ZIP code of the pickup and delivery.
-2. Choose the trailer type you need.
+2. Choose the [trailer type](https://haletrailer.com/blog/types-of-semi-trailer-axles-2/) you need.
 3. Get the list of freight rates and choose the pickup date!
 
-## Why Use GoShip.com for Getting An Instant Freight Quote?
+## Why Use GoShip for Getting An Instant Freight Quote?
 
 We’re here to make the shipping process as simple as possible for you.
 
@@ -32,7 +32,7 @@ We’re here to make the shipping process as simple as possible for you.
 
 ![carrier and business owner reviewing full truckload freight quotes in warehouse](images/reviewing-ftl-quotes.jpg "Getting full truckload freight quotes")
 
-## Get Freight Quotes with GoShip.com
+## Get Freight Quotes with GoShip
 
 ### Shipment information
 
@@ -47,4 +47,4 @@ Choose the truck you need, and we provide you with the list of instant freight r
 We ensure your safety and security through our secure web browser.
 
 Get instant truckload freight quotes and simple, affordable shipping!
-Getting an accurate truckload freight quote has never been easier! Get your free shipping estimate right now with GoShip.com!
+Getting an accurate truckload freight quote has never been easier! Get your free shipping estimate right now with GoShip!
