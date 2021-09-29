@@ -6,7 +6,7 @@ intro: Are you debating between an OEM vs. aftermarket parts for your
   time. Find out the difference between an OEM and aftermarket parts and the
   best shipping methods if you opt for OEM parts.  
 postedAt: "1632945020810"
-news: true
+news: false
 description: OEM stands for Original Equipment Manufacturer. Learn more
   about OEM parts and the best shipping methods for them in this blog.
 keywords: oem parts
