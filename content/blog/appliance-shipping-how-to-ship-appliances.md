@@ -5,7 +5,7 @@ intro: Without the use of a semitrailer, shipping appliances can be challenging.
   That is, you will be charged for space in the trailer that you will not be
   using.
 postedAt: "1633004976743"
-news: true
+news: false
 description: GoShip.com, on the other hand, makes shipping huge and small
   appliances considerably easier and less expensive than any other choice.
 keywords: appliance shipping
