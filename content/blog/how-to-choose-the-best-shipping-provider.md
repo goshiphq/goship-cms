@@ -14,7 +14,7 @@ keywords: shipping provider
 altText: Shipping provider
 image: images/shipping-provider.png
 ---
-<!--StartFragment-->
+
 
 The smooth delivery of your products is the first way to build trust and customer satisfaction. 
 
@@ -101,4 +101,3 @@ With 24/7 self-service platforms like [GoShip.com](http://goship.com/), you’
 
 <https://www.tradegecko.com/blog/supply-chain-management/choose-the-best-shipping-provider> 
 
-<!--EndFragment-->

@@ -13,7 +13,7 @@ keywords: oem parts
 altText: oem parts
 image: images/oem-parts.jpg
 ---
-<!--StartFragment-->
+
 
 Are you debating between an OEM vs. aftermarket parts for your business? Shipping OEM parts can be time-consuming, expensive, and risky. You will need to find ways on how to transport your OEM products securely and on time. Find out the difference between an OEM and aftermarket parts and the best shipping methods if you opt for OEM parts.  
 
@@ -113,4 +113,3 @@ Visit GoShip.com and get [instant online recommendations and quotes ](https:/
 
  
 
-<!--EndFragment-->

@@ -1,14 +1,14 @@
 ---
 title: "Understanding LTL and Parcel Shipping: What’s Best for My Small Business?"
-intro: s a business owner, you will need to look for a secure and economical way
-  to send your products to your customers.  Most e-commerce business owners are
-  familiar with the sky-high fees of small parcel carriers like FedEx, DHL, and
-  UPS. Don’t even get us started on sending oversized or bulky parcels!  Small
-  businesses can opt for parcel shipping or less-than-truckload (LTL) freight.
-  To figure out which method is best for your business, there are many factors
-  to consider.
-postedAt: "1632946362700"
-news: true
+intro: As a business owner, you will need to look for a secure and economical
+  way to send your products to your customers.  Most e-commerce business owners
+  are familiar with the sky-high fees of small parcel carriers like FedEx, DHL,
+  and UPS. Don’t even get us started on sending oversized or bulky
+  parcels!  Small businesses can opt for parcel shipping or less-than-truckload
+  (LTL) freight. To figure out which method is best for your business, there are
+  many factors to consider.
+postedAt: "1633004742700"
+news: false
 description: Learn about secure and economical ways to send your product to your
   customers. At GoShip, choose between LTL or Parcel shipping for your small
   business.
@@ -16,7 +16,7 @@ keywords: LTL and Parcel Shipping
 altText: parcel shipping
 image: images/understanding-ltl-and-parcel-shipping.png
 ---
-<!--StartFragment-->
+
 
 As a business owner, you will need to look for a secure and economical way to send your products to your customers.
 
@@ -106,6 +106,5 @@ All you have to do is get a quote through our self-service platform, and we’ll
 
 [Get a Quote at GoShip](https://www.goship.com/)
 
-Sources: [\[1]](https://www.redwoodlogistics.com/ltl-freight-vs-small-parcel/) [\[2]](https://freightcowboy.com/small-parcel-shipment/small-parcel-shipment-vs-ltl-when-to-use-what/) [\[3]](https://ziplinelogistics.com/blog/ltl-vs-parcel-shipping/) [\[4]](https://www.freightquote.com/blog/parcel-vs-ltl-shipping-understanding-the-key-differences/)
+Sources: [\[1]](https://www.redwoodlogistics.com/ltl-freight-vs-small-parcel/) [\[2]](https://freightcowboy.com/small-parcel-shipment/small-parcel-shipment-vs-ltl-when-to-use-what/) [\[3]](https://ziplinelogistics.com/blog/ltl-vs-parcel-shipping/) \[4]
 
-<!--EndFragment-->

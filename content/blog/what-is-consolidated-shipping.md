@@ -14,7 +14,7 @@ keywords: consolidated shipping
 altText: consolidated shipping
 image: images/what-is-consolidated-shipping.png
 ---
-<!--StartFragment-->
+
 
 As a business owner, it’s understandable if you’re always looking for the most affordable and efficient way to move your inventory.
 
@@ -85,4 +85,3 @@ GoShip.com will help you cut back on costs and enhance customer satisfaction.
 
 Sources: [\[1]](https://www.freightquote.com/blog/what-is-consolidated-shipping-and-why-is-it-important/) [\[2]](https://www.flockfreight.com/2018/04/15/7-advantages-of-freight-consolidation/)
 
-<!--EndFragment-->

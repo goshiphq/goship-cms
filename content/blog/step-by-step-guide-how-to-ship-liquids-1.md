@@ -12,7 +12,7 @@ keywords: how to ship liquids
 altText: shipping liquids
 image: images/how-to-ship-liquids.jpg
 ---
-<!--StartFragment-->
+
 
 Shipping liquids requires careful and secure packaging to avoid leaks that can ruin your item and other packages being shipped.
 
@@ -100,4 +100,3 @@ Simply get a freight quote online and book a carrier’s services.
 
 <https://expresswaycourier.com/5-tips-for-packing-and-shipping-liquids/>
 
-<!--EndFragment-->

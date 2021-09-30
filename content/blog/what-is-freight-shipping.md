@@ -13,7 +13,7 @@ keywords: freight transportation
 altText: cargo freight transportation
 image: images/what-is-freight-shipping.png
 ---
-<!--StartFragment-->
+
 
 If you’re managing a business, understanding freight shipping should be at the top of your to-do list. Since there are many different types of freight shipping, the best mode will depend on your hauling needs. In this article, familiarize yourself with: 
 
@@ -94,4 +94,3 @@ Get an instant quote through their [self-service platform](https://www.goship.c
 * <https://www.universalcargo.com/8-of-the-most-common-freight-shipping-services/> 
 * <https://www.freightquote.com/define/what-is-freight-shipping/> 
 
-<!--EndFragment-->

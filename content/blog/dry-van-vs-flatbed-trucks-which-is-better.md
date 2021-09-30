@@ -14,7 +14,7 @@ keywords: dry van vs flatbed
 altText: flatbed truck
 image: images/dry-van-vs-flatbed.jpg
 ---
-<!--StartFragment-->
+
 
 Booking your freight can be more complicated than you’d expect. Aside from looking for a reliable freight forwarder and reasonable rates, you need to figure out the best shipping option that meets your transportation needs. In this article, you’ll learn about the most common types of freight transportation. Learn about dry van vs. flatbed trucks: 
 
@@ -110,4 +110,3 @@ Booking is convenient. Simply visit the [self-service platform](https://www.gos
 
  
 
-<!--EndFragment-->

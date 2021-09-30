@@ -14,7 +14,7 @@ keywords: freight class
 altText: freight class
 image: images/freight-class.png
 ---
-<!--StartFragment-->
+
 
 Not all LTL freight is created equal. Different commodities are categorized according to freight class, and this will affect your shipping rates. To properly calculate LTL shipping costs, all cargo is categorized into 18 freight classes. This article will go over the basics of freight class, the 18 different freight classes, how freight class is computed, and why it’s important for shipments. 
 
@@ -86,4 +86,3 @@ As you can see, finding the correct LTL freight class for your shipping is compl
 
 [Get a Quote](http://goship.com/) 
 
-<!--EndFragment-->

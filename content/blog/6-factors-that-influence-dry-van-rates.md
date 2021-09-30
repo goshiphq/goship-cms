@@ -11,7 +11,6 @@ keywords: dry van rates
 altText: "dry van "
 image: images/dry-van-rates.jpg
 ---
-<!--StartFragment-->
 
 Due to its high availability, affordable rates, and versatile operations, many companies and businesses rely on dry van shipping for local and nationwide freight transportation.
 
@@ -66,4 +65,3 @@ While it’s possible to get regular updates on the US freight market conditions
 
 <https://roadlinx.com/dry-van-freight-shipping-important-facts-know/>
 
-<!--EndFragment-->

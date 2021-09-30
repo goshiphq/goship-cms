@@ -13,7 +13,7 @@ keywords: how to save on shipping costs
 altText: shipping costs
 image: images/how-to-save-on-shipping-costs.jpg
 ---
-<!--StartFragment-->
+
 
 When the bulk of your business funds go to packaging and deliveries, it might be time to reconsider reducing shipping costs to improve your profit margin. Calculating the costs of shipping expenses can be overwhelming. Businesses need to consider:
 
@@ -55,4 +55,3 @@ Finding affordable and reputable shipping carriers is arguably the most challeng
 
 [GoShip.com](http://goship.com) is a self-service platform that’s designed to offer free online quoting, easy booking, and customer support for your shipping needs. Find the best shipping rates in your area without the complicated process of haggling with a freight broker.
 
-<!--EndFragment-->

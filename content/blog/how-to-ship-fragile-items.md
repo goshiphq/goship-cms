@@ -16,7 +16,7 @@ keywords: how to ship fragile items
 altText: shipping fragile items
 image: images/how-to-ship-fragile-items.png
 ---
-<!--StartFragment-->
+
 
 Shipping can be stressful, especially if it involves fragile items! You’ll be holding your breath from the moment your package leaves your doorstep up until it reaches its final destination. Businesses are especially careful about damaged items since it’s more likely that you’ll bear the brunt of the damage. Nobody wants to deal with unhappy customers either. Delicate and fragile items, like glassware or antiques, need extra attention, so be prepared to pack and ship them properly.  Using the right packing materials, learning how to protect fragile items, and learning the best way to ship items domestically and overseas will ensure happy customers and a less stressful situation for you. 
 
@@ -76,4 +76,3 @@ Say you’ve followed all the steps to packing and securing your fragile items�
 
 [https://www.fedex.com/en-us/shipping/packing/how-to-pack/breakables.htm](https://www.fedex.com/en-us/shipping/packing/how-to-pack/breakables.html)
 
-<!--EndFragment-->

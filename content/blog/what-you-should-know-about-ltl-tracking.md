@@ -14,7 +14,7 @@ keywords: LTL tracking
 altText: LTL tracking
 image: images/ltl-tracking.png
 ---
-<!--StartFragment-->
+
 
 We’re all familiar with those handy tracking numbers that come with our online orders.  Simply enter a code, and you’ll see the whole journey of your package! Right from the moment you “add to cart” and until it reaches your doorstep. But does the same rule apply when you need to track a bigger delivery? Less than truckload (LTL) deliveries are more complicated than your average parcel shipping service.
 
@@ -66,4 +66,3 @@ Thanks to new technologies in logistics and supply chain, tracking your LTL shi
 
 <https://www.flockfreight.com/2018/05/22/how-to-track-an-ltl-shipment/> 
 
-<!--EndFragment-->

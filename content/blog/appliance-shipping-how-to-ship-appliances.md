@@ -12,7 +12,6 @@ keywords: appliance shipping
 altText: shipping appliance
 image: images/how-to-ship-appliances.jpg
 ---
-<!--StartFragment-->
 
 Without the use of a semitrailer, shipping appliances can be challenging. However, you won't be shipping enough to fill the trailer most of the time. That is, you will be charged for space in the trailer that you will not be using. Another alternative is to hire a private car to transport your appliances. This, however, can be more costly than renting a semitrailer. You'll also need to have someone from your company take time off to make the appliance delivery.
 
@@ -31,5 +30,3 @@ GoShip.com, on the other hand, makes shipping huge and small appliances consider
 ## The cheapest way of transporting appliances
 
 Finally, there are methods available to make freight transportation simple and affordable. Self-service, less-than-truckload (LTL) shipping is available through online platforms such as GoShip.com. LTL freight transportation has the advantage of only charging you for the vehicle space you actually need.
-
-<!--EndFragment-->
