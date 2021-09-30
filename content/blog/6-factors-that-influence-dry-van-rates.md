@@ -4,7 +4,7 @@ intro: You can generate major savings in your logistics operations by planning
   around the factors that influence dry van rates. Learn about the 6 main
   factors that influence the dry van rates here..
 postedAt: "1633008060780"
-news: true
+news: false
 description: Dry van rates are influenced by many factors beyond fuel prices and
   distance. Learn more in this GoShip blog.
 keywords: dry van rates
