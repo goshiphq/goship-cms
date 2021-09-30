@@ -5,7 +5,7 @@ intro: Shipping liquids requires careful and secure packaging to avoid leaks
   and expenses that come with product returns and refunds, take a look at our
   tips and tricks to ship liquids successfully.
 postedAt: "1633008453104"
-news: true
+news: false
 description: Shipping liquids requires secure packaging to avoid leaks that can
   ruin your item and other packages. Learn how to ship liquids safely here.
 keywords: how to ship liquids
