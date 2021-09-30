@@ -6,7 +6,7 @@ intro: Whether you own a small eCommerce shop or a fast-growing enterprise, you
   daunting, but it’s the first step to ensuring that you find the right
   solutions that will usher your business into the future.
 postedAt: "1633007739187"
-news: true
+news: false
 description: Whether you own a small eCommerce shop or a fast-growing
   enterprise, you will need shipping software that’ll set your business up for
   success.
