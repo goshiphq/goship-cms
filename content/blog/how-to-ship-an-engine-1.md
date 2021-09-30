@@ -7,7 +7,7 @@ intro: Many people are hesitant to ship engines and transmissions. They’re
   process with ease.  With that in mind, there are a few things you have to keep
   in mind when shipping engines, such as prepping and packing for safe shipment.
 postedAt: "1633008331652"
-news: true
+news: false
 description: Learn how to securely shipping your engine with a freight carrier
   with proper packaging, documentation, and pricing in this GoShip guide.
 keywords: how to ship an engine
