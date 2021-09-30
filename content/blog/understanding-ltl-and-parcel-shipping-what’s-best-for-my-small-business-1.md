@@ -8,7 +8,7 @@ intro: As a business owner, you will need to look for a secure and economical
   (LTL) freight. To figure out which method is best for your business, there are
   many factors to consider.
 postedAt: "1633004742700"
-news: true
+news: false
 description: Learn about secure and economical ways to send your product to your
   customers. At GoShip, choose between LTL or Parcel shipping for your small
   business.
