@@ -7,7 +7,7 @@ intro: Not all LTL freight is created equal. Different commodities are
   18 different freight classes, how freight class is computed, and why it’s
   important for shipments. 
 postedAt: "1633007543469"
-news: true
+news: false
 description: Determining your freight class can be complicated. This article
   explains the basics and how to find which class your freight falls under.
 keywords: freight class
