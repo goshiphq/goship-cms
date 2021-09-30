@@ -8,7 +8,7 @@ intro: Shipping can be stressful, especially if it involves fragile items!
   and fragile items, like glassware or antiques, need extra attention, so be
   prepared to pack and ship them properly.
 postedAt: "1633007320227"
-news: true
+news: false
 description: Shipping fragile items can be risky and worrisome. Learn some of
   the best practices for shipping fragile items and take some of that stress
   away!
