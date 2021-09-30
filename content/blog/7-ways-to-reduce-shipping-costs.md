@@ -6,7 +6,7 @@ intro: When the bulk of your business funds go to packaging and deliveries, it
   Fortunately, we’ve got some tips for eCommerce and small business owners to
   reduce shipping expenses and improve profit!
 postedAt: "1633007886706"
-news: true
+news: false
 description: Learn 7 ways to reduce shipping costs for your small business or
   ecommerce business.
 keywords: how to save on shipping costs
