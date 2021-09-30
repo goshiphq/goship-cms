@@ -7,7 +7,7 @@ intro: The smooth delivery of your products is the first way to build trust and
   article, let’s explore the factors you need to look for in a shipping
   provider.
 postedAt: "1633006949099"
-news: true
+news: false
 description: Your product is only as good as your shipper. Let’s explore the
   factors you need to look for when choosing a shipping provider.
 keywords: shipping provider
