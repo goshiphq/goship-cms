@@ -5,7 +5,7 @@ description: GoShip allows ecommerce business owners to compare LTL and FTL
   to buy.
 keywords: ecommerce shipping
 ---
-## How Ecommerce Shipping Works 
+# How Ecommerce Shipping Works 
 
 Ecommerce shipping works similarly to most industry’s shipping solutions, with a handful of caveats. The foremost of these differences is the amount of [drop shipping,](https://www.goship.com/blog/getting-started-with-dropshipping/) or when a third party takes care of some or all fulfillment needs. As a result, the ecommerce shipper doesn't need on-site inventory or a warehouse facilities, and instead they can focus attention on customer-centric needs, such as marketing and customer service. 
 
@@ -13,13 +13,13 @@ Because ecommerce businesses often start smaller than traditional brick-and-mort
 
 If you in ecommerce or considering starting an e-commerce business, logistics experts like GoShip.com will guide you to the leading freight shipping carriers in the country! You can get instant online quotes and assisted with any questions you may have at GoShip.com! 
 
-### What is Ecommerce Fulfillment? 
+## What is Ecommerce Fulfillment? 
 
 Fulfillment, or the timely replenishment of stock and on-time delivery of products to the customers, is a critical part of ecommerce operations. The process of [fulfillment](https://www.goship.com/blog/attain-better-inventory-accuracy-to-improve-order-fulfillment/) involves getting the products into your warehouse facility, presenting stock on the website, packing and forming the orders, and shipping those items to end customers.  
 
 For company of any size, a well-planned and frictionless order fulfillment ecosystem is an integral part of the business that results in customer satisfaction and retention, and ultimately increases profitability. Developing robust ecommerce fulfillment strategy is essential for your business’s success.  
 
-### Ecommerce Shipping Companies 
+## Ecommerce Shipping Companies 
 
 Throughout the COVID-19 pandemic, ecommerce skyrocketed, and buyers transitioned from paper to digital quickly to make sure they could continue to sell their product or service. With the hard shift to digital, there has been a sharp rise in the demand for quality ecommerce shipping solutions. Selecting the right shipping company for ecommerce fulfillment has never been more important. 
 
@@ -27,13 +27,9 @@ The first thing that buyers look for in shipping is expediency. The longer th
 
 The other key factor in shipping for ecommerce companies is cost. Pricing plays a major role in choosing the right shipping company for most shippers. With most of the world going digital and skyrocketing ecommerce shipping demand, GoShip's [quoting tool](https://www.goship.com/faq/ltl-quote/) helps to find the best shipping deal that best suits your budget. Whether you're looking for a quick, one-time shipment or a long-term shipping contract, GoShip can help you find the best deal for your company. 
 
-
-
 ![Ecommerce business owner reviewing shipping label before packing shoes](images/reviewing-ecommerce-shipping-label.jpg "Packing Ecommerce Order")
 
-
-
-### Shipping Costs for Ecommerce 
+## Shipping Costs for Ecommerce 
 
 Once upon a time, buyers were beholden to sellers’ whims when it came to shipping. Freight was moved on the seller’s schedule, and weeks-long delays from the moment you purchased to the moment your shipment arrived weren’t uncommon. 
 
@@ -54,11 +50,7 @@ So what do you do if your annual budget doesn't include adding a freight ec
 
 By leveraging tools like the [GoShip Get a Quote tool](https://www.goship.com/shipping-services/ltl-less-than-truckload-quote/), you can find wholesale pricing and guaranteed capacity for LTL or FTL shipments whenever and wherever you need it. In GoShip’s case, over 45,000 FTL carriers and all the major LTL networks are available, allowing you to compare rates, find the carrier that is the best fit for your freight, and protect those margins from rising buyer expectations. 
 
-
-
 ![Small business owner packing shirt to ship via ltl freight](images/ecommerce-business-owner-packing-shirt.jpg "Shipping Ecommerce Orders")
-
-
 
 ## Small Business Ecommerce
 
@@ -82,11 +74,7 @@ Small businesses or businesses just getting on their feet need to be more cost-c
 
 While GoShip can’t put cash directly in small businesses' bank accounts, we can level the playing field for small businesses by opening access to free quotes at wholesale prices from a network of 45,000 FTL carriers and all the major LTL networks. Small businesses can then work with the carrier who is right for them and their budget, without feeling the strain on their margins. 
 
-
-
-![Small business owners reviewing ecommerce orders before shipping](images/packing-ecommerce-shipping-orders.jpg "Reviewing Orders")
-
-
+![Small business owners reviewing ecommerce shipping orders](images/packing-ecommerce-shipping-orders.jpg "Reviewing Orders")
 
 ## eBay Freight Shipping 
 
@@ -112,11 +100,7 @@ When considering full truckload for the shipment of your item or items, first l
 
 At GoShip, we always set our customer's needs as our top priority. We can help with all your shipping needs with our wide variety of carriers and rates, and our trusty team of support providers. No matter if it's a one-time shipment, or you're a business selling your products to a variety of customers, at GoShip our easy [Get a Quote](https://www.goship.com/faq/ltl-quote/) feature allows people to quickly fill out a form, and receive a quote from a variety of carriers in minutes. Instead of handling shipping on your own through eBay's shipping system, let us at GoShip handle all your shipping needs and find the best rate that suits your companies or individual needs. 
 
-
-
 ![Ecommerce business owner talking on phone while packing orders](images/ecommerce-small-business-owner.jpg "Shipping eBay Orders")
-
-
 
 ## Etsy Shipping  
 
@@ -138,11 +122,7 @@ Whether you’re selling or buying items on [Etsy](https://www.etsy.com/), you 
 
 Our pricing tool lets you get an immediate estimate and compare shipping rates from multiple freight carriers in real time. All you do is fill in the information about your shipment in the online form, and the tool will calculate your estimate in seconds. It is important to give accurate data about your goods to increase the preciseness of the price estimate.  
 
-
-
 ![Ecommerce business owner packing and scanning orders amidst boxes](images/ecommerce-business-owners-shipping-freight.jpg "Shipping Etsy Orders")
-
-
 
 ## Shopify Shipping 
 
