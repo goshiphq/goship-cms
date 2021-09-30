@@ -6,7 +6,7 @@ intro: As a business owner, it’s understandable if you’re always looking for
   advantages for your shipments such as better security, consistent shipping
   schedules, and better overall business performance.
 postedAt: "1633004761658"
-news: true
+news: false
 description: Freight consolidation is one way to save on freight costs plus a
   ton of other advantages for your shipments. Learn why it’s a great choice for
   businesses of all sizes.
