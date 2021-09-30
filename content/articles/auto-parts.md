@@ -1,50 +1,79 @@
 ---
-title: Shipping Automotive Parts | GoShip. Online Shipping Platform
-description: Whether you are a seller or buyer of automotive parts, you know
-  that shipping car parts can be difficult for the automotive industry.
+title: Auto Parts Shipping Guide | GoShip
+description: Shipping auto parts is one of the most difficult tasks a shipper
+  can face. GoShip has you covered with this helpful guide.
 keywords: auto parts shipping
 ---
-# Auto Parts Shipping Quotes with GoShip
+# Auto Parts Shipping Guide
 
-Whether you are a seller or buyer of auto parts or an automotive shop business owner, you know that shipping car parts can be difficult for the automotive industry. Auto parts can range from a variety of sizes, shapes, weight, and costs. They also require careful handling and packaging to keep them protected in transit. Finding the right auto transport shipping solution and a handful of useful tips can get you to a successful shipping process.
-
-GoShip.com can help you find reliable carriers with the right equipment to ship auto parts across the country or to move auto parts. We work with local, regional and global carriers that provide full truckload, LTL, flatbed, and intermodal shipping. With our online auto transport cost calculator, you can compare shipping costs in a matter of few clicks!
-
-## How to ship auto parts across the country
-
-When it comes to shipping auto parts, there are many types of auto transport: full truckload and LTL. With GoShip, you have access to a wide selection of carriers and can choose any type of equipment you need!
-
-Ultimately, if you’re not familiar with all the intricacies of auto parts transport, it is better to turn to professionals. You can use a reliable shipping platform like GoShip, which will connect you with many professional carriers. This way, you will be able to choose from a variety of options in terms of budget and service. GoShip also helps with paperwork, tracking your shipment, getting insurance, and handling freight claims, which gives you more time to run your business.
-
-## How much does it cost to ship auto parts?
-
-The price of shipping auto parts has a very wide range and depends on many factors like destination, shipping type, season, etc. If you need to ship an object from Florida to California, it will certainly be much more expensive than shipping to a neighboring state. To best determine the cost, you have to know your shipment’s dimensions and the pick-up and delivery addresses. Here are the main factors that can affect auto shipping cost:
-
-* Destination
-* Dimensions
-* Weight
-* Type of auto transport service
-* Seasonality
-* Pick-up and delivery location
-
-While shipping auto parts across the country can be quite costly, you can find a working solution at a reasonable price with the right carrier or shipping platform. Our shipping calculator should help determine the accurate cost of shipping!
-
-## How long does the shipping take?
-
-Delivery times depend on the distance, shipping type, and other factors. Shipping to remote destinations can take from 5 to 14 days if your auto parts are not the only ones in the load because the driver will drop other shipments on the way. It also depends on the shipping mode: while LTL is cost-efficient, it often takes longer than FTL.
+Shipping auto parts can seem a complicated and time-consuming process. Yes, transporting automotive equipment requires a lot of inventory planning as well as great attention to detail. A huge variety of shapes and sizes of automotive parts are tied to a number of regulations. As an automotive business worker or owner, you are supposed to follow them while shipping this type of freight. GoShip can help both auto parts sellers and buyers find the perfect match for transporting their vehicle supplies according to all the handling and packaging requirements. We will offer you a wide variety of professional carriers which meet your shipment needs and help you to get a shipping quote for your successful auto parts transit. 
 
 
 
-![small business owner pulling inventory to ship auto parts](images/shipping-auto-parts.jpg "Shipping Auto Parts")
+![small business owner pulling inventory for shipping auto parts](images/shipping-auto-parts.jpg "Shipping Auto Parts")
 
+## How to organize auto parts shipping
 
+If you are planning to ship automotive parts, it is better to map out the process from the very beginning. The specifics of transporting auto parts can seem quite challenging, but it’s just a matter of proper planning. 
 
-## How to pack auto parts before shipping?
+First, develop a draft plan for your shipment including the target dates of pickup and dropoff, and the route you'd like to take. You will have to consider the volume of items you want to move and what size truck will be needed for transit. GoShip will help you to locate a carrier and calculate its cost in a matter of a few clicks. Follow our detailed guide to learn all the essential information about successful auto parts shipping.
 
-Auto parts are often fragile or prone to other types of damage, such as corrosion, etc. It is essential to choose the right protection if you want to save time and money on [filing freight claims](https://www.goship.com/shipping-services/ltl-freight-shipping/) later. Crates are the most reliable and common type of packaging. Stacking your items on pallets is also highly recommended since it will make the shipment easier to load and will provide decent protection during transit.
+### Auto parts transport services
 
-Disassemble any parts that can be damaged and pack them separately, and drain any liquids. You can also add additional protection, like wrapping or taping, to enhance safety. When it comes to shipping auto parts, it’s better to be safe than sorry.
+The mode of transportation you can use for shipping auto parts mostly depends on the size of your cargo and any time constraints you have. Based on these criteria, the [two most prevalent methods for shipping](https://www.goship.com/blog/what-is-the-difference-between-an-ltl-and-ftl-freight-quote/) auto parts are :
 
-## Automotive Part Transport Services
+* Full truckload (FTL) shipments use the entire truck for your freight only. FTL shipments typically provide a 48-foot trailer and can transport up to 45,000 lbs. This transit type also excludes any additional stops and delivers your cargo straight to the destination point.
+* Less than truckload (LTL) shipments share the truck with other shippers for a reduced expense. Usually, LTL shipments are limited to 20,000 lbs or up to six pallets. LTL freight often takes longer because it includes many stops for delivering other shippers’ goods.
 
-There are a variety of options when it comes to shipping automotive parts. The most common ones include [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) and [full truckload shipping](https://www.goship.com/shipping-services/truckload-freight-shipping/). Depending on the size and volume of your shipment, you can benefit from either LTL or FTL. Full truckload shipments typically fill out a 48 feet trailer and can transport up to 45,000 pounds. If you are shipping pallets or crates, LTL will typically take 1-7 pallets of freight. Use our shipping calculator and find the best options to transport your automotive parts!
+## Choosing the right container
+
+Choosing the right container is a crucial point for the safe delivery of your auto parts. If you want them to be transported safely, it is necessary to pay close attention to the [packaging](https://www.ipack.com/solutions/post/preparing-auto-parts-shipping). Each auto part will have different needs depending on its size, weight, and technical peculiarities.
+
+For example, you may choose to transport large vehicle parts in firm containers that are less likely to get damaged in any way on the road. Heavy-duty corrugated boxes may be the best choice - they are designed to provide maximum crush resistance. To set yourself up for particularly smooth shipping, you may also want to use double-wall containers. The main thing to remember is that you have to pick an appropriately sized container - there is no point in leaving extra space for small parts to shift and potentially break. 
+
+When it comes to smaller auto parts, packing gets much easier due to their lightweight and portability. You can smartly condense the auto parts into smaller spaces and avoid using any extraneous packaging; however, this rule doesn't account for fragile items that require additional special in-box fillers to prevent damage in transit. The volume of items you are shipping also impacts your packaging. If you plan to ship a large number in the same container, it is usually better to pack the auto parts individually (i.e., separate bagging) than placing them all together in a single crate. 
+
+### Protective packaging 
+
+In any case, following the protective package principle is a necessity in terms of successful auto parts shipping, no matter the size and weight of your products. That's why you'll have to decide what protective packaging will go in the box with your auto parts to provide extra security. Depending on the type of auto parts and the materials they are made of, the most popular options are:
+
+* VCI (Volatile Corrosion Inhibitors): special packaging produced to prevent vehicle details from corrosion and rust processes.
+* Foam: a substance that expands inside the package and adapts to your product's shape in order to dodge damage in transit and keep its original appearance intact.
+* Anti-static packaging: used for transporting electronic elements and blocking possible static charges in the course of transit.  
+
+To reduce the probability of crushed auto parts, you should also take note of reliable external protection. Once the items are firmly fixed inside the truck, they will be less susceptible to external factors, but we highly recommend you palletize the boxes with your automotive parts when available. Stacking items on [pallets](https://www.goship.com/blog/a-guide-to-different-types-of-shipping-pallets/) will reduce the risk of their movement inside the truck. You may also apply tape or other forms of wrapping for additional protection during transit.
+
+If you are concerned with sustainability, we recommend you evaluating [eco-friendly packaging](https://www.goship.com/blog/sustainable-strategy-eco-friendly-packaging/). 
+
+### Labeling car parts
+
+Proper labeling plays an important role in the auto parts shipping process - you can streamline your auto parts supply chain by using proper labeling. Labels serve as passports that provide a brief description of the unit such as type, model, particular directions for use, etc. Automotive parts labels perform the function of item identification as well as carrying short operational data.
+
+Labeling becomes crucial when it comes to shipping auto parts containing chemical liquids. These units should be transported much more carefully to reduce the risk of chemicals' interaction with external materials. The shortest way to label an auto part properly is to mark it with a durable sticker that includes all the necessary information.
+
+In regard to package labeling, remember: the more data you provide on the crate sticker, the less likely your load will be considered for reclassification or reweigh. 
+
+## Auto parts shipping cost
+
+The price of your automotive parts shipping depends on a range of factors. It’s important to consider all of them before starting the shipping process in order to avoid any unexpected moments:
+
+1. Distance. The destination is the most influential factor that affects the cost of your shipment. Delivering products to the neighboring state will be much cheaper in comparison to moving cross-country. 
+2. Package. Choose the proper containers that best fit your auto parts in accordance with their size, shape, weight, and fragility. Check if all the items are well-protected.
+3. Dimensions and weight. Before requesting a suitable truck, you will most likely want to estimate the overall size of your shipment. After packing the vehicle details into boxes, make sure you measure and weigh them. Keeping precise during this stage will save you from any additional charges.
+4. Transportation mode. LTL freight usually costs significantly less than FTL, as you are splitting the cost with other shippers. But, if you are in a pinch and your freight could go FTL, you may be able to deliver it faster than LTL.
+5. Seasonality. This factor can significantly contribute to the final pricing as it fluctuates throughout the year. You might experience increased costs during the [peak season](https://www.goship.com/blog/preparing-your-small-business-for-peak-shipping-season/) of shipping, or notice lower prices in the off season. Most industries have their own seasonality layered on top of fluctuations to the overall [freight market](https://www.dat.com/industry-trends/trendlines). Be prepared for abrupt changes during [the holiday period](https://www.goship.com/blog/how-to-efficiently-ship-during-the-holiday-season/). Seasonality also includes matters of weather instability - transporting auto parts in [bad weather conditions](https://www.goship.com/blog/preparing-for-hurricane-season/) will considerably raise the expenses. 
+
+Optimizing auto parts shipping expenses is one of our priorities. You can utilize our [shipping calculator tool](https://www.goship.com/) to find pricing the moment you are ready to move a shipment.
+
+## How long does auto parts shipping take?
+
+Naturally, the duration of auto parts transit heavily depends on the distance the freight is supposed to travel. Moving the load to remote locations can take anywhere from 5 to 14 days or more. When planning a shipment, you can generally get an idea of timing when quoting the shipment. However, there are some other factors to count while preparing to ship. 
+
+* Pickup and delivery location. In case these places are remote or hard to reach, it can take slightly longer to reach from points A and B. 
+* Shipping mode. If you must deliver the auto parts on a tight timeline, full truckload shipments may be preferable if you are able to make the pricing work. FTL strictly follows the route and makes no additional stops unless required. On the other hand, LTL remains much more financially moderate due to sharing the truck space (and costs) with other shippers. In terms of shipment duration, it will however take more time for the driver to pick up and drop off the other loads, potentially impacting your shipment. 
+* Accessorials. If you need some additional services such as layover, please be aware these operations will extend the duration of the shipment. They may also affect the price as they are not usually included in the delivery service. We recommend you get in touch with the carrier in advance to arrange any accessorial assistance.
+* Seasonality. How does it influence the shipment duration? First of all, the general delivery time is always conditional on traffic, which fluctuates with [peak and off seasons.](https://www.goship.com/blog/preparing-for-peak-season-shipping/) In addition, weather conditions such as hurricanes or blizzards can sometimes disrupt the entire supply chain.
+
+## Shipping auto parts with GoShip
+
+GoShip works with local, regional, and global carriers that provide full truckload and less than truckload shipping. If you are worried about [choosing a suitable carrier](https://www.goship.com/blog/what-are-the-types-of-freight-carriers/), we assist you by providing a big range of possible options.
