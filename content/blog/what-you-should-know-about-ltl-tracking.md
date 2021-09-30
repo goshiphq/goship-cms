@@ -7,7 +7,7 @@ intro: We’re all familiar with those handy tracking numbers that come with our
   delivery? Less than truckload (LTL) deliveries are more complicated than your
   average parcel shipping service.
 postedAt: "1633007124059"
-news: true
+news: false
 description: Learn how reliable LTL tracking technology can help you better
   manage your logistics system and enhance your workflow.
 keywords: LTL tracking
