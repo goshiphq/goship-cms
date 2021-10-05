@@ -6,9 +6,11 @@ description: GoShip's large item shipping allows you to ship over-sized or heavy
   today!
 keywords: large item shipping
 ---
-*When you're shipping large items, GoShip.com can help. Our expertise and contacts in the industry ensure that you'll get a good match. We can help move your items across town or across the country fast and easy.*
+# Large Item Shipping
 
-## The Benefits of Shipping Large Items with GoShip.com
+*When you're shipping large items, GoShip can help. Our expertise and contacts in the industry ensure that you'll get a good match. We can help move your items across town or across the country fast and easy.*
+
+## The Benefits of Shipping Large Items with GoShip
 
 * Free and instant [freight quotes](https://www.goship.com/)
 * [Full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) and [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) shipping options
@@ -16,7 +18,7 @@ keywords: large item shipping
 * A wide network of freight carriers
 * The self-service platform that lets you book a shipment easily within a few clicks
 
-At GoShip.com, we can help you find the right solutions for your company. We offer various price points and carrier options so you can choose what works best for your budget and timeline.
+At GoShip, we can help you find the right solutions for your company. We offer various price points and carrier options so you can choose what works best for your budget and timeline.
 
 ## How to Ship Large Items? Shipping Large Items Guide
 
@@ -38,21 +40,21 @@ The total cost of your shipment depends on many factors, like the number of ship
 
 ## What is the best way to ship large items?
 
-Shipping heavy, bulky items can be difficult --- but what are your options? If you're booking an entire trailer with a shipping service but only need a third of the space, you will pay for space you don't need. You will either have to absorb the cost of that extra space or pass it on to your customers. You could handle your large item delivery yourself. However, DIY delivery can be difficult and can take you away from what you do best: running your company. If you are a small business or sell items online as an individual, delivering items yourself is not a realistic option. GoShip.com is perfect for serving smaller businesses' and individuals' shipping needs.
+Shipping heavy, bulky items can be difficult --- but what are your options? If you're booking an entire trailer with a shipping service but only need a third of the space, you will pay for space you don't need. You will either have to absorb the cost of that extra space or pass it on to your customers. You could handle your large item delivery yourself. However, DIY delivery can be difficult and can take you away from what you do best: running your company. If you are a small business or sell items online as an individual, delivering items yourself is not a realistic option. GoShip is perfect for serving smaller businesses' and individuals' shipping needs.
 
-## Why Choose GoShip.com?
+## Why Choose GoShip?
 
-With GoShip.com, the process of arranging your shipments is easy and convenient. We have long-standing relationships with thousands of reliable, experienced carriers across the country. Our self-service website makes finding the carrier that's right for you as simple as possible. We offer free quote comparisons, online booking, and tracking tools, and customizable solutions to meet your exact needs.
+With GoShip, the process of arranging your shipments is easy and convenient. We have long-standing relationships with thousands of reliable, experienced carriers across the country. Our self-service website makes finding the carrier that's right for you as simple as possible. We offer free quote comparisons, online booking, and tracking tools, and customizable solutions to meet your exact needs.
 
 Logistics are more vital than ever for any retailer's success. With our experience, expertise, and an extensive network of carriers, we can provide the capabilities you require to keep your promises to your customers. Get a free quote today!
 
 ## Which items can you ship?
 
-With GoShip.com, you can ship any type of large items you need to, from your couch to auto parts. Here are some of the most common large-item shipping services we provide:
+With GoShip, you can ship any type of large items you need to, from your couch to auto parts. Here are some of the most common large-item shipping services we provide:
 
 ## Furniture Shipping 
 
-When shipping furniture, the cost can often be prohibitive. Especially when you're trying to work with long-distance furniture movers, standard shipping services, or trucking companies. Are you trying to organize a furniture delivery of large pieces? GoShip.com has furniture shipping options that meet your needs through our shipping services. Our professional experience and network of [freight carriers](https://www.goship.com/shipping-services/ltl-freight-shipping/) provide you with options that are cost-effective, time-saving, and easy to use.
+When shipping furniture, the cost can often be prohibitive. Especially when you're trying to work with long-distance furniture movers, standard shipping services, or trucking companies. Are you trying to organize a furniture delivery of large pieces? GoShip has furniture shipping options that meet your needs through our shipping services. Our professional experience and network of [freight carriers](https://www.goship.com/shipping-services/ltl-freight-shipping/) provide you with options that are cost-effective, time-saving, and easy to use.
 
 ### How to ship furniture?
 
@@ -74,15 +76,11 @@ An online shipping platform with a wide range of shipping services can be a solu
 
 The ultimate [cost](https://www.goship.com/blog/cost-to-ship-furniture/) of moving a piece of furniture depends on many factors: weight, dimensions, commodity type, lane, accessorial charges, etc. Depending on the shipment volume and the transportation method you will choose, the price can differ.
 
-
-
 ![woman and man shipping large furniture](images/shipping-furniture.jpg "Shipping Furniture")
-
-
 
 ## Appliance Delivery
 
-Shipping appliances can be difficult. Most traditional shipping companies don't have the capacity or the capability to handle large appliances such as washing machines, ovens, or refrigerators. What's more, you may not have enough appliances to fill a semi-trailer. That's where GoShip.com can make shipping appliances easier for you. Our appliance shipping and delivery services provide a cost-effective, easy-to-use, and time-saving way to ship appliances where you need them the most.
+Shipping appliances can be difficult. Most traditional shipping companies don't have the capacity or the capability to handle large appliances such as washing machines, ovens, or refrigerators. What's more, you may not have enough appliances to fill a semi-trailer. That's where GoShip can make shipping appliances easier for you. Our appliance shipping and delivery services provide a cost-effective, easy-to-use, and time-saving way to ship appliances where you need them the most.
 
 ### How to ship appliances?
 
@@ -98,31 +96,27 @@ Shipping appliances such as refrigerators, dishwashers, or stoves require a litt
 
 Shipping appliances can be difficult without the use of a semitrailer. However, the majority of the time, you won't be shipping enough to fill the entire trailer. Meaning, you'll be paying for space in the trailer you aren't using. Hiring a private vehicle to deliver your appliances is another option. However, this can be even more expensive than renting a semitrailer. You'll also need to have an employee take time away from your business to make the delivery.
 
-On the other hand, GoShip.com makes shipping large appliances much easier and more cost-effective than any other option you might have. When working with GoShip.com, our experienced and courteous professionals will advise you about the best options to ship your appliances, finding you the lowest possible cost through our user-friendly platforms.
+On the other hand, GoShip makes shipping large appliances much easier and more cost-effective than any other option you might have. When working with GoShip, our experienced and courteous professionals will advise you about the best options to ship your appliances, finding you the lowest possible cost through our user-friendly platforms.
 
 ## Craigslist Shipping
 
-It's possible to buy or sell virtually anything on Craigslist, from an antique pinball table to a used car. Yet even though Craigslist makes it easy to buy or sell your items, there's still the problem of how they will get to their new owners. Not every item for sale on the Internet can fit into a cardboard box. Some of them require pallets or crates because of their size or shape. That's where the extensive carrier network behind GoShip.com can help.
+It's possible to buy or sell virtually anything on Craigslist, from an antique pinball table to a used car. Yet even though Craigslist makes it easy to buy or sell your items, there's still the problem of how they will get to their new owners. Not every item for sale on the Internet can fit into a cardboard box. Some of them require pallets or crates because of their size or shape. That's where the extensive carrier network behind GoShip can help.
 
 ### Craigslist shipping cost
 
-If you are shipping large items sold or bought on Craigslist, parcel delivery service may come up as too expensive. Your shipment cost is determined by several factors, like freight type, dimensions, weight, destination, etc. You can get a quick and [free shipping estimate](http://www.goship.com/) with GoShip.com!
+If you are shipping large items sold or bought on Craigslist, parcel delivery service may come up as too expensive. Your shipment cost is determined by several factors, like freight type, dimensions, weight, destination, etc. You can get a quick and [free shipping estimate](http://www.goship.com/) with GoShip!
 
 ### How LTL shipping can benefit Craigslist buyers and sellers
 
-We can pair Craigslist buyers and sellers with the carriers that best fit their budgets and schedules. With a large array of carriers to choose from, customers can rest easy. The user-friendly platform of GoShip.com takes the hassle out of the shipping process. Users can get a free quote and book their shipment from the same screen. Arranging for delivery by a trusted carrier through GoShip.com helps buyers and sellers avoid worrying about Craigslist shipping scams.
-
-
+We can pair Craigslist buyers and sellers with the carriers that best fit their budgets and schedules. With a large array of carriers to choose from, customers can rest easy. The user-friendly platform of GoShip takes the hassle out of the shipping process. Users can get a free quote and book their shipment from the same screen. Arranging for delivery by a trusted carrier through GoShip helps buyers and sellers avoid worrying about Craigslist shipping scams.
 
 ![Man carrying large item up stairs](images/shipping-large-items.jpg "Large Item Shipping")
 
-
-
 ## Cross Country Items Shipping
 
-It can be difficult to find a solution that fits your needs and your budget. This is especially true when you have to ship items infrequently enough.  Contacting a shipping company on a recurring basis doesn't make sense financially. When you choose to work with GoShip.com, however, we make cross-country shipping as easy and convenient for you as moving something across town.
+It can be difficult to find a solution that fits your needs and your budget. This is especially true when you have to ship items infrequently enough.  Contacting a shipping company on a recurring basis doesn't make sense financially. When you choose to work with GoShip, however, we make cross-country shipping as easy and convenient for you as moving something across town.
 
-Our cross-country shipping services will move your items across the country easily and affordable. Our longstanding relationships with the best freight carriers in North America mean that we can find the proper solution for your shipping needs. It doesn't matter if you're new to the shipping industry. You won't have to worry about anything when you choose GoShip.com.
+Our cross-country shipping services will move your items across the country easily and affordable. Our longstanding relationships with the best freight carriers in North America mean that we can find the proper solution for your shipping needs. It doesn't matter if you're new to the shipping industry. You won't have to worry about anything when you choose GoShip.
 
 ### What you need to know about cross-country freight shipping
 
@@ -131,7 +125,7 @@ Our cross-country shipping services will move your items across the country easi
 
 ### How to ship freight cross-country?
 
-GoShip.com's advanced technology and strong partnerships allow us to worry out of cross-country shipping. However, there are some simple details you should remember to make your experience even easier.
+GoShip's advanced technology and strong partnerships allow us to worry out of cross-country shipping. However, there are some simple details you should remember to make your experience even easier.
 
 When you provide us with the most accurate information about the destination, dimensions, and weight of your packages, we'll be able to select the shipping options that work best for you. We'll also be able to help you avoid delays and unexpected cost increases that can occur when information about the shipment isn't accurate.
 
