@@ -1,10 +1,12 @@
 ---
-title: Shipping for Small Business
+title: Shipping for Small Businesses
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/small-business-shipping.jpg
-description: GoShip.com offers reliable, fast, small business shipping solutions
-  and services throughout the United States. Click here to book a shipment!
+description: GoShip offers reliable, fast, small business shipping solutions and
+  services throughout the United States. Click here to book a shipment!
 keywords: shipping for small business
 ---
+# Shipping for Small Businesses
+
 *When it comes to small business shipping, many business owners are not sure where they should start. Do they need to set up shipping accounts? Work with one company, or many? What's the best solution for their company's specific needs? What are the best shipping options for small businesses? GoShip.com's extensive experience with small business shipping solutions means we can help you find the right answers for your company's needs.* 
 
 ## What are the best shipping options for a small business?
@@ -63,8 +65,6 @@ Truckload freight shipping is a convenient and most common way of shipping freig
 * Faster transit times. Since truckload trucks are dedicated to just your freight, it likely that FTL loads will reach the destination faster than LTL ones. There's no transit stops in truckload shipping, which also makes it faster.
 * Reliability. No stops during transit lead to less freight handling, which reduces the risk of freight damage, theft, or loss.
 * Costs. Although full truckload shipping is usually more expensive, if you have large volumes of freight and ship frequently, in the long run, it may be more cost-efficient than using other shipping modes. 
-
-
 
 ![Small business owner reviewing recent shipments](images/small-business-shipper.jpg "Small Business Owner")
 
