@@ -1,11 +1,11 @@
 ---
-title: "LTL Freight Shipping: What Is LTL Freight?"
+title: "LTL Freight Shipping: What Is LTL Freight? | GoShip.com"
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/ltl-freight-shipping.jpg
 description: " LTL freight shipping is a transportation method when your freight
   takes only a part of carrier's trailer. Learn what is LTL freight!"
-keywords: ltl freight shippign
+keywords: ltl freight shipping
 ---
-## LTL Freight Shipping & LTL Quotes
+# LTL Freight Shipping & LTL Quotes
 
 *Don't have time to compare thousands of quotes from LTL carriers? Let us do it for you! At GoShip.com, we make quoting [LTL freight shipments](/posts/how-to-make-ltl-shipping-easy) easier than ever with our self-service online tools. Get an instant quote and list of competitive shipping rates from our contract carriers with the touch of a button. GoShip.com helps you plan, execute, and manage your shipping needs.* 
 
@@ -25,11 +25,7 @@ LTL freight shipping is a great and cost-efficient way to move goods, but it is 
 * You can pack and load freight by yourself. LTL carriers will often expect you to have the shipment fully prepared before loading. It is highly recommended to pack and secure your freight, with you or your agent being able to help load freight into the trailer. For this service, you can get additional help with our partner -- TaskRabbit. This service offers extra hands when you need help with packaging, loading, unloading, etc.
 * You understand the time specifics of LTL freight shipping. Because LTL involves shipments from multiple shippers that ship to different destinations, it often takes longer to deliver freight. Depending on the destination and route, LTL shipping takes 2-5 days on average. 
 
-
-
 ![ltl freight driver inspecting truck](images/ltl-freight-driver.jpg "LTL Freight Carrier")
-
-
 
 ## How to ship LTL freight? 
 
@@ -78,11 +74,7 @@ An LTL freight class is a specific classification, created by [NMFTA](http://ww
 
  Mostly, it is defined by a shipment's density. This way, bigger and lighter shipments with low density will cost more to ship, than dense and heavy freight. All commodities are divided into 18 classes,  from Class 50 to Class 500, and a unique NMFC code is attached to each commodity. Freight class plays a prominent role in defining the final cost of LTL shipping. 
 
-
-
 ![ltl freight carrier loading pallet onto truck](images/ltl-freight-shipping.jpg "Preparing an LTL freight load")
-
-
 
 ## How to prepare LTL freight for shipping? 
 
@@ -106,11 +98,7 @@ Proper packaging is crucial for LTL freight shipping. LTL shipments are handled 
 
  To make the shipping process easy and fast, pack your freight accurately before loading. Use tapes and seals if needed, to keep the shipments tight, fixed, and consolidated. This will significantly reduce your chances of damage. To fully prepare your LTL shipment, we recommend referencing our [GoShip.com Packing Guide](/posts/how-to-safely-prepare-your-ltl-freight-shipment). 
 
-
-
 ![small business owner reviewing bill of lading for ltl freight](images/ltl-freight-packing-review.jpg "Reviewing LTL shipment information")
-
-
 
 ## LTL vs FTL: What is the difference between LTL shipping and FTL shipping? 
 
