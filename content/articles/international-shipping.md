@@ -1,29 +1,27 @@
 ---
-title: Shipping to Canada Guide
+title: International Shipping Guide | GoShip
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/international-shipping.jpg
 description: If you are a small business or an individual who ships goods
   throughout the U.S., you have probably thought about expanding your customer
-  base to Canada. GoShip.com provides reliable international shipping services
-  to and from Canada, and can help you enter the global market smoothly!
-keywords: ltl ftl less than truckload full truckload canada international
+  base to Canada. GoShip provides reliable international shipping services to
+  and from Canada, and can help you enter the global market smoothly!
+keywords: international shipping
 ---
-\*If you are a small business or an individual who ships goods throughout the U.S., you have probably thought about expanding your customer base to Canada. GoShip.com provides reliable international shipping services to and from Canada, and can help you enter the global market smoothly!
+\*If you are a small business or an individual who ships goods throughout the U.S., you have probably thought about expanding your customer base to Canada. GoShip provides reliable international shipping services to and from Canada, and can help you enter the global market smoothly!
 
-# Shipping to Canada Guide
+# International Shipping Guide
 
 Canada is the second-largest country in the world and is an important trade destination for many U.S. shippers. Small businesses often think of expanding shipping to Canada, and it is a perfect start to enter the global market. Nearly 60% of Canadians shop at U.S. online marketplaces, which means there are plenty of opportunities for business development.
 
-If you consider expanding to Canada, the first thing to think about is a seamless shipping platform. GoShip.com offers a wide range of shipping services across the northern border. Regardless of your shipment's size, we will move your goods to and from Canada. With our advanced technology and resources, GoShip.com makes your shipping to Canada smooth and easy.
+If you consider expanding to Canada, the first thing to think about is a seamless shipping platform. GoShip offers a wide range of [shipping services](https://www.goship.com/shipping-services/) across the northern border. Regardless of your shipment's size, we will move your goods to and from Canada. With our advanced technology and resources, GoShip makes  shipping to Canada smooth and easy.
 
 ## How to ship freight to Canada?
 
 1. Describe your shipment, including accurate information about dimensions, weight, and freight type, and declare what exactly you are shipping.
-2. Get your [free estimate](https://app.goship.com/#/landing) at GoShip.com and choose from the list of available carriers.
+2. Get your [free estimate](https://www.goship.com/shipping-services/ltl-less-than-truckload-quote/) at GoShip and choose from the list of available carriers.
 3. Fill in all of the required information about your shipment.
 4. Process the required documentation with our licensed customs broker (if you do not have one)
-5. You're all set! Stay tuned and track your shipment through GoShip.com.
-
-
+5. You're all set! Stay tuned and track your shipment through GoShip.
 
 ![truckload freight in canada](images/truckload-freight-canada.jpg "FTL and LTL freight in Canada")
 
@@ -59,7 +57,7 @@ Depending on the destination address and shipment type, the transit time may dif
 
 Yes, all of the payments are held in USD. Shippers need to have a billable U.S. address in order to process a payment.
 
-## Why Use GoShip.com for shipping to Canada?
+## Why Use GoShip for shipping to Canada?
 
 * A robust network of freight carriers throughout North America
 * Easy comparison of rates and available vehicles
@@ -68,8 +66,8 @@ Yes, all of the payments are held in USD. Shippers need to have a billable U.S. 
 * Assistance with customs documents
 * Help with customs invoice creation
 * Advanced tools for shipment visibility and tracking
-* Freight insurance available to all customers
+* [Freight insurance](https://www.goship.com/resources/freight-insurance/) available to all customers
 
-With GoShip.com, the process of arranging your shipments is easy and convenient. We have long-standing relationships with thousands of reliable, experienced carriers across the country. Our self-service website makes finding the carrier that's right for you as simple as possible. We offer free quote comparisons, online booking, and tracking tools, and customizable solutions to meet your exact needs.
+With GoShip, the process of arranging your shipments is easy and convenient. We have long-standing relationships with thousands of reliable, experienced carriers across the country. Our self-service website makes finding the carrier that's right for you as simple as possible. We offer free quote comparisons, online booking, and tracking tools, and customizable solutions to meet your exact needs.
 
 Logistics are more vital than ever for any retailer's success. With our experience, expertise and extensive network of carriers, we can provide the capabilities you require to keep your promises to your customers. Get a free quote today!
