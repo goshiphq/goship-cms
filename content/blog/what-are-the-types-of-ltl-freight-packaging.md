@@ -1,20 +1,31 @@
 ---
-title: "What are the Types of LTL Freight Packaging?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-types-of-ltl-freight-packaging.jpg"
+keywords: LTL freight packaging
+author: GoShip Admin
+title: What are the Types of LTL Freight Packaging?
+intro: Shipment security is an important aspect of the shipping process.
+  Essentially, you want your products to arrive safe and undamaged. The role of
+  freight packaging becomes even more important. Since your load is handled
+  multiple times during the transit, it is more prone to damage. According to
+  the National Motor Freight Classification, “the NMFC specifies minimum
+  packaging requirements to ensure that goods are adequately protected and can
+  be handled and stowed in a manner that is reasonably safe and practica
 postedAt: 1560920434000
-news: false
-author: "GoShip Admin"
-intro: "Shipment security is an important aspect of the shipping process. Essentially, you want your products to arrive safe and undamaged. The role of freight packaging becomes even more important. Since your load is handled multiple times during the transit, it is more prone to damage. According to the National Motor Freight Classification, “the NMFC specifies minimum packaging requirements to ensure that goods are adequately protected and can be handled and stowed in a manner that is reasonably safe and practica"
+news: true
+description: The role of LTL freight packaging becomes even more important.
+  Since your load is handled multiple times during the transit, it is more prone
+  to damage.
+altText: LTL freight packaging
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-types-of-ltl-freight-packaging.jpg
 ---
-Shipment security is an important aspect of the shipping process. Essentially, you want your products to arrive safe and undamaged. The role of freight packaging becomes even more important. Since your load is handled multiple times during the transit, it is more prone to damage. According to the [National Motor Freight Classification](http://www.nmfta.org/pages/nmfc), “t_he NMFC specifies minimum packaging requirements to ensure that goods are adequately protected and can be handled and stowed in a manner that is reasonably safe and practicable so as to withstand the normal rigors of the less-than-truckload environment.”_
+Shipment security is an important aspect of the shipping process. Essentially, you want your products to arrive safe and undamaged. The role of freight packaging becomes even more important. Since your load is handled multiple times during the transit, it is more prone to damage. 
 
-**How to prepare an LTL shipment?**
------------------------------------
+According to the [National Motor Freight Classification](http://www.nmfta.org/pages/nmfc), “t*he NMFC specifies minimum packaging requirements to ensure that goods are adequately protected and can be handled and stowed in a manner that is reasonably safe and practicable so as to withstand the normal rigors of the less-than-truckload environment.”*
+
+## **How to prepare an LTL shipment?**
 
 Usually, carriers and companies encourage shippers to palletize their freight. In particular, palletizing is the most known and common way to secure freight when shipping LTL. If you are shipping LTL, you have probably heard about the importance of packaging and palletizing. But the thing is, pallets are not the only type of LTL freight packaging. There is a long list of allowed packing types. Let’s take a look at the most important ones:
 
-**Types of LTL freight packaging**
-----------------------------------
+## **Types of LTL freight packaging**
 
 ### **Bags**
 
@@ -22,7 +33,7 @@ In the transportation industry, shippers mostly use bags for sending small parce
 
 ### **Barrels**
 
-Obviously, the barrel is a shipping unit, not a package type. But because they are sealed and secured from spilling the content, you can ship barrels via LTL. There are barrels of different shapes and sizes, and the only thing you should consider is that freight amount meets the LTL shipping limits (2-6 shipment units or not more than 15,000 - 20,000 pounds). For additional protection, you can use polymer tape to better secure the barrels.
+Obviously, the barrel is a shipping unit, not a package type. But because they are sealed and secured from spilling the content, you can ship barrels via LTL. There are barrels of different shapes and sizes, and the only thing you should consider is that the freight amount meets the LTL shipping limits (2-6 shipment units or not more than 15,000 - 20,000 pounds). For additional protection, you can use polymer tape to better secure the barrels.
 
 ### Boxes
 
@@ -34,7 +45,7 @@ Crates are wooden boxes that are almost as popular in LTL shipping as pallets. A
 
 ### **Pallets**
 
-[Pallets](https://www.plslogistics.com/blog/10-tips-for-palletizing/), or simply the wooden platforms, are the [most common type of packaging in LTL](https://www.goship.com/blog/package-vs-pallet-shipping/) freight shipping. Shippers use them to attach and secure already packaged freight. This way, the carrier can load a full trailer and avoid moving or damaging any cargo on the truck. Pallets are preferred for most of the shipments, so if you are not planning to use it, it is better to discuss packaging requirements with the shipping company or a carrier.
+[Pallets](https://www.plslogistics.com/blog/10-tips-for-palletizing/), or simply wooden platforms, are the [most common type of packaging in LTL](https://www.goship.com/blog/package-vs-pallet-shipping/) freight shipping. Shippers use them to attach and secure already packaged freight. This way, the carrier can load a full trailer and avoid moving or damaging any cargo on the truck. Pallets are preferred for most of the shipments, so if you are not planning to use them, it is better to discuss packaging requirements with the shipping company or a carrier.
 
 ### **Final thoughts**
 
