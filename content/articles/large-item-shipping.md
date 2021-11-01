@@ -56,7 +56,7 @@ With GoShip, you can ship any type of large items you need to, from your couch t
 
 When shipping furniture, the cost can often be prohibitive. Especially when you're trying to work with long-distance furniture movers, standard shipping services, or trucking companies. Are you trying to organize a furniture delivery of large pieces? GoShip has furniture shipping options that meet your needs through our shipping services. Our professional experience and network of [freight carriers](https://www.goship.com/shipping-services/ltl-freight-shipping/) provide you with options that are cost-effective, time-saving, and easy to use.
 
-### How to ship furniture?
+## How to ship furniture?
 
 Shipping furniture can be a different experience than other types of shipping. In many cases, the furniture may be able to be partially disassembled to facilitate safer and simpler shipping. Tables and chairs often have easily removable legs that allow you to pack the furniture into a smaller space. Crating may provide additional protection from bumps and shifts during shipping.
 
@@ -64,7 +64,7 @@ Adding fillers, such as customizable spray foam, can fill the voids in the furni
 
 Knowing the number of shipping units, commodity type, weight, and dimensions is necessary to get an accurate cost estimate. Collecting correct information about your furniture items will also help prevent unwanted charges and fees, that may surface if the shipment's actual sizes don't match the actual ones. It is also important for accurate billing, so providing correct shipment information is your best interest.
 
-### What is the best way to ship furniture?
+## What is the best way to ship furniture?
 
 What is the [best way of getting the furniture](https://www.goship.com/blog/the-best-way-to-ship-furniture/) to your customers? You could rent a full semi-trailer, even though your furniture will only fill a small portion of the entire load. Unfortunately, this means you'll either need to absorb the extra cost or pass it on to the customer.
 
@@ -72,7 +72,7 @@ You could load the furniture into a private vehicle to deliver. However, that wi
 
 An online shipping platform with a wide range of shipping services can be a solution. These platforms can provide both service and affordable prices.
 
-### How much does the furniture delivery cost?
+## How much does the furniture delivery cost?
 
 The ultimate [cost](https://www.goship.com/blog/cost-to-ship-furniture/) of moving a piece of furniture depends on many factors: weight, dimensions, commodity type, lane, accessorial charges, etc. Depending on the shipment volume and the transportation method you will choose, the price can differ.
 
@@ -82,7 +82,7 @@ The ultimate [cost](https://www.goship.com/blog/cost-to-ship-furniture/) of mo
 
 Shipping appliances can be difficult. Most traditional shipping companies don't have the capacity or the capability to handle large appliances such as washing machines, ovens, or refrigerators. What's more, you may not have enough appliances to fill a semi-trailer. That's where GoShip can make shipping appliances easier for you. Our appliance shipping and delivery services provide a cost-effective, easy-to-use, and time-saving way to ship appliances where you need them the most.
 
-### How to ship appliances?
+## How to ship appliances?
 
 Shipping appliances such as refrigerators, dishwashers, or stoves require a little extra care to avoid damaging them during shipping.
 
@@ -92,7 +92,7 @@ Shipping appliances such as refrigerators, dishwashers, or stoves require a litt
 * Washers and dryers should have their hoses removed and packed by themselves --- with the dryer's drum properly secured
 * All appliances with doors should have them taped and secured to avoid falling open during transit
 
-### How does appliance delivery work?
+## How does appliance delivery work?
 
 Shipping appliances can be difficult without the use of a semitrailer. However, the majority of the time, you won't be shipping enough to fill the entire trailer. Meaning, you'll be paying for space in the trailer you aren't using. Hiring a private vehicle to deliver your appliances is another option. However, this can be even more expensive than renting a semitrailer. You'll also need to have an employee take time away from your business to make the delivery.
 
@@ -102,11 +102,11 @@ On the other hand, GoShip makes shipping large appliances much easier and more c
 
 It's possible to buy or sell virtually anything on Craigslist, from an antique pinball table to a used car. Yet even though Craigslist makes it easy to buy or sell your items, there's still the problem of how they will get to their new owners. Not every item for sale on the Internet can fit into a cardboard box. Some of them require pallets or crates because of their size or shape. That's where the extensive carrier network behind GoShip can help.
 
-### Craigslist shipping cost
+## Craigslist shipping cost
 
 If you are shipping large items sold or bought on Craigslist, parcel delivery service may come up as too expensive. Your shipment cost is determined by several factors, like freight type, dimensions, weight, destination, etc. You can get a quick and [free shipping estimate](http://www.goship.com/) with GoShip!
 
-### How LTL shipping can benefit Craigslist buyers and sellers
+## How LTL shipping can benefit Craigslist buyers and sellers
 
 We can pair Craigslist buyers and sellers with the carriers that best fit their budgets and schedules. With a large array of carriers to choose from, customers can rest easy. The user-friendly platform of GoShip takes the hassle out of the shipping process. Users can get a free quote and book their shipment from the same screen. Arranging for delivery by a trusted carrier through GoShip helps buyers and sellers avoid worrying about Craigslist shipping scams.
 
@@ -118,12 +118,12 @@ It can be difficult to find a solution that fits your needs and your budget. Thi
 
 Our cross-country shipping services will move your items across the country easily and affordable. Our longstanding relationships with the best freight carriers in North America mean that we can find the proper solution for your shipping needs. It doesn't matter if you're new to the shipping industry. You won't have to worry about anything when you choose GoShip.
 
-### What you need to know about cross-country freight shipping
+## What you need to know about cross-country freight shipping
 
 * How long should I expect the move to take? A typical cross-country move should take less than a week. Generally, it takes between two and five business days, depending on how far your destination is. It's good to also understand unforeseen circumstances such as holiday or weather delays.
 * How much will cross-country shipping cost? The [cost](https://www.goship.com/blog/factors-determine-ltl-shipping-rates/) of your cross-country move will depend on the size of your shipment, the weight of your shipment, the distance traveled, and whether you need any additional services.
 
-### How to ship freight cross-country?
+## How to ship freight cross-country?
 
 GoShip's advanced technology and strong partnerships allow us to worry out of cross-country shipping. However, there are some simple details you should remember to make your experience even easier.
 
