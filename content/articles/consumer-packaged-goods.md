@@ -10,6 +10,8 @@ The rapid growth of consumer demand constantly powers the consumer packaged good
 
 However, CPG logistics remains a challenging task for manufacturers of all scales. Learn how to effectively improve your CPG delivery process. 
 
+![Woman pushing cart of consumer packaged goods](images/cpg-1.jpeg)
+
 ## What are consumer packaged goods (CPG)?
 
 CPG stands for consumer packaged goods, a term that means items used by an average consumer daily. Due to their active consumption, CPG requires regular replenishment as we easily run out of foods, beverages, or household supplies. 
@@ -51,6 +53,8 @@ High consumer demand and the inability of many transportation modes to provide t
 
 It is necessary to be aware of the strict compliance of CPG shipping. Product shortages, overages, and substitutions that sometimes occur in the process can lead to monetary fines. Shipping excess quantities attract lower penalties, however, the customer will probably not like the idea of being forced to pay for extra goods.
 
+![Woman choosing consumer packaged goods](images/cpg-4.jpeg)
+
 ## CPG supply chain strategy
 
 To avoid the range of possible risks when transporting packaged goods, it is important to develop a strong shipping strategy. To achieve this goal, you need to be well familiar with the core specifics of CPG shipment. [GoShip](https://www.goship.com/) will help you to review all the necessities of CPG logistics.
@@ -61,6 +65,8 @@ Storage of consumer packaged goods is principal for a successful shipping flow. 
 
 * **Dry goods.** As a rule, dry goods are quite easy to store, as they have a longer shelf life. That means you can use basic protection for them and thus reduce the transportation costs. Also, dry goods can be packed more compactly in the truck. Yet, certain types of dry goods will need more consideration to store them properly. For instance, dry food products have to be hidden from direct sunlight and stored with observance of temperature control. 
 * **Perishable goods.** Unlike dry goods, perishable products should be stored much more carefully. As they are meant to stay fresh after delivery, perishable goods are mostly transported in reefer trucks with a temperature regulation system. Using refrigerators will elevate any possibility of foods getting spoiled. For short delivery distances, you might think about applying diverse cooling supplies such as dry ice or insulated pads. Please note that dry ice is categorized as a hazardous material, so using it will have an influence on your freight class. 
+
+![Woman looking at consumer packaged goods](images/cpg-2.jpeg)
 
 ### CPG packaging
 
@@ -115,6 +121,8 @@ Lately, [sustainability](https://www.goship.com/blog/sustainable-strategy-eco-fr
 Replacement of materials is the key: eco-friendly alternatives can easily substitute traditional bubble wraps or packing peanuts. There are many opportunities to use craft papers or air pillows made of recycled plastic. 
 
 This will not only reduce the harmful impact on the environment but will also increase the attractiveness of your production. Besides, the manufacturing cost of sustainable materials is way lower than regular plastic packaging. 
+
+![woman looking at consumer packaged goods](images/cpg-3.jpeg)
 
 ## How to optimize the CPG supply chain
 
