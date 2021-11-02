@@ -11,6 +11,8 @@ keywords: electronics shipping
 
 The process of shipping electronic items is multicomponent and requires strong attention to detail. Whether you are an electronics manufacturer or shipper, it is crucial to be familiar with the sequence of preparing electronics for shipping. Following the successful shipping strategy will guarantee you safe and on-time delivery of electronic goods. 
 
+![Group looking at manufactured electronics](images/electronics-shipping-1.jpeg)
+
 ## What are consumer electronic goods? 
 
 Consumer electronic goods are electronic devices used for a variety of personal needs and perform functions that simplify routine tasks, such as smartphones, laptops, television, etc. Besides, certain electronics play the role of equipment for offices and other digitized workplaces. 
@@ -34,6 +36,8 @@ Tracking systems are quite simple to enable - you can just install the [QR tags 
 As shown from the experience, [shipment tracking](http://goship.com/posts/3-reasons-shipment-tracking-matters) matters to customers, especially when they are expecting the delivery of high-price products. 
 
 Real-time reporting and keeping an eye on the electronics location can considerably improve customers’ satisfaction and even provide information about any additional expenses during transit.
+
+![Woman looking at electronics in a store](images/electronics-shipping-3.jpeg)
 
 ### Electronics packaging
 
@@ -80,6 +84,8 @@ Certain electronic devices can be susceptible to the influence of electromagneti
 
 Although it may cost a little more on top of sending the parcel with electronic items, it is always best to add insurance where you can. If mistakes are made and your package is getting damaged, insurance will be cheaper than reimbursing and losing customers in the long run. GoShip.com provides a convenient [freight shipping insurance option](/resources/freight-insurance).
 
+![Logistics worker moving electronics in warehouse](images/electronics-shipping-4.png)
+
 ## How to ship electronics: Transportation of electronic goods
 
 There are different services available for shipping electronics, and the one that fits you most depends on the needs of your commodity: 
@@ -99,6 +105,8 @@ It is important to think over the consistent shipping strategy to make sure you 
 * **Distance.** The longer it is, the more time-consuming your shipment gets. Also, do not forget to include some time spent for possible traffic congestion and driver’s stops. If you want to optimize the overall time, try to expedite the route in advance to avoid long detours or unreliable pieces of a highway.
 * **Transportation mode.** Apparently, it is better to arrange a full truckload shipment for timely delivery. However, less than truckload shipments remain more affordable, so if this is the transportation mode you’ve chosen, please be aware the driver will take his time to pick up and drop off all the other goods. 
 * **Seasonality.** The delivery speed significantly slows down when the roads are loaded with many other trucks. This usually happens in terms of the [peak season](https://www.goship.com/posts/preparing-your-small-business-for-peak-shipping-season). On the other hand, in times of bad [weather conditions](https://www.goship.com/posts/preparing-for-hurricane-season), there is a bigger risk of trucks getting stuck or making repair stops. 
+
+![Employee and woman looking at electronic smartphone](images/electronics-shipping-2.jpeg)
 
 ## How much does electronics shipping cost?
 
