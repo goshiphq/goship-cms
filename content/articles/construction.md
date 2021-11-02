@@ -10,6 +10,8 @@ Logistics plays an extremely important role in the modern construction industry.
 
 A well-organized supply chain is meant to supply the construction sites with all the necessary materials and equipment in the course of the construction operations. Learn more about construction logistics organizing in our detailed guide.
 
+![Construction logistics at construction site](images/construction-logistics-1.jpeg)
+
 ## What is construction logistics? 
 
 Construction logistics represents the part of the supply chain which is responsible for providing construction sites with correct materials, equipment, and other supplies. It is also intended to deliver all the units in the right quality, quantity, and time. The objective of construction logistics is to fulfill the materials demand of a construction project until it is finished. 
@@ -36,6 +38,8 @@ If you are just planning a single shipment to a single construction site, you ca
 * **Stick to the order list.** The construction process can be unpredictable; therefore it is sometimes difficult to forecast whether all the ordered materials will be used after delivery. The best decision is to stick to the order list, yet you can make a control call before departure to verify the quantity of the units. 
 * **Organize a space onsite to unload the vehicles.** Some construction sites don't offer any designated areas to unload the delivered supplies, which can result in layovers and long delays. Dedicating a specific space to unloading is a great way to avoid potential delays upon shipment arrival.
 * **Online delivery tracking.** When booking a shipment online, you can consider using solutions that provide shipment tracking, like GoShip. They enable stakeholders to track the loads during the day and control whether the delivery will be completed on time.
+
+![Workers organizing construction logistics](images/construction-logistics-2.jpeg)
 
 ## Organization of construction logistics processes
 
@@ -65,11 +69,13 @@ While using the CCC service, you will move the required supplies to the chosen C
 
 **Construction logistics plans (CLP)** are a relatively new tool in the construction logistics market. They are supposed to provide detailed planning of your shipment including calculations of fuel consumption, waiting and unloading time as well as precise route mapping and following safety rules. Construction logistics plans can significantly optimize the work of those shippers who want to move big amounts of construction supplies.
 
-## How much does it cost to transport cinstruction supplies?
+## How much does it cost to transport construction supplies?
 
 Many factors affect the prices of construction shipping. Transportation cost depends on the size, weight, and volume of the materials you are going to move. After getting their accurate measurements, the next step is to choose the suitable truck and proper packaging method. 
 
 GoShip can help you [get a quote](https://www.goship.com/) and compare rates from a vast network of carriers in a few clicks. 
+
+![Workers at construction site with construction equipment](images/construction-logistics-3.jpeg)
 
 ## Specifics of transporting construction units 
 
