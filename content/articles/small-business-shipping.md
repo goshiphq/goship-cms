@@ -1,15 +1,16 @@
 ---
 title: Shipping for Small Businesses
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/small-business-shipping.jpg
-description: GoShip offers reliable, fast, small business shipping solutions and
-  services throughout the United States. Click here to book a shipment!
+description: GoShip offers reliable, fast, small business logistics and shipping
+  solutions and services throughout the United States. Click here to book a
+  shipment!
 keywords: shipping for small business
 ---
 # Shipping for Small Businesses
 
 *When it comes to small business shipping, many business owners are not sure where they should start. Do they need to set up shipping accounts? Work with one company, or many? What's the best solution for their company's specific needs? What are the best shipping options for small businesses? GoShip.com's extensive experience with small business shipping solutions means we can help you find the right answers for your company's needs.* 
 
-## What are the best shipping options for a small business?
+## What are the best shipping options for a small business logistics?
 
 Small business owners often have to wear many hats. Managing everything from the production process to the ultimate [customer experience](https://www.goship.com/blog/how-to-improve-your-customers-experience-through-shipping/) can be overwhelming. Shipping and logistics are the crucial parts of any business, whether it's small or large. For small businesses, shipping means even more, because it lets you provide a customized customer experience and retain your customers. Retailers know that their job is not done once the sale is closed. Every aspect of the interaction they have with consumers is an opportunity to impress them --- or to lose their business forever.  
 
@@ -33,7 +34,7 @@ Trying to manage all the branches of your business at once can turn into a night
 
 ![Small business owner checking shipments in warehouse](images/small-business-shipping.jpg "Small Business Shipping")
 
-## Small business shipping solutions: why use a shipping platform? 
+## Small business shipping solutions: why use a shipping platform for small businesses? 
 
 Many business owners don't fully understand the need to establish small business logistics, but they're crucial to your future growth. Small business shipping managers often make the mistake of assuming that their company is too small or doesn't have enough volume to negotiate for better rates for their company.  
 
