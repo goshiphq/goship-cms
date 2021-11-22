@@ -12,7 +12,6 @@ keywords: "small business logistics "
 altText: "small business logistics "
 image: images/depositphotos_100910316_xl.jpg
 ---
-<!--StartFragment-->
 
 Running a small business can be tricky, especially when you have to handle logistics on your own. So, today, we’re covering the best practices for small business logistics!
 
@@ -148,4 +147,3 @@ By allowing you to compare multiple freight carriers’ services, prices, and de
 
 [Click here to go to GoShip](http://goship.com) and get your free quotes!
 
-<!--EndFragment-->

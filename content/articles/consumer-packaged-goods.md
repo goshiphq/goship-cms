@@ -4,7 +4,6 @@ description: While companies work on new ways to retain their clients and
   enhance order fulfillment, CPG shipping strategy can be easily left out.
 keywords: cpg shipping
 ---
-<!--StartFragment-->
 
 The rapid growth of consumer demand constantly powers the consumer packaged goods industry. Nowadays, CPG suppliers have gained an opportunity to adapt their products to better meet diverse consumer needs. 
 
@@ -159,7 +158,6 @@ The price of your CPG shipment is formed following the actual weight and size of
 
 With GoShip, you can immediately get a quote and compare the rates from multiple carriers in real-time. Don’t hesitate to use our [online calculator](https://www.goship.com) tool to summarize your CPG logistics cost. 
 
-<!--EndFragment-->
 
 ![business owner shipping cpg orders on tablet](images/shipping-cpg-orders.jpg "CPG Shipping ")
 

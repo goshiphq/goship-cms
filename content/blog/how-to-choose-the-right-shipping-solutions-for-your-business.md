@@ -10,7 +10,6 @@ keywords: small business shipping services
 altText: small business shipping services
 image: images/depositphotos_210128270_xl.jpg
 ---
-<!--StartFragment-->
 
 Shipping can be the trickiest part of running a small business, and it can also be the most pricey. If you’re looking for a way to cut down on business costs, the best way is to rehaul your shipping system, from vendors to customers. Read on to find out more about shipping solutions and the best small business shipping services!
 
@@ -164,4 +163,3 @@ Finally, you can [use a freight shipping marketplace like GoShip](http://goship.
 
 Visit GoShip.com today and find the most affordable carriers that are right for your business!
 
-<!--EndFragment-->

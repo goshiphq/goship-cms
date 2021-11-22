@@ -7,7 +7,6 @@ keywords: electronics shipping
 ---
 # Electronics Shipping
 
-<!--StartFragment-->
 
 The process of shipping electronic items is multicomponent and requires strong attention to detail. Whether you are an electronics manufacturer or shipper, it is crucial to be familiar with the sequence of preparing electronics for shipping. Following the successful shipping strategy will guarantee you safe and on-time delivery of electronic goods. 
 

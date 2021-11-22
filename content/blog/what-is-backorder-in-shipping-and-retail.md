@@ -10,7 +10,6 @@ keywords: backorder
 altText: backorder
 image: images/adobestock_124131568.jpeg
 ---
-<!--StartFragment-->
 
 # What Is Backorder In Shipping and Retail?
 
@@ -78,4 +77,3 @@ GoShip.com also offers real-time automated tracking to ensure that your backorde
 
 Start fulfilling your backorders and expanding your business by getting a [free freight quote from GoShipcom.](http://goship.com)
 
-<!--EndFragment-->

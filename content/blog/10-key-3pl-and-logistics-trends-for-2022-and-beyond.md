@@ -12,7 +12,6 @@ keywords: "3PL and logistics trends "
 altText: "3PL and logistics trends "
 image: images/depositphotos_411458746_xl.jpg
 ---
-<!--StartFragment-->
 
 You may have noticed that the logistics and supply chain industry is going through a metamorphosis. 
 
@@ -129,4 +128,3 @@ Online self-service platforms allow users to get a comprehensive overview of the
 
 Get in touch with GoShip.com for a [free quote.](https://www.goship.com/)
 
-<!--EndFragment-->

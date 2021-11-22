@@ -12,7 +12,6 @@ keywords: port congestion
 altText: port congestion
 image: images/adobestock_183054997.jpeg
 ---
-<!--StartFragment-->
 
 Dealing with delayed shipments and angry customers is any business owner’s nightmare.
 
@@ -79,4 +78,3 @@ While finding the best shipping company requires a lot of research, a quick way 
 
 Visit GoShip.com to find reliable shipping companies that know how to deal with port congestion. GoShip.com offers 24/7 instant online quotations using their freight calculator.
 
-<!--EndFragment-->

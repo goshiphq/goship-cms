@@ -10,7 +10,6 @@ keywords: "supply chain trends "
 altText: supply chain trends
 image: images/depositphotos_69879725_xl.jpg
 ---
-<!--StartFragment-->
 
 Building and maintaining your supply chain is key for running a successful business. After all, you need to get quality supplies in time to satisfy and win over your customers.
 
@@ -118,4 +117,3 @@ The easiest way is to [use a freight shipping marketplace like GoShip](https://w
 
 Hurry over to [GoShip.com](https://www.goship.com/) and get your delivery quotes now!
 
-<!--EndFragment-->
