@@ -1,9 +1,9 @@
 ---
-title: Free FTL Full Truckload Freight Quotes in Seconds | GoShip
-description: With GoShip, you can get full truckload freight quotes at wholesale
+title: Free FTL Full Truckload Freight Quote in Seconds | GoShip
+description: With GoShip, you can get full truckload freight quote at wholesale
   pricing in under 60 seconds. Compare FTL rates with no obligation to buy
   today.
-keywords: truckload freight quotes
+keywords: truckload freight quote
 ---
 # Get a Full Truckload Freight Quote in a Seconds
 
@@ -19,7 +19,7 @@ With GoShip, you can get a freight quote in no time with these three steps:
 2. Choose the [trailer type](https://haletrailer.com/blog/types-of-semi-trailer-axles-2/) you need.
 3. Get the list of freight rates and choose the pickup date!
 
-## Why Use GoShip for Getting An Instant Freight Quote?
+## Why Use GoShip for Getting An Instant FTL Freight Quote?
 
 We’re here to make the shipping process as simple as possible for you.
 
@@ -32,7 +32,7 @@ We’re here to make the shipping process as simple as possible for you.
 
 ![carrier and business owner reviewing full truckload freight quotes in warehouse](images/reviewing-ftl-quotes.jpg "Getting full truckload freight quotes")
 
-## Get Freight Quotes with GoShip
+## Get Freight Quote with GoShip
 
 ### Shipment information
 
