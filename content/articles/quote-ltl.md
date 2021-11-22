@@ -1,16 +1,16 @@
 ---
-title: Compare Free LTL Freight Quotes in Seconds | GoShip
-description: GoShip provides instant LTL freight quotes at wholesale pricing
-  with no obligation to buy. Get your free quote in under 60 seconds.
+title: Compare Free LTL Freight Quote in Seconds | GoShip
+description: GoShip provides instant LTL freight quote at wholesale pricing with
+  no obligation to buy. Get your free quote in under 60 seconds.
 keywords: ltl freight quote
 ---
 Booking a shipment doesn’t have to be difficult, and shipping platforms like GoShip help simplify the process through our wide network of reputable carriers and negotiated rates. With GoShip’s freight class calculator, you’ll get access to the lowest LTL quote in no time!
 
-# How to Get LTL Freight Quotes
+# How to Get LTL Freight Quote
 
 When you get an LTL freight quote from GoShip, you can compare freight shipping quotes online from thousands of carriers to see which rate is the best for your shipment. GoShip handles the payment and provides users with an online [bill of lading](https://www.fedex.com/en-us/shipping/freight/bill-of-lading.html) (BOL), so you’ll never have to stress while shipping your goods. Less than truckload freight shipping doesn’t have to be difficult, so it is important to understand how to ship it in the most cost-effective and practical way. Here are **[a few tips](https://www.goship.com/blog/how-to-make-ltl-shipping-easy/)** to help you through the LTL freight shipping process.
 
-## **Why Use GoShip for Getting Instant LTL Freight Quotes**
+## **Why Use GoShip for Getting an Instant LTL Freight Quote**
 
 * Instant and free LTL quotes
 * Completely online booking
@@ -24,7 +24,7 @@ When you get an LTL freight quote from GoShip, you can compare freight shipping 
 
 ![Woman on computer getting an ltl freight quote for shipments sitting on desk](images/quoting-ltl-shipments.jpg "Getting an LTL freight quote")
 
-## **How to Get LTL Freight Quotes with GoShip**
+## **How to Get an LTL Freight Quote with GoShip**
 
 Getting an accurate freight shipping quote online doesn’t have to be difficult. With GoShip, you can get an LTL freight quote for shipment in no time with these easy steps:
 
@@ -40,7 +40,7 @@ Enter your zip codes along with the location types. We ship to residences, comme
 
 How many items are you shipping? What are you shipping? A couch? Three pallets of bricks? Let us know! State the number of your items, and include accurate dimensions. Also, don’t forget to provide the correct shipment weight, condition, and value. You will also have to choose the type of packaging for your freight: pallets, crates, boxes, etc. We offer additional services such as inside delivery or a lift-gate, so you can pick either of these options too!
 
-### Get the lowest LTL freight quotes with the fastest transit times
+## Get the lowest LTL freight quotes with the fastest transit times
 
 With GoShip, you’re in control. Once you have provided all of the accurate information, you will see a list of the available freight carrier, their rates, and transit times. The final rate depends on many factors, such as freight density, weight, dimensions, accessorials, freight class, etc. Choose your LTL freight quote online, and proceed to payment.
 
