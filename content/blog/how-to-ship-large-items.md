@@ -1,33 +1,35 @@
 ---
-title: "How to Ship Large Items Across the Country"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-large-items.jpg"
+keywords: Shipping large items
+author: GoShip Admin
+title: How to Ship Large Items Across the Country
+intro: "Shipping large items and packages across country may be challenging,
+  however with proper planning it is possible to ship large items across country
+  quickly. "
 postedAt: 1548219618000
 news: false
-author: "GoShip Admin"
-intro: "Shipping large and oversize packages\n-\n\nThe market today offers numerous transportation options to shippers. However, if you are a newcomer to the industry, you may find shipping prices confusing, especially when you need to ship large items. If your shipment is heavier than 70 lbs, it may be difficult to find the cheapest way to ship large packages. If you want to ship appliances, machinery, or a large volume of goods, it's likely that your shipment won’t fit into standard parcel shipping. There are many r"
+description: "Shipping large items and packages across country may be
+  challenging, however with proper planning it is possible to ship large items
+  across country quickly. "
+altText: Shipping large items
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-large-items.jpg
 ---
-Shipping large and oversize packages
-------------------------------------
+# Shipping large and oversize packages
 
 The market today offers numerous transportation options to shippers. However, if you are a newcomer to the industry, you may find shipping prices confusing, especially when you need to ship large items. If your shipment is heavier than 70 lbs, it may be difficult to find the cheapest way to ship large packages. If you want to ship appliances, machinery, or a large volume of goods, it's likely that your shipment won’t fit into standard parcel shipping. There are many reliable and affordable [shipping platforms](https://www.goship.com/blog/top-3-benefits-of-using-an-online-shipping-solution/) that can be helpful.
 
-What is a large shipment? What is the difference between parcel and freight shipping?
--------------------------------------------------------------------------------------
+## What is a large shipment? What is the difference between parcel and freight shipping?
 
 There are two main categories of shipments: parcel and freight. Large items are classified as freight since they cannot be shipped as normal packages through the mail. Are there any size limits that distinguish these two categories? Particularly, yes. For most parcel shipping services, if your shipment weighs more than 150 lbs, exceeds 108 inches in length and 165 inches in girth, it’s probably considered as freight shipment. While some parcel services do freight shipping, the price is often higher than specialized freight carriers would charge. So, if your shipment classifies as freight, it’s better to consider other options than just parcel shipping services.
 
-What is the best way to ship large and heavy items?
----------------------------------------------------
+## What is the best way to ship large and heavy items?
 
 Whenever you are thinking about a way to move items, you should begin by looking at your budget. Many people want a simple shipping solution that doesn’t require freight brokers or excessive planning. Looking at [online shipping platforms](https://www.goship.com/blog/how-small-business-benefits-from-ltl/) that offer LTL shipping can make the process easier for you. LTL lets you save money by sharing trailer space with other shippers and still getting your shipment delivered safe and on-time. Self-service shipping options can reduce the time spent on shipping arrangements. With platforms like GoShip.com, you can arrange everything online, and track your shipment 24/7.
 
-How to ship large packages?
----------------------------
+## How to ship large packages?
 
 There are many different transportation modes available for moving freight. Depending on the shipment’s volume and size, it can be moved through [two shipping modes](https://www.goship.com/blog/full-truckload-vs-less-than-truckload-what-is-the-difference/): full truckload and or less-than-truckload. The less-than-truckload (LTL) shipping mode is the most popular way to ship goods at a reasonable price. LTL suggests your items are large, yet don't require a full trailer. This allows you to share shipping costs with other shippers whose freight is combined with yours in one truckload.
 
-Here are 3 steps to successfully ship heavy items:
---------------------------------------------------
+## Here are 3 steps to successfully ship heavy items:
 
 ### Collect accurate information about the shipment
 
@@ -41,8 +43,7 @@ Online shipping services will often simplify the entire process for you. A good 
 
 Once you’ve chosen a shipping partner, provide them with all the necessary information stated above. If there are any questions or concerns, contact the company directly to manage all the details. Arrange pickup and delivery time, and you’re good to go!
 
-How much does shipping large items cost?
-----------------------------------------
+## How much does shipping large items cost?
 
 There’s no fixed price for shipping freight, as every piece is different. The final shipping cost depends on many factors, like dimensions, weight, destination, transit times, type of carrier, etc. To fully understand how much shipping large items costs, let’s go over that main factors that impact it:
 
@@ -66,12 +67,10 @@ Freight class is a special classification developed by the [National Motor Freig
 
 Obviously, mileage plays a role in determining the final shipping price. The longer the route, the more you will pay. Additionally, there is such a thing as limited access shipping, which is a location or area that is hard for the carrier to reach or to unload. This often confuses shippers because a limited access location can be a residence or another place that is considered a normal location by the shipper. You can read the list of GoShip.com’s limited locations [here](https://www.goship.com/blog/limited-access-shipping-location/). However, at GoShip.com, you can easily compare prices on our platform. You just need to enter your shipment information and the system will give you an approximate price. Please note that it’s impossible to predict a precise number. The calculator will give you a realistic rate, but not the ultimate version of it.
 
-What is the cheapest way to ship large packages?
-------------------------------------------------
+## What is the cheapest way to ship large packages?
 
 Ultimately, there are suitable options to make freight shipping simple and cost-effective. Online shipping platforms like GoShip.com offer self-service, less-than-truckload (LTL) shipping. The benefit of LTL freight transportation is that you only pay for the truck space you actually use. Additionally, we provide real-time shipment tracking and simple online freight rate comparison.
 
-Ship your large items with GoShip.com
--------------------------------------
+## Ship your large items with GoShip.com
 
 GoShip.com can help you ship large items in an affordable and quick way. You don't have to speak to brokers or wait for the price. On our platform, you just enter the shipment information and instantly compare quotes from different carriers. Once you choose your option, you're just one step away from shipping your large items! **Get a free [freight quote](https://www.goship.com/) right now!**
