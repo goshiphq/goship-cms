@@ -1,9 +1,9 @@
 ---
 title: Large Item Shipping
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/large-item-shipping.jpg
-description: GoShip's large item shipping allows you to ship over-sized or heavy
-  items with ease. Learn more about our shipping services and get a free quote
-  today!
+description: GoShip's large item shipping allows you to ship oversize or heavy
+  items and packages with ease. Learn more about our shipping services and get a
+  free quote today!
 keywords: large item shipping
 ---
 # Large Item Shipping
