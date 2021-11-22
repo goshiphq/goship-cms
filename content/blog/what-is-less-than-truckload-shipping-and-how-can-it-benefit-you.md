@@ -1,25 +1,32 @@
 ---
-title: "What is Less Than Truckload Shipping & How Can It Help You?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-less-than-truckload-shipping-and-how-can-it-benefit-you.jpg"
+keywords: less than truckload shipping
+author: mderesh
+title: What is Less Than Truckload Shipping & How Can It Help You?
+intro: >-
+  What is less than truckload shipping?
+
+  -
+
+
+  LTL (less than truckload) shipping is a shipping method where your freight takes only a part of the carrier's truck. It is one of many logistics options, but unlike many other types, it offers the best solutions for small businesses and individual shippers. The point is that you share the truck capacity with other shippers and pay only for space you actually use. LTL shipping services are just the right balance between full truckload and parcel shipping. When you cho
 postedAt: 1553058005000
 news: false
-author: "mderesh"
-intro: "What is less than truckload shipping?\n-\n\nLTL (less than truckload) shipping is a shipping method where your freight takes only a part of the carrier's truck. It is one of many logistics options, but unlike many other types, it offers the best solutions for small businesses and individual shippers. The point is that you share the truck capacity with other shippers and pay only for space you actually use. LTL shipping services are just the right balance between full truckload and parcel shipping. When you cho"
+description: LTL (less than truckload) shipping is a shipping method where your
+  freight takes only a part of the carrier's truck.
+altText: less than truckload shipping
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-less-than-truckload-shipping-and-how-can-it-benefit-you.jpg
 ---
-What is less than truckload shipping?
--------------------------------------
+# What is less than truckload shipping?
 
 LTL (less than truckload) shipping is a shipping method where your freight takes only a part of the carrier's truck. It is one of many logistics options, but unlike many other types, it offers the best solutions for [small businesses](https://www.goship.com/shipping-services/small-business-shipping/) and [individual shippers](https://www.goship.com/shipping-services/ltl-freight-shipping/). The point is that you share the truck capacity with other shippers and pay only for space you actually use. LTL shipping services are just the right balance between full truckload and parcel shipping. When you choose less than truckload, you normally don't have to spend more than is necessary for your shipments.
 
-Benefits of less than truckload shipping:
------------------------------------------
+## Benefits of less than truckload shipping:
 
-*   **No extra spending.** Statistics show that over 15 percent of FTL (full-truckload) shipments are filled on less than 55 percent.  LTL allows you to pay just for the space you use.
-*   **S****ave time****.** Since most LTL shipping is provided by third-party logistics companies or online delivery services like GoShip.com, your shipping flows faster and smoother. Self-service shipment booking lets you arrange transportation within a few clicks and get visibility into the process.
-*   **Real-time tracking.** There is no need to stress where your load is moving because professional less than truckload services allow you to track all the check-ins, stops, unloading and delivery of any shipment.
+* **No extra spending.** Statistics show that over 15 percent of FTL (full-truckload) shipments are filled on less than 55 percent.  LTL allows you to pay just for the space you use.
+* **S\*\***ave time***\*.** Since most LTL shipping is provided by third-party logistics companies or online delivery services like GoShip.com, your shipping flows faster and smoother. Self-service shipment booking lets you arrange transportation within a few clicks and get visibility into the process.
+* **Real-time tracking.** There is no need to stress where your load is moving because professional less than truckload services allow you to track all the check-ins, stops, unloading and delivery of any shipment.
 
-When should you use less than truckload shipping?
--------------------------------------------------
+## When should you use less than truckload shipping?
 
 ### **Small businesses**
 
