@@ -1,20 +1,23 @@
 ---
-title: "What is the Difference Between an LTL and FTL Freight Quote?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-the-difference-between-an-ltl-and-ftl-freight-quote.jpg"
+keywords: FTL quote, LTL quote
+author: GoShip Admin
+title: What is the Difference Between an LTL and FTL Freight Quote?
+intro: Understanding how FTL quote and LTL quote work is the key to a successful
+  shipping experience and saving your costs and time.
 postedAt: 1602047257000
 news: false
-author: "GoShip Admin"
-intro: "While full truckload (FTL) and less-than-truckload (LTL) shipping can seem similar, or even the same to newcomers in the shipping industry, there are a number of important differences between these two shipping modes. Mainly, these differences pertain to the pricing process for both modes. Understanding how FTL and LTL quotes work is the key to a successful shipping experience and saving your costs and time. \n\nWhat is the difference between FTL and LTL shipping?\n-\n\nFull truckload shipping is quite simple: t"
+description: Understanding how FTL quote and LTL quote work is the key to a
+  successful shipping experience and saving your costs and time.
+altText: FTL quote and LTL quote
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-the-difference-between-an-ltl-and-ftl-freight-quote.jpg
 ---
 While full truckload (FTL) and less-than-truckload (LTL) shipping can seem similar, or even the same to newcomers in the shipping industry, there are a number of important differences between these two shipping modes. Mainly, these differences pertain to the pricing process for both modes. Understanding how FTL and LTL quotes work is the key to a successful shipping experience and saving your costs and time.
 
-What is the difference between FTL and LTL shipping?
-----------------------------------------------------
+# What is the difference between FTL and LTL shipping?
 
 Full truckload shipping is quite simple: the business takes the entire truck trailer to move their freight. There are no in-between stops and the shipment is transported straight from point A to point B. The truck is completely dedicated to your freight. LTL shipping is when you share the truck space with other shippers. Shippers only pay for the portion of the truck their freight uses. Usually, the LTL shipment is 150lbs - 20,000lbs or 1 to 6 pallets of goods. Because many different shippers are using the same trailer, the driver makes multiple stops because many destinations are included in the route.
 
-The process of getting a quote: LTL vs FTL
-------------------------------------------
+## The process of getting a quote: LTL vs FTL
 
 ### Getting an LTL quote
 
