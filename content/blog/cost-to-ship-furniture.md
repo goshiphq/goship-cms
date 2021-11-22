@@ -1,27 +1,24 @@
 ---
 keywords: moving cross country
 author: GoShip Admin
-title: How Much Does It Cost To Ship Furniture?
-intro: >-
-  Whether you are moving cross country, planning a relocation, or just selling a
-  piece of furniture, shipping can be challenging. Shipping furniture seems like
-  a simple process at first, however, it can be complicated or too expensive.
-  You want your items to be protected so that they reach the destination
-  safely. A major concern when choosing a shipping partner is how much does it
-  cost to ship furniture, and that’s why shippers seek affordable, reliable
-  furniture shipping platforms. 
-
-
-  How much does it cost to
-postedAt: 1556686850000
-news: true
-description: Whether you are moving cross country, planning a relocation, or
-  just selling a piece of furniture, shipping can be challenging. Shipping
-  furniture seems like a simple process at first, however, it can be complicated
-  or too expensive. You want your items to be protected so that they reach the
+title: How Much Does It Cost To Ship Furniture Cross Country?
+intro: Whether you are moving cross country, planning a relocation, or just
+  selling a piece of furniture, shipping can be challenging. Shipping furniture
+  seems like a simple process at first, however, it can be complicated or too
+  expensive. You want your items to be protected so that they reach the
   destination safely. A major concern when choosing a shipping partner is how
   much does it cost to ship furniture, and that’s why shippers seek affordable,
   reliable furniture shipping platforms. How much does it cost to
+postedAt: 1556686850000
+news: true
+description: Whether you are moving or shipping furniture cross country,
+  planning a relocation, or just selling a piece of furniture, shipping can be
+  challenging. Shipping furniture seems like a simple process at first, however,
+  it can be complicated or too expensive. You want your items to be protected so
+  that they reach the destination safely. A major concern when choosing a
+  shipping partner is how much does it cost to ship furniture, and that’s why
+  shippers seek affordable, reliable furniture shipping platforms. How much does
+  it cost to
 altText: moving cross country
 image: https://storage.googleapis.com/goshiprepo/prod/blog/images/cost-to-ship-furniture.jpg
 ---
