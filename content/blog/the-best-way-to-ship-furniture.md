@@ -2,21 +2,9 @@
 keywords: best way to ship furniture
 author: GoShip Admin
 title: The Best Way To Ship Furniture Across Country
-intro: >-
-  Did you just purchase a new couch? Are you a furniture manufacturer or
-  retailer distributing your goods throughout the country? Or did you just plan
-  a big move? Regardless of the purpose, it all comes down to one question: how
-  to ship furniture across the country? Whether you just want to ship furniture
-  without breaking the budget, or if you sell it, you're probably searching for
-  the best way to shipping furniture.
-
-
-  How to ship furniture across the country?
-
-  -
-
-
-  There are various ways of shipping furniture ac
+intro: Whether you just want to ship furniture without breaking the budget, or
+  if you sell it, you're probably searching for the best way to shipping
+  furniture.
 postedAt: 1548824448000
 news: true
 description: Whether you just want to ship furniture without breaking the
