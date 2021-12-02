@@ -24,34 +24,30 @@ image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-dry-va
 ---
 Whether you are shipping full truckload or less-than-truckload freight, chances are you are using dry van shipping. Dry vans are the most commonly used trailer types within the trucking industry as they allow the transport of large amounts of goods and almost every type of commodity.
 
-What is a dry van trailer?
---------------------------
+## What is a dry van trailer?
 
 Dry vans are [large, enclosed boxes](https://www.plslogistics.com/blog/dry-van-shipping-8-facts/), usually no longer than 48-53 feet. These containers represent the usual truck that you will most likely see on the road. Dry vans are called ‘dry’ because they are used for shipping dry freight that doesn’t require any temperature or climate control. Because these trailers are closed and protected, dry van shipping is the best way to protect freight from external influences like the weather.
 
-When should you use dry van shipping?
--------------------------------------
+## When should you use dry van shipping?
 
 It is not hard to figure out which trailer type to use, regardless if you are shipping FTL or LTL. Dry vans will work for both businesses and individual shippers. Clothes, furniture, consumer packaged goods, and equipment are just some of the commodity types that can be moved with dry vans. Generally, you are good to deploy dry vans for mostly everything, except:
 
-*   If your freight is perishable and requires temperature control or monitoring
-*   If your freight is too big or bulky to fit in a dry van
+* If your freight is perishable and requires temperature control or monitoring
+* If your freight is too big or bulky to fit in a dry van
 
-Most commonly shipped dry van goods:
-------------------------------------
+## Most commonly shipped dry van goods:
 
-*   Clothing and retail products
-*   Consumer packaged and household goods
-*   Equipment and machinery
-*   Non-perishable foods and beverages
-*   Electronics
-*   Furniture
-*   Textile, plastic and building products
+* Clothing and retail products
+* Consumer packaged and household goods
+* Equipment and machinery
+* Non-perishable foods and beverages
+* Electronics
+* Furniture
+* Textile, plastic and building products
 
-What are the disadvantages of dry van shipping?
------------------------------------------------
+## What are the disadvantages of dry van shipping?
 
-Despite dry vans work for almost everyone, but it doesn’t quite fit every shipment. While being highly functional and versatile, dry van trucking can be complicated sometimes.
+Despite dry vans working for almost everyone, but it doesn’t quite fit every shipment. While being highly functional and versatile, dry van trucking can be complicated sometimes.
 
 ### Tight capacity
 
@@ -67,4 +63,4 @@ In most dry van trailers, there are wooden floors that are vulnerable to high hu
 
 ### Learn more about dry vans and our [Truckload Shipping](http://www.goship.com/shipping-services/truckload-freight-shipping/) services!
 
-[![Get a Quote Icon](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+[](https://www.goship.com/)
