@@ -1,10 +1,26 @@
 ---
-title: "What is Dry Van Shipping?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-dry-van-shipping.jpg"
+keywords: "What is Dry Van Shipping?, dry van, dry van trailers, "
+author: GoShip Admin
+title: What is Dry Van Shipping? - GoShip.com
+intro: >-
+  Whether you are shipping full truckload or less-than-truckload freight,
+  chances are you are using dry van shipping. Dry vans are the most commonly
+  used trailer types within the trucking industry as they allow the transport of
+  large amounts of goods and almost every type of commodity. 
+
+
+  What is a dry van trailer?
+
+  -
+
+
+  Dry vans are large, enclosed boxes, usually no longer than 48-53 feet. These containers represent the usual truck that you will most likely see on the road. Dry vans are called ‘dry’ because they
 postedAt: 1568782843000
 news: false
-author: "GoShip Admin"
-intro: "Whether you are shipping full truckload or less-than-truckload freight, chances are you are using dry van shipping. Dry vans are the most commonly used trailer types within the trucking industry as they allow the transport of large amounts of goods and almost every type of commodity. \n\nWhat is a dry van trailer?\n-\n\nDry vans are large, enclosed boxes, usually no longer than 48-53 feet. These containers represent the usual truck that you will most likely see on the road. Dry vans are called ‘dry’ because they"
+description: "Dry vans are called 'dry' because they are used for shipping dry
+  freight that doesn't require any temperature or climate control. "
+altText: dry van trailer, dry van
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-dry-van-shipping.jpg
 ---
 Whether you are shipping full truckload or less-than-truckload freight, chances are you are using dry van shipping. Dry vans are the most commonly used trailer types within the trucking industry as they allow the transport of large amounts of goods and almost every type of commodity.
 
