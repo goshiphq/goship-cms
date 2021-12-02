@@ -1,10 +1,9 @@
 ---
 title: Shipping for Small Businesses
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/small-business-shipping.jpg
-description: GoShip offers reliable, fast, small business logistics and shipping
-  solutions and services throughout the United States. Click here to book a
-  shipment!
-keywords: shipping for small business
+description: "GoShip offers reliable, fast, small business logistics and
+  shipping solutions and services throughout the United States. "
+keywords: shipping for small business, shipping companies
 ---
 # Shipping for Small Businesses
 
