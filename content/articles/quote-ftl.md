@@ -27,7 +27,7 @@ We’re here to make the shipping process as simple as possible for you.
 * User profiles
 * High visibility & shipment tracking
 * Historical data
-* [Freight insurance](/shipping-services/freight-insurance)
+* [Freight insurance](https://www.goship.com/resources/freight-insurance)
 * International shipping
 
 ![carrier and business owner reviewing full truckload freight quotes in warehouse](images/reviewing-ftl-quotes.jpg "Getting full truckload freight quotes")
