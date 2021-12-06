@@ -20,7 +20,7 @@ When you get an LTL freight quote from GoShip, you can compare freight shipping 
 * Truckload and LTL freight shipping
 * Responsive mobile app
 * [Full value freight insurance](https://www.goship.com/resources/freight-insurance)
-* [Simple shipping to and from Canada](/shipping-services/international-shipping/)
+* [Simple shipping to and from Canada](https://www.goship.com/resources/freight-insurance)
 
 ![Woman on computer getting an ltl freight quote for shipments sitting on desk](images/quoting-ltl-shipments.jpg "Getting an LTL freight quote")
 
