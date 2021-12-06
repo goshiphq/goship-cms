@@ -1,5 +1,8 @@
 ---
 title: Filing a Falvey Freight Claim
+description: If something has gone wrong and you purchased freight insurance
+  when booking your load, you’re covered!
+keywords: falvey freight insurance
 ---
 ## **How to File a Falvey Freight Claim**
 
@@ -9,7 +12,7 @@ If something has gone wrong and you purchased freight insurance when booking you
 
 ### **Filing a Claim:** 
 
-It is imperative that notice of any claim be filed in a timely manner. File a claim with Falvey at [http://www.falveycargo.com](http://www.falveycargo.com/) and complete and send a Notice of Damage letter to your Carrier. Falvey coverage is primary coverage so you will only need to file a claim with Falvey. A completed claim file will send automated notices when completed.  
+It is imperative that notice of any claim be filed in a timely manner. File a claim with Falvey at [t](http://www.falveycargo.com/)heir [website](https://falveycargounderwriting.com/) and complete and send a Notice of Damage letter to your Carrier. Falvey coverage is primary coverage so you will only need to file a claim with Falvey. A completed claim file will send automated notices when completed.  
 
 Be sure to make sure the following is accurate:   
 
@@ -48,10 +51,4 @@ Additional documentation may be requested by the adjuster.  
 * Claims are setup, assigned to a claim handler, and acknowledged within 24 hours of being reported. 
 *  If additional documentation is required, an overview of this detail is provided at the time of the acknowledgment of the claim. 
 * The goal of the claims team is to pay fairly and promptly once all documentation necessary for the claim has been received through efficient and convenient processes. 
-* Upon payment, Falvey’s Recoveries Team handles subrogation against Carriers. 
-
- 
-
-## **More Information** 
-
-For more information on Falvey, coverage provided, and the claims process, [Falvey Claims Intake User Guide](https://www.goship.com/wp-content/uploads/dlm_uploads/2021/04/FSI_UserGuide_New-Claims-Intake.pdf).
+* Upon payment, Falvey’s Recoveries Team handles subrogation against Carriers.
