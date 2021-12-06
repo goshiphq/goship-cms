@@ -10,7 +10,7 @@ intro: >-
 
   LTL (less than truckload) shipping is a shipping method where your freight takes only a part of the carrier's truck. It is one of many logistics options, but unlike many other types, it offers the best solutions for small businesses and individual shippers. The point is that you share the truck capacity with other shippers and pay only for space you actually use. LTL shipping services are just the right balance between full truckload and parcel shipping. When you cho
 postedAt: 1553058005000
-news: false
+news: true
 description: LTL (less than truckload) shipping is a shipping method where your
   freight takes only a part of the carrier's truck.
 altText: less than truckload shipping
@@ -23,7 +23,7 @@ LTL (less than truckload) shipping is a shipping method where your freight takes
 ## Benefits of less than truckload shipping:
 
 * **No extra spending.** Statistics show that over 15 percent of FTL (full-truckload) shipments are filled on less than 55 percent.  LTL allows you to pay just for the space you use.
-* **S\*\***ave time***\*.** Since most LTL shipping is provided by third-party logistics companies or online delivery services like GoShip.com, your shipping flows faster and smoother. Self-service shipment booking lets you arrange transportation within a few clicks and get visibility into the process.
+* **Save time.** Since most LTL shipping is provided by third-party logistics companies or online delivery services like GoShip.com, your shipping flows faster and smoother. Self-service shipment booking lets you arrange transportation within a few clicks and get visibility into the process.
 * **Real-time tracking.** There is no need to stress where your load is moving because professional less than truckload services allow you to track all the check-ins, stops, unloading and delivery of any shipment.
 
 ## When should you use less than truckload shipping?
