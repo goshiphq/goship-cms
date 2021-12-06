@@ -15,17 +15,17 @@ shippingservices:
     url: /shipping-services/quote-ftl
 resourceslinks:
   - title: About Us
-    url: /about-us
+    url: https://www.goship.com/claims
   - title: GoShip App
     url: /resources/app
   - title: News
-    url: /news
+    url: https://www.goship.com/news
   - title: eBooks
     url: /resources/ebooks
   - title: Freight Insurance
     url: /resources/freight-insurance
   - title: Carrier Claims
-    url: /claims
+    url: https://www.goship.com/claims
   - title: All-Risk Insurance Claims
     url: /resources/filing-a-falvey-freight-claim
   - title: TaskRabbit
