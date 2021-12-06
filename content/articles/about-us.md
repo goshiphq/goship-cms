@@ -1,6 +1,10 @@
 ---
-title: "About Us"
+title: About Us
 image: ""
+description: GoShip.com is a domestic freight shipping marketplace that provides
+  affordable and simple full truckload and less-than-truckload shipping with an
+  innovative and cost-effective approach.
+keywords: GoShip.com
 ---
 
 # About GoShip.com
