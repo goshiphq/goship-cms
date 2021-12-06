@@ -1,15 +1,35 @@
 ---
-title: "5 Tips for Shipping Fragile Items"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/5-tips-shipping-fragile-items.jpg"
+keywords: " shipping fragile items"
+author: GoShip Admin
+title: 5 Tips for Shipping Fragile Items
+intro: >-
+  In a perfect world, everything we send in the mail will arrive at its
+  destination in perfect condition, however, accidents can happen when the right
+  precautions aren’t taken. Fragile and valuable items need extra care and
+  attention when it comes to shipping. We have put together 5 essential tips to
+  make sure there are no hiccups when shipping your fragile items! 
+
+
+  How to ship fragile items?
+
+  -
+
+
+
+  Order Packaging in the Right Size
+
+
+  You can have all the care in the world when packing fragile items, but that may
 postedAt: 1529481636000
 news: false
-author: "GoShip Admin"
-intro: "In a perfect world, everything we send in the mail will arrive at its destination in perfect condition, however, accidents can happen when the right precautions aren’t taken. Fragile and valuable items need extra care and attention when it comes to shipping. We have put together 5 essential tips to make sure there are no hiccups when shipping your fragile items! \n\nHow to ship fragile items?\n-\n\n\nOrder Packaging in the Right Size\n\nYou can have all the care in the world when packing fragile items, but that may"
+description: We have put together 5 essential tips to make sure there are no
+  hiccups when shipping your fragile items!
+altText: " shipping fragile items"
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/5-tips-shipping-fragile-items.jpg
 ---
 In a perfect world, everything we send in the mail will arrive at its destination in perfect condition, however, accidents can happen when the right precautions aren’t taken. Fragile and valuable items need extra care and attention when it comes to shipping. We have put together 5 essential tips to make sure there are no hiccups when shipping your fragile items!
 
-How to ship fragile items?
---------------------------
+## How to ship fragile items?
 
 ### **Order Packaging in the Right Size**
 
@@ -29,4 +49,4 @@ By stating that your package is fragile, the people who are handling your packag
 
 ### **Consider Insurance**
 
-Although it may cost a little more on top of sending the parcel, it is always best to add insurance where you can. If mistakes are made and your package ends up getting damaged, insurance will be cheaper than reimbursing and losing customers in the long run. Preparing fragile items for transit can quickly turn stressful because fragile and valuable items need extra care and attention when it comes to shipping. Here at GoShip.com, we want to make the fragile shipping process as easy for you as possible, so today we have put together an infographic with 5 essential tips to help make sure that there are no broken pieces when shipping your fragile items from point A to point B! ![](https://www.goship.com/wp-content/uploads/2018/07/GS-Infographic-5-Tips-for-Shipping-Fragile-Items.png "fragile-shipping")[5 Tips for Shipping Fragile Items](https://www.goship.com/wp-content/uploads/2018/07/5-Tips-for-Shipping-Fragile-Items.pdf)
+Although it may cost a little more on top of sending the parcel, it is always best to add insurance where you can. If mistakes are made and your package ends up getting damaged, insurance will be cheaper than reimbursing and losing customers in the long run. Preparing fragile items for transit can quickly turn stressful because fragile and valuable items need extra care and attention when it comes to shipping. Here at GoShip.com, we want to make the fragile shipping process as easy for you as possible, so today we have put together an infographic with 5 essential tips to help make sure that there are no broken pieces when shipping your fragile items from point A to point B!
