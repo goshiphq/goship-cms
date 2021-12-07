@@ -3,7 +3,7 @@ title: CPG Shipping and Logistics | GoShip
 description: While companies work on new ways to retain their clients and
   enhance order fulfillment, Consumer packaged goods shipping strategy can be
   easily left out.
-keywords: "cpg shipping, Consumer packaged goods shipping, "
+keywords: cpg shipping, consumer packaged goods shipping
 ---
 The rapid growth of consumer demand constantly powers the consumer packaged goods industry. Nowadays, CPG suppliers have gained an opportunity to adapt their products to better meet diverse consumer needs. 
 
