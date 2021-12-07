@@ -1,10 +1,25 @@
 ---
+keywords: apparel shipping, textile shipping, clothing shipping
+author: GoShip Admin
 title: "Textile Logistics: What To Consider When Shipping Apparel"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/textile-logistics-shipping-apparel.jpg"
+intro: "Textile and clothing industries are two big branches of the economy,
+  which fuel a significant number of retail businesses. From zippers and sewing
+  materials to high-end fashion products, the textile and fashion industry is
+  crucial for today’s society. Apparel supply chains are complex and usually
+  time-sensitive. Because of the high customer expectations in this field of
+  retail, shipping and textile logistics play critical roles in customer
+  experience, and, consequently, greatly affect the company’s profit. "
 postedAt: 1580878806000
 news: false
-author: "GoShip Admin"
-intro: "Textile and clothing industries are two big branches of the economy, which fuel a significant number of retail businesses. From zippers and sewing materials to high-end fashion products, the textile and fashion industry is crucial for today’s society. Apparel supply chains are complex and usually time-sensitive. Because of the high customer expectations in this field of retail, shipping and textile logistics play critical roles in customer experience, and, consequently, greatly affect the company’s profit. "
+description: Textile and clothing industries are two big branches of the
+  economy, which fuel a significant number of retail businesses. From zippers
+  and sewing materials to high-end fashion products, the textile and fashion
+  industry is crucial for today’s society. Apparel supply chains are complex and
+  usually time-sensitive. Because of the high customer expectations in this
+  field of retail, shipping and textile logistics play critical roles in
+  customer experience, and, consequently, greatly affect the company’s profit.
+altText: apparel shipping
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/textile-logistics-shipping-apparel.jpg
 ---
 Textile and clothing industries are [two big branches](https://fashionunited.com/global-fashion-industry-statistics/) of the economy, which fuel a significant number of retail businesses. From zippers and sewing materials to high-end fashion products, the textile and fashion industry is crucial for today’s society. Apparel supply chains are complex and usually time-sensitive. Because of the high customer expectations in this field of retail, shipping and textile logistics play critical roles in customer experience, and, consequently, greatly affect the company’s profit.
 
