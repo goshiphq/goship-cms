@@ -32,7 +32,7 @@ Before you get ready to move your shipment into Canada, you should get familiar
 
 ### Shipping Office Furniture 
 
-Relocating for a job, or relocating an entire business, is always challenging. The last thing an organization wants to think about is how they're going to be getting all their furniture to the new location safely. GoShip can help with the stressful time of [shipping your furniture](https://www.goship.com/industries/shipping-furniture/) and help you find a carrier to transport all your office furniture to the new location. With our quick and easy [Get a Quote](https://www.goship.com/faq/truckload-quote/) tool, we can match you with thousands of carriers and rates that best suit your shipment needs. 
+Relocating for a job, or relocating an entire business, is always challenging. The last thing an organization wants to think about is how they're going to be getting all their furniture to the new location safely. GoShip can help with the stressful time of [shipping your furniture](https://www.goship.com/furniture) and help you find a carrier to transport all your office furniture to the new location. With our quick and easy [Get a Quote](https://www.goship.com/faq/truckload-quote/) tool, we can match you with thousands of carriers and rates that best suit your shipment needs. 
 
 The two main shipping services we offer are [full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) and [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) freight shipping. You’ll use full truckload when you have a large amount of office furniture to ship, like if the whole office is being relocated to another facility, so much so that you need an entire truck for your shipment. 
 
