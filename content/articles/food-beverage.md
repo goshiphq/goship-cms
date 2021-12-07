@@ -6,7 +6,7 @@ keywords: shipping food
 ---
 ## How to Ship Food 
 
-Shipping food presents a unique set of challenges to businesses. With most freight, shippers must balance cost with pick-up and drop-off dates and carrier quality. But when [shipping food](https://www.goship.com/industries/food-beverage-supply-chain/), two other factors weigh heavily in their carrier decision: keeping the product safe for consumers through transit time and temperature control. 
+Shipping food presents a unique set of challenges to businesses. With most freight, shippers must balance cost with pick-up and drop-off dates and carrier quality. But when [shipping food](https://www.goship.com/posts/all-you-need-to-know-about-shipping-food-cross-country), two other factors weigh heavily in their carrier decision: keeping the product safe for consumers through transit time and temperature control. 
 
 Maintaining tight transit times helps prevent food spoilage. If shippers use an unreliable LTL carrier that suffers frequent delays or lost shipments, they run the risks of food expiry. Grocers and other food sellers won’t put bad product on shelves, and they won’t continue to work with businesses that can't keep shelves stocked. 
 
