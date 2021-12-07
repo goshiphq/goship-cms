@@ -128,7 +128,7 @@ You don't have to worry much about invoicing since GoShip.com provides basic pap
 
 ### Insurance options 
 
-Sometimes, carrier liability is not enough to guarantee goods safety. We care about your shipments and provide a reliable [freight insurance](/articles/freight-insurance) option. We partner with Falvey Insurance Group, industry professionals that help our customers with all required paperwork. Read more about our freight insurance options. 
+Sometimes, carrier liability is not enough to guarantee goods safety. We care about your shipments and provide a reliable [freight insurance](https://www.goship.com/posts/what-is-freight-insurance) option. We partner with Falvey Insurance Group, industry professionals that help our customers with all required paperwork. Read more about our freight insurance options. 
 
 ### Shipping to Canada 
 
