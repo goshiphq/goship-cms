@@ -7,7 +7,7 @@ keywords: ltl freight shipping
 ---
 # LTL Freight Shipping & LTL Quotes
 
-*Don't have time to compare thousands of quotes from LTL carriers? Let us do it for you! At GoShip.com, we make quoting [LTL freight shipments](/posts/how-to-make-ltl-shipping-easy) easier than ever with our self-service online tools. Get an instant quote and list of competitive shipping rates from our contract carriers with the touch of a button. GoShip.com helps you plan, execute, and manage your shipping needs.* 
+*Don't have time to compare thousands of quotes from LTL carriers? Let us do it for you! At GoShip.com, we make quoting [LTL freight shipments](https://www.goship.com/posts/ltl-freight-shipping-for-beginners) easier than ever with our self-service online tools. Get an instant quote and list of competitive shipping rates from our contract carriers with the touch of a button. GoShip.com helps you plan, execute, and manage your shipping needs.* 
 
 ## What does LTL stand for? LTL meaning 
 
