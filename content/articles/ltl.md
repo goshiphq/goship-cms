@@ -27,7 +27,7 @@ LTL freight shipping is a great and cost-efficient way to move goods, but it is 
 
 ## How to ship LTL freight? 
 
-It is easy to ship LTL freight with our online shipping platform. GoShip.com's proprietary technology takes your shipment information and references our carrier network to match you with the best trucks for your shipping needs. We use multiple best practices to provide you with the best, most accurate LTL quote by using multiple carriers and taking weight and dimensions into account. 
+It is easy to ship LTL freight with our online shipping platform. GoShip proprietary technology takes your shipment information and references our carrier network to match you with the best trucks for your shipping needs. We use multiple best practices to provide you with the best, most accurate LTL quote by using multiple carriers and taking weight and dimensions into account. 
 
  You can also choose additional services, like liftgate, inside delivery, residential delivery, etc. You can get quotes instantly and book a shipment without extra communication. This makes the shipping process faster and easier for you. With transparent tracking and updates, you can control your shipment in real-time. To learn more about the exact process, read [how to get a quote](https://quotes.goship.com/booking/request-quote). 
 
