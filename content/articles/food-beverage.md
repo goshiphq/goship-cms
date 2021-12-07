@@ -38,7 +38,7 @@ Food and beverages that are perishable are operating on even stricter deadlines
 
 Shipping frozen foods can be a challenging task, but with the right carriers, the process can be simple and easy. There are three main things that you must take care of when shipping frozen foods, making sure you (1) plan ahead, (2) take care of the packaging, and (3) book the perfect carrier with the best cold capacity. 
 
-Planning is critical when shipping frozen foods.  [Refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/) are in high demand, but with a proper shipping strategy in place, shipping frozen foods can be a smooth process. By planning your shipping accordingly, you can give yourself the proper amount of time to package your frozen foods, which is a major step in this process. 
+Planning is critical when shipping frozen foods. [Refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/) are in high demand, but with a proper shipping strategy in place, shipping frozen foods can be a smooth process. By planning your shipping accordingly, you can give yourself the proper amount of time to package your frozen foods, which is a major step in this process. 
 
 Making sure your package of frozen foods is packaged correctly is important because if it isn't packaged properly, the food might not stay frozen and potentially spoil. Refrigerated trucks will keep the temperature and humidity within range, but the time before and after loading requires extra protection in case of outages at your facility or the shipment’s destination. You want to make sure the food you are shipping is fresh and unspoiled when it arrives at its destination, so packaging it properly is important. 
 
