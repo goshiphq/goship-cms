@@ -47,7 +47,7 @@ The process of organizing construction logistics is diverse and complex. GoShip 
 
 ### Transportation options for construction logistics
 
-Due to [exceeded sizes](https://oyster.goship.com/posts/how-to-ship-heavy-equipment), construction units are sometimes transported with [flatbed trucks](https://www.goship.com/blog/what-is-flatbed-shipping/). Flatbeds represent open trailers without roofs or walls. It allows the shippers to load the construction supplies from either side, top, or back of the vehicle. Such dimensional flexibility lets you ship any type of large equipment or materials. The cargo weight limit for flatbeds is about 48,000 pounds. Typically, their length is 48 to 53 feet, while the maximum legal width and height of flatbed trucks in the US are 8.5 feet (102 inches). 
+Due to [exceeded sizes](https://www.goship.com/posts/buying-oversized-items-online), construction units are sometimes transported with [flatbed trucks](https://www.goship.com/blog/what-is-flatbed-shipping/). Flatbeds represent open trailers without roofs or walls. It allows the shippers to load the construction supplies from either side, top, or back of the vehicle. Such dimensional flexibility lets you ship any type of large equipment or materials. The cargo weight limit for flatbeds is about 48,000 pounds. Typically, their length is 48 to 53 feet, while the maximum legal width and height of flatbed trucks in the US are 8.5 feet (102 inches). 
 
 There are many [types of flatbed trucks](https://www.saferack.com/glossary/flatbed-trailer-types/). Their design differs depending on the size and weight of your freight:
 
