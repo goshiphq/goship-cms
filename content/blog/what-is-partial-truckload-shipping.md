@@ -1,10 +1,31 @@
 ---
-title: "What Is Partial Truckload Shipping & When Should You Use It?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-partial-truckload-shipping.jpg"
+keywords: less than truckload shipping
+author: GoShip Admin
+title: What Is Partial Truckload Shipping & When Should You Use It?
+intro: >-
+  There are two main over-the-road shipping modes: truckload and
+  less-than-truckload. However, if you have ever shipped slightly beyond the LTL
+  limits or not enough for full truckload, you may have assumed it’s not very
+  cost-efficient. There is another option you may not be aware of, and that's
+  partial truckload shipping. For some shippers, it can be a cheaper and more
+  useful alternative to traditional shipping modes. 
+
+
+  What is partial truckload shipping?
+
+  -
+
+
+  Partial truckload shipping refers to a medium amoun
 postedAt: 1580706046000
 news: false
-author: "GoShip Admin"
-intro: "There are two main over-the-road shipping modes: truckload and less-than-truckload. However, if you have ever shipped slightly beyond the LTL limits or not enough for full truckload, you may have assumed it’s not very cost-efficient. There is another option you may not be aware of, and that's partial truckload shipping. For some shippers, it can be a cheaper and more useful alternative to traditional shipping modes. \n\nWhat is partial truckload shipping?\n-\n\nPartial truckload shipping refers to a medium amoun"
+description: "There are two main over-the-road shipping modes: truckload and
+  less-than-truckload. However, if you have ever shipped slightly beyond the LTL
+  limits or not enough for full truckload, you may have assumed it’s not very
+  cost-efficient. There is another option you may not be aware of, and that's
+  partial truckload shipping. "
+altText: less than truckload shipping
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-partial-truckload-shipping.jpg
 ---
 There are two main over-the-road shipping modes: [truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) and [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/). However, if you have ever shipped slightly beyond the LTL limits or not enough for full truckload, you may have assumed it’s not very cost-efficient. There is another option you may not be aware of, and that's partial truckload shipping. For some shippers, it can be a cheaper and more useful alternative to traditional shipping modes.
 
