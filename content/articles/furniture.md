@@ -58,7 +58,7 @@ At GoShip, we offer a variety of [LTL carriers](https://www.goship.com/posts/w
 
 Everyone knows moving out of that mattress and transporting it is a daunting task. Look no further, GoShip takes away all the hassle of moving that new or used mattress.  
 
-Packaging a mattress for shipment is relatively straightforward – with standardized sizes, you just need to wrap in plastic and other protecting materials, get accurate weights and measurements, then get a [range of quotes](https://www.goship.com/faq/ltl-quote/) from qualified carriers. 
+Packaging a mattress for shipment is relatively straightforward – with standardized sizes, you just need to wrap in plastic and other protecting materials, get accurate weights and measurements, then get a [range of quotes](https://quotes.goship.com/booking/request-quote) from qualified carriers. 
 
 If you need assistance at the mattress’s destination, we encourage you to leverage [TaskRabbit](https://www.goship.com/resources/get-help-with-taskrabbit/), which allows you to hire Taskers to move or set up your mattress upon arrival. 
 
