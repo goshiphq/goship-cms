@@ -30,7 +30,7 @@ By leveraging a freight marketplace, food shippers get a clear read on the cost
 
 ### Food Shipping Services
 
-When it comes to transporting [food and beverages](https://www.goship.com/industries/food-beverage-supply-chain/), merchants are confronted by many unique and difficult challenges such as strict delivery deadlines that preserve food quality and provide grocery stores with inventory long before its expiration date. Getting ahead and staying on top of planned shipping is crucial to strengthening your food supply chain operations because of these strict deadlines. 
+When it comes to transporting [food and beverages](https://www.goship.com/posts/all-you-need-to-know-about-shipping-food-cross-country), merchants are confronted by many unique and difficult challenges such as strict delivery deadlines that preserve food quality and provide grocery stores with inventory long before its expiration date. Getting ahead and staying on top of planned shipping is crucial to strengthening your food supply chain operations because of these strict deadlines. 
 
 Food and beverages that are perishable are operating on even stricter deadlines and cannot afford to withstand any disruptions in the supply chain. Perishable goods are also heavily dependent on the use of temperature-controlled transport, also known as [refrigerated or reefer vans](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/). GoShip can help implement consistent and dependable solutions for frozen foods, meats, dairy, baked goods, and other perishable foods at great rates! 
 
