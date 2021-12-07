@@ -1,15 +1,27 @@
 ---
-title: "3 Best Practices for Refrigerated Freight Shipping"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-refrigerated-freight-shipping.jpg"
+keywords: "refrigerated shipping "
+author: GoShip Admin
+title: 3 Best Practices for Refrigerated Freight Shipping
+intro: Planning temperature-controlled shipments can be extremely complicated
+  because the slightest disruption could lead to spoiled products and lost
+  sales. Reefers, or refrigerated trucks, handle 90% of all food distributed
+  through the U.S. Aside from meat, dairy, and fresh produce, frozen equipment
+  is also used to carry medicine, flowers, electronics, fine art, cosmetics, and
+  other products that require climate control during transportation. To keep
+  your cold shipments efficient and profitable, you can use seve
 postedAt: 1584507621000
 news: false
-author: "GoShip Admin"
-intro: "Planning temperature-controlled shipments can be extremely complicated because the slightest disruption could lead to spoiled products and lost sales. Reefers, or refrigerated trucks, handle 90% of all food distributed through the U.S. Aside from meat, dairy, and fresh produce, frozen equipment is also used to carry medicine, flowers, electronics, fine art, cosmetics, and other products that require climate control during transportation. To keep your cold shipments efficient and profitable, you can use seve"
+description: To keep your cold shipments efficient and profitable, you can use
+  several practices for refrigerated shipping to improve your supply chain
+  performance.
+altText: "refrigerated shipping "
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-refrigerated-freight-shipping.jpg
 ---
-Planning temperature-controlled shipments can be extremely complicated because the slightest disruption could lead to spoiled products and lost sales. Reefers, or [refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/), handle 90% of all food distributed through the U.S. Aside from meat, dairy, and fresh produce, frozen equipment is also used to carry medicine, flowers, electronics, fine art, cosmetics, and other products that require climate control during transportation. To keep your cold shipments efficient and profitable, you can use several practices for refrigerated shipping to improve your supply chain performance.
+Planning temperature-controlled shipments can be extremely complicated because the slightest disruption could lead to spoiled products and lost sales. Reefers, or [refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/), handle 90% of all food distributed through the U.S. 
 
-3 Best Practices for Refrigerated Freight Shipping
---------------------------------------------------
+Aside from meat, dairy, and fresh produce, frozen equipment is also used to carry medicine, flowers, electronics, fine art, cosmetics, and other products that require climate control during transportation. To keep your cold shipments efficient and profitable, you can use several practices for refrigerated shipping to improve your supply chain performance.
+
+## 3 Best Practices for Refrigerated Freight Shipping
 
 Once you have defined whether your products need to be chilled, frozen, or deep-frozen, you can start utilizing best practices for cold shipping to eliminate disruptions.
 
@@ -23,4 +35,4 @@ Having an extensive pool of carriers gives you more chances to pick high-service
 
 ### Use the retail compliance program
 
-The best way to avoid unwanted issues related to shipping is to prearrange all the terms and conditions with your shipping provider. For retailers, the most reliable way to do so is to set up a [retail compliance program](https://www.goship.com/blog/what-is-a-vendor-compliance-program-retail/). In this mutual agreement, both parties outline the requirements and conditions for partnership, as well as determine an action plan and charges in case of violation of this agreement. Refrigerated shipping is an important part of global supply chains and provides people around the world with food, medicine, and other essential goods. Safety is a primary concern for these shipments, so make sure to properly organize your shipping process.   [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+The best way to avoid unwanted issues related to shipping is to prearrange all the terms and conditions with your shipping provider. For retailers, the most reliable way to do so is to set up a [retail compliance program](https://www.goship.com/blog/what-is-a-vendor-compliance-program-retail/). In this mutual agreement, both parties outline the requirements and conditions for partnership, as well as determine an action plan and charges in case of violation of this agreement. Refrigerated shipping is an important part of global supply chains and provides people around the world with food, medicine, and other essential goods. Safety is a primary concern for these shipments, so make sure to properly organize your shipping process.
