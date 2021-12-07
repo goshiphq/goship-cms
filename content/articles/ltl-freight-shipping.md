@@ -54,7 +54,7 @@ There are many factors that affect LTL freight rates, but there are a few key th
 * Mileage 
 * Additional services 
 
-## What factors determine LTL freight shipping [rates](/posts/factors-determine-ltl-shipping-rates)?  
+## What factors determine LTL freight shipping [rates](https://www.goship.com/posts/best-ltl-shipping-rates)?  
 
 ### Distance 
 
