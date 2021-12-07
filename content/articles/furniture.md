@@ -97,7 +97,7 @@ Stainless steel surfaces should be covered to protect against abrasion. Attach 
 
 Appliances are expensive, so if you’re planning on shipping one, you want to make sure that you find a carrier that will take care of your appliances properly. At GoShip, we offer network of carriers at wholesale rates to help our customers find the best deal for them. 
 
-Our [`Get a Quote`](https://quotes.goship.com/booking/request-quote) tool matches customers to pre-vetted carriers that best suit their budget, all in under 60 seconds. With the freight market constantly shifting and a wide range of appliances shapes, sizes and weights, your best bet is to get a free quote from a number of carriers to determine the best fit for shipping your appliance. 
+Our [Get a Quote](https://quotes.goship.com/booking/request-quote) tool matches customers to pre-vetted carriers that best suit their budget, all in under 60 seconds. With the freight market constantly shifting and a wide range of appliances shapes, sizes and weights, your best bet is to get a free quote from a number of carriers to determine the best fit for shipping your appliance. 
 
 ### Shipping a Refrigerator 
 
