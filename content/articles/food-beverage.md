@@ -166,4 +166,4 @@ Whiskey has grown to become one of the most popular liquors in the United States
 
 When shipping whiskey, you must be cautious with the packaging. Glass bottles need to be packaged and handled delicately. At GoShip, we offer a variety of reliable carriers that are trained to handle delicate shipments like whiskey. As you book a load, you can note shipments that contain fragile materials so carriers know to handle them with care. 
 
-Shippers often think that shipping whiskey can be expensive, but at GoShip, we help you get wholesale pricing that fits within your budget. You can review pricing through our [Get a Quote](https://www.goship.com/faq/ltl-quote/) feature, which presents options from local, regional, and national carriers ready to ship your whiskey.
+Shippers often think that shipping whiskey can be expensive, but at GoShip, we help you get wholesale pricing that fits within your budget. You can review pricing through our [Get a Quote](https://quotes.goship.com/booking/request-quote) feature, which presents options from local, regional, and national carriers ready to ship your whiskey.
