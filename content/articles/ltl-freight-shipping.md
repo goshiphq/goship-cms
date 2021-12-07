@@ -116,7 +116,7 @@ LTL freight shipping can be extremely beneficial and cost-efficient. If you are 
 
 ### Instant quotes 
 
-Through our user-friendly interface, you can get immediate access and compare hundreds of quotes from different LTL carriers. That means you don't have to request the price and wait for a response from multiple carriers. Instead, you have all the available rates by your hand and can choose an option that fits you most. The self-service design means there's no need to contact a freight broker to move your LTL load. All you need to do is enter basic shipment information, and pick your carrier! GoShip.com provides you the lowest rates for your LTL shipping needs. To better understand the process, read our guide on [how to get a freight quote](/articles/ltl-quote). 
+Through our user-friendly interface, you can get immediate access and compare hundreds of quotes from different LTL carriers. That means you don't have to request the price and wait for a response from multiple carriers. Instead, you have all the available rates by your hand and can choose an option that fits you most. The self-service design means there's no need to contact a freight broker to move your LTL load. All you need to do is enter basic shipment information, and pick your carrier! GoShip.com provides you the lowest rates for your LTL shipping needs. To better understand the process, read our guide on [how to get a freight quote](https://quotes.goship.com/booking/request-quote). 
 
 ### LTL carrier network 
 
