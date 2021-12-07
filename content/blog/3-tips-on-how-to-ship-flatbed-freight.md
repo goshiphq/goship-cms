@@ -1,15 +1,36 @@
 ---
-title: "3 Tips On How To Ship Flatbed Freight"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-tips-on-how-to-ship-flatbed-freight.jpg"
+keywords: flatbed freight
+author: GoShip Admin
+title: 3 Tips On How To Ship Flatbed Freight
+intro: >-
+  Flatbed shipping can offer many benefits over the other freight shipping
+  types, especially if your cargo is of unusual shape or dimensions. Whether
+  it’s a vehicle, heavy equipment, or another similar load, it will qualify best
+  for flatbed shipping. However, there are some intricacies in flatbed shipping
+  that you need to know before proceeding with transportation. 
+
+
+  How to ship flatbed freight?
+
+  -
+
+
+
+  Know your shipment
+
+
+  Regardless of which shipping method you choose, giving accurate shipping information is a m
 postedAt: 1599627615000
 news: false
-author: "GoShip Admin"
-intro: "Flatbed shipping can offer many benefits over the other freight shipping types, especially if your cargo is of unusual shape or dimensions. Whether it’s a vehicle, heavy equipment, or another similar load, it will qualify best for flatbed shipping. However, there are some intricacies in flatbed shipping that you need to know before proceeding with transportation. \n\nHow to ship flatbed freight?\n-\n\n\nKnow your shipment\n\nRegardless of which shipping method you choose, giving accurate shipping information is a m"
+description: Flatbed freight shipping can offer many benefits over the other
+  freight shipping types, especially if your cargo is of unusual shape or
+  dimensions.
+altText: flatbed freight
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-tips-on-how-to-ship-flatbed-freight.jpg
 ---
 Flatbed shipping can offer many benefits over the other freight shipping types, especially if your cargo is of unusual shape or dimensions. Whether it’s a vehicle, heavy equipment, or another similar load, it will qualify best for flatbed shipping. However, there are some intricacies in flatbed shipping that you need to know before proceeding with transportation.
 
-How to ship flatbed freight?
-----------------------------
+## How to ship flatbed freight?
 
 ### Know your shipment
 
@@ -21,4 +42,4 @@ There are many types of truck trailers, and when speaking of flatbed, there are 
 
 ### Find reliable partners
 
-Eventually, it all comes down to the service and equipment quality. It’s important to choose experienced shipping services or carriers because flatbed shipping is not an easy process with all the regulations and operational challenges. By working with a reliable shipping platform, you significantly reduce the chances of freight damage or other risks. [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+Eventually, it all comes down to the service and equipment quality. It’s important to choose experienced shipping services or carriers because flatbed shipping is not an easy process with all the regulations and operational challenges. By working with a reliable shipping platform, you significantly reduce the chances of freight damage or other risks.
