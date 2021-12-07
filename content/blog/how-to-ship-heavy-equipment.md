@@ -1,10 +1,25 @@
 ---
-title: "How to Ship Heavy Equipment"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-heavy-equipment.jpeg"
+keywords: "heavy equipment "
+author: GoShip Admin
+title: How to Ship Heavy Equipment
+intro: Shipping heavy items like large equipment, machinery, or auto parts can
+  be quite challenging. Before diving into the heavy equipment shipping process,
+  you should understand the intricacies of shipping heavy equipment. Whether
+  you’re shipping auto parts to another state, or regularly transport heavy
+  commercial equipment, it is crucial to choose the right transportation mode,
+  find a proper shipping partner, choose convenient freight insurance, and apply
+  the best practices for a smooth shipping experience. ![i
 postedAt: 1617771626000
 news: false
-author: "GoShip Admin"
-intro: "Shipping heavy items like large equipment, machinery, or auto parts can be quite challenging. Before diving into the heavy equipment shipping process, you should understand the intricacies of shipping heavy equipment. Whether you’re shipping auto parts to another state, or regularly transport heavy commercial equipment, it is crucial to choose the right transportation mode, find a proper shipping partner, choose convenient freight insurance, and apply the best practices for a smooth shipping experience. ![i"
+description: Shipping heavy items like large equipment, machinery, or auto parts
+  can be quite challenging. Before diving into the heavy equipment shipping
+  process, you should understand the intricacies of shipping heavy equipment.
+  Whether you’re shipping auto parts to another state, or regularly transport
+  heavy commercial equipment, it is crucial to choose the right transportation
+  mode, find a proper shipping partner, choose convenient freight insurance, and
+  apply the best practices for a smooth shipping experience.
+altText: "heavy equipment "
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-heavy-equipment.jpeg
 ---
 Shipping heavy items like large equipment, machinery, or auto parts can be quite challenging. Before diving into the heavy equipment shipping process, you should understand the intricacies of shipping heavy equipment. Whether you’re shipping auto parts to another state, or regularly transport heavy commercial equipment, it is crucial to choose the [right transportation mode](https://www.goship.com/blog/modes-of-transportation-in-logistics/https://www.goship.com/blog/modes-of-transportation-in-logistics/), find a proper shipping partner, choose convenient freight insurance, and apply the best practices for a smooth shipping experience. [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
 
