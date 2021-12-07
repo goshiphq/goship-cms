@@ -158,7 +158,7 @@ Safety is a primary concern when shipping spirits, so make sure to properly orga
 
 Most carriers require labeling liquor shipments and providing proper packaging for the bottles, like double-sealing, waterproof packaging, and then boxing. We recommend you completely cover the shipment in something soft to reduce the risk of glass damage and to absorb any liquid if the bottle breaks. 
 
-Additionally, some states require you to obtain a special license for shipping alcohol. Once you meet the necessary requirements, GoShip can help you [find quotes](https://www.goship.com/faq/ltl-quote/) from a wide variety of pre-vetted carriers. Final delivery requires an adult over 21 with proper identification to sign for the package, so you’ll want tight coordination between you, the recipient, and the carrier. 
+Additionally, some states require you to obtain a special license for shipping alcohol. Once you meet the necessary requirements, GoShip can help you [find quotes](https://quotes.goship.com/booking/request-quote) from a wide variety of pre-vetted carriers. Final delivery requires an adult over 21 with proper identification to sign for the package, so you’ll want tight coordination between you, the recipient, and the carrier. 
 
 ### Shipping Whiskey 
 
