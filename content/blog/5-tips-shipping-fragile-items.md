@@ -49,4 +49,6 @@ By stating that your package is fragile, the people who are handling your packag
 
 ### **Consider Insurance**
 
-Although it may cost a little more on top of sending the parcel, it is always best to add insurance where you can. If mistakes are made and your package ends up getting damaged, insurance will be cheaper than reimbursing and losing customers in the long run. Preparing fragile items for transit can quickly turn stressful because fragile and valuable items need extra care and attention when it comes to shipping. Here at GoShip.com, we want to make the fragile shipping process as easy for you as possible, so today we have put together an infographic with 5 essential tips to help make sure that there are no broken pieces when shipping your fragile items from point A to point B!
+Although it may cost a little more on top of sending the parcel, it is always best to add insurance where you can. If mistakes are made and your package ends up getting damaged, insurance will be cheaper than reimbursing and losing customers in the long run. Preparing fragile items for transit can quickly turn stressful because fragile and valuable items need extra care and attention when it comes to shipping. 
+
+Here at GoShip.com, we want to make the fragile shipping process as easy for you as possible, so today we have put together an infographic with 5 essential tips to help make sure that there are no broken pieces when shipping your fragile items from point A to point B!
