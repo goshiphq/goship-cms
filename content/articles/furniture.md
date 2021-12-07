@@ -85,7 +85,7 @@ Given the weights and dimensions involved, taking the extra time to prepare and 
 
 [Shipping furniture](https://www.goship.com/furniture) can be a different experience than other types of shipping. In many cases, the furniture may be able to be partially disassembled to facilitate safer and simpler shipping. Tables and chairs often have easily removable legs that allow you to pack the furniture into a smaller space. Crating may provide additional protection from bumps and shifts during shipping. Adding fillers, such as customizable spray foam, can fill the voids in the furniture to prevent damage caused by vibrations. 
 
-To get the most [realistic and accurate quote](https://www.goship.com/faq/ltl-quote/), you have to provide correct information. Another way to get lower shipping rates is to make your shipment easier to stack. Proper packaging, or even palletizing will let you avoid accessorial charges. At GoShip, we provide a free online shipping estimate: all you have to do is fill in the basic information and compare the rates from available carriers, all in under 60 seconds. 
+[To get the most realistic and accurate quote](https://quotes.goship.com/booking/request-quote), you have to provide correct information. Another way to get lower shipping rates is to make your shipment easier to stack. Proper packaging, or even palletizing will let you avoid accessorial charges. At GoShip, we provide a free online shipping estimate: all you have to do is fill in the basic information and compare the rates from available carriers, all in under 60 seconds. 
 
 ## Shipping Appliances 
 
@@ -97,7 +97,7 @@ Stainless steel surfaces should be covered to protect against abrasion. Attach 
 
 Appliances are expensive, so if you’re planning on shipping one, you want to make sure that you find a carrier that will take care of your appliances properly. At GoShip, we offer network of carriers at wholesale rates to help our customers find the best deal for them. 
 
-Our [Get a Quote](https://www.goship.com/faq/ltl-quote/) tool matches customers to pre-vetted carriers that best suit their budget, all in under 60 seconds. With the freight market constantly shifting and a wide range of appliances shapes, sizes and weights, your best bet is to get a free quote from a number of carriers to determine the best fit for shipping your appliance. 
+Our [`Get a Quote`](https://quotes.goship.com/booking/request-quote) tool matches customers to pre-vetted carriers that best suit their budget, all in under 60 seconds. With the freight market constantly shifting and a wide range of appliances shapes, sizes and weights, your best bet is to get a free quote from a number of carriers to determine the best fit for shipping your appliance. 
 
 ### Shipping a Refrigerator 
 
