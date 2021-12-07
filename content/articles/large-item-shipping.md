@@ -13,7 +13,7 @@ keywords: large item shipping
 ## The Benefits of Shipping Large Items with GoShip
 
 * Free and instant [freight quotes](https://www.goship.com/)
-* [Full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) and [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) shipping options
+* [Full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) and less-than-truckload shipping options
 * 24/7 shipment tracking
 * A wide network of freight carriers
 * The self-service platform that lets you book a shipment easily within a few clicks
