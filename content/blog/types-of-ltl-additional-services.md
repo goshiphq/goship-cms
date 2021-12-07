@@ -1,10 +1,28 @@
 ---
-title: "What Are The Different Types Of LTL Services?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/types-of-ltl-additional-services.jpg"
+keywords: FTL shipping, LTL shipping
+author: GoShip Admin
+title: What Are The Different Types Of LTL Services?
+intro: >-
+  LTL shipping can be a convenient and cost-effective way to ship goods.
+  However, this process has many pitfalls and intricate details that are often
+  confusing to the shipper. One area of LTL shipping that may cause confusion is
+  additional LTL services.  
+
+
+  What are additional LTL services?
+
+  -
+
+
+  Additional LTL services are extra service offers for an added fee to satisfy the shipper’s needs. When shipping less-than-truckload, clear communication between the consignee and the carrier is crucial for a successful s
 postedAt: 1564549218000
 news: false
-author: "GoShip Admin"
-intro: "LTL shipping can be a convenient and cost-effective way to ship goods. However, this process has many pitfalls and intricate details that are often confusing to the shipper. One area of LTL shipping that may cause confusion is additional LTL services.  \n\nWhat are additional LTL services?\n-\n\nAdditional LTL services are extra service offers for an added fee to satisfy the shipper’s needs. When shipping less-than-truckload, clear communication between the consignee and the carrier is crucial for a successful s"
+description: LTL shipping can be a convenient and cost-effective way to ship
+  goods. However, this process has many pitfalls and intricate details that are
+  often confusing to the shipper. One area of LTL shipping that may cause
+  confusion is additional LTL services
+altText: FTL shipping, LTL shipping
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/types-of-ltl-additional-services.jpg
 ---
 LTL shipping can be a convenient and cost-effective way to ship goods. However, this process has many pitfalls and intricate details that are often confusing to the shipper. One area of LTL shipping that may cause confusion is additional LTL services. 
 
