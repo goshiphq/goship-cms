@@ -50,7 +50,7 @@ By planning ahead, you can ease your mind and protect your furniture shipment on
 
 ### How to Ship a Bed 
 
-[Shipping furniture](https://www.goship.com/industries/shipping-furniture/) can seem complicated, but proper packaging and planning make it a simple process. One of the most shipped furniture items is a bed. Firstly, disassemble the wooden or metal frame of the bed and pack it with wraps, tapes, and other packaging material. The mattress is best packaged in plastic wrapping, which is secured with straps or tapes.  It is also helpful to put your bed components in foam protection, so there is less chance of damage during transit. 
+[Shipping furniture](https://www.goship.com/furniture) can seem complicated, but proper packaging and planning make it a simple process. One of the most shipped furniture items is a bed. Firstly, disassemble the wooden or metal frame of the bed and pack it with wraps, tapes, and other packaging material. The mattress is best packaged in plastic wrapping, which is secured with straps or tapes.  It is also helpful to put your bed components in foam protection, so there is less chance of damage during transit. 
 
 At GoShip, we offer a variety of [LTL carriers](https://www.goship.com/faq/ltl-quote/) that can help and ship your bed. Additionally, we partner with [TaskRabbit](https://www.goship.com/resources/get-help-with-taskrabbit/), a service that lets you hire taskers to pack or load your piece of furniture.  
 
