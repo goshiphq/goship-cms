@@ -132,7 +132,7 @@ Sometimes, carrier liability is not enough to guarantee goods safety. We care ab
 
 ### Shipping to Canada 
 
-Apart from cross-country shipping, GoShip.com provides shipping to and from [Canada](/articles/international-shipping). If needed, we can help you with a customs broker. A professional broker will help you with all the documents, customs clearance, and more. 
+Apart from cross-country shipping, GoShip provides shipping to and from [Canada](/articles/international-shipping). If needed, we can help you with a customs broker. A professional broker will help you with all the documents, customs clearance, and more. 
 
 ## What LTL freight services do we provide? 
 
