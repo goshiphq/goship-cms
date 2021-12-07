@@ -112,7 +112,7 @@ LTL freight shipping can be extremely beneficial and cost-efficient. If you are 
 * Easily book and track shipments 
 * Choose from a variety of carriers 
 
-## How GoShip.com can make your LTL freight shipping experience better?
+## How GoShip can make your LTL freight shipping experience better?
 
 ### Instant quotes 
 
