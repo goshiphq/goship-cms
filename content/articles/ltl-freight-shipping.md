@@ -84,7 +84,7 @@ It's important to always make sure the address for pick-up and delivery is corre
 
 ### Shipment information 
 
-Accurate dimensions are very important to you and the carrier. The carrier relies on accuracy to maximize their capacity and prevent any fees toward your shipment. This also applies to the weight, freight class, [density](/posts/density-affect-ltl-shipping), address destination, etc. If any of the necessary data is inaccurate or uncertain, the shipper can end up paying fees and additional charges. To avoid delays and unwanted costs, double-check your shipment information. 
+Accurate dimensions are very important to you and the carrier. The carrier relies on accuracy to maximize their capacity and prevent any fees toward your shipment. This also applies to the weight, freight class, [density](https://www.goship.com/posts/density-affect-ltl-shipping), address destination, etc. If any of the necessary data is inaccurate or uncertain, the shipper can end up paying fees and additional charges. To avoid delays and unwanted costs, double-check your shipment information. 
 
 ### Packaging and labeling 
 
