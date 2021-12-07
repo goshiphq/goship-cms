@@ -64,7 +64,7 @@ By planning ahead—when packaging, when selecting a carrier, when warehousing�
 
 ### Shipping Meat 
 
-Food quality and extreme delivery deadlines are just some of the many challenges [food and beverage](https://www.goship.com/industries/food-beverage-supply-chain/) retailers are facing. Fast and planned shipping is what can help strengthen your entire business mechanism. Perishable products like meat require thorough supply chain planning that cannot survive any disruptions. 
+Food quality and extreme delivery deadlines are just some of the many challenges [food and beverage](https://www.goship.com/posts/all-you-need-to-know-about-shipping-food-cross-country) retailers are facing. Fast and planned shipping is what can help strengthen your entire business mechanism. Perishable products like meat require thorough supply chain planning that cannot survive any disruptions. 
 
 With logistics playing such a large role in transporting temperature-sensitive shipments, GoShip can provide you with consistent and workable solutions for shipping meat and other perishables. 
 
