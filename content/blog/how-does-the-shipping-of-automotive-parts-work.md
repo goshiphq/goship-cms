@@ -1,10 +1,30 @@
 ---
-title: "How Does Shipping Automotive Parts Work?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-does-the-shipping-of-automotive-parts-work.jpg"
+keywords: auto parts shipping
+author: GoShip Admin
+title: How Does Shipping Automotive Parts Work?
+intro: >-
+  Whether you are a car owner, a seller or buyer of equipment, or an auto
+  business owner, you know that shipping in this industry can be tough.
+  Automotive parts are items of different size, shape, weight, and cost. They
+  require very careful handling and that’s why shipping automotive parts can be
+  troublesome. Finding the right shipping solution and taking some useful tips
+  can help you create a successful shipping process. 
+
+
+  Choosing the right shipping mode
+
+
+  There are a variety of options when it comes to ship
 postedAt: 1594184449000
 news: false
-author: "GoShip Admin"
-intro: "Whether you are a car owner, a seller or buyer of equipment, or an auto business owner, you know that shipping in this industry can be tough. Automotive parts are items of different size, shape, weight, and cost. They require very careful handling and that’s why shipping automotive parts can be troublesome. Finding the right shipping solution and taking some useful tips can help you create a successful shipping process. \n\nChoosing the right shipping mode\n\nThere are a variety of options when it comes to ship"
+description: Whether you are a car owner, a seller or buyer of equipment, or an
+  auto business owner, you know that shipping in this industry can be tough.
+  Automotive parts are items of different size, shape, weight, and cost. They
+  require very careful handling and that’s why shipping automotive parts can be
+  troublesome. Finding the right shipping solution and taking some useful tips
+  can help you create a successful shipping process.
+altText: auto parts shipping
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-does-the-shipping-of-automotive-parts-work.jpg
 ---
 Whether you are a car owner, a seller or buyer of equipment, or an auto business owner, you know that shipping in this industry can be tough. Automotive parts are items of different size, shape, weight, and cost. They require very careful handling and that’s why shipping automotive parts can be troublesome. Finding the right shipping solution and taking some useful tips can help you create a successful shipping process.
 
