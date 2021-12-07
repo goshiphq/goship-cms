@@ -1,15 +1,27 @@
 ---
-title: "3 Best Practices for Full Truckload (FTL) Freight Management"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-full-truckload-ftl-freight-management.jpg"
+keywords: FTL freight management
+author: GoShip Admin
+title: 3 Best Practices for Full Truckload (FTL) Freight Management
+intro: >-
+  Navigating the full truckload freight management may be challenging in today’s
+  tight market. Shippers want to maintain a high customer satisfaction level,
+  increase performance, and stick to their budget. This is why companies are
+  looking for ways to secure truckload freight capacity and get top-performing
+  carriers. If you are trying to optimize your FTL freight management, there are
+  some best practices that can boost your truckload freight performance. 
+
+
+  3 Best Practices for Full Truckload (FTL) Freight Man
 postedAt: 1583902826000
 news: false
-author: "GoShip Admin"
-intro: "Navigating the full truckload freight management may be challenging in today’s tight market. Shippers want to maintain a high customer satisfaction level, increase performance, and stick to their budget. This is why companies are looking for ways to secure truckload freight capacity and get top-performing carriers. If you are trying to optimize your FTL freight management, there are some best practices that can boost your truckload freight performance. \n\n3 Best Practices for Full Truckload (FTL) Freight Man"
+description: If you are trying to optimize your FTL freight management, there
+  are some best practices that can boost your [truckload freight performance.
+altText: FTL freight management
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-full-truckload-ftl-freight-management.jpg
 ---
 Navigating the full truckload freight management may be challenging in today’s tight market. Shippers want to maintain a high customer satisfaction level, increase performance, and stick to their budget. This is why companies are looking for ways to secure truckload freight capacity and get top-performing carriers. If you are trying to optimize your FTL freight management, there are some best practices that can boost your [truckload freight](https://www.goship.com/blog/what-is-truckload-shipping-and-how-does-it-work/) performance.
 
-3 Best Practices for Full Truckload (FTL) Freight Management
-------------------------------------------------------------
+## 3 Best Practices for Full Truckload (FTL) Freight Management
 
 ### Carrier base
 
@@ -21,4 +33,8 @@ The key to having more opportunities in terms of freight capacity is having a wi
 
 ### Use a TMS or the help of a transportation provider
 
-It’s hardly possible to manage and optimize freight transportation without having properly customized software. Having a robust transportation management system gives you immense opportunities to monitor and analyze past and current shipments as well as forecast and plan future ones. Your truckload freight can be completely managed within a TMS. Using this tool, you can find carriers in your area, schedule shipments, save the data, track and monitor freight performance, and identify gaps and possibilities for optimizing any process that you can find. In general, the key to having high-performing full truckload freight is advanced and well-thought planning. While a transportation management system gives you deep insight into your freight transportation process, widening your carrier network and increasing lead time could potentially extend your operational performance and save on costs. [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+It’s hardly possible to manage and optimize freight transportation without having properly customized software. Having a robust transportation management system gives you immense opportunities to monitor and analyze past and current shipments, as well as forecast and plan future ones. Your truckload freight can be completely managed within a TMS. 
+
+Using this tool, you can find carriers in your area, schedule shipments, save the data, track and monitor freight performance, and identify gaps and possibilities for optimizing any process that you can find. In general, the key to having high-performing full truckload freight is advanced and well-thought planning. 
+
+While a transportation management system gives you deep insight into your freight transportation process, widening your carrier network and increasing lead time could potentially extend your operational performance and save on costs.
