@@ -104,7 +104,7 @@ Finally, you should make sure that you are falling on the right side of any carr
 
 Shipping liquids require enhanced safety and planning because many liquids are potentially inflammable. Before shipping liquids, make sure the carrier accepts liquids in the first place, and then provide proper packaging. It’s most safe when a product is double sealed, put in waterproof packaging, and only after that is placed in the box, crate, or other storage. 
 
-When looking for a carrier, make sure the company is compliant with the [FDA Food Safety Modernization Act](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/food-safety-modernization-act-fsma). Let GoShip help deliver liquids and beverages straight to your customer's table with our advanced transportation solutions, carrier network, tracking capabilities, and decades of experience in shipping [food and beverage](https://www.goship.com/industries/food-beverage-supply-chain/) products. 
+When looking for a carrier, make sure the company is compliant with the [FDA Food Safety Modernization Act](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/food-safety-modernization-act-fsma). Let GoShip help deliver liquids and beverages straight to your customer's table with our advanced transportation solutions, carrier network, tracking capabilities, and decades of experience in shipping [food and beverage](https://www.goship.com/posts/all-you-need-to-know-about-shipping-food-cross-country) products. 
 
 ### Can you ship liquids to Canada? 
 
