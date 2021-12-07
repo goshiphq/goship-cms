@@ -42,7 +42,7 @@ Planning is critical when shipping frozen foods. [Refrigerated trucks](https
 
 Making sure your package of frozen foods is packaged correctly is important because if it isn't packaged properly, the food might not stay frozen and potentially spoil. Refrigerated trucks will keep the temperature and humidity within range, but the time before and after loading requires extra protection in case of outages at your facility or the shipment’s destination. You want to make sure the food you are shipping is fresh and unspoiled when it arrives at its destination, so packaging it properly is important. 
 
-At GoShip, we can help you plan a fast and easy shipping process with one of our many reliable, pre-vetted carriers to help make sure your frozen foods arrive on time and in perfect condition. Visit our [food and beverage page](https://www.goship.com/industries/food-beverage-supply-chain/) to learn more about how GoShip can help you safely ship your frozen foods, or fill out our [Get a Quote](https://www.goship.com/) form and see which providers best suit your shipping needs. 
+At GoShip, we can help you plan a fast and easy shipping process with one of our many reliable, pre-vetted carriers to help make sure your frozen foods arrive on time and in perfect condition. Visit our [food and beverage page](https://www.goship.com/posts/all-you-need-to-know-about-shipping-food-cross-country) to learn more about how GoShip can help you safely ship your frozen foods, or fill out our [Get a Quote](https://www.goship.com/) form and see which providers best suit your shipping needs. 
 
 ![woman reviewing packaging before shipping food](images/reviewing-food-packaging-before-shipping.jpg "Shipping Perishables")
 
