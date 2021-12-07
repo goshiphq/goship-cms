@@ -62,7 +62,7 @@ Typically, the longer the haul, the higher the price. Some LTL carriers only ser
 
 ### Freight Class 
 
-[Freight class](/posts/blog-everything-you-need-to-know-about-ltl-freight-class) is defined by a variety of factors. It is determined by the weight and density of your freight. If you have a lower-class freight, it means that it's heavy, dense, and difficult to break making it easy to handle. Higher-class freight is typically lighter, less dense, and difficult to handle due to being fragile. At GoShip.com, we utilize our freight class calculator to determine your class, so you don't have to! 
+[Freight class](https://www.goship.com/posts/what-is-freight-class) is defined by a variety of factors. It is determined by the weight and density of your freight. If you have a lower-class freight, it means that it's heavy, dense, and difficult to break making it easy to handle. Higher-class freight is typically lighter, less dense, and difficult to handle due to being fragile. At GoShip.com, we utilize our freight class calculator to determine your class, so you don't have to! 
 
 ### Additional Charges 
 
