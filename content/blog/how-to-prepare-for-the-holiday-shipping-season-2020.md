@@ -1,15 +1,25 @@
 ---
-title: "How to Prepare for the Holiday Shipping Season 2020"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-prepare-for-the-holiday-shipping-season-2020.jpg"
+keywords: holiday season 2020
+author: GoShip Admin
+title: How to Prepare for the Holiday Shipping Season 2020
+intro: 2020 has been tough for small businesses. The COVID crisis and ensuing
+  economic fallout have disrupted practically every industry, and this year's
+  peak shipping season is right around the corner. This is an opportunity to
+  capitalize on increased consumer activity towards the end of the year for many
+  companies. There are concrete steps organizations can take to bounce back as
+  consumer activity increases and shipping skyrockets despite the high level of
+  uncertainty and unpredictability in the market and econo
 postedAt: 1603256403000
 news: false
-author: "GoShip Admin"
-intro: "2020 has been tough for small businesses. The COVID crisis and ensuing economic fallout have disrupted practically every industry, and this year's peak shipping season is right around the corner. This is an opportunity to capitalize on increased consumer activity towards the end of the year for many companies. There are concrete steps organizations can take to bounce back as consumer activity increases and shipping skyrockets despite the high level of uncertainty and unpredictability in the market and econo"
+description: 2020 has been tough for small businesses. The COVID crisis and
+  ensuing economic fallout have disrupted practically every industry, and this
+  year's peak shipping season is right around the corner.
+altText: holiday season 2020
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-prepare-for-the-holiday-shipping-season-2020.jpg
 ---
 2020 has been tough for small businesses. The COVID crisis and ensuing economic fallout have disrupted practically every industry, and this year's peak shipping season is right around the corner. This is an opportunity to capitalize on increased consumer activity towards the end of the year for many companies. There are concrete steps organizations can take to bounce back as consumer activity increases and shipping skyrockets despite the high level of uncertainty and unpredictability in the market and economy.
 
-Navigating the Winter Shipping Season 2020
-------------------------------------------
+## Navigating the Winter Shipping Season 2020
 
 ### Focus on e-commerce
 
@@ -21,4 +31,4 @@ For small businesses, it's common to only work with a few partners, maintaining 
 
 ### Adapt to the new conditions
 
-One of the key forecasts for the winter shipping season of 2020 is slowed shipping. Because e-commerce is growing, you should expect tight capacity and slower transit times. One way around this is to [book trucks ahead of time](https://www.goship.com/blog/how-to-get-the-best-freight-rate-in-current-conditions/). As the shipping season ramps up, you can start actively searching for [freight rates](https://www.goship.com/) and convenient transportation options with ease. Don’t forget to check out shipping deadlines and plan your operations accordingly. [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+One of the key forecasts for the winter shipping season of 2020 is slowed shipping. Because e-commerce is growing, you should expect tight capacity and slower transit times. One way around this is to [book trucks ahead of time](https://www.goship.com/blog/how-to-get-the-best-freight-rate-in-current-conditions/). As the shipping season ramps up, you can start actively searching for [freight rates](https://www.goship.com/) and convenient transportation options with ease. Don’t forget to check out shipping deadlines and plan your operations accordingly.
