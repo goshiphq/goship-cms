@@ -1,15 +1,37 @@
 ---
-title: "5 Key Freight Shipping Terms You Should Know"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/5-key-freight-shipping-terms-you-should-know.jpg"
+keywords: freight shipping terms
+author: GoShip Admin
+title: 5 Key Freight Shipping Terms You Should Know
+intro: >-
+  For individual shippers and small businesses, freight shipping terms can be
+  confusing. There is a huge variety of different words and abbreviations, and
+  it's hard to memorize them all. If you are shipping freight, there are a few
+  key terms you should know. Being aware of the correct meaning of these freight
+  shipping terms will help you navigate the industry and avoid shipping
+  mistakes.  
+
+
+  Freight shipping terms you should know
+
+  -
+
+
+
+  Bill of Lading
+
+
+  The bill of lading, or BOL, is the most important document in
 postedAt: 1592370044000
 news: false
-author: "GoShip Admin"
-intro: "For individual shippers and small businesses, freight shipping terms can be confusing. There is a huge variety of different words and abbreviations, and it's hard to memorize them all. If you are shipping freight, there are a few key terms you should know. Being aware of the correct meaning of these freight shipping terms will help you navigate the industry and avoid shipping mistakes.  \n\nFreight shipping terms you should know\n-\n\n\nBill of Lading\n\nThe bill of lading, or BOL, is the most important document in"
+description: For individual shippers and small businesses, freight shipping
+  terms can be confusing. There is a huge variety of different words and
+  abbreviations, and it's hard to memorize them all.
+altText: freight shipping terms
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/5-key-freight-shipping-terms-you-should-know.jpg
 ---
 For individual shippers and small businesses, freight shipping terms can be confusing. There is a huge variety of different words and abbreviations, and it's hard to memorize them all. If you are shipping freight, there are a few key terms you should know. Being aware of the correct meaning of these freight shipping terms will help you navigate the industry and avoid shipping mistakes. 
 
-Freight shipping terms you should know
---------------------------------------
+## Freight shipping terms you should know
 
 ### Bill of Lading
 
@@ -17,7 +39,7 @@ The bill of lading, or BOL, is the most important document in freight shipping. 
 
 ### LTL/FTL
 
-There are two primary shipping modes in trucking: [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) (LTL) and [full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) (FTL). There are many [differences](https://www.goship.com/ftl-vs-ltl/) between these two modes, but the main one is that in LTL shipping, you only use a part of a trailer’s space, while in full truckload your freight takes the entire capacity. LTL and FTL also have different pricing mechanisms because, in less-than-truckload shipping, the rate is mostly defined by shipment’s destiny. 
+There are two primary shipping modes in trucking: [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) (LTL) and [full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) (FTL). There are many [differences](https://www.goship.com/ftl-vs-ltl/) between these two modes, but the main one is that in LTL shipping, you only use a part of a trailer’s space, while in full truckload your freight takes the entire capacity. LTL and FTL also have different pricing mechanisms because, in less-than-truckload shipping, the rate is mostly defined by the shipment’s destiny. 
 
 ### Freight class
 
@@ -29,4 +51,4 @@ A delivery appointment is an [additional service](https://www.goship.com/blog/ty
 
 ### Freight insurance
 
-[Freight insurance](https://www.goship.com/shipping-services/freight-insurance/) is an important document that is purchased to protect your goods and cover its value in case of shipment loss or damage. Freight insurance should not be confused with carrier liability, which is usually limited and will not refund the full cost of shipment in most cases.  [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+[Freight insurance](https://www.goship.com/shipping-services/freight-insurance/) is an important document that is purchased to protect your goods and cover their value in case of shipment loss or damage. Freight insurance should not be confused with carrier liability, which is usually limited and will not refund the full cost of shipment in most cases.
