@@ -1,10 +1,23 @@
 ---
-title: "Ready. Set. GoShip!"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/ready-set-goship.jpg"
+keywords: GoShip, shipping service
+author: kmagilton
+title: Ready. Set. GoShip!
+intro: |+
+  Finally selling your old couch? Buying that grand piano for your new home?
+  -
+
+
+  We’re here to help!
+  -
+
 postedAt: 1497626305000
 news: false
-author: "kmagilton"
-intro: "Finally selling your old couch? Buying that grand piano for your new home?\n-\n\n\nWe’re here to help!\n-\n\n"
+description: GoShip is the industry’s latest innovation for all your shipping
+  needs. We connect you with trusted carriers who will ensure your shipment
+  reaches its destination safe and sound. We offer the quickest turnaround
+  times, and an easy, hands-off way for you to ship.
+altText: shipping service
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/ready-set-goship.jpg
 ---
 Finally selling your old couch? Buying that grand piano for your new home?
 --------------------------------------------------------------------------
