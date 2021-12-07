@@ -80,7 +80,7 @@ An LTL freight class is a specific classification, created by [NMFTA](http://ww
 
 ### Documentation 
 
-It's important to always make sure the address for pick-up and delivery is correct. After you book a shipment with GoShip.com, you will receive a [bill of lading (BOL)](/posts/what-is-the-bill-of-lading-bol). The bill of lading is the most important document in the shipping process. So, it is crucial to provide accurate, exact information, and avoid mistakes. Ensure that the document is correct before turning it over to your carrier. 
+It's important to always make sure the address for pick-up and delivery is correct. After you book a shipment with GoShip.com, you will receive a [bill of lading (BOL)](https://www.goship.com/posts/how-to-complete-a-bol-bill-of-lading-form). The bill of lading is the most important document in the shipping process. So, it is crucial to provide accurate, exact information, and avoid mistakes. Ensure that the document is correct before turning it over to your carrier. 
 
 ### Shipment information 
 
