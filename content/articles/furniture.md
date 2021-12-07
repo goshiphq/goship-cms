@@ -83,7 +83,7 @@ Given the weights and dimensions involved, taking the extra time to prepare and 
 
 ### How to Ship a Table and Chairs 
 
-[Shipping furniture](https://www.goship.com/industries/shipping-furniture/) can be a different experience than other types of shipping. In many cases, the furniture may be able to be partially disassembled to facilitate safer and simpler shipping. Tables and chairs often have easily removable legs that allow you to pack the furniture into a smaller space. Crating may provide additional protection from bumps and shifts during shipping. Adding fillers, such as customizable spray foam, can fill the voids in the furniture to prevent damage caused by vibrations. 
+[Shipping furniture](https://www.goship.com/furniture) can be a different experience than other types of shipping. In many cases, the furniture may be able to be partially disassembled to facilitate safer and simpler shipping. Tables and chairs often have easily removable legs that allow you to pack the furniture into a smaller space. Crating may provide additional protection from bumps and shifts during shipping. Adding fillers, such as customizable spray foam, can fill the voids in the furniture to prevent damage caused by vibrations. 
 
 To get the most [realistic and accurate quote](https://www.goship.com/faq/ltl-quote/), you have to provide correct information. Another way to get lower shipping rates is to make your shipment easier to stack. Proper packaging, or even palletizing will let you avoid accessorial charges. At GoShip, we provide a free online shipping estimate: all you have to do is fill in the basic information and compare the rates from available carriers, all in under 60 seconds. 
 
