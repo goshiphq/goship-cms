@@ -92,7 +92,7 @@ Proper packaging is crucial for LTL freight shipping. LTL shipments are handled 
 * Bundles 
 * Barrels 
 
- To make the shipping process easy and fast, pack your freight accurately before loading. Use tapes and seals if needed, to keep the shipments tight, fixed, and consolidated. This will significantly reduce your chances of damage. To fully prepare your LTL shipment, we recommend referencing our [GoShip.com Packing Guide](https://www.goship.com/blog/how-to-safely-prepare-your-ltl-freight-shipment/). 
+ To make the shipping process easy and fast, pack your freight accurately before loading. Use tapes and seals if needed, to keep the shipments tight, fixed, and consolidated. This will significantly reduce your chances of damage. To fully prepare your LTL shipment, we recommend referencing our [GoShip packing guide](https://www.goship.com/blog/how-to-safely-prepare-your-ltl-freight-shipment/). 
 
 ## LTL vs FTL: What is the difference between LTL shipping and FTL shipping? 
 
