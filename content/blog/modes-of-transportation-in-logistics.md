@@ -1,20 +1,30 @@
 ---
+keywords: shipping modes
+author: GoShip Admin
 title: "Modes of Transportation: Transport & Logistics"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/modes-of-transportation-in-logistics.jpg"
+intro: Logistics and the transportation of goods are very diverse and complex
+  industries. Shippers rely on overseas shipping, air transportation, and ground
+  delivery to move freight. It involves many shipping modes or different types
+  of transportation and ways of shipping goods. Sometimes, it may be challenging
+  for a company to choose the right mode of transportation to reach the best
+  result. It can be especially difficult if you are new to domestic or global
+  shipping. However, knowing the differences and benefits
 postedAt: 1562734806000
 news: false
-author: "GoShip Admin"
-intro: "Logistics and the transportation of goods are very diverse and complex industries. Shippers rely on overseas shipping, air transportation, and ground delivery to move freight. It involves many shipping modes or different types of transportation and ways of shipping goods. Sometimes, it may be challenging for a company to choose the right mode of transportation to reach the best result. It can be especially difficult if you are new to domestic or global shipping. However, knowing the differences and benefits"
+description: Logistics and the transportation of goods are very diverse and
+  complex industries. Shippers rely on overseas shipping, air transportation,
+  and ground delivery to move freight. It involves many shipping modes or
+  different types of transportation and ways of shipping goods.
+altText: shipping modes
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/modes-of-transportation-in-logistics.jpg
 ---
 Logistics and the transportation of goods are very diverse and complex industries. Shippers rely on overseas shipping, air transportation, and ground delivery to move freight. It involves many shipping modes or different types of transportation and ways of shipping goods. Sometimes, it may be challenging for a company to choose the right mode of transportation to reach the best result. It can be especially difficult if you are new to domestic or global shipping. However, knowing the differences and benefits of each transportation method will help you define the option that will work best for you.
 
-What Are The Modes Of Transportation In Logistics?
---------------------------------------------------
+## What Are The Modes Of Transportation In Logistics?
 
 There are various forms of transportation, but when it comes to freight shipping, there are several main transportation methods in the freight industry: ● Ocean ● Air ● Rail ● Road ● Intermodal and Multimodal
 
-Types of Transportation: Why Are They Important?
-------------------------------------------------
+## Types of Transportation: Why Are They Important?
 
 All of these modes of transport are extremely important and play a significant role in the industry. However, there are many differences in terms of price, shipped commodities, transit distance, etc. While some modes may be the perfect solution to one business, they may also be absolutely useless to another business.
 
@@ -38,7 +48,6 @@ Rail transportation plays a crucial role in intermodal shipments and is cheaper 
 
 Choosing the right mode of transportation may be difficult, especially if you have a long and complicated route. Intermodal and multimodal transportation solve this problem, as they are two types of combination transportation modes. Generally, [intermodal and multimodal](https://www.plslogistics.com/modes/intermodal-shipping) shipping suggest the combination of road, rail, ocean, or air for a single shipment. The only difference between both methods is that intermodal is handled under a single bill, while multimodal goes with separate bills from all the carriers involved. Generally, intermodal and multimodal can be very beneficial to the shipper in terms of price and flexibility. Ultimately, each mode of transportation has its advantages and drawbacks. Depending on the size and needs of your business, you have a variety of options to choose from.
 
-Freight Shipping with GoShip.com
---------------------------------
+## Freight Shipping with GoShip.com
 
-Looking for reliable online shipping service? GoShip.com can help! Learn more about our convenient freight [shipping services](https://www.goship.com/shipping-services/)! [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+Looking for reliable online shipping service? GoShip.com can help! Learn more about our convenient freight [shipping services](https://www.goship.com/shipping-services/)!
