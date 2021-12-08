@@ -1,15 +1,27 @@
 ---
-title: "Technology Trends in Road Freight"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/key-technology-trends-in-road-freight.jpg"
+keywords: technology trends, road freight
+author: GoShip Admin
+title: Technology Trends in Road Freight
+intro: New technology keeps reshaping the transportation and logistics industry,
+  and the trucking industry is not an exception. There are constantly new
+  developments in trucking, and the majority of these innovations are steadily
+  replacing existing technology and methods. Road freight is also getting
+  smarter, more efficient, more connected, and safer. The trucking industry has
+  changed a lot over the recent decade, and there are some key innovations that
+  will be even more impactful. Certain trends in the transporta
 postedAt: 1587531643000
 news: false
-author: "GoShip Admin"
-intro: "New technology keeps reshaping the transportation and logistics industry, and the trucking industry is not an exception. There are constantly new developments in trucking, and the majority of these innovations are steadily replacing existing technology and methods. Road freight is also getting smarter, more efficient, more connected, and safer. The trucking industry has changed a lot over the recent decade, and there are some key innovations that will be even more impactful. Certain trends in the transporta"
+description: "New technology keeps reshaping the transportation and logistics
+  industry, and the trucking industry is not an exception. There are constantly
+  new developments in trucking, and the majority of these innovations are
+  steadily replacing existing technology and methods. Road freight is also
+  getting smarter, more efficient, more connected, and safer. "
+altText: technology trends
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/key-technology-trends-in-road-freight.jpg
 ---
 New technology keeps reshaping the transportation and logistics industry, and the trucking industry is not an exception. There are constantly new developments in trucking, and the majority of these [innovations](https://www.inboundlogistics.com/cms/article/the-impact-of-technology-on-trucking/) are steadily replacing existing technology and methods. Road freight is also getting smarter, more efficient, more connected, and safer. The trucking industry has changed a lot over the recent decade, and there are some key innovations that will be even more impactful. Certain trends in the transportation and trucking industry are placing a focus on certain road freight technology.
 
-What are the key technology trends in road freight?
----------------------------------------------------
+## What are the key technology trends in road freight?
 
 ### Smart technology and connectivity
 
@@ -22,5 +34,3 @@ Apart from automated vehicles, automation in trucking means better technology fo
 ### Sustainability
 
 Sustainability is a huge trend in the trucking industry. Transportation is definitely moving towards [being greener](https://www.goship.com/blog/how-shippers-can-support-green-shipping/). Trucking companies are testing renewable fuel or switching to electric vehicles. Manufacturers are working tirelessly in an effort to reshape the trucking industry into a green powerhouse. Over the next few years, the number of eco-friendly trucks on the roads will grow exponentially.
-
-[![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
