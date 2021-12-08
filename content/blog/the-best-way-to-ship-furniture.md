@@ -48,5 +48,3 @@ It is recommended to take apart all removable parts and pack them separately. Al
 *Read* *[All You Need to Know About Furniture Shipping](http://www.goship.com/blog/shipping-furniture/)*
 
 After all, proper shipping solutions can help you avoid stress and save costs on shipping. Need to ship furniture? GoShip.com provides you with professional help on furniture shipping. Get a free quote today!
-
-[![Get a Quote Icon](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
