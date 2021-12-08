@@ -26,13 +26,11 @@ image: https://storage.googleapis.com/goshiprepo/prod/blog/images/types-of-ltl-a
 ---
 LTL shipping can be a convenient and cost-effective way to ship goods. However, this process has many pitfalls and intricate details that are often confusing to the shipper. One area of LTL shipping that may cause confusion is additional LTL services. 
 
-What are additional LTL services?
----------------------------------
+## What are additional LTL services?
 
 Additional LTL services are extra service offers for an added fee to satisfy the shipper’s needs. When shipping less-than-truckload, clear communication between the consignee and the carrier is crucial for a successful shipping process. It is very important for the shipper to know how the entire process after delivery will look.  LTL shipping is comparably low-priced, however, it has many additional services that may [add up to the final shipping cost](https://www.goship.com/blog/how-to-avoid-unwanted-shipping-costs/). Essentially, the definition of an additional service [varies from carrier to carrier,](https://www.goship.com/blog/how-to-choose-the-right-ltl-carriers/) but knowing the very basics of the additional services in LTL will help you avoid misunderstandings and money losses. 
 
-What are the types of additional LTL services? 
------------------------------------------------
+## What are the types of additional LTL services? 
 
 ### Lift gate service at pickup/delivery
 
@@ -56,4 +54,4 @@ Exhibition, or [trade show shipping](https://www.goship.com/blog/trade-show-ship
 
 ### Detention
 
-The suggested free time that a driver can spend at the delivery address after unloading is 30 minutes. After that time, additional charges may be applied.  So, the next time you schedule a shipment, discuss all the details in advance. The basic understanding of additional services and proper communication will help you avoid extra fees and have a positive shipping experience.  [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+The suggested free time that a driver can spend at the delivery address after unloading is 30 minutes. After that time, additional charges may be applied.  So, the next time you schedule a shipment, discuss all the details in advance. The basic understanding of additional services and proper communication will help you avoid extra fees and have a positive shipping experience.
