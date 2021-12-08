@@ -1,25 +1,35 @@
 ---
-title: "What Is Retail Consolidation and Is It Right for You?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-retail-consolidation-and-is-it-right-for-you.jpg"
+keywords: retail consolidation
+author: GoShip Admin
+title: What Is Retail Consolidation and Is It Right for You?
+intro: >
+  The rapid growth of the retail industry resulted in fierce competition among
+  retailers. To succeed in the tight market, businesses have to implement the
+  latest technology, respond to growing customer demands, and maintain realistic
+  budgets. Keeping costs low is a challenge when you constantly need to adjust
+  your strategy and improve service. However, there are some ways for retail
+  supply chains to become more efficient and less expensive. One of the widely
+  used solutions is a retail consolidation program. 
 postedAt: 1583298056000
 news: false
-author: "GoShip Admin"
-intro: "The rapid growth of the retail industry resulted in fierce competition among retailers. To succeed in the tight market, businesses have to implement the latest technology, respond to growing customer demands, and maintain realistic budgets. Keeping costs low is a challenge when you constantly need to adjust your strategy and improve service. However, there are some ways for retail supply chains to become more efficient and less expensive. One of the widely used solutions is a retail consolidation program. \n"
+description: The rapid growth of the retail industry resulted in fierce
+  competition among retailers. To succeed in the tight market, businesses have
+  to implement the latest technology, respond to growing customer demands, and
+  maintain realistic budgets.
+altText: retail consolidation
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-retail-consolidation-and-is-it-right-for-you.jpg
 ---
 The rapid growth of the retail industry resulted in fierce competition among retailers. To succeed in the tight market, businesses have to implement the latest technology, respond to growing customer demands, and maintain realistic budgets. Keeping costs low is a challenge when you constantly need to adjust your strategy and improve service. However, there are some ways for retail supply chains to become more efficient and less expensive. One of the widely used [solutions](https://www.plslogistics.com/blog/3-best-practices-for-effective-vendor-management/) is a retail consolidation program.
 
-What is a retail consolidation program?
----------------------------------------
+## What is a retail consolidation program?
 
 A retail consolidation program is when freight from several suppliers is combined into a single shipment and sent to a retailer. Consolidation is often a part of the retail compliance program and helps to increase its productivity. Retailers often need [multiple LTL shipments](https://www.goship.com/blog/3-best-practices-for-successful-ltl-shipments/), which are expensive to deliver separately, and often leads to delays. When all of the [inbound shipments](https://www.goship.com/blog/how-to-manage-your-inbound-freight-shipments/) from the suppliers are combined and consolidated, the process becomes more efficient and benefits both vendors and retailers.
 
-How does the retail consolidation program work?
------------------------------------------------
+## How does the retail consolidation program work?
 
 Each retailer outlines its specific requirements for the [retail compliance program](https://www.goship.com/blog/what-is-a-vendor-compliance-program-retail/). The terms of consolidation also fall under this category. At its core, consolidation usually means a pre-determined strategy and schedule for collecting shipments from multiple suppliers and delivering them to single retail. Each retailer can have different compliance objectives, like delivery time, lead time, etc.
 
-What are the benefits of retail consolidation?
-----------------------------------------------
+## What are the benefits of retail consolidation?
 
 While retail consolidation helps meet standards and stay compliant with the basic retailer requirements, it also provides many substantial benefits.
 
@@ -33,4 +43,4 @@ Consolidating your inbound freight is a huge opportunity for cost savings. First
 
 ### Better connectivity
 
-Generally, utilizing a retail consolidation program improves connectivity and [visibility](https://www.goship.com/blog/the-evolution-of-retail-the-role-of-visibility/) throughout the supply chain. More transparent and integrated communication between vendors, suppliers, shippers, and consignees can cooperate more efficiently, and make supply chain performance better. This also reduces stock and inventory issues and eliminated delayed deliveries as well. [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+Generally, utilizing a retail consolidation program improves connectivity and [visibility](https://www.goship.com/blog/the-evolution-of-retail-the-role-of-visibility/) throughout the supply chain. More transparent and integrated communication between vendors, suppliers, shippers, and consignees can cooperate more efficiently, and make supply chain performance better. This also reduces stock and inventory issues and eliminated delayed deliveries as well.
