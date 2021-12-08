@@ -1,23 +1,34 @@
 ---
-title: "What Is Billing and Payment Adjustment in Freight Shipping?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-billing-and-payment-adjustment-in-freight-shipping.jpg"
+keywords: billing, payment, billing adjustment, payment adjustment, freigt shipping
+author: GoShip Admin
+title: What Is Billing and Payment Adjustment in Freight Shipping?
+intro: >-
+  What is a billing adjustment?
+
+  -
+
+
+  The billing payment adjustment, or rebill, is an added cost of shipment in case of discrepancies between the actual and stated shipment information. The rebill is usually issued to a broker or shipping platform. This bill adjustment is often an unpleasant surprise for shippers. In many cases, this confusion occurs because of inaccurate measuring, or incorrect data interpretation. Freight carriers always weigh and measure any shipment to see if it complies with the stated inf
 postedAt: 1572915631000
 news: false
-author: "GoShip Admin"
-intro: "What is a billing adjustment?\n-\n\nThe billing payment adjustment, or rebill, is an added cost of shipment in case of discrepancies between the actual and stated shipment information. The rebill is usually issued to a broker or shipping platform. This bill adjustment is often an unpleasant surprise for shippers. In many cases, this confusion occurs because of inaccurate measuring, or incorrect data interpretation. Freight carriers always weigh and measure any shipment to see if it complies with the stated inf"
+description: The bill adjustment is often an unpleasant surprise for shippers.
+  In many cases, this confusion occurs because of inaccurate measuring, or
+  incorrect data interpretation. Freight carriers always weigh and measure any
+  shipment to see if it complies with the stated information. And when there’s a
+  mistake, it can result in additional charges and even a disruption of the
+  entire shipment.
+altText: billing adjustment
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-billing-and-payment-adjustment-in-freight-shipping.jpg
 ---
-What is a billing adjustment?
------------------------------
+## What is a billing adjustment?
 
 The billing payment adjustment, or rebill, is an added cost of shipment in case of discrepancies between the actual and stated shipment information. The rebill is usually issued to a broker or shipping platform. This bill adjustment is often an unpleasant surprise for shippers. In many cases, this confusion occurs because of inaccurate measuring, or incorrect data interpretation. Freight carriers always weigh and measure any shipment to see if it complies with the stated information. And when there’s a mistake, it can result in additional charges and even a disruption of the entire shipment. So, any incomplete or inaccurate measurements can add to your shipping costs.
 
-Where can you find a billing adjustment?
-----------------------------------------
+## Where can you find a billing adjustment?
 
 The first shipping document is the bill of lading.  Upon return to the carrier’s terminal, the dock personnel will weigh and inspect each shipment.  Any inconsistencies in the weight or freight classification on the original bill of lading will generate a Weight and Inspection (W&I) Certificate which is available to the shipper and broker.  The carrier will make any cost adjustment to their invoice and pass it on to the party responsible to pay the freight charges.  It is important to accurately document the shipment weight and freight classification prior to shipping to ensure that the freight quote matches the final invoice.
 
-How to avoid a billing adjustment?
-----------------------------------
+## How to avoid a billing adjustment?
 
 ### Accurate measurements
 
@@ -29,4 +40,4 @@ Weight is extremely important while estimating your freight. State the exact num
 
 ### Properly chosen freight class
 
-In LTL freight shipping, the freight class plays a crucial role in defining the final shipping price. If your estimate is wrong and you provide an invalid freight classification code, the bill adjustment can be quite unpleasant. Make sure to define the class properly or work with a reliable shipping platform to avoid mistakes. [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+In LTL freight shipping, the freight class plays a crucial role in defining the final shipping price. If your estimate is wrong and you provide an invalid freight classification code, the bill adjustment can be quite unpleasant. Make sure to define the class properly or work with a reliable shipping platform to avoid mistakes.
