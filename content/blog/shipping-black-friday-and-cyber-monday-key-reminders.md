@@ -41,4 +41,4 @@ This year can be different in terms of customer behavior and supply chain operat
 * [3 Tips on How to Get the Best Truckload Quotes](https://www.goship.com/blog/3-tips-on-how-to-get-the-best-truckload-quotes/)
 * [Optimizing Your Truckload Shipping Strategy](https://www.goship.com/blog/optimizing-your-truckload-shipping-strategy/)
 * [Preparing Your Small Business for Peak Shipping Season](https://www.goship.com/blog/preparing-your-small-business-for-peak-shipping-season/)
-* [How to Prepare for the Holiday Shipping Season 202](https://www.goship.com/blog/how-to-prepare-for-the-holiday-shipping-season-2020/)1
+* [How to Prepare for the Holiday Shipping Season 202](https://www.goship.com/posts/how-to-prepare-for-the-holiday-shipping-season-2020)1
