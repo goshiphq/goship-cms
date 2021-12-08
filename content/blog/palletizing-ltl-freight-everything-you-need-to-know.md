@@ -47,5 +47,3 @@ Normal pallets are wooden or plastic, are 48 x 40 inches in size, and can typica
 * Use strapping or metal taping to make packages hold together. Wrapping the packages and capturing the pallet would be a good move to strengthen the protection.
 
 With these measures, you will not only be sure your shipment is safe, but also simplify transporting and handling for carriers, which can eliminate your shipping spends.
-
-[![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
