@@ -27,4 +27,4 @@ It depends on the shipping service you are using for moving your goods. Some shi
 
 ## **International shipping with GoShip.com**
 
-You can easily ship goods throughout North America with GoShip.com. We provide reliable shipping services and can recommend a customs broker to you. Learn more about our [international shipping](https://www.goship.com/shipping-services/international-shipping/) services! [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+You can easily ship goods throughout North America with GoShip.com. We provide reliable shipping services and can recommend a customs broker to you. Learn more about our [international shipping](https://www.goship.com/shipping-services/international-shipping/) services!
