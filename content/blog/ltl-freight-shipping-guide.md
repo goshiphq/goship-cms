@@ -58,4 +58,4 @@ To begin preparing your shipment, it is important to know [how to properly pack 
 
 - - -
 
-Remember these key tips whenever you are shipping via LTL to ensure that you pay the best rate and that your shipments arrive safely and on time. Packing and pricing a shipment can be very frustrating and time-consuming, so make sure to use a shipping partner that you trust to help you through the process. **Learn more about our [LTL Freight Shipping](https://www.goship.com/shipping-services/ltl-freight-shipping/) Solutions!** [![](https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)](https://www.goship.com/)
+Remember these key tips whenever you are shipping via LTL to ensure that you pay the best rate and that your shipments arrive safely and on time. Packing and pricing a shipment can be very frustrating and time-consuming, so make sure to use a shipping partner that you trust to help you through the process. **Learn more about our [LTL Freight Shipping](https://www.goship.com/shipping-services/ltl-freight-shipping/) solutions!**
