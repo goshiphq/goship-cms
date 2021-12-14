@@ -97,5 +97,3 @@ It’s important for businesses to have a wide selection of shipping options to 
 Online freight marketplaces can help retailers find affordable shipping options while preventing port congestion.
 
 **[Goship.com](http://goship.com) offers a 24/7 online calculator which will give you an instant quotation for your freight needs.**
-
-<!--EndFragment-->
