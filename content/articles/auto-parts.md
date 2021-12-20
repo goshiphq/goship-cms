@@ -1,8 +1,9 @@
 ---
-title: Auto Parts Shipping Guide | GoShip
-description: Shipping auto parts is one of the most difficult tasks a shipper
-  can face. GoShip has you covered with this helpful guide.
-keywords: auto parts shipping
+title: What's the best way to ship car parts? Check out our guide.
+description: "Shipping auto parts is one of the most difficult tasks a shipper
+  can face. GoShip has you covered with this helpful guide and small business
+  resource. "
+keywords: auto parts shipping, how to ship auto parts, auto parts shipping guide
 ---
 # Auto Parts Shipping Guide
 
@@ -12,7 +13,7 @@ As an automotive business worker or owner, you are supposed to follow them while
 
 We will offer you a wide variety of professional carriers which meet your shipment needs and help you to get a shipping quote for your successful auto parts transit. 
 
-![small business owner pulling inventory for shipping auto parts](images/shipping-auto-parts.jpg "Shipping Auto Parts")
+![small business owner pulling inventory for shipping auto parts](images/goship-website-image-template-1024-x-768-px-1-.png "Shipping Auto Parts")
 
 ## How to organize auto parts shipping
 
@@ -41,7 +42,7 @@ When it comes to smaller auto parts, packing gets much easier due to their light
 
 The volume of items you are shipping also impacts your packaging. If you plan to ship a large number in the same container, it is usually better to pack the auto parts individually (i.e., separate bagging) than placing them all together in a single crate. 
 
-![auto parts shipper holding large car part](images/shipping-large-auto-parts.jpg "Find the right container for the right parts")
+![auto parts shipper holding large car part](images/goship-website-image-template-1024-x-768-px-2-.png "Find the right container for the right parts")
 
 ### Protective packaging 
 
@@ -63,7 +64,7 @@ Labeling becomes crucial when it comes to shipping auto parts containing chemica
 
 In regard to package labeling, remember: the more data you provide on the crate sticker, the less likely your load will be considered for reclassification or reweigh. 
 
-![business owner finding auto parts for shipment by looking at label](images/searching-auto-parts-by-label.jpg "Labeling Car Parts")
+![business owner finding auto parts for shipment by looking at label](images/goship-website-image-template-1024-x-768-px-3-.png "Labeling Car Parts")
 
 ## Auto parts shipping cost
 
@@ -73,11 +74,11 @@ The price of your automotive parts shipping depends on a range of factors. It’
 * **Package.** Choose the proper containers that best fit your auto parts in accordance with their size, shape, weight, and fragility. Check if all the items are well-protected.
 * **Dimensions and weight.** Before requesting a suitable truck, you will most likely want to estimate the overall size of your shipment. After packing the vehicle details into boxes, make sure you measure and weigh them. Keeping precise during this stage will save you from any additional charges.
 * **Transportation mode.** LTL freight usually costs significantly less than FTL, as you are splitting the cost with other shippers. But, if you are in a pinch and your freight could go FTL, you may be able to deliver it faster than LTL.
-* **Seasonality.** This factor can significantly contribute to the final pricing as it fluctuates throughout the year. You might experience increased costs during the [peak season](https://www.goship.com/blog/preparing-your-small-business-for-peak-shipping-season/) of shipping, or notice lower prices in the off season. Most industries have their own seasonality layered on top of fluctuations to the overall [freight market](https://www.dat.com/industry-trends/trendlines). Be prepared for abrupt changes during [the holiday period](https://www.goship.com/blog/how-to-efficiently-ship-during-the-holiday-season/). Seasonality also includes matters of weather instability - transporting auto parts in [bad weather conditions](https://www.goship.com/blog/preparing-for-hurricane-season/) will considerably raise the expenses. 
+* **Seasonality.** This factor can significantly contribute to the final pricing as it fluctuates throughout the year. You might experience increased costs during the [peak season](https://www.goship.com/blog/preparing-your-small-business-for-peak-shipping-season/) of shipping, or notice lower prices in the off-season. Most industries have their own seasonality layered on top of fluctuations to the overall [freight market](https://www.dat.com/industry-trends/trendlines). Be prepared for abrupt changes during [the holiday period](https://www.goship.com/blog/how-to-efficiently-ship-during-the-holiday-season/). Seasonality also includes matters of weather instability - transporting auto parts in [bad weather conditions](https://www.goship.com/blog/preparing-for-hurricane-season/) will considerably raise the expenses. 
 
 Optimizing auto parts shipping expenses is one of our priorities. You can utilize our [shipping calculator tool](https://www.goship.com/) to find pricing the moment you are ready to move a shipment.
 
-![man working to ship auto parts on laptop](images/calculating-auto-parts-shipping-costs-bw-.jpg "Calculating Auto Parts Shipping Cost")
+![man working to ship auto parts on laptop](images/goship-website-image-template-1024-x-768-px-4-.png "Calculating Auto Parts Shipping Cost")
 
 ## How long does auto parts shipping take?
 
