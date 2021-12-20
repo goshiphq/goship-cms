@@ -12,8 +12,6 @@ keywords: port congestion
 altText: port congestion
 image: images/depositphotos_71316689_l.jpg
 ---
-<!--StartFragment-->
-
 Due to heightened consumer demand caused by COVID-19, supply chain operations struggle to keep up, especially as the holidays are fast approaching.
 
 According to National Retail Federation Vice President Jonathan Gold, retailers face a failing logistics system with an apparent lack of capacity, labor, and equipment.
