@@ -39,7 +39,7 @@ To avoid any bottlenecks in logistics operations, it’s important to make sure 
 
 Today, retailers have endless opportunities to acquire new technology. In terms of shipping, there are also applications for managing and tracking shipments, and getting updates. A good textile logistics partner will usually provide an application with everything needed to manage the transportation process.
 
-![small business owner boxing and shipping clothing via ltl freight](images/goship-website-image-template.jpg "Business Shipping Clothing")
+![small business owner boxing and shipping clothing via ltl freight](images/goship-website-image-template-1024-x-768-px-.png "Business Shipping Clothing")
 
 ## What is the best way to ship clothes? 
 
