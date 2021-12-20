@@ -9,7 +9,7 @@ The rapid growth of consumer demand constantly powers the consumer packaged good
 
 However, CPG logistics remains a challenging task for manufacturers of all scales. Learn how to effectively improve your CPG delivery process. 
 
-![Woman pushing cart of consumer packaged goods]()
+![Woman pushing cart of consumer packaged goods](images/goship-website-image-template-1024-x-768-px-9-.png "CPG Shipping and Logistics")
 
 ## What are consumer packaged goods (CPG)?
 
@@ -52,7 +52,7 @@ High consumer demand and the inability of many transportation modes to provide t
 
 It is necessary to be aware of the strict compliance of CPG shipping. Product shortages, overages, and substitutions that sometimes occur in the process can lead to monetary fines. Shipping excess quantities attract lower penalties, however, the customer will probably not like the idea of being forced to pay for extra goods.
 
-![Woman choosing consumer packaged goods]()
+![What are the challenges of CPG logistics?](images/goship-website-image-template-1024-x-768-px-10-.png "80 percent of CPG supply chain executives state transportation as their biggest challenge")
 
 ## CPG supply chain strategy
 
@@ -65,7 +65,7 @@ Storage of consumer packaged goods is principal for a successful shipping flow. 
 * **Dry goods.** As a rule, dry goods are quite easy to store, as they have a longer shelf life. That means you can use basic protection for them and thus reduce the transportation costs. Also, dry goods can be packed more compactly in the truck. Yet, certain types of dry goods will need more consideration to store them properly. For instance, dry food products have to be hidden from direct sunlight and stored with observance of temperature control. 
 * **Perishable goods.** Unlike dry goods, perishable products should be stored much more carefully. As they are meant to stay fresh after delivery, perishable goods are mostly transported in reefer trucks with a temperature regulation system. Using refrigerators will elevate any possibility of foods getting spoiled. For short delivery distances, you might think about applying diverse cooling supplies such as dry ice or insulated pads. Please note that dry ice is categorized as a hazardous material, so using it will have an influence on your freight class. 
 
-![Woman looking at consumer packaged goods]()
+![CPG goods storage](images/goship-website-image-template-1024-x-768-px-11-.png "CPG supply chain strategy")
 
 ### CPG packaging
 
@@ -121,7 +121,7 @@ Replacement of materials is the key: eco-friendly alternatives can easily substi
 
 This will not only reduce the harmful impact on the environment but will also increase the attractiveness of your production. Besides, the manufacturing cost of sustainable materials is way lower than regular plastic packaging. 
 
-![woman looking at consumer packaged goods]()
+![Workers In Distribution Warehouse](images/goship-website-image-template-1024-x-768-px-12-.png "PG packaging")
 
 ## How to optimize the CPG supply chain
 
@@ -158,7 +158,7 @@ The price of your CPG shipment is formed following the actual weight and size of
 
 With GoShip, you can immediately get a quote and compare the rates from multiple carriers in real-time. Don’t hesitate to use our [online calculator](https://www.goship.com) tool to summarize your CPG logistics cost. 
 
-![business owner shipping cpg orders on tablet]( "CPG Shipping ")
+![business owner shipping cpg orders on tablet](images/goship-website-image-template-1024-x-768-px-13-.png "CPG shipping rates")
 
 ## CPG Shipping Services
 
