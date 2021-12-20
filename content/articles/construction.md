@@ -1,8 +1,10 @@
 ---
-title: Construction Logistics | GoShip
-description: Construction logistics is a complex process. It can be hard to
-  arrange moving construction equipment without a reliable shipping partner.
-keywords: construction logistics
+title: Check out our how to guide for Shipping Construction Materials
+description: A well-organized supply chain is meant to supply the construction
+  sites with all the necessary materials for the job. Learn more about
+  construction logistics.
+keywords: "Shipping Construction Materials, How To Ship Construction Supplies,
+  Construction Logistics "
 ---
 # Construction Logistics: How To Ship Construction Supplies
 
@@ -10,7 +12,7 @@ Logistics plays an extremely important role in the modern construction industry.
 
 A well-organized supply chain is meant to supply the construction sites with all the necessary materials and equipment in the course of the construction operations. Learn more about construction logistics organizing in our detailed guide.
 
-![Construction logistics at construction site](images/construction-logistics-1.jpeg)
+![Construction logistics at construction site](images/goship-website-image-template-1024-x-768-px-5-.png "Construction Logistics ")
 
 ## What is construction logistics? 
 
@@ -39,7 +41,7 @@ If you are just planning a single shipment to a single construction site, you ca
 * **Organize a space onsite to unload the vehicles.** Some construction sites don't offer any designated areas to unload the delivered supplies, which can result in layovers and long delays. Dedicating a specific space to unloading is a great way to avoid potential delays upon shipment arrival.
 * **Online delivery tracking.** When booking a shipment online, you can consider using solutions that provide shipment tracking, like GoShip. They enable stakeholders to track the loads during the day and control whether the delivery will be completed on time.
 
-![Workers organizing construction logistics](images/construction-logistics-2.jpeg)
+![Workers organizing construction logistics](images/goship-website-image-template-1024-x-768-px-6-.png "Online delivery tracking")
 
 ## Organization of construction logistics processes
 
@@ -75,7 +77,7 @@ Many factors affect the prices of construction shipping. Transportation cost dep
 
 GoShip can help you [get a quote](https://www.goship.com/) and compare rates from a vast network of carriers in a few clicks. 
 
-![Workers at construction site with construction equipment](images/construction-logistics-3.jpeg)
+![Workers at construction site with construction equipment](images/goship-website-image-template-1024-x-768-px-7-.png "Construction Logistics ")
 
 ## Specifics of transporting construction units 
 
@@ -125,7 +127,7 @@ For moving construction units, different types of vehicles are used and can have
 
 Before loading the construction materials and getting them in transit, make sure you have carefully reviewed all the requirements and are prepared for delivery. Strong construction logistics planning will save you time and money in the long run.
 
-![man coordinating construction logistics on job site](images/coordinating-construction-logistics.jpg "Construction Logistics")
+![man coordinating construction logistics on job site](images/goship-website-image-template-1024-x-768-px-8-.png "Construction Logistics")
 
 ## Construction Logistics Services
 
