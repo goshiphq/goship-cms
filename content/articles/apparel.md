@@ -3,7 +3,7 @@ title: Apparel
 description: With GoShip's online freight marketplace, you can simplify the
   apparel supply chain and make shipping clothing less complex and less
   expensive.
-keywords: shipping clothing
+keywords: shipping clothing, best way to ship clothes, cost to ship clothes
 ---
 # Shipping Clothing and the Apparel Supply Chain
 
@@ -39,7 +39,7 @@ To avoid any bottlenecks in logistics operations, it’s important to make sure 
 
 Today, retailers have endless opportunities to acquire new technology. In terms of shipping, there are also applications for managing and tracking shipments, and getting updates. A good textile logistics partner will usually provide an application with everything needed to manage the transportation process.
 
-![small business owner boxing and shipping clothing via ltl freight](images/shipping-apparel.jpg "Business Shipping Clothing")
+![small business owner boxing and shipping clothing via ltl freight](images/goship-website-image-template.jpg "Business Shipping Clothing")
 
 ## What is the best way to ship clothes? 
 
