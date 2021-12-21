@@ -1,10 +1,30 @@
 ---
-title: "5 Steps To Get the Best LTL Shipping Rates"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/best-ltl-shipping-rates.jpg"
+keywords: Best LTL Shipping Rates, lowest freight shipping rates,  online
+  shipping services
+author: GoShip Admin
+title: 5 Steps To Get the Best LTL Shipping Rates
+intro: >-
+  If you are shipping goods across the country, you probably look for the lowest
+  freight shipping rates. While many online shipping services offer free quote
+  comparison, it can be tricky to choose the best one for your needs. Shippers
+  are often unaware of how they can reduce shipping costs on their own. Before
+  diving into the shipment booking process, you should know some tips and tricks
+  on how to save on transportation and get the best freight rates: 
+
+
+  Provide Accurate Information
+
+  -
+
+
+  Beginner shippers often 
 postedAt: 1550638817000
 news: false
-author: "GoShip Admin"
-intro: "If you are shipping goods across the country, you probably look for the lowest freight shipping rates. While many online shipping services offer free quote comparison, it can be tricky to choose the best one for your needs. Shippers are often unaware of how they can reduce shipping costs on their own. Before diving into the shipment booking process, you should know some tips and tricks on how to save on transportation and get the best freight rates: \n\nProvide Accurate Information\n-\n\nBeginner shippers often "
+description: Before diving into the shipment booking process, you should know
+  some tips and tricks on how to save on transportation and get the best freight
+  rates.
+altText: " online shipping services"
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/best-ltl-shipping-rates.jpg
 ---
 If you are shipping goods across the country, you probably look for the lowest freight shipping rates. While many online shipping services offer free quote comparison, it can be tricky to choose the best one for your needs. Shippers are often unaware of how they can reduce shipping costs on their own. Before diving into the shipment booking process, you should know some tips and tricks on how to save on transportation and get the best freight rates:
 
