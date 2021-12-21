@@ -1,9 +1,9 @@
 ---
-title: Truckload Freight Shipping
+title: "What is Truckload Freight Shipping? And What are the Benefits? "
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/truckload-freight-shipping.png
 description: Truckload shipping is the most common type of over-the-road freight
   transportation. Carriers who move truckload use different equipment types.
-keywords: truckload ftl freight shipping
+keywords: truckload ftl freight shipping, benefits of truckload freight shipping?
 ---
 *At GoShip.com, we make quoting truckload freight shipments simple. With our online calculating tools, you can get a list of competitive truckload shipping rates from our reliable carriers. When you're shipping truckload, you can rely on our technology, carrier network, and tailored solutions for your business.*
 
