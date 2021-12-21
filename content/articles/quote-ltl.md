@@ -1,8 +1,8 @@
 ---
-title: Compare Free LTL Freight Quote in Seconds | GoShip
+title: "Compare shipping companies with our Free LTL Freight Quote "
 description: GoShip provides instant LTL freight quote at wholesale pricing with
   no obligation to buy. Get your free quote in under 60 seconds.
-keywords: ltl freight quote
+keywords: ltl freight quote, compare ltl freight quote,  Instant LTL Freight Quote
 ---
 Booking a shipment doesn’t have to be difficult, and shipping platforms like GoShip help simplify the process through our wide network of reputable carriers and negotiated rates. With GoShip’s freight class calculator, you’ll get access to the lowest LTL quote in no time!
 
@@ -22,7 +22,7 @@ When you get an LTL freight quote from GoShip, you can compare freight shipping 
 * [Full value freight insurance](https://www.goship.com/resources/freight-insurance)
 * [Simple shipping to and from Canada](https://www.goship.com/resources/freight-insurance)
 
-![Woman on computer getting an ltl freight quote for shipments sitting on desk](images/quoting-ltl-shipments.jpg "Getting an LTL freight quote")
+![man on computer getting an ltl freight quote for shipments sitting on desk](images/goship-website-image-template-1024-x-768-px-4-.png "Getting an LTL freight quote")
 
 ## **How to Get an LTL Freight Quote with GoShip**
 
@@ -48,7 +48,7 @@ With GoShip, you’re in control. Once you have provided all of the accurate inf
 
 We ensure your safety and security through our secure website. We partner with [PayFabric](https://www.payfabric.com/) – a reliable and secure cloud-based payment processing platform. All credit cards are accepted with a U.S. billing address. You can be confident and have peace of mind with the secure and quick transfers on our platform!
 
-![Truck driver with ltl freight sitting next to him](images/carrier-moving-ltl-freight.jpg "Carrier moving LTL freight")
+![Truck driver with ltl freight sitting next to him](images/goship-website-image-template-1024-x-768-px-17-.png "Carrier moving LTL freight")
 
 ## **Why Choose GoShip for LTL Freight Quotes?**
 
