@@ -31,7 +31,7 @@ No matter how small or big your business is, you will work with other companies 
 
 Trying to manage all the branches of your business at once can turn into a nightmare. Properly managed logistics and shipping require time and effort. That's where shipping platforms come into play. Your logistics partners will handle most of the burden, like searching for better freight rates, [carriers](https://www.goship.com/blog/how-to-choose-the-right-ltl-carriers/), shipment tracking, and billing. Platforms like GoShip.com have tools for instant freight quoting, regular shipment updates, and a user-friendly interface. 
 
-![Small business owner checking shipments in warehouse](images/small-business-shipping.jpg "Small Business Shipping")
+![Small business owner checking shipments in warehouse](images/goship-website-image-template-1024-x-768-px-19-.png "Small Business Shipping")
 
 ## Small business shipping solutions: why use a shipping platform for small businesses? 
 
@@ -66,7 +66,7 @@ Truckload freight shipping is a convenient and most common way of shipping freig
 * Reliability. No stops during transit lead to less freight handling, which reduces the risk of freight damage, theft, or loss.
 * Costs. Although full truckload shipping is usually more expensive, if you have large volumes of freight and ship frequently, in the long run, it may be more cost-efficient than using other shipping modes. 
 
-![Small business owner reviewing recent shipments](images/small-business-shipper.jpg "Small Business Owner")
+![Small business owner reviewing recent shipments](images/goship-website-image-template-1024-x-768-px-20-.png "Small Business Owner")
 
 ## Why choose GoShip's small business shipping service? 
 
