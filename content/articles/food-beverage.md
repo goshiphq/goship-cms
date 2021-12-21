@@ -1,8 +1,8 @@
 ---
-title: Shipping Food and Beverages | GoShip
+title: How to Ship Food and Beverages  with GoShip
 description: Using instant pricing and guaranteed capacity from GoShip, shipping
   food and beverages has never been easier.
-keywords: shipping food
+keywords: "shipping food, how to ship food, food shipping services "
 ---
 ## How to Ship Food 
 
@@ -26,7 +26,7 @@ Not a small ask, but necessary in order to protect their margins. To meet these 
 
 By leveraging a freight marketplace, food shippers get a clear read on the costs and transit times and can select the right fit for their freight. GoShip offers these quotes within seconds and free of cost, so shippers can stay on schedule without waiting or eating into their budgets. 
 
-![business owner packaging and weighing coffee before shipping](images/packing-and-shipping-coffee.jpg "Preparing to Ship")
+![business owner packaging and weighing coffee before shipping](images/goship-website-image-template-1024-x-768-px-29-.png "Preparing to Ship")
 
 ### Food Shipping Services
 
@@ -44,7 +44,7 @@ Making sure your package of frozen foods is packaged correctly is important beca
 
 At GoShip, we can help you plan a fast and easy shipping process with one of our many reliable, pre-vetted carriers to help make sure your frozen foods arrive on time and in perfect condition. Visit our [food and beverage page](https://www.goship.com/posts/all-you-need-to-know-about-shipping-food-cross-country) to learn more about how GoShip can help you safely ship your frozen foods, or fill out our [Get a Quote](https://www.goship.com/) form and see which providers best suit your shipping needs. 
 
-![woman reviewing packaging before shipping food](images/reviewing-food-packaging-before-shipping.jpg "Shipping Perishables")
+![woman reviewing packaging before shipping food](images/goship-website-image-template-1024-x-768-px-30-.png "Shipping Perishables")
 
 ## Shipping Perishables 
 
@@ -60,7 +60,7 @@ Finally, proper warehousing is critical. Every stop for your perishable between 
 
 By planning ahead—when packaging, when selecting a carrier, when warehousing—you can ship perishables quickly and safely, maximizing your time on the shelf and ability to get into consumers’ hands. 
 
-![small business owners packing and preparing to ship food and beverages at table](images/business-owners-shipping-food-and-bev.jpg "Shipping Perishables")
+![small business owners packing and preparing to ship food and beverages at table](images/goship-website-image-template-1024-x-768-px-31-.png "Shipping Perishables")
 
 ### Shipping Meat 
 
@@ -98,7 +98,7 @@ Because shipping liquids carries additional risk, you should select a carrier wi
 
 Finally, you should make sure that you are falling on the right side of any carrier agreement and local laws. Many carriers will have specific requirements depending on the contents of your liquid shipment, and most governments have laws on how certain liquids, like alcohol, are shipped. 
 
-![business owner reviewing manufacturing line before shipping liquids in bottles](images/beverage-bottling.jpg "Shipping Liquids")
+![business owner reviewing manufacturing line before shipping liquids in bottles](images/goship-website-image-template-1024-x-768-px-32-.png "Shipping Liquids")
 
 ### Safest Way to Ship Liquids 
 
@@ -138,7 +138,7 @@ Once you expand to shipping beer across state lines, you must start worrying 
 
 In short, when shipping beer, follow the best practices for shipping liquid perishables, but work in close concert with your carrier and within the confines of both origin and destination laws. 
 
-![Man stocking shelves with recent wine shipment](images/business-owner-stocking-wine.jpg "Shipping Alcohol")
+![Man stocking shelves with recent wine shipment](images/goship-website-image-template-1024-x-768-px-19-.png "Shipping Alcohol")
 
 ### Shipping Wine 
 
