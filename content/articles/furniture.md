@@ -1,8 +1,8 @@
 ---
-title: Shipping Furniture
+title: How to Ship Furniture and Get a Free Instant Quote
 description: If you’ve ever had to move a bulky piece of furniture yourself, you
   know why furniture shipping services are a necessity.
-keywords: shipping furniture
+keywords: "shipping furniture, Shipping Furniture Cost, Furniture Shipping Services "
 ---
 ## Furniture Shipping Services 
 
