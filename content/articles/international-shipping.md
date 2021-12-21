@@ -1,11 +1,11 @@
 ---
-title: International Freight Shipping | How to Ship Freight Overseas | GoShip
+title: "International Freight Shipping | How to Ship Freight Overseas "
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/international-shipping.jpg
-description: If you are a small business or an individual who ships goods
+description: "If you are a small business or an individual who ships goods
   throughout the U.S., you have probably thought about expanding your customer
-  base to Canada. GoShip provides reliable international shipping services to
-  and from Canada, and can help you enter the global market smoothly!
-keywords: international shipping
+  base to Canada. "
+keywords: international shipping, international freight shipping, How to ship
+  freight overseas?
 ---
 <!--StartFragment-->
 
@@ -97,7 +97,7 @@ In the process of organizing international freight shipping, it is crucial to ex
 * FedEx shipping service is aimed at avoiding any delays, so it can deliver your goods even faster than other international shipping companies. The operational processes of this organization differ by their increased efficiency, especially due to shipment tracking availability. However, it can result in higher costs and additional expenses in case your product exceeds the company’s weight limits.
 * DHL international shipping mostly suits ocean and air freight delivery. If you are planning to transport the cargo using these types of international shipping, you can consider DHL as a cost-effective and reliable company.
 
-![truckload freight in canada](images/truckload-freight-canada.jpg "FTL and LTL freight in Canada")
+![truckload freight in canada](images/goship-website-image-template-1024-x-768-px-23-.png "FTL and LTL freight in Canada")
 
 ## Shipping to Canada 
 
