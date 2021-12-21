@@ -29,11 +29,7 @@ Truckload shipping has a wide coverage of trailers and modes. This means you can
 
 Usually, truckload is more expensive than LTL. However, it can be cheaper if you have heavy, high-volume loads. In that case, shipping will be a much more cost-effective option than booking several LTL shipments.
 
-
-
-![Woman looking out window while hauling full truckload ftl freight](images/ftl-truck-driver.jpg "FTL Freight Driver")
-
-
+![Woman looking out window while hauling full truckload ftl freight](images/goship-website-image-template-1024-x-768-px-17-.png "FTL Freight Driver")
 
 ## What are the types of truckload freight shipping?
 
@@ -108,11 +104,7 @@ Despite truckload freight rates depend on some unchangeable factors, they can be
 
 Truckload freight rates can vary not just because of the weight, but also because of spikes in seasonal capacity demand and volatile fuel prices. It's important to know that the more time you give a shipping company or the carrier to provide a freight rate, the lower it will be.
 
-
-
-![Carrier securing full truckload ftl freight in trailer](images/securing-ftl-truckload-pallet.jpg "Securing Full Truckload Freight")
-
-
+![Carrier securing full truckload ftl freight in trailer](images/goship-website-image-template-1024-x-768-px-18-.png "Securing Full Truckload Freight")
 
 ## Truckload shipping with GoShip.com
 
