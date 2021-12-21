@@ -1,5 +1,9 @@
 ---
-title: Freight Shipping Services
+title: Freight Shipping Services at GoShip
+description: Freight shipping is the physical process of transporting
+  commodities, merchandise goods, and cargo carried in bulk.
+keywords: What does freight shipping mean?, How does freight shipping work?
+  Freight Shipping
 ---
 ## What does freight shipping mean? 
 
