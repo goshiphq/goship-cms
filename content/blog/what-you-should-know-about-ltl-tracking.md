@@ -10,9 +10,10 @@ postedAt: "1633007124059"
 news: false
 description: Learn how reliable LTL tracking technology can help you better
   manage your logistics system and enhance your workflow.
-keywords: LTL tracking
+keywords: LTL tracking, tracking technology, freight shipping, LTL shipping,
+  Less than Truckload
 altText: LTL tracking
-image: images/ltl-tracking.png
+image: images/copy-of-goship-website-image-template-1024-x-768-px-2-.png
 ---
 
 
