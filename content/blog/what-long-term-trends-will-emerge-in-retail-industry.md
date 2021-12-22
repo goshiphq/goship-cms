@@ -1,5 +1,6 @@
 ---
-keywords: retail trends
+keywords: Retail trends, consumer behavior, future of retail industry, emerging
+  retail trends
 author: GoShip Admin
 title: What Long Term Trends Will Emerge In The Retail Industry?
 intro: While most businesses affected by COVID-19 are combating forces to save
@@ -11,14 +12,10 @@ intro: While most businesses affected by COVID-19 are combating forces to save
   many, the current pandemic crisis can become a turning poin
 postedAt: 1586322046000
 news: false
-description: While most businesses affected by COVID-19 are combating forces to
-  save their company at the moment, developing a long term strategy is vital to
-  successfully operate the retail market over the next several years. A variety
-  of factors are affecting the world of retail right now. Retail companies that
-  are revolving around increasing and fluctuating consumer demands have to
-  constantly acquired new practices, technology and trends to stay relevant.
-altText: retail trends
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-long-term-trends-will-emerge-in-retail-industry.jpg
+description: Learn how consumer behaviors are shifting and what long-term trends
+  are emerging in the retail industry
+altText: emerging retail trends
+image: images/copy-of-goship-website-image-template-1024-x-768-px-3-.png
 ---
 While most businesses affected by COVID-19 are combating forces to save their company at the moment, developing a long term strategy is vital to successfully operate the retail market over the next several years. A variety of factors are affecting the world of retail right now. Retail companies that are revolving around increasing and fluctuating consumer demands have to constantly acquired new practices, technology and trends to stay relevant. For many, the current pandemic crisis can become a turning point in a [customers’ perception](https://www.goship.com/blog/how-can-small-businesses-survive-coronavirus-recession/) of your business.
 
