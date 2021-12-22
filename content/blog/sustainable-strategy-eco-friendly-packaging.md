@@ -1,5 +1,5 @@
 ---
-keywords: sustainable packaging
+keywords: sustainable packaging, eco-friendly packaging, Eco-friendly Shipping Ideas
 author: GoShip Admin
 title: "Sustainable Strategy: Eco Friendly Packaging"
 intro: They say that you should never judge a book by its cover. However,
