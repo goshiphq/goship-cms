@@ -1,10 +1,23 @@
 ---
-title: "When Should You Switch to Full Truckload Shipping?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/when-should-you-switch-to-full-truckload-shipping.jpg"
+keywords: Full Truckload Shipping, Switching to Full Truckload Shipping, Freight Shipping
+author: GoShip Admin
+title: When Should You Switch to Full Truckload Shipping?
+intro: >-
+  For small business owners, shipping freight can sometimes be costly and
+  challenging. You have to wear many hats and with a limited budget, getting the
+  best out of the shipping services can be hard. If your goods are
+  time-sensitive and prone to damage, we may have the right solutions for you -
+  FTL (full truckload shipping). Regardless of the shipping method, you are
+  using right now, truckload shipping can be a great way to optimize your
+  transportation strategy. 
+
+
+  When should you try using full truckload ship
 postedAt: 1602651995000
 news: false
-author: "GoShip Admin"
-intro: "For small business owners, shipping freight can sometimes be costly and challenging. You have to wear many hats and with a limited budget, getting the best out of the shipping services can be hard. If your goods are time-sensitive and prone to damage, we may have the right solutions for you - FTL (full truckload shipping). Regardless of the shipping method, you are using right now, truckload shipping can be a great way to optimize your transportation strategy. \n\nWhen should you try using full truckload ship"
+description: When To Use Full Truckload Shipping
+altText: Full Truckload Shipping
+image: images/copy-of-goship-website-image-template-1024-x-768-px-1-.png
 ---
 For small business owners, shipping freight can sometimes be costly and challenging. You have to wear many hats and with a limited budget, getting the best out of the shipping services can be hard. If your goods are time-sensitive and prone to damage, we may have the right solutions for you - FTL ([full truckload shipping](https://www.goship.com/blog/what-is-truckload-shipping-and-how-does-it-work/)). Regardless of the shipping method, you are using right now, truckload shipping can be a great way to optimize your [transportation strategy](https://www.goship.com/blog/optimizing-your-truckload-shipping-strategy/).
 
