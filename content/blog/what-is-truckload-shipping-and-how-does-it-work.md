@@ -1,5 +1,5 @@
 ---
-keywords: truckload shipping
+keywords: Less than truckload, full truckload, on-road shipping, freight, transportation
 author: GoShip Admin
 title: What Is Truckload Shipping and How Does It Work?
 intro: >-
@@ -19,13 +19,10 @@ intro: >-
   Truckload shipping refers to moving large volu
 postedAt: 1567573207000
 news: false
-description: "In over-the-road-shipping, trucking takes the biggest part of the
-  cake and plays a crucial role in the U.S. economy. There are two pivotal modes
-  of truck transportation: less than truckload and full truckload shipping. Both
-  methods can be beneficial to the shipper, however, they have a lot of
-  differences."
+description: "There are two pivotal types of on-road transportation: less than
+  truckload and full truckload. Learn the similarities and differences here. "
 altText: truckload shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-truckload-shipping-and-how-does-it-work.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-4-.png
 ---
 In over-the-road-shipping, trucking takes the biggest part of the cake and plays a crucial role in the U.S. economy. There are two pivotal [modes of truck transportation](https://www.goship.com/blog/modes-of-transportation-in-logistics/): less than truckload and full truckload shipping. Both methods can be beneficial to the shipper, however, they have a lot of differences. While you may have [heard about LTL](https://www.goship.com/blog/ltl-freight-shipping-for-beginners/) a lot, truckload [has its own specifics](https://www.plslogistics.com/blog/full-truckload-shipping-what-you-should-know/) that should be considered before using this mode.
 
