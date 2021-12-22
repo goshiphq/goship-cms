@@ -14,7 +14,7 @@ news: false
 description: Make your freight shipping easy and convenient with our less than
   truckload (LTL) freight shipping service!
 altText: tips to make ltl shipping easy
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-make-ltl-shipping-easy.png
+image: images/goship-blog-1-.png
 ---
 Shipping can be stressful sometimes, we understand that. Most of the time the hardest part is organizing your schedule to fit it in. Often, you may be scrambling to make it to the shipping service’s office. Or you have no time at all to go through the process of making the shipment order. With new and innovative solutions arising each year, you can begin to leave your worry behind and start to make your experience a breeze! Here are some great ways that you can help make your next LTL shipment easy and stress-free.
 
