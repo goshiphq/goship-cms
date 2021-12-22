@@ -4,7 +4,7 @@ description: Like in any other industry, healthcare logistics and shipping
   pharmaceuticals require fast and reliable shipping solutions.
 keywords: healthcare logistics
 ---
-<!--StartFragment-->
+
 
 # Healthcare logistics
 
@@ -138,5 +138,3 @@ The best way to calculate healthcare logistics costs is to fill in shipment info
 * 24/7 [shipment tracking](https://www.goship.com/blog/3-reasons-shipment-tracking-matters/)  
 * A [self-service platform](https://www.goship.com/about-us/) for online shipment booking  
 * Refrigerated shipping
-
-  <!--EndFragment-->
