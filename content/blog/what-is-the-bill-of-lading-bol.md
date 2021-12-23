@@ -1,10 +1,21 @@
 ---
-title: "What Is the Bill of Lading (BOL)?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-the-bill-of-lading-bol.jpg"
+keywords: BOL, Bill of lading, document
+author: mderesh
+title: What Is the Bill of Lading (BOL) and How to Fill It Out?
+intro: >-
+  What Is the Bill of Lading (BOL)?
+
+  -
+
+
+  The bill of lading (BOL) is an essential document in the freight shipping process that acts as the main agreement between a shipper and a carrier. The bill of lading includes the most important information about your shipments, such as shipment details, dates, addresses, and special instructions. The document is issued by a freight carrier who moves your freight to you, the shipper. Additionally, the BOL acts as a receipt for your shipment, a contract between you and the
 postedAt: 1559106001000
 news: false
-author: "mderesh"
-intro: "What Is the Bill of Lading (BOL)?\n-\n\nThe bill of lading (BOL) is an essential document in the freight shipping process that acts as the main agreement between a shipper and a carrier. The bill of lading includes the most important information about your shipments, such as shipment details, dates, addresses, and special instructions. The document is issued by a freight carrier who moves your freight to you, the shipper. Additionally, the BOL acts as a receipt for your shipment, a contract between you and the"
+description: "Bill of lading is a document that no successful transit goes
+  without. Including all the crucial information, the BOL serves as the main
+  physical proof of a shipment. "
+altText: "man filling out the BOL form "
+image: images/copy-of-goship-blog-1-.png
 ---
 What Is the Bill of Lading (BOL)?
 ---------------------------------
