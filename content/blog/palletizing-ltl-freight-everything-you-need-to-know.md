@@ -1,6 +1,6 @@
 ---
-keywords: "Palletizing LTL freight, palletized, how to palletize freight, how to
-  palletize shipping "
+keywords: palletized, how to palletize freight, how to palletize shipping,
+  palletizing, shipping costs, palletizing LTL freight, pallets
 author: GoShip Admin
 title: "Palletizing LTL Freight: Everything You Need to Know"
 intro: Palletizing LTL freight can help reduce overall shipping costs, since a
@@ -8,11 +8,10 @@ intro: Palletizing LTL freight can help reduce overall shipping costs, since a
   it.
 postedAt: 1550034002000
 news: false
-description: Palletizing LTL freight can help reduce overall shipping costs,
-  since a pallet is considered a single piece, regardless of the number of
-  packages on it.
+description: Palletizing LTL freight can help reduce your overall shipping
+  costs, regardless of the number of packages you put on a pallet.
 altText: Palletizing LTL freight
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/palletizing-ltl-freight-everything-you-need-to-know.jpg
+image: images/copy-of-goship-blog-10-.png
 ---
 Providing safe and secure packaging is essential for smooth freight transportation. When shipping with [less-than-truckload](https://www.thebalancesmb.com/less-than-truckload-ltl-2221319), packing is even more important because there are multiple shipments combined in a trailer. Preparation simplifies handling, loading, and unloading, and prevents cargo damage. The most common way of packing LTL freight is **palletizing**.
 
