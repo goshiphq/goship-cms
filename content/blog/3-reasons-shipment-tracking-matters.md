@@ -1,5 +1,5 @@
 ---
-keywords: "shipment tracking "
+keywords: shipment tracking, tracking systems, customer experience
 author: mderesh
 title: 3 Reasons Why Shipment Tracking Matters To Customers
 intro: In our fast-paced world, we’re getting used to receiving what we want and
@@ -11,11 +11,11 @@ intro: In our fast-paced world, we’re getting used to receiving what we want a
   of technology, many companies still don’t offer shipment tra
 postedAt: 1558501228000
 news: false
-description: Although it seems like we’re living in the age of technology, many
-  companies still don’t offer shipment tracking to their customers, and
-  sometimes if they do, it is poor and hard to navigate.
-altText: "shipment tracking "
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-reasons-shipment-tracking-matters.jpg
+description: "The practice of shipment tracking greatly affects customer
+  experience. Consider applying tracking systems to increase your shipping
+  visibility. "
+altText: customer tracking shipment online
+image: images/copy-of-goship-blog-8-.png
 ---
 In our fast-paced world, we’re getting used to receiving what we want and when we want it. We also like to be in control of what’s going on. In particular, this applies to the shipping experience. Eventually, technology impacts the way we get things done. 
 
