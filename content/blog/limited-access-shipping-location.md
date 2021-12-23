@@ -1,5 +1,5 @@
 ---
-keywords: limited access shipping
+keywords: limited access shipping, transportation fees
 author: mderesh
 title: What Is Limited Access Shipping?
 intro: >-
@@ -18,13 +18,10 @@ intro: >-
   A limited access location is an area where pick up and delivery are restricted. It can mean the driver requires add
 postedAt: 1554267609000
 news: false
-description: One of the main factors of a positive experience with a shipping
-  provider is getting an accurate freight quote without hidden charges.
-  Sometimes, shippers see delivery from a different perspective than drivers and
-  carriers do. So, limited access shipping locations often cause confusion among
-  shippers, and extra fees can surprise shippers.
-altText: limited access shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/limited-access-shipping-location.jpg
+description: "In order to avoid any extra charges or transportation fees, it is
+  recommended to learn about the places of limited access shipping. "
+altText: limited access shipping area
+image: images/copy-of-goship-blog-5-.png
 ---
 One of the main factors of a positive experience with a shipping provider is getting an accurate [freight quote](https://app.goship.com/#/wizard) without hidden charges. Sometimes, shippers see delivery from a different perspective than drivers and carriers do. So, limited access shipping locations often cause confusion among shippers, and extra fees can surprise shippers.
 
