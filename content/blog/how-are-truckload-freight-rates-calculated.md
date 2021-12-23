@@ -1,5 +1,5 @@
 ---
-keywords: truckload freight rates
+keywords: Truckload freight rates, shipping costs
 author: GoShip Admin
 title: How Are Truckload Freight Rates Calculated?
 intro: Truckload freight rates play a significant role for shippers when
@@ -11,10 +11,10 @@ intro: Truckload freight rates play a significant role for shippers when
   mostly depend on mileage or door-to-door standard price. Co
 postedAt: 1570597257000
 news: false
-description: Truckload freight rates play a significant role for shippers when
-  deciding on the carrier or the company to move your freight.
-altText: truckload freight rates
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-are-truckload-freight-rates-calculated.jpg
+description: Truckload freight rates are formed in accordance with the variety
+  of factors. Learn how each of them can modify your shipping costs.
+altText: truckload freight on the road
+image: images/copy-of-goship-blog-11-.png
 ---
 [Truckload freight](https://www.goship.com/blog/what-is-truckload-shipping-and-how-does-it-work/) rates play a significant role for shippers when deciding on the carrier or the company to move your freight. However, before landing a freight quote, it’s important to know which factors impact truckload rates and how they are calculated.  Truckload quotes are formed in a rather simple way compared to LTL rates, where density and freight class define the final cost of the shipment. In truckload shipping, freight rates are flat and mostly depend on mileage or door-to-door standard price. Commodity type rarely impacts the shipping cost as long as there is enough freight to fill in a 48 ft trailer.
 
