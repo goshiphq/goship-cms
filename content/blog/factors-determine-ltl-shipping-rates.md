@@ -1,5 +1,5 @@
 ---
-keywords: " LTL rates"
+keywords: LTL rates, less than truckload freight rates, truckload rates
 author: GoShip Admin
 title: Which Factors Determine LTL Freight Rates?
 intro: >-
@@ -19,9 +19,9 @@ intro: >-
   Normally, full truckload shipping rates are based on a per-mile rate or price-per-
 postedAt: 1530086431000
 news: false
-description: Many factors affect LTL rates. Generally, less than truckload rates
-  are calculated differently than truckload rates.
-altText: " LTL rates"
+description: Many factors affect LTL rates. Thus, less than truckload rates are
+  calculated differently compared to general truckload rates.
+altText: "packing LTL freight boxes and calculating LTL freight rates "
 image: images/goship-blog-2-.png
 ---
 ## How are LTL freight rates calculated?
