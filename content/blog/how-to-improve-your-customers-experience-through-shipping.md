@@ -1,5 +1,5 @@
 ---
-keywords: customer experience
+keywords: customer experience, shipping strategy, shipping performance
 author: GoShip Admin
 title: How To Improve Your Customers Experience Through Shipping
 intro: "The retail industry is constantly expanding, and every year the
@@ -11,11 +11,10 @@ intro: "The retail industry is constantly expanding, and every year the
   experience is someone’s experience involving every interaction "
 postedAt: 1545800452000
 news: false
-description: There are many key performance indicators (KPIs) that define if the
-  company is evolving or not, but the one that has become extremely valuable in
-  recent years is customer experience.
-altText: customer experience
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-improve-your-customers-experience-through-shipping.jpg
+description: "Customer experience is the main indicator of a successful shipping
+  strategy and advanced shipping performance. "
+altText: positive customer experience
+image: images/copy-of-goship-blog-6-.png
 ---
 The retail industry is constantly expanding, and every year the competition among retailers gets fiercer. As the e-commerce sector reaches its peak growth, online stores are becoming the shopping channel used most by consumers. There are many key performance indicators (KPIs) that define if the company is evolving or not, but the one that has become extremely valuable in recent years is customer experience. 
 
