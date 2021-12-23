@@ -1,5 +1,5 @@
 ---
-keywords: "inside delivery, inside pickup "
+keywords: inside pickup, inside delivery, inside pickup and delivery services
 author: GoShip Admin
 title: What Is Inside Delivery and Inside Pickup?
 intro: >-
@@ -14,11 +14,10 @@ intro: >-
   When do you need inside deli
 postedAt: 1520397928000
 news: false
-description: Inside pickup and delivery are considered additional services, and
-  inside delivery is an important part of last-mile logistics. When do you need
-  inside delivery?
-altText: inside delivery
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-inside-delivery.jpg
+description: "Applying inside pickup and delivery services can significantly
+  improve customer experience, especially in terms of last-mile delivery. "
+altText: "carrier delivering boxes "
+image: images/copy-of-goship-blog-4-.png
 ---
 ## What is inside delivery?
 
