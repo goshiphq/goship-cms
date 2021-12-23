@@ -1,5 +1,5 @@
 ---
-keywords: Shipping large items
+keywords: large items, shipping large items, shipping large items across the country
 author: GoShip Admin
 title: How to Ship Large Items Across the Country
 intro: "Shipping large items and packages across country may be challenging,
@@ -7,11 +7,11 @@ intro: "Shipping large items and packages across country may be challenging,
   quickly. "
 postedAt: 1548219618000
 news: false
-description: "Shipping large items and packages across country may be
-  challenging, however with proper planning it is possible to ship large items
-  across country quickly. "
+description: Shipping large items across the country may seem challenging,
+  however with proper planning it is possible to ship large items with no
+  disruptions.
 altText: Shipping large items
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-large-items.jpg
+image: images/copy-of-goship-blog-9-.png
 ---
 # Shipping large and oversize packages
 
