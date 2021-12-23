@@ -1,5 +1,5 @@
 ---
-keywords: freight class
+keywords: LTL shipping, freight class
 author: GoShip Admin
 title: Everything You Need to Know About LTL Freight Class
 intro: >-
@@ -19,8 +19,8 @@ postedAt: 1551848406000
 news: false
 description: While the general concept of LTL shipping is easy, learning what a
   freight class is and why it is important may be complex.
-altText: freight class
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/blog-everything-you-need-to-know-about-ltl-freight-class.jpg
+altText: LTL freight class box truck loading boxes
+image: images/copy-of-goship-blog-.png
 ---
 If you have been into the world of [less-than-truckload shipping](https://www.goship.com/shipping-services/ltl-freight-shipping/) for more than 30 minutes, you probably heard something about LTL freight class. While the general concept of LTL shipping is easy, learning what a freight class is and why it is important may be complex.
 
