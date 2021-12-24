@@ -1,5 +1,5 @@
 ---
-title: How to Ship Fragile Items
+title: Best Practices To Properly Pack and Ship Fragile Items
 intro: Shipping can be stressful, especially if it involves fragile items!
   You’ll be holding your breath from the moment your package leaves your
   doorstep up until it reaches its final destination. Businesses are especially
@@ -9,12 +9,11 @@ intro: Shipping can be stressful, especially if it involves fragile items!
   prepared to pack and ship them properly.
 postedAt: "1633007320227"
 news: false
-description: Shipping fragile items can be risky and worrisome. Learn some of
-  the best practices for shipping fragile items and take some of that stress
-  away!
-keywords: how to ship fragile items
-altText: shipping fragile items
-image: images/how-to-ship-fragile-items.png
+description: "Since shipping fragile items can be quite tricky, we recommend you
+  considering the most effective packaging and shipping methods. "
+keywords: fragile items, shipping fragile items, fragile items packaging and shipping
+altText: packing fragile items for shipping
+image: images/goship-blog-15-.png
 ---
 
 
