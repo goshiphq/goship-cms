@@ -1,7 +1,8 @@
 ---
-keywords: sustainable packaging, eco-friendly packaging, Eco-friendly Shipping Ideas
+keywords: sustainable strategy, sustainable packaging, eco-friendly packaging,
+  sustainable packaging strategy
 author: GoShip Admin
-title: "Sustainable Strategy: Eco Friendly Packaging"
+title: Sustainable Packaging Strategy and Eco-Friendly Packaging Trends
 intro: They say that you should never judge a book by its cover. However,
   business owners are aware of how critical product packaging is to customer
   satisfaction. It is likely to be the first physical encounter your customers
@@ -11,13 +12,10 @@ intro: They say that you should never judge a book by its cover. However,
   environmental issue which has become a rising concern among consumers in r
 postedAt: 1624424431000
 news: false
-description: "They say that you should never judge a book by its cover. However,
-  business owners are aware of how critical product packaging is to customer
-  satisfaction. It is likely to be the first physical encounter your customers
-  have with your brand and sets the tone for the customer’s perception of your
-  brand. "
-altText: sustainable packaging
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/sustainable-strategy-eco-friendly-packaging.jpg
+description: Building a sustainable strategy and switching to eco-friendly
+  packaging can have an extremely beneficial impact on your business.
+altText: "woman choosing eco-friendly packaging "
+image: images/goship-blog-7-.png
 ---
 They say that you should never judge a book by its cover. However, business owners are aware of how critical product packaging is to customer satisfaction. It is likely to be the first physical encounter your customers have with your brand and sets the tone for the customer’s perception of your brand. With the skyrocketing online shopping demands due to COVID-19, eye-catching plastic packaging waste has unfortunately become a serious environmental issue which has become a rising concern among consumers in recent years.   Fortunately, sustainable and eco-friendly packaging that is just as beneficial for Mother Earth as it is for your business, is becoming more accessible!  
 
