@@ -1,5 +1,5 @@
 ---
-keywords: peak shipping season
+keywords: Peak shipping season, high season, preparing for peak season
 author: GoShip Admin
 title: Preparing Your Small Business for Peak Shipping Season
 intro: "The produce shipping season is slowly coming to an end, marking the
@@ -11,16 +11,10 @@ intro: "The produce shipping season is slowly coming to an end, marking the
   uncertainty, companies are getting ready to increase their sales and pro"
 postedAt: 1599022848000
 news: false
-description: "The produce shipping season is slowly coming to an end, marking
-  the beginning of the busiest time in freight transportation - peak season. The
-  peak period usually starts at the end of August and lasts throughout October.
-  Autumn is a busy time for a lot of reasons: the back-to-school season starts,
-  and many small businesses prepare early for the holiday season, which is
-  closer than it seems to be. Despite the pandemic times and economic
-  uncertainty, companies are getting ready to increase their sales and
-  production."
-altText: peak shipping season
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/preparing-your-small-business-for-peak-shipping-season.jpg
+description: "Peak shipping season can be extremely hard to handle, so start
+  preparing your business for high season in advance. "
+altText: business owners preparing for peak shipping season
+image: images/goship-blog-8-.png
 ---
 The produce shipping season is slowly coming to an end, marking the beginning of the busiest time in freight transportation - peak season. The peak period usually starts at the end of August and lasts throughout October. Autumn is a busy time for a lot of reasons: the back-to-school season starts, and many small businesses prepare early for the holiday season, which is closer than it seems to be. Despite the pandemic times and economic uncertainty, companies are getting ready to increase their sales and production. The key to success is thorough planning, and the earlier your business starts this phase, the better. Here are a few useful tips on how to get prepared for the busy peak season as a small business:
 
