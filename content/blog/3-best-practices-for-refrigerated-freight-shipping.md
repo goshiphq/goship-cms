@@ -1,5 +1,5 @@
 ---
-keywords: "refrigerated shipping "
+keywords: cold shipments, refrigerated freight shipping, refrigerated shipping
 author: GoShip Admin
 title: 3 Best Practices for Refrigerated Freight Shipping
 intro: Planning temperature-controlled shipments can be extremely complicated
@@ -14,8 +14,8 @@ news: false
 description: To keep your cold shipments efficient and profitable, you can use
   several practices for refrigerated shipping to improve your supply chain
   performance.
-altText: "refrigerated shipping "
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-refrigerated-freight-shipping.jpg
+altText: "preparing refrigerated shipping "
+image: images/goship-blog-16-.png
 ---
 Planning temperature-controlled shipments can be extremely complicated because the slightest disruption could lead to spoiled products and lost sales. Reefers, or [refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/), handle 90% of all food distributed through the U.S. 
 
