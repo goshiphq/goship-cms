@@ -1,10 +1,31 @@
 ---
-title: "How to Efficiently Ship During the Holiday Season"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-efficiently-ship-during-the-holiday-season.jpg"
+keywords: holiday shipping, holiday shipping season, how to prepare for holiday
+  shipping season
+author: GoShip Admin
+title: Learn How to Get Ready for the Holiday Shipping Season
+intro: >-
+  The holiday season is a busy time for businesses and shippers and can cause
+  many challenges when it comes to managing a supply chain. The peak season of
+  delivery, which represents almost 20 percent of the annual revenue of the
+  retail industry, can be both a blessing and a curse. Although the holiday
+  season shipping normally starts on Black Friday, the earlier you start
+  preparing, the higher the chances are to successfully survive the busy
+  season. 
+
+
+  Think ahead
+
+  -
+
+
+  There is no such thing as “too early” when i
 postedAt: 1542171626000
 news: false
-author: "GoShip Admin"
-intro: "The holiday season is a busy time for businesses and shippers and can cause many challenges when it comes to managing a supply chain. The peak season of delivery, which represents almost 20 percent of the annual revenue of the retail industry, can be both a blessing and a curse. Although the holiday season shipping normally starts on Black Friday, the earlier you start preparing, the higher the chances are to successfully survive the busy season. \n\nThink ahead\n-\n\nThere is no such thing as “too early” when i"
+description: "It is extremely important to ship effectively during the holiday
+  season. Explore the best ways of preparing for busy period to deliver your
+  orders on time. "
+altText: man packing boxes for holiday shipping
+image: images/goship-blog-9-.png
 ---
 The holiday season is a busy time for businesses and shippers and can cause many challenges when it comes to managing a supply chain. The peak season of delivery, which represents almost 20 percent of the annual revenue of the retail industry, can be both a blessing and a curse. Although the holiday season shipping normally starts on Black Friday, the earlier you start preparing, the higher the chances are to [successfully survive](https://www.goship.com/blog/7-most-common-ltl-shipping-mistakes/) the busy season.
 
