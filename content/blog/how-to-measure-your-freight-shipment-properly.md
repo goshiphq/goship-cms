@@ -1,5 +1,5 @@
 ---
-keywords: " measure freight "
+keywords: how to measure the freight shipment, freight shipment, freight measurements
 author: GoShip Admin
 title: How to Measure Your Freight Shipment Properly?
 intro: >-
@@ -12,9 +12,9 @@ intro: >-
 postedAt: 1573534852000
 news: false
 description: It’s no secret that the total cost of your shipment is directly
-  affected by its dimensions and freight measurements.
-altText: " measure freight "
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-measure-your-freight-shipment-properly.jpg
+  affected by its dimensions sizes and freight measurements.
+altText: woman measuring freight
+image: images/goship-blog-14-.png
 ---
 ## Why accurate freight measurements are important?
 
