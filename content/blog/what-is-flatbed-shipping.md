@@ -1,10 +1,27 @@
 ---
-title: "What Is Flatbed Shipping?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-flatbed-shipping.jpg"
+keywords: flatbed shipping, shipping oversized items, what is flatbed shipping,
+  benefits of flatbed shipping
+author: GoShip Admin
+title: What Is Flatbed Shipping?
+intro: >-
+  If you have ever wanted to ship large or oversized items, you may have heard
+  about flatbed shipping. It can be a beneficial solution for industrial
+  shippers, as well for individual shipments of large objects that are too big
+  for LTL shipping. 
+
+
+  What is flatbed shipping?
+
+  -
+
+
+  Flatbed shipping is a type of truckload shipping that refers to moving oversized cargo with an open trailer. Unlike dry van shipping, the flatbed trailer is a type of open equipment. Basically, it is a plane platform, a trailer with no si
 postedAt: 1568178010000
 news: false
-author: "GoShip Admin"
-intro: "If you have ever wanted to ship large or oversized items, you may have heard about flatbed shipping. It can be a beneficial solution for industrial shippers, as well for individual shipments of large objects that are too big for LTL shipping. \n\nWhat is flatbed shipping?\n-\n\nFlatbed shipping is a type of truckload shipping that refers to moving oversized cargo with an open trailer. Unlike dry van shipping, the flatbed trailer is a type of open equipment. Basically, it is a plane platform, a trailer with no si"
+description: If you are considering shipping oversized items or big amounts of
+  goods, discover the benefits of flatbed shipping.
+altText: flatbed truck loading with cargo
+image: images/goship-blog-13-.png
 ---
 If you have ever wanted to ship large or oversized items, you may have heard about flatbed shipping. It can be a beneficial solution for industrial shippers, as well for individual shipments of large objects that are too big for LTL shipping.
 
