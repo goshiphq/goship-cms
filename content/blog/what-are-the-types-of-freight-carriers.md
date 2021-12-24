@@ -1,5 +1,5 @@
 ---
-keywords: freight carriers, types of carriers
+keywords: types of freight carriers, what are the types of freight carriers
 author: GoShip Admin
 title: What Are the Types of Freight Carriers?
 intro: In freight shipping, it can be challenging to understand all the
@@ -11,14 +11,11 @@ intro: In freight shipping, it can be challenging to understand all the
   choose the best option for your shipment, it is beneficial to
 postedAt: 1588741207000
 news: false
-description: While there are some main factors that determine the shipping cost,
-  there are also minor factors that have an impact on pricing too. One of these
-  factors is the type of freight carriers. Essentially, different carriers have
-  different tariffs, regulations, service fees, etc. To choose the best option
-  for your shipment, it is beneficial to learn more about the types of freight
-  carriers, and the pros and cons they can offer you.
-altText: freight carriers
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-types-of-freight-carriers.jpg
+description: "If you are planning to launch a shipment and interested in
+  exploring various delivery options, learn more about different types of
+  freight carriers. "
+altText: man loading the truck with freight
+image: images/goship-blog-12-.png
 ---
 In freight shipping, it can be challenging to understand all the different types of modes and services. One of the key things that shippers are usually interested in is the [shipping cost](https://www.goship.com/blog/what-are-the-different-types-of-freight-rates/). While there are some main factors that determine it, there are also minor factors that have an impact on pricing too. One of these factors is the type of freight carriers. Essentially, different carriers have different tariffs, regulations, service fees, etc. To choose the best option for your shipment, it is beneficial to learn more about the types of freight carriers, and the pros and cons they can offer you.
 
