@@ -1,7 +1,8 @@
 ---
-keywords: hurricane season
+keywords: hurricane season, shipping during hurricane season, how to prepare for
+  shipping during hurricane season
 author: GoShip Admin
-title: Preparing for Hurricane Season
+title: How to Prepare for Shipping During Hurricane Season?
 intro: Managing your supply chain can be very complex and difficult for certain
   businesses. Managing your supply chain in the middle of a hurricane can be
   extremely difficult and is an added stress that no business wants to face.
@@ -11,16 +12,10 @@ intro: Managing your supply chain can be very complex and difficult for certain
   get their supply chain through the storm without any major b
 postedAt: 1536728412000
 news: false
-description: Managing your supply chain can be very complex and difficult for
-  certain businesses. Managing your supply chain in the middle of a hurricane
-  can be extremely difficult and is an added stress that no business wants to
-  face. Hurricanes often come with catastrophic results, and many businesses
-  suffer disruptions and issues in their supply chain when a hurricane moves
-  into the area. We want to help companies stay ahead of hurricanes and be
-  prepared to get their supply chain through the storm without any major bumps
-  along the way.
+description: "Shipping goods during the hurricane season is extremely
+  challenging and requires thorough preparation. "
 altText: hurricane season
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/preparing-for-hurricane-season.jpg
+image: images/goship-blog-10-.png
 ---
 Managing your supply chain can be very complex and difficult for certain businesses. Managing your supply chain in the middle of a hurricane can be extremely difficult and is an added stress that no business wants to face. Hurricanes often come with catastrophic results, and many businesses suffer disruptions and issues in their supply chain when a hurricane moves into the area. We want to help companies stay ahead of hurricanes and be prepared to get their supply chain through the storm without any major bumps along the way.
 
