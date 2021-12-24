@@ -1,5 +1,5 @@
 ---
-keywords: pallets
+keywords: pallets, packaging methods, shipping pallets, palletizing
 author: GoShip Admin
 title: A Guide to Different Types of Shipping Pallets
 intro: >-
@@ -11,11 +11,11 @@ intro: >-
   The pallet is a flat structure used for transporting freight. Wooden pallets are simply platforms of a standard pallet size that are the most common type of packaging in freight shipping. There are different types of pallets, but they are mostly made of either wood or plastic. The freight is usually secured or tied to the pallet and then stacked into the trailer. Pallets are mostly used to attach and secure already packaged freight. This way, the carrier can load a full trailer a
 postedAt: 1620190830000
 news: false
-description: Pallets are preferred for most shipments, so if you are not
-  planning to use them, make sure to discuss packaging requirements with the
-  shipping company or a carrier.
-altText: pallets
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/a-guide-to-different-types-of-shipping-pallets.jpg
+description: "Palletizing is one of the best packaging methods for any shipment
+  type. Pallets do not only fixate and secure your cargo, but also keep the
+  trailer space well-organized. "
+altText: shipping pallets
+image: images/goship-blog-6-.png
 ---
 ## What is a wooden pallet?
 
