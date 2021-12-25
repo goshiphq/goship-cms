@@ -1,5 +1,9 @@
 ---
-title: "Freight Insurance: Non-Covered Items"
+title: "GoShip Freight Insurance: Non-Covered Items"
+description: Freight insurance is a perfect option to protect your shipment.
+  However, every insurance company has certain limitations on goods that can be
+  covered.
+keywords: freight insurance, freight damage, freight claims
 ---
 
 
