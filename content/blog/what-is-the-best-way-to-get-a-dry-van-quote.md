@@ -7,7 +7,7 @@ news: false
 description: Dry van freight shipping is one of the most common ways to ship
   goods. Explore how to move freight in a dry van trailer and get a fast dry van
   quote.
-keywords: dry van quote
+keywords: dry van quote, dry van trailer, dry van shipping
 altText: dry van truck driving down highway
 image: images/dry-van-on-highway.jpg
 ---
