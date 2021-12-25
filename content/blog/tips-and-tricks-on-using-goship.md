@@ -1,7 +1,7 @@
 ---
 keywords: freight shipping
 author: GoShip Admin
-title: Tips and Tricks on using GoShip
+title: "Online Shipping Platform: Tips and Tricks on using GoShip"
 intro: >
   Shipping freight can be a daunting task. There are uncertainties ranging from
   understanding types of packages to the logistics of delivery. GoShip makes
