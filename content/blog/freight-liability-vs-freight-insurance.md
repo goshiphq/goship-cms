@@ -1,7 +1,7 @@
 ---
 keywords: freight liability, freight insurance
 author: GoShip Admin
-title: Freight Liability vs. Freight Insurance
+title: "Freight Liability vs Freight Insurance: The Difference"
 intro: >-
   No one ever wants to hear that their freight was damaged during the shipping
   process. Whenever you are shipping, you want to make sure that your shipment
