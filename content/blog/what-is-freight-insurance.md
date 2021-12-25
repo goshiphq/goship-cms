@@ -1,7 +1,7 @@
 ---
-keywords: freight insurance
+keywords: freight insurance, freight damage
 author: GoShip Admin
-title: What is Freight Insurance and Why Do I Need It?
+title: What is Freight Insurance and Why Do Shippers Need It?
 intro: "If you have ever shipped goods, you must have heard about cases of
   freight loss or damage due to many different circumstances. With services like
   GoShip.com, shipping items is a safe and smooth process, but there are things
@@ -11,10 +11,9 @@ intro: "If you have ever shipped goods, you must have heard about cases of
   shipping. Shippers often assume that freight insurance and freight"
 postedAt: 1547010037000
 news: false
-description: Freight insurance is the additional protection that covers your
-  cargo in case of loss or damage. Cargo insurance keeps you calm and confident
-  about shipping. Shippers often assume that freight insurance and freight
-  liability are the same when actually, they’re not.
+description: Purchasing a full value freight insurance from a shipping provider
+  is a smart decision and irreplaceable option for shippers who want to play it
+  safe.
 altText: freight insurance
 image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-freight-insurance.jpg
 ---
@@ -22,7 +21,11 @@ If you have ever shipped goods, you must have heard about cases of freight loss 
 
 ## **What is the difference between freight insurance and freight liability?**
 
-Every booked shipment comes with limited liability coverage, and the word “limited” explains the main difference between freight liability and insurance. The final amount of coverage is based on the commodity type and defined by the carrier’s tariffs. In most cases, it does not fully cover your shipment’s value, especially when it’s high. Carriers can pay you the refund when it’s damaged because of their fault. To receive the maximum amount of carrier’s coverage liability, you have to prove your goods were packed properly and were undamaged at the pick-up. Other circumstances, like weather conditions and disasters, do not suggest the carrier is completely liable for your freight. With the insurance, you are safe no matter what happens to your freight. You don’t have to prove it was the carrier’s fault, wait until your claim is processed or stress out about whether you will get a refund or not. Compared to liability coverage, freight insurance offers much more comfort for the shipper and lets you receive a refund faster.
+Every booked shipment comes with limited liability coverage, and the word “limited” explains the main difference between freight liability and insurance. The final amount of coverage is based on the commodity type and defined by the carrier’s tariffs. In most cases, it does not fully cover your shipment’s value, especially when it’s high. 
+
+Carriers can pay you the refund when it’s damaged because of their fault. To receive the maximum amount of carrier’s coverage liability, you have to prove your goods were packed properly and were undamaged at the pick-up. Other circumstances, like weather conditions and disasters, do not suggest the carrier is completely liable for your freight. With the insurance, you are safe no matter what happens to your freight. 
+
+You don’t have to prove it was the carrier’s fault, wait until your claim is processed or stress out about whether you will get a refund or not. Compared to liability coverage, freight insurance offers much more comfort for the shipper and lets you receive a refund faster.
 
 ## **In which case should I get freight insurance?**
 
