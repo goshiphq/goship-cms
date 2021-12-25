@@ -1,14 +1,14 @@
 ---
 title: How Does Port Congestion Impact Your Business?
-intro: Port congestion has compounded negative effects on businesses. Aside from
-  delays in shipments, there can even be spoilage of perishable goods and hiking
-  up inventory costs.
+intro: Port congestion has negative effects on businesses. Aside from delays in
+  shipments, there can even be spoilage of perishable goods and hiking up
+  inventory costs.
 postedAt: "1634792400000"
 news: true
 description: Port congestion has compounded negative effects on businesses.
   Aside from delays in shipments, there can even be spoilage of perishable goods
   and hiking up inventory costs.
-keywords: port congestion
+keywords: port congestion, supply chain delays, congested ports
 altText: port congestion
 image: images/adobestock_183054997.jpeg
 ---
