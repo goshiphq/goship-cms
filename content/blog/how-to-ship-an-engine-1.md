@@ -1,5 +1,5 @@
 ---
-title: How to Ship an Engine
+title: "Shipping Auto Parts: How to Ship an Engine"
 intro: Many people are hesitant to ship engines and transmissions. They’re
   bulky, heavy, and irregularly shaped. They also contain potentially hazardous
   liquids and oils. Despite these concerns, engines are actually one of the
@@ -8,9 +8,10 @@ intro: Many people are hesitant to ship engines and transmissions. They’re
   in mind when shipping engines, such as prepping and packing for safe shipment.
 postedAt: "1633008331652"
 news: false
-description: Learn how to securely shipping your engine with a freight carrier
-  with proper packaging, documentation, and pricing in this GoShip guide.
-keywords: how to ship an engine
+description: Learn how to securely ship auto part such as an engine with a
+  freight carrier with proper packaging, documentation, and pricing in this
+  GoShip guide.
+keywords: how to ship an engine, auto parts shipping, shipping engines
 altText: how to ship an engine
 image: images/how-to-ship-an-engine.jpg
 ---
