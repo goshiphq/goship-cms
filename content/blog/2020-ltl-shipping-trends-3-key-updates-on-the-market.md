@@ -22,7 +22,7 @@ postedAt: 1577163656000
 news: false
 description: Let’s take a deeper dive into 2020 LTL shipping trends and see what
   will influence the LTL industry in the nearest future.
-altText: 2020 LTL shipping trends
+altText: 2020 LTL shipping trends, ltl freight, ltl shipping
 image: https://storage.googleapis.com/goshiprepo/prod/blog/images/2020-ltl-shipping-trends-3-key-updates-on-the-market.jpg
 ---
 Last year was huge for LTL freight, with a high demand primarily driven by the rapid growth of e-commerce. In 2020, experts forecast a steady growth with more balanced demand, the significant impact of technology, more small companies and startups entering the market, the rise of mobile tech, and the increase of freight rates. Let’s take a deeper dive into 2020 LTL shipping trends and see what will influence the LTL industry in the nearest future.
