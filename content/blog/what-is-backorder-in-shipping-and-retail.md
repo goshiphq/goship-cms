@@ -1,24 +1,16 @@
 ---
-title: What Is Backorder In Shipping and Retail?
+title: What Is Backorder In Freight Shipping and Retail?
 intro: Generating backorders is an indicator that orders (demand) are far beyond
   what the store expected. But do stores really allow this to happen?
 postedAt: "1635224403893"
 news: true
-description: Generating backorders is an indicator that orders (demand) are far
-  beyond what the store expected. But do stores really allow this to happen?
-keywords: backorder
+description: Backorders may be an effect of poor planning, inaccurate
+  forecasting, or maybe an unforeseeable rise in demand. Here are the main
+  causes of backorders
+keywords: backorder, backorder shipping, retail logistics
 altText: backorder
 image: images/adobestock_124131568.jpeg
 ---
-
-# What Is Backorder In Shipping and Retail?
-
-When your products are flying off the shelves, that’s usually a sign that your business is doing better than expected. However, what happens when you can no longer keep up with customer demand?
-
-If you announce an out-of-stock situation, you’re practically telling your customers to switch over to your competitors. So not only do you lose sales, you lose loyal customers too.
-
-While backorders can be tricky, offering this option to your customers is the first step to expanding your business.
-
 ## What is backorder in shipping and retail?
 
 Retailers offer backorders when an order can’t be fulfilled as of the moment because the product is currently out of stock. 
@@ -76,4 +68,3 @@ Thanks to the GoShop.com freight marketplace, you can find the most reliable car
 GoShip.com also offers real-time automated tracking to ensure that your backorders are fulfilled immediately. Rest assured that GoShip.com offers all the resources you need to ship your items in a safe and timely manner. 
 
 Start fulfilling your backorders and expanding your business by getting a [free freight quote from GoShipcom.](http://goship.com)
-
