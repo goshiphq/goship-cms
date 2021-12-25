@@ -1,7 +1,7 @@
 ---
-keywords: freight insurance
+keywords: freight insurance, freight damage, freight claims
 author: GoShip Admin
-title: GoShip.com Adds Full Value Freight Insurance
+title: "GoShip.com Now Offers Shippers Full Value Freight Insurance "
 intro: GoShip.com, an online less-than-truckload (LTL) shipping exchange, added
   full value freight insurance to its platform to help improve customers’
   experience.
