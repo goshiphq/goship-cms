@@ -1,14 +1,15 @@
 ---
 title: 5 Considerations in Choosing an Online Shipping Company
-intro: Whether you’re a business owner or an individual shipper, choosing the
-  best online shipping company for small business or online store can be tricky.
+intro: Whether you’re a small business owner or an individual shipper, choosing
+  the best online shipping company for small business or online store can be
+  tricky.
 postedAt: "1633022820000"
 news: false
 description: Whether you’re a business owner or an individual shipper, choosing
   the best online shipping company for small business or online store can be
   tricky.
-keywords: online shipping companies
-altText: Smiling ltl truck driver leaning out window
+keywords: online shipping companies, best shipping company, freight shipping
+altText: shipping companies
 image: images/smiling-ltl-truck-driver.jpg
 ---
 Whether you’re a business owner or an individual shipper, finding the best online shipping company to ship with is a tough call.
