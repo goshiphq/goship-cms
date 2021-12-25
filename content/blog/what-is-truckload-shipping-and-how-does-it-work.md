@@ -1,5 +1,5 @@
 ---
-keywords: Less than truckload, full truckload, on-road shipping, freight, transportation
+keywords: full truckload, on-road shipping, freight, transportation
 author: GoShip Admin
 title: What Is Truckload Shipping and How Does It Work?
 intro: >-
