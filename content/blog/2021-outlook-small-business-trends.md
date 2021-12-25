@@ -1,7 +1,7 @@
 ---
 keywords: "2021 small business trends "
 author: GoShip Admin
-title: "2021 Outlook: Small Business Trends"
+title: "2021 Outlook: Small Business Shipping and Logistics Trends"
 intro: >-
   This year was challenging for everyone, especially small business owners.
   COVID-19 and the economic fallout have highlighted the weak points in
@@ -25,7 +25,7 @@ news: false
 description: Anticipating 2021 small business trends in the face of so much
   uncertainty is more vital than ever. Here's a rundown of what your business
   can focus on heading into 2021.
-altText: "2021 small business trends "
+altText: small business trends, small business shipping, small business logistics
 image: https://storage.googleapis.com/goshiprepo/prod/blog/images/2021-outlook-small-business-trends.jpg
 ---
 This year was challenging for everyone, especially small business owners. COVID-19 and the economic fallout have highlighted the weak points in companies’ [strategy](https://www.goship.com/blog/optimizing-your-truckload-shipping-strategy/), inventory, marketing, and transportation. [Anticipating future trends](https://www.forbes.com/sites/richkarlgaard/2020/07/09/the-business-trends-that-will-emerge-out-of-covid-19/?sh=6c7bcb9b3cf8) in the face of so much uncertainty is more vital than ever. Here's a rundown of what your business can focus on heading into 2021.
