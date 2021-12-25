@@ -5,9 +5,9 @@ intro: Shipping frozen and perishable food across the country can be very
 postedAt: "1633618852439"
 news: false
 description: Shipping frozen and perishable food across the country can be very
-  challenging. Read the must-knows about food shipping!
-keywords: shipping food
-altText: two small business owners packing and shipping food
+  challenging. Read the must-knows about shipping food cross country!
+keywords: shipping food, frozen food, food shipping
+altText: shipping food
 image: images/packing-shipping-food.jpg
 ---
 # Everything You Need to Know About Shipping Food Cross Country
