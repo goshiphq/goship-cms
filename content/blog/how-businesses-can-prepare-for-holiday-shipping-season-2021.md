@@ -6,7 +6,7 @@ intro: With the 2021 holiday season coming up, businesses need to prepare a bit
   prevent any trip-ups for your business, you can use our lists of best
   practices and holiday shipping deadlines.
 postedAt: "1638974358202"
-news: true
+news: false
 description: "Best practices for small business shippers: holiday shipping season 2021"
 keywords: "shipping 2021, holiday shipping 2021, shipping deadlines "
 altText: Holiday Shipping for Small Business
