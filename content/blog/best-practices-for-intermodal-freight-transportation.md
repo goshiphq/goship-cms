@@ -3,7 +3,7 @@ title: Best Practices for Intermodal Freight Transportation
 intro: Naturally, there isn’t a one size fits all solution to logistics.
   However, one shipping method comes close –– intermodal transportation.
 postedAt: "1640066453456"
-news: true
+news: false
 description: Intermodal freight is the transportation of [products and raw
   materials in an intermodal vehicle or container through multiple modes of
   transportation
