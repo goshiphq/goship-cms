@@ -3,7 +3,7 @@ title: "5 Supply Chain Trends for Shippers to Stay Competitive "
 intro: Today, we’re diving into 5 supply chain trends of the following year that
   you can use to stay ahead in the logistics game, in 2021, 2022, and beyond.
 postedAt: "1637560800000"
-news: true
+news: false
 description: Today, we’re diving into 5 supply chain trends that you can use to
   stay ahead in the game, in 2021, 2022, and beyond.
 keywords: supply chain trends, supply chain, supply chain trends 2022
