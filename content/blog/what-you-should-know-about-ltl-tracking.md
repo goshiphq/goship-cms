@@ -1,5 +1,5 @@
 ---
-title: What You Should Know About LTL Tracking
+title: What You Should Know About LTL Shipment Tracking
 intro: We’re all familiar with those handy tracking numbers that come with our
   online orders.  Simply enter a code, and you’ll see the whole journey of your
   package! Right from the moment you “add to cart” and until it reaches your
@@ -8,10 +8,10 @@ intro: We’re all familiar with those handy tracking numbers that come with our
   average parcel shipping service.
 postedAt: "1633007124059"
 news: false
-description: Learn how reliable LTL tracking technology can help you better
-  manage your logistics system and enhance your workflow.
-keywords: LTL tracking, tracking technology, freight shipping, LTL shipping,
-  Less than Truckload
+description: In this article, we’ll discuss the importance of LTL freight
+  shipment tracking and the steps you should take to achieve reliable LTL
+  shipment tracking.
+keywords: LTL tracking, tracking technology, LTL shipping
 altText: LTL tracking
 image: images/copy-of-goship-website-image-template-1024-x-768-px-2-.png
 ---
