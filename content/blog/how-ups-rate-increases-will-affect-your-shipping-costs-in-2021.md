@@ -1,7 +1,7 @@
 ---
-keywords: rate increases
+keywords: ups rates, freight rates, ups rate increase
 author: GoShip Admin
-title: How UPS Rate Increases Will Affect Your Shipping Costs in 2021
+title: How UPS Rate Increases Will Affect Shipping Costs in 2021
 intro: >-
   Last year was tough for the shipping industry, causing many businesses to
   be more considerate than ever when planning for their 2021 transportation
@@ -17,13 +17,11 @@ intro: >-
   On December 27, 2020, UPS Ground, Air, and International services, along with other major carriers like FedEx, have increased an announced average of 4.9%, which matches both the UPS 2019-2020 
 postedAt: 1614142836000
 news: false
-description: "Last year was tough for the shipping industry, causing many
-  businesses to be more considerate than ever when planning for their 2021
-  transportation budget. One consideration to include in your planning is the
-  general rate increase (GRI) of significant carriers like USPS, FedEx, and
+description: "One consideration to include in your planning is the general
+  freight rates increase (GRI) of significant carriers like USPS, FedEx, and
   UPS.  "
 altText: rate increases
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-ups-rate-increases-will-affect-your-shipping-costs-in-2021.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-2-.png
 ---
 Last year was tough for the shipping industry, causing many businesses to be more considerate than ever when planning for their 2021 transportation budget. One consideration to include in your planning is the general rate increase (GRI) of significant carriers like USPS, FedEx, and UPS.  
 
