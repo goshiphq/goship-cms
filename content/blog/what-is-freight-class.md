@@ -1,5 +1,5 @@
 ---
-title: What Is Freight Class?
+title: What Is Freight Class in LTL Freight Shipping?
 intro: Not all LTL freight is created equal. Different commodities are
   categorized according to freight class, and this will affect your shipping
   rates. To properly calculate LTL shipping costs, all cargo is categorized into
@@ -8,11 +8,11 @@ intro: Not all LTL freight is created equal. Different commodities are
   important for shipments. 
 postedAt: "1633007543469"
 news: false
-description: Determining your freight class can be complicated. This article
-  explains the basics and how to find which class your freight falls under.
-keywords: freight class
+description: Determining your LTL freight class can be complicated. This article
+  explains the basics and how to find which class your LTL freight falls under.
+keywords: freight class, ltl freight
 altText: freight class
-image: images/freight-class.png
+image: images/goship-blog-6-.png
 ---
 
 
