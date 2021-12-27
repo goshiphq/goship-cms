@@ -1,5 +1,5 @@
 ---
-title: 7 Ways to Reduce Shipping Costs
+title: 7 Working Ways to Reduce Freight Shipping Costs
 intro: When the bulk of your business funds go to packaging and deliveries, it
   might be time to reconsider reducing shipping costs to improve your profit
   margin. Calculating the costs of shipping expenses can be overwhelming.
@@ -7,11 +7,12 @@ intro: When the bulk of your business funds go to packaging and deliveries, it
   reduce shipping expenses and improve profit!
 postedAt: "1633007886706"
 news: false
-description: Learn 7 ways to reduce shipping costs for your small business or
-  ecommerce business.
-keywords: how to save on shipping costs
+description: When the bulk of your business funds go to packaging and
+  deliveries, it might be time to reconsider reducing shipping costs to improve
+  your profit margin.
+keywords: shipping costs, freight rates
 altText: shipping costs
-image: images/how-to-save-on-shipping-costs.jpg
+image: images/goship-blog-12-.png
 ---
 
 
