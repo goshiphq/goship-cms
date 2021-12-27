@@ -2,7 +2,7 @@
 keywords: Retail trends, consumer behavior, future of retail industry, emerging
   retail trends
 author: GoShip Admin
-title: What Long Term Trends Will Emerge In The Retail Industry?
+title: 3 Long Term Retail Industry Trends Will Emerge In The Retail
 intro: While most businesses affected by COVID-19 are combating forces to save
   their company at the moment, developing a long term strategy is vital to
   successfully operate the retail market over the next several years. A variety
@@ -12,8 +12,9 @@ intro: While most businesses affected by COVID-19 are combating forces to save
   many, the current pandemic crisis can become a turning poin
 postedAt: 1586322046000
 news: false
-description: Learn how consumer behaviors are shifting and what long-term trends
-  are emerging in the retail industry
+description: Learn how consumer behaviors are shifting and what long-term retail
+  trends are emerging in the retail industry and retail logistics that will
+  impact your business
 altText: emerging retail trends
 image: images/copy-of-goship-website-image-template-1024-x-768-px-3-.png
 ---
