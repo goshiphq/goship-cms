@@ -4,7 +4,7 @@ intro: While the changes are overwhelming, it’s critical that companies learn
   about 3PL and logistics trends to adapt their logistics and supply chain
   strategies.
 postedAt: "1638165620669"
-news: true
+news: false
 description: While the changes are overwhelming, it’s critical that companies
   learn about 3PL and logistics trends to adapt their logistics and supply chain
   strategies.
