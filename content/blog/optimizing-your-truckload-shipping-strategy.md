@@ -1,7 +1,7 @@
 ---
 keywords: " truckload shipping strategy, full truckload, FTL"
 author: GoShip Admin
-title: Optimizing Your Truckload Shipping Strategy
+title: Optimizing Your Full Truckload Shipping Strategy
 intro: Creating and sticking to the right truckload shipping strategy can
   enhance your overall efforts, save money, and increase profitability.
   Truckload shipping is the most common way of transporting goods, but not many
