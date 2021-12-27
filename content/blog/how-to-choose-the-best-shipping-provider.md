@@ -15,8 +15,6 @@ keywords: shipping provider, freight shipping
 altText: Shipping provider
 image: images/goship-website-image-template-1024-x-768-px-22-.png
 ---
-
-
 The smooth delivery of your products is the first way to build trust and customer satisfaction. 
 
 When running a business, you must find an affordable, reliable, fast, and secure way for your items to reach your customers. 
@@ -94,11 +92,4 @@ You can visit online freight shipping marketplaces to get a quote with some of t
 
 With 24/7 self-service platforms like [GoShip.com](http://goship.com/), you’ll instantly be connected to LTL and FTL freight carriers. Get a quote, book, and track your shipments 100% online! 
 
-[Get a Quote at GoShip](https://www.goship.com/) 
-
-**Sources** 
-
-<https://www.connectpos.com/tips-choose-best-shipping-provider/#Pricing> 
-
-<https://www.tradegecko.com/blog/supply-chain-management/choose-the-best-shipping-provider> 
-
+[Get a Quote at GoShip](https://www.goship.com/)
