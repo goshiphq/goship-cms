@@ -4,7 +4,7 @@ intro: Running a small business can be tricky, especially when you have to
   handle logistics on your own. So, today, we’re covering the best practices for
   small business logistics!
 postedAt: "1637820057861"
-news: true
+news: false
 description: Running a small business can be tricky, especially when you have to
   handle logistics on your own. So, today, we’re covering the best practices for
   small business logistics!
