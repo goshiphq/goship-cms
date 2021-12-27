@@ -11,19 +11,21 @@ intro: Springtime traditionally marks the start of the shipping season for fresh
   sustain their businesses. Refrigerated capacity is normally ti
 postedAt: 1615352433000
 news: false
-description: Springtime traditionally marks the start of the shipping season for
-  fresh produce. Peaking in late spring, loads of fresh produce start filling
-  shipping lanes from southern states. Most fruit and vegetable farmers, as well
-  as importers, start to look for the capacity to distribute their products
-  across the country when the demand for fresh produce greatly increases.
+description: Springtime traditionally marks the peak season of shipping fresh
+  produce. Shippers need to know how to ship frozen food with cold shipping
+  practices.
 altText: shipping frozen food
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/produce-shipping-season-2021-how-to-ship-frozen-food.jpg
+image: images/goship-website-image-template-1024-x-768-px-1-.png
 ---
-Springtime traditionally marks the start of the shipping season for fresh produce. Peaking in late spring, loads of fresh produce start filling shipping lanes from southern states. Most fruit and vegetable farmers, as well as importers, start to look for the capacity to distribute their products across the country when the demand for fresh produce greatly increases. Grocery stores, supermarkets, and restaurants need seasonal fruit and veggies to sustain their businesses. Refrigerated capacity is normally tight during this season. The COVID-19 pandemic has exacerbated this capacity shortage because a great chunk of carriers with cold containers are needed to [ship the COVID-19 vaccine](https://www.plslogistics.com/blog/preparing-supply-chain-networks-for-vaccine-transportation). This means shippers will need to be more proactive when planning their fresh produce and frozen food shipping strategy in 2021.
+Springtime traditionally marks the start of the shipping season for fresh produce. Peaking in late spring, loads of fresh produce start filling shipping lanes from southern states. Most fruit and vegetable farmers, as well as importers, start to look for the capacity to distribute their products across the country when the demand for fresh produce greatly increases. 
 
-## When is produce shipping season?
+Grocery stores, supermarkets, and restaurants need seasonal fruit and veggies to sustain their businesses. Refrigerated capacity is normally tight during this season. The COVID-19 pandemic has exacerbated this capacity shortage because a great chunk of carriers with cold containers are needed to [ship the COVID-19 vaccine](https://www.plslogistics.com/blog/preparing-supply-chain-networks-for-vaccine-transportation). 
 
-Produce season usually starts in April and lasts till the end of summer. It is the peak season for fresh produce farmers and distributors, making it one of the busiest seasons of the year. Regardless of the circumstances, greenery and veggies are always in high demand during this time. As fresh produce is transported only through refrigerated trucks, the temperature-controlled capacity begins to tighten, and freight rates increase sometimes as much as 30%.
+This means shippers will need to be more proactive when planning their fresh produce and frozen food shipping strategy in 2021.
+
+## When is the produce shipping season?
+
+The produce season usually starts in April and lasts till the end of summer. It is the peak season for fresh produce farmers and distributors, making it one of the busiest seasons of the year. Regardless of the circumstances, greenery and veggies are always in high demand during this time. As fresh produce is transported only through refrigerated trucks, the temperature-controlled capacity begins to tighten, and freight rates sometimes increase as much as 30%.
 
 ## Tips for shipping fresh produce: How to ship frozen food
 
