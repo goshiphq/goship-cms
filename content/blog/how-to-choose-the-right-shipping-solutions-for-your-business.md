@@ -3,7 +3,7 @@ title: How to Choose the Right Shipping Solutions for Your Business?
 intro: Read on to find out more about shipping solutions and the best small
   business shipping services!
 postedAt: "1637820014079"
-news: true
+news: false
 description: Read on to find out more about shipping solutions and the best
   small business shipping services!
 keywords: small business shipping services
