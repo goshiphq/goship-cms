@@ -1,5 +1,5 @@
 ---
-keywords: billing, payment, billing adjustment, payment adjustment, freigt shipping
+keywords: billing, payment, billing adjustment, payment adjustment
 author: GoShip Admin
 title: What Is Billing and Payment Adjustment in Freight Shipping?
 intro: >-
@@ -11,14 +11,11 @@ intro: >-
   The billing payment adjustment, or rebill, is an added cost of shipment in case of discrepancies between the actual and stated shipment information. The rebill is usually issued to a broker or shipping platform. This bill adjustment is often an unpleasant surprise for shippers. In many cases, this confusion occurs because of inaccurate measuring, or incorrect data interpretation. Freight carriers always weigh and measure any shipment to see if it complies with the stated inf
 postedAt: 1572915631000
 news: false
-description: The bill adjustment is often an unpleasant surprise for shippers.
-  In many cases, this confusion occurs because of inaccurate measuring, or
-  incorrect data interpretation. Freight carriers always weigh and measure any
-  shipment to see if it complies with the stated information. And when there’s a
-  mistake, it can result in additional charges and even a disruption of the
-  entire shipment.
+description: The billing payment adjustment, or rebill, is an added cost of
+  shipment in case of discrepancies between the actual and stated shipment
+  information.
 altText: billing adjustment
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-billing-and-payment-adjustment-in-freight-shipping.jpg
+image: images/copy-of-goship-blog-1-.png
 ---
 ## What is a billing adjustment?
 
