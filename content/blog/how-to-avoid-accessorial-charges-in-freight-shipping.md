@@ -1,10 +1,30 @@
 ---
-title: "How to Avoid Accessorial Charges in Freight Shipping?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-avoid-accessorial-charges-in-freight-shipping.jpg"
+keywords: accessorial charges, accessorials freight shipping
+author: GoShip Admin
+title: How to Avoid Accessorial Charges in Freight Shipping?
+intro: >-
+  Freight shipping can be a simple and positive experience... when you know the
+  fundamentals of the process. However, even experienced shippers sometimes make
+  small errors that can cost them a budget, customers, or business
+  relationships. When you state uncertain or inaccurate shipment information,
+  you can be surprised by accessorial charges to your freight. Following some
+  simple steps will reduce the likelihood of this experience and save you
+  money. 
+
+
+  What is an accessorial charge?
+
+  -
+
+
+  An accessorial charge i
 postedAt: 1574139625000
 news: false
-author: "GoShip Admin"
-intro: "Freight shipping can be a simple and positive experience... when you know the fundamentals of the process. However, even experienced shippers sometimes make small errors that can cost them a budget, customers, or business relationships. When you state uncertain or inaccurate shipment information, you can be surprised by accessorial charges to your freight. Following some simple steps will reduce the likelihood of this experience and save you money. \n\nWhat is an accessorial charge?\n-\n\nAn accessorial charge i"
+description: When you state uncertain or inaccurate shipment information, you
+  can be surprised by accessorial charges, or fees for extra services, applied
+  to your freight . F
+altText: accessorial charges
+image: images/goship-website-image-template-1024-x-768-px-31-.png
 ---
 Freight shipping can be a simple and positive experience... when you know the fundamentals of the process. However, even experienced shippers sometimes make small errors that can cost them a budget, customers, or business relationships. When you state uncertain or inaccurate shipment information, you can be surprised by accessorial charges to your freight. Following some simple steps will reduce the likelihood of this experience and save you money.
 
