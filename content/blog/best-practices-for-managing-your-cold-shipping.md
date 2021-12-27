@@ -1,5 +1,5 @@
 ---
-keywords: "cold shipping "
+keywords: cold shipping, temperature-controlled shipping, refrigerated shipping
 author: GoShip Admin
 title: Best Practices for Managing Your Cold Shipping
 intro: >-
@@ -14,11 +14,11 @@ intro: >-
   ![image] (https://www.goship.com/wp-content/uploads/2021/02/1ace89b4-fe28-40ff-a2a7-4cddc60fc9ec.png)
 postedAt: 1616562046000
 news: false
-description: mperature-controlled, or cold shipping is a critical part of the
-  global supply chain ecosystem, as it is the primary way of distributing
-  perishables like food and medicine.
+description: Temperature-controlled, or cold shipping is a critical part of the
+  supply chain ecosystem, as it is the primary way of distributing perishables
+  like food and medicine.
 altText: "cold shipping "
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/best-practices-for-managing-your-cold-shipping.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-.png
 ---
 Temperature-controlled shipping is a critical part of the global supply chain ecosystem, as it is the primary way of distributing perishables like food and medicine. In fact, reefers, or [refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/), handle 90% of all food distributed through the US. With the [produce season](https://www.goship.com/blog/produce-shipping-season-2021-how-to-ship-frozen-food/) quickly approaching and the massive rollout of vaccines, we have gathered the best practices for managing your cold shipping
 
