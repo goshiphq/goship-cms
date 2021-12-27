@@ -4,7 +4,7 @@ intro: "Though businesses and retailers have prepared months before the holiday
   season to anticipate a supply chain surge, the nation’s ports are still
   expected to remain congested. "
 postedAt: "1640239258603"
-news: true
+news: false
 description: Though businesses and retailers have prepared months before the
   holiday season to anticipate a supply chain surge, there is still a global
   port congestion.
