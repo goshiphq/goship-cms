@@ -1,5 +1,5 @@
 ---
-keywords: goship, covid donation
+keywords: goship, cdc donation
 author: GoShip Admin
 title: GoShip Donates Profits for Two Months to the CDC Foundation
 intro: PITTSBURGH, PA—April 8, 2020—GoShip.com, a digital shipping platform, is
@@ -12,7 +12,8 @@ intro: PITTSBURGH, PA—April 8, 2020—GoShip.com, a digital shipping platform,
 postedAt: 1586348255000
 news: true
 description: GoShip.com, a digital shipping platform, is donating 100% of its
-  profits from April and May to help the response to COVID-19.
+  profits from April and May to CDC Foundation’s Emergency Response Fund to help
+  the response to COVID-19.
 altText: goship
 image: images/reviewing-ecommerce-shipping-label.jpg
 ---
