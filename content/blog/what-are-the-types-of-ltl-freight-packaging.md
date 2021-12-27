@@ -1,5 +1,5 @@
 ---
-keywords: LTL freight packaging
+keywords: LTL freight, ltl packaging, freight packaging
 author: GoShip Admin
 title: What are the Types of LTL Freight Packaging?
 intro: Shipment security is an important aspect of the shipping process.
@@ -15,7 +15,7 @@ description: The role of LTL freight packaging becomes even more important.
   Since your load is handled multiple times during the transit, it is more prone
   to damage.
 altText: LTL freight packaging
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-types-of-ltl-freight-packaging.jpg
+image: images/goship-website-image-template-1024-x-768-px-30-.png
 ---
 Shipment security is an important aspect of the shipping process. Essentially, you want your products to arrive safe and undamaged. The role of freight packaging becomes even more important. Since your load is handled multiple times during the transit, it is more prone to damage. 
 
