@@ -1,20 +1,33 @@
 ---
-title: "Searching for the Perfect LTL Provider"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/searching-for-the-perfect-ltl-provider.png"
+keywords: ltl freight, ltl shipping, ltl provider
+author: GoShip Admin
+title: How to Choose the Perfect LTL Freight Shipping Provider
+intro: The search for a new LTL provider can often be a daunting task leaving
+  you feeling overwhelmed. Whether you’re making the change from bad past
+  experience, or it’s your first time, it can be a challenge. Just like any
+  service, none are created equal and each company has its own strengths and
+  weaknesses. Many companies offer similar services with similar pricing, but
+  the price should not be the only deciding factor. Finding the right LTL
+  provider can mean the difference between deliveries showing up on time a
 postedAt: 1514964905000
 news: false
-author: "GoShip Admin"
-intro: "The search for a new LTL provider can often be a daunting task leaving you feeling overwhelmed. Whether you’re making the change from bad past experience, or it’s your first time, it can be a challenge. Just like any service, none are created equal and each company has its own strengths and weaknesses. Many companies offer similar services with similar pricing, but the price should not be the only deciding factor. Finding the right LTL provider can mean the difference between deliveries showing up on time a"
+description: Finding the right LTL freight shipping provider can mean the
+  difference between deliveries showing up on time and intact or not showing up
+  at all.
+altText: ltl freight
+image: images/goship-website-image-template-1024-x-768-px-15-.png
 ---
-The search for a new LTL provider can often be a daunting task leaving you feeling overwhelmed. Whether you’re making the change from bad past experience, or it’s your first time, it can be a challenge. Just like any [service](https://www.goship.com/blog/benefits-of-using-an-online-shipping-service/), none are created equal and each company has its own strengths and weaknesses. Many companies offer similar services with similar pricing, but the price should not be the only deciding factor. Finding the right LTL provider can mean the difference between deliveries showing up on time and intact or not showing up at all.
+The search for a new LTL provider can often be a daunting task leaving you feeling overwhelmed. Whether you’re making the change from bad past experience, or it’s your first time, it can be a challenge. 
 
-**So, how do you find the perfect LTL provider that you need?**
----------------------------------------------------------------
+Just like any [service](https://www.goship.com/blog/benefits-of-using-an-online-shipping-service/), none are created equal and each company has its own strengths and weaknesses. Many companies offer similar services with similar pricing, but the price should not be the only deciding factor. Finding the right LTL provider can mean the difference between deliveries showing up on time and intact or not showing up at all.
 
-Most shippers are looking strictly at price when choosing their carrier. But the best way to find a carrier is word of mouth. Ask around and find out who others are using. Reach out to networking groups and source other opinions from local sources. If you want to find one that you plan to use as your primary, consider contacting the sales representative. Another great method is to do your homework online. The internet is one of your greatest assets. You can research the provider and see what they offer directly. You can see if anyone else has used them and what their experience was like. Viewing the [Better Business Bureau](https://www.bbb.org/) on that provider is also a wise decision. You want to ensure they have a good reputation before placing your trust in their hands.
+## **So, how do you find the perfect LTL provider that you need?**
 
-**Four factors to consider for LTL providers:**
------------------------------------------------
+Most shippers are looking strictly at price when choosing their carrier. But the best way to find a carrier is word of mouth. Ask around and find out who others are using. Reach out to networking groups and source other opinions from local sources. If you want to find one that you plan to use as your primary, consider contacting the sales representative. 
+
+Another great method is to do your homework online. The internet is one of your greatest assets. You can research the provider and see what they offer directly. You can see if anyone else has used them and what their experience was like. Viewing the [Better Business Bureau](https://www.bbb.org/) on that provider is also a wise decision. You want to ensure they have a good reputation before placing your trust in their hands.
+
+## **Four factors to consider for LTL providers:**
 
 ### **Are their rates comparable to the industry standards?**
 
@@ -30,4 +43,6 @@ Many providers may not have the reach you need when shipping. Make sure to view 
 
 ### **Do they guarantee service?**
 
-Some providers offer shippers a money-back assurance that they will meet the service expectations. This is often provided for a nominal fee. At GoShip.com, we have thousands of trusted LTL carriers at your disposal. We have compiled a list of carriers for you to choose from that have your budget and your needs in mind. Our LTL experts have done most of the homework for you so you have less to worry about. If you still want to see who is better for you when you complete your [free quote](https://www.goship.com/), use our tips here to make the best decision. GoShip.com is here to help take away the stress from your shipping while helping you to stay on budget.
+Some providers offer shippers a money-back assurance that they will meet the service expectations. This is often provided for a nominal fee. At GoShip.com, we have thousands of trusted LTL carriers at your disposal. We have compiled a list of carriers for you to choose from that have your budget and your needs in mind. 
+
+Our LTL experts have done most of the homework for you so you have less to worry about. If you still want to see who is better for you when you complete your [free quote](https://www.goship.com/), use our tips here to make the best decision. GoShip.com is here to help take away the stress from your shipping while helping you to stay on budget.
