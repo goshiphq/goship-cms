@@ -1,10 +1,20 @@
 ---
-title: "What is Specialized Freight Shipping?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-specialized-freight-shipping.jpg"
+keywords: specialized freight shipping, shipping, freight, equipment
+author: GoShip Admin
+title: What is Specialized Freight Shipping?
+intro: "Freight transportation serves an extremely wide scope of industries.
+  Many of these industries involve heavy equipment, metals, or other bulky
+  cargo. For these purposes, there is a special shipping type known as
+  specialized shipping. Specialized freight shipping is used in industrial
+  businesses like oil and gas, mining, metal manufacturing, and more. In most
+  cases, these businesses require specific freight handling because loads are
+  either too big, too heavy, or need services that regular shipping companies "
 postedAt: 1605073522000
 news: false
-author: "GoShip Admin"
-intro: "Freight transportation serves an extremely wide scope of industries. Many of these industries involve heavy equipment, metals, or other bulky cargo. For these purposes, there is a special shipping type known as specialized shipping. Specialized freight shipping is used in industrial businesses like oil and gas, mining, metal manufacturing, and more. In most cases, these businesses require specific freight handling because loads are either too big, too heavy, or need services that regular shipping companies "
+description: Make your freight shipping easy with our specialized less than
+  truckload (LTL) and full truckload freight shipping services!
+altText: specialized freight shipping
+image: images/copy-of-goship-website-image-template-1024-x-768-px-9-.png
 ---
 Freight transportation serves an extremely wide scope of industries. Many of these industries involve heavy equipment, metals, or other bulky cargo. For these purposes, there is a special shipping type known as specialized shipping. Specialized freight shipping is used in industrial businesses like oil and gas, mining, metal manufacturing, and more. In most cases, these businesses require specific freight handling because loads are either too big, too heavy, or need services that regular shipping companies do not provide.
 
