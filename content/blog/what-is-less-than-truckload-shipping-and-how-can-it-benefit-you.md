@@ -15,7 +15,7 @@ description: LTL stands for less than truckload and is a shipping method where
   your LTL freight shipment takes only a part of the carrier's truck, instead of
   the whole space.
 altText: less than truckload
-image: images/copy-of-goship-blog-11-.png
+image: images/copy-of-goship-website-image-template-1024-x-768-px-15-.png
 ---
 # What is less than truckload shipping?
 
