@@ -16,7 +16,7 @@ description: Supply chain visibility is the ability to track and trace
   customer. In a current business environment, having visibility enables
   businesses to have control over their supply chains.
 altText: supply chain visibility
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-supply-chain-visibility-and-why-is-it-important.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-8-.png
 ---
 ## What is end-to-end visibility in the supply chain?
 
