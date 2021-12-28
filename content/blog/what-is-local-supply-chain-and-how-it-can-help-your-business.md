@@ -1,5 +1,5 @@
 ---
-keywords: "local supply chain "
+keywords: local supply chains, regional supply chain, freight, business
 author: GoShip Admin
 title: What is Local Supply Chain and How Can it Help Your Business?
 intro: The world is extremely globalized and interconnected today, as are supply
@@ -18,7 +18,7 @@ description: The world is extremely globalized and interconnected today, as are
   American or European suppliers and manufacturers. However, the global pandemic
   made enterprises rethink their supply chain models.
 altText: "local supply chain "
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-local-supply-chain-and-how-it-can-help-your-business.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-14-.png
 ---
 The world is extremely globalized and interconnected today, as are supply chains. A tremendous number of companies rely on outsourcing and offshoring suppliers, whether it’s manufacturing or retail business. Offshore locations are often utilized because of the massive price gap compared to American or European suppliers and manufacturers. However, the global pandemic made enterprises [rethink their supply chain](https://www.goship.com/blog/2021-outlook-small-business-trends/) models. Many businesses have suffered severe disruption because the majority of their sourcing and production was concentrated in China or other locations that had become unavailable for a certain time. Because of this, there is an emerging trend in the industry: local supply chains.
 
