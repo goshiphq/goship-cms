@@ -16,8 +16,8 @@ postedAt: 1520397928000
 news: false
 description: "Applying inside pickup and delivery services can significantly
   improve customer experience, especially in terms of last-mile delivery. "
-altText: "carrier delivering boxes "
-image: images/copy-of-goship-blog-4-.png
+altText: "Inside Pickip "
+image: images/copy-of-goship-website-image-template-1024-x-768-px-16-.png
 ---
 ## What is inside delivery?
 
