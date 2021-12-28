@@ -1,5 +1,5 @@
 ---
-keywords: supply chain visibility
+keywords: Supply chain visibility, supply chain, business practices
 author: GoShip Admin
 title: What Is Supply Chain Visibility And Why Is It Important?
 intro: >-
@@ -13,8 +13,8 @@ postedAt: 1618376459000
 news: false
 description: Supply chain visibility is the ability to track and trace
   everything that goes on in the supply chain from manufacturing to the end
-  customer. In a current business environment, having visibility enables
-  businesses to have control over their supply chains.
+  customer. Having visibility enables businesses to have more control over their
+  supply chains.
 altText: supply chain visibility
 image: images/copy-of-goship-website-image-template-1024-x-768-px-8-.png
 ---
