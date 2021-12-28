@@ -1,5 +1,5 @@
 ---
-keywords: refrigerated shipping
+keywords: refrigerated shipping, temperature control, product deterioration prevention
 author: GoShip Admin
 title: What Is Refrigerated Shipping and How Does It Work?
 intro: "What is refrigerated shipping? Refrigerated (or reefer) shipping and
@@ -11,15 +11,14 @@ intro: "What is refrigerated shipping? Refrigerated (or reefer) shipping and
   and pharmaceutics rely on refrigerated transportation every day. "
 postedAt: 1569992426000
 news: true
-description: "What is refrigerated shipping? Refrigerated (or reefer) shipping
-  and trucking is the transportation method of moving temperature-controlled
-  goods. In reefer shipping, freight is loaded and transported in trailers with
-  built-in refrigeration systems and climate control. Refrigerated shipping
-  plays an important role in the global economy since it’s the only way to
-  prevent product deterioration in transit. Fresh produce, dairy, meat products,
-  and pharmaceutics rely on refrigerated transportation every day. "
+description: " Refrigerated (or reefer) shipping and trucking is the
+  transportation method of moving temperature-controlled goods. Freight is
+  loaded and transported in trailers with built-in refrigeration systems and
+  climate control. Refrigerated shipping is the only way to prevent product
+  deterioration in transit. Fresh produce, dairy, meat products, and
+  pharmaceutics rely on refrigerated transportation every day."
 altText: refrigerated shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-refrigerated-shipping-and-how-does-it-work.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-11-.png
 ---
 # What is refrigerated shipping?
 
