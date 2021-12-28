@@ -9,7 +9,7 @@ description: Dry van freight shipping is one of the most common ways to ship
   quote.
 keywords: dry van quote, dry van trailer, dry van shipping
 altText: dry van truck driving down highway
-image: images/dry-van-on-highway.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-7-.png
 ---
 # What Is the Best Way to Get a Dry Van Quote Fast
 
