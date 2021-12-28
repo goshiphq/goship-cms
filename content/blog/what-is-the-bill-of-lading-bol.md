@@ -1,5 +1,5 @@
 ---
-keywords: BOL, Bill of lading, document
+keywords: "BOL, Bill of lading, document, shipment details, packaging "
 author: mderesh
 title: What Is the Bill of Lading (BOL) and How to Fill It Out?
 intro: >-
@@ -14,7 +14,7 @@ news: false
 description: "Bill of lading is a document that no successful transit goes
   without. Including all the crucial information, the BOL serves as the main
   physical proof of a shipment. "
-altText: "man filling out the BOL form "
+altText: Bill of Lading
 image: images/copy-of-goship-website-image-template-1024-x-768-px-6-.png
 ---
 What Is the Bill of Lading (BOL)?
