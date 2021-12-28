@@ -20,7 +20,7 @@ news: false
 description: Lately, dry van shipping has been one of the most demanded types of
   transportation due to its availability and cost-effectiveness.
 altText: "carrier delivering items via dry van "
-image: images/goship-blog-5-.png
+image: images/copy-of-goship-website-image-template-1024-x-768-px-7-.png
 ---
 Whether you are shipping full truckload or less-than-truckload freight, chances are you are using dry van shipping. Dry vans are the most commonly used trailer types within the trucking industry as they allow the transport of large amounts of goods and almost every kind of commodity.
 
