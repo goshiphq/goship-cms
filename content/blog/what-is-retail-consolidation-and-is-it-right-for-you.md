@@ -1,5 +1,5 @@
 ---
-keywords: retail consolidation
+keywords: retail consolidation, retail industry, competition, business markets
 author: GoShip Admin
 title: What Is Retail Consolidation and Is It Right for You?
 intro: >
@@ -12,12 +12,12 @@ intro: >
   used solutions is a retail consolidation program. 
 postedAt: 1583298056000
 news: false
-description: The rapid growth of the retail industry resulted in fierce
-  competition among retailers. To succeed in the tight market, businesses have
-  to implement the latest technology, respond to growing customer demands, and
-  maintain realistic budgets.
+description: Rapid growth in the retail industry results in fierce competition
+  among retailers. To succeed in a tight market, businesses have to implement
+  the latest technology, respond to growing customer demands, and maintain
+  realistic budgets.
 altText: retail consolidation
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-retail-consolidation-and-is-it-right-for-you.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-10-.png
 ---
 The rapid growth of the retail industry resulted in fierce competition among retailers. To succeed in the tight market, businesses have to implement the latest technology, respond to growing customer demands, and maintain realistic budgets. Keeping costs low is a challenge when you constantly need to adjust your strategy and improve service. However, there are some ways for retail supply chains to become more efficient and less expensive. One of the widely used [solutions](https://www.plslogistics.com/blog/3-best-practices-for-effective-vendor-management/) is a retail consolidation program.
 
