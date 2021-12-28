@@ -15,7 +15,7 @@ description: "Bill of lading is a document that no successful transit goes
   without. Including all the crucial information, the BOL serves as the main
   physical proof of a shipment. "
 altText: "man filling out the BOL form "
-image: images/copy-of-goship-blog-1-.png
+image: images/copy-of-goship-website-image-template-1024-x-768-px-6-.png
 ---
 What Is the Bill of Lading (BOL)?
 ---------------------------------
