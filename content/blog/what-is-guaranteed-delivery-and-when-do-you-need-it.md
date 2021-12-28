@@ -15,7 +15,7 @@ description: "What should you do if you need the shipment to be there at the
   right time, at the right place? If you want to ensure that you receive freight
   on a certain date, you should request guaranteed LTL delivery. "
 altText: guaranteed delivery
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-guaranteed-delivery-and-when-do-you-need-it.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-17-.png
 ---
 Transit time is a common concern among shippers that offer LTL services. Often, carriers give you the estimated delivery time, and it is assumed that the actual delivery date may be slightly delayed. Each [carrier defines its own transit times](https://www.plslogistics.com/blog/5-tips-to-choose-the-perfect-ltl-freight-carrier/) that mostly depend on the route, distance, lane, freight size, type, and other factors. Therefore, sometimes there are situations when a shipment doesn’t arrive strictly upon the mentioned date. But what should you do if you need the shipment to be there at the right time, at the right place? If you want to ensure that you receive freight on a certain date, you should request guaranteed LTL delivery. 
 
