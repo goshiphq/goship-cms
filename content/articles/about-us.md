@@ -6,9 +6,7 @@ description: GoShip.com is a domestic freight shipping marketplace that provides
   innovative and cost-effective approach.
 keywords: GoShip.com
 ---
-
 # About GoShip.com
-
 
 ## What is GoShip.com?
 
@@ -18,12 +16,12 @@ GoShip.com is a completely self-service platform designed to simplify the proces
 
 ## Benefits of Shipping with GoShip.com
 
-*   Instant, free freight rates & quotes
-*   Custom solutions for your business needs
-*   24/7 access to platform and shipment tracking
-*   Online shipment booking tools
-*   Wide variety of services
-*   Industry expertise
+* Instant, free freight rates & quotes.
+* Custom solutions for your business needs
+* 24/7 access to platform and shipment tracking
+* Online shipment booking tools
+* Wide variety of services
+* Industry expertise
 
 ## Our History and Mission
 
@@ -55,11 +53,11 @@ Present your GoShip.com bill of lading to the driver to verify your shipment and
 
 GoShip.com is here to help you with all your individual and small business shipping needs. We supply you with advanced solutions for a wide range of shipping services, including:
 
-*   [Full Truckload Freight](https://www.goship.com/shipping-services/truckload-freight-shipping/)
-*   [LTL Freight](https://www.goship.com/shipping-services/ltl-freight-shipping/)
-*   [Small Business](https://www.goship.com/shipping-services/small-business-shipping/)
-*   [Large Items](https://www.goship.com/shipping-services/large-item-shipping/)
-*   [Shipping to Canada](https://www.goship.com/shipping-services/international-shipping/)
+* [Full Truckload Freight](https://www.goship.com/shipping-services/truckload-freight-shipping/)
+* [LTL Freight](https://www.goship.com/shipping-services/ltl-freight-shipping/)
+* [Small Business](https://www.goship.com/shipping-services/small-business-shipping/)
+* [Large Items](https://www.goship.com/shipping-services/large-item-shipping/)
+* [Shipping to Canada](https://www.goship.com/shipping-services/international-shipping/)
 
 GoShip.com gives its customers a step-by-step process to make shipping as simple, affordable, and convenient as possible.
 
@@ -75,11 +73,11 @@ Unlike traditional small parcel shipping companies, GoShip.com specializes in ov
 
 Here are some tips to help make the shipping process much smoother for you:
 
-*   Always clearly label your packages
-*   Provide adequate protection for your items (pallets, crates or boxes)
-*   Distribute weight equally on a pallet
-*   Make sure to accurately measure and weigh your shipment before providing dimensions
-*   Have material ready for shipping before scheduling a pickup in the platform
+* Always clearly label your packages
+* Provide adequate protection for your items (pallets, crates or boxes)
+* Distribute weight equally on a pallet
+* Make sure to accurately measure and weigh your shipment before providing dimensions
+* Have material ready for shipping before scheduling a pickup in the platform
 
 ## Let Us Make Shipping Easy for You
 
