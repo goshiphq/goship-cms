@@ -12,7 +12,7 @@ keywords: "3PL and logistics trends "
 altText: "3PL and logistics trends "
 image: images/depositphotos_411458746_xl.jpg
 ---
-You may have noticed that the logistics and supply chain industry is going through a metamorphosis. t
+You may have noticed that the logistics and supply chain industry is going through a metamorphosis.
 
 It’s not all in your head –– rising 3PL prices are caused by extraordinary demand, while capacity, infrastructure, and staff can barely keep up with the growth.
 
