@@ -16,7 +16,7 @@ GoShip.com is a completely self-service platform designed to simplify the proces
 
 ## Benefits of Shipping with GoShip.com
 
-* Instant, free freight rates & quotes.
+* Instant, free freight rates & quotes
 * Custom solutions for your business needs
 * 24/7 access to platform and shipment tracking
 * Online shipment booking tools
