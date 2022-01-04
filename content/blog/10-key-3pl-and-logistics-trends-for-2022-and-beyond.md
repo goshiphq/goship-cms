@@ -12,8 +12,7 @@ keywords: "3PL and logistics trends "
 altText: "3PL and logistics trends "
 image: images/depositphotos_411458746_xl.jpg
 ---
-
-You may have noticed that the logistics and supply chain industry is going through a metamorphosis. 
+You may have noticed that the logistics and supply chain industry is going through a metamorphosis. t
 
 It’s not all in your head –– rising 3PL prices are caused by extraordinary demand, while capacity, infrastructure, and staff can barely keep up with the growth.
 
@@ -21,7 +20,7 @@ While the changes are overwhelming, it’s critical that companies learn about 3
 
 Learn about the top 2022 3PL industry trends to stay competitive!
 
-## Key 3PL and logistics trends 
+## Key 3PL and logistics trends
 
 ### Capacity shortage will continue in 2022
 
@@ -127,4 +126,3 @@ With the increasing need for freight forwarding and domestic shipping, more busi
 Online self-service platforms allow users to get a comprehensive overview of the most affordable carriers in their area.
 
 Get in touch with GoShip.com for a [free quote.](https://www.goship.com/)
-
