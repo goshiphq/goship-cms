@@ -54,4 +54,4 @@ Always make sure your paperwork is filled out correctly and clearly. You want to
 
 ## **Only use what you need**
 
-If you’re looking to add any accessorials, try to keep them to a minimum if you can. They will increase your cost to ship. If you don’t need them, why add them? Get your [Free Quote](https://app.goship.com/#/wizard) to understand how much GoShip.com can help save you on your shipping costs. 123
+If you’re looking to add any accessorials, try to keep them to a minimum if you can. They will increase your cost to ship. If you don’t need them, why add them? Get your [Free Quote](https://app.goship.com/#/wizard) to understand how much GoShip.com can help save you on your shipping costs.
