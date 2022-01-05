@@ -1,5 +1,5 @@
 ---
-keywords: 2020 LTL shipping trends
+keywords: 2020 LTL shipping trends, ltl freight
 author: GoShip Admin
 title: "2020 LTL Shipping Trends: 3 Key Updates on the Market"
 intro: >-
