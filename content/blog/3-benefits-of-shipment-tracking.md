@@ -1,5 +1,6 @@
 ---
-keywords: shipment tracking
+keywords: Shipment tracking, shipment tracking technologies, Benefits of
+  Shipment Tracking
 author: GoShip Admin
 title: 3 Benefits of Shipment Tracking
 intro: The shipping industry is constantly being changed by new technology,
@@ -11,10 +12,11 @@ intro: The shipping industry is constantly being changed by new technology,
   technology is with shipment tracking. Shipment tracking is a new fe
 postedAt: 1537333243000
 news: false
-description: "The shipping industry is constantly being changed by new
-  technology, ranging from the ELD mandate to the idea of autonomous trucks. "
-altText: shipment tracking
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-benefits-of-shipment-tracking.jpg
+description: Shipment tracking has proved its effectiveness and ability to grow
+  customer satisfaction. You will definitely benefit from applying shipment
+  tracking technologies.
+altText: customers tracking shipment
+image: images/goship-blog-10-.png
 ---
 The shipping industry is constantly being changed by new technology, ranging from the ELD mandate to the idea of autonomous trucks. Technology is almost unavoidable in today’s society and has changed the way people ship. Consumers become more and more conventional to technology, and many businesses focus on staying ahead of technology to provide customers with a seamless shopping and shipping experience. One way businesses are utilizing new technology is with shipment tracking. Shipment tracking is a new feature that many shipping services are implementing to [give customers full visibility](https://www.goship.com/blog/how-to-improve-your-customers-experience-through-shipping/) of their shipment. Today we will be covering the top reasons why tracking is not only important to customers, but to businesses as well.
 
