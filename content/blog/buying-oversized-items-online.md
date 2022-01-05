@@ -1,7 +1,7 @@
 ---
-keywords: Shipping Oversized Items
+keywords: oversized items, shipping oversized items, how to ship oversized items
 author: GoShip Admin
-title: "Shipping Oversized Items: Everything You Need To Know"
+title: "How To Safely Ship Oversized Items: Everything You Need To Know"
 intro: >-
   The e-commerce sector is fiercely expanding, and the number of consumers who
   are purchasing online is constantly growing. According to, holiday e-commerce
@@ -19,15 +19,11 @@ intro: >-
   Whether you are buying or selling bulky i
 postedAt: 1544590851000
 news: false
-description: The e-commerce sector is fiercely expanding, and the number of
-  consumers who are purchasing online is constantly growing. According to,
-  holiday e-commerce sales in 2018 have reached $120 billion compared to $103,88
-  in 2017, which is 15.5 percent growth. Purchasing oversized items, like
-  furniture or equipment online is becoming more common as well. However, many
-  people still experience difficulties when it comes to shipping oversized
-  items. What are the options?-Whether you are buying or selling bulky i
-altText: Shipping Oversized Items
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/buying-oversized-items-online.jpg
+description: Shipping oversized items can seem complicated and sometimes
+  dangerous. You can simplify the process by choosing a suitable transportation
+  mode.
+altText: Shipping Oversized Items truck
+image: images/goship-blog-9-.png
 ---
 # Shipping Oversized Items
 
