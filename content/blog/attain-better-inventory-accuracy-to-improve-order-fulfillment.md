@@ -1,10 +1,21 @@
 ---
-title: "Attain Better Inventory Accuracy to Improve Order Fulfillment"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/attain-better-inventory-accuracy-to-improve-order-fulfillment.jpg"
+keywords: inventory accuracy, warehousing, Improve Order Fulfillment, Order Fulfillment
+author: GoShip Admin
+title: Attain Better Inventory Accuracy to Improve Order Fulfillment
+intro: The global pandemic has changed the e-commerce landscape forever. With
+  intense digitalization and the exponential growth of online shopping, retail
+  supply chains across the world are now strained with new market demands. One
+  of those demands is a more efficient order fulfillment strategy, which
+  requires reviewing your warehouse practices as well. Inventory discrepancies
+  are becoming a costly issue for businesses. Essentially, more orders and
+  transactions increase the chance for errors, so inventory accuracy
 postedAt: 1612934132000
 news: false
-author: "GoShip Admin"
-intro: "The global pandemic has changed the e-commerce landscape forever. With intense digitalization and the exponential growth of online shopping, retail supply chains across the world are now strained with new market demands. One of those demands is a more efficient order fulfillment strategy, which requires reviewing your warehouse practices as well. Inventory discrepancies are becoming a costly issue for businesses. Essentially, more orders and transactions increase the chance for errors, so inventory accuracy"
+description: Maintaining inventory accuracy has never been an easy task. By
+  following these logical steps, you will improve your warehousing and order
+  fulfillment operations.
+altText: boxes in warehouse
+image: images/goship-blog-3-.png
 ---
 The global pandemic has [changed the e-commerce landscape](https://www.goship.com/blog/3-tips-for-shipping-strategy-success-in-2021/) forever. With intense digitalization and the exponential growth of online shopping, retail supply chains across the world are now strained with new market demands. One of those demands is a more efficient order fulfillment strategy, which requires reviewing your [warehouse practices](https://www.plslogistics.com/blog/3-predicted-warehouse-management-trends-for-2021) as well. Inventory discrepancies are becoming a costly issue for businesses. Essentially, more orders and transactions increase the chance for errors, so inventory accuracy is critical.
 
