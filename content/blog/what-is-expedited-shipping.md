@@ -1,10 +1,29 @@
 ---
-title: "What Is Expedited Shipping?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-expedited-shipping.jpg"
+keywords: expedited shipping, on-time delivery
+author: GoShip Admin
+title: What Is Expedited Shipping and How Much Does It Cost?
+intro: >-
+  In the world of freight shipping, transit times play a crucial role for both
+  the shipper and receiver. While most LTL carries give estimated delivery
+  times, sometimes the actual time of arrival may be slightly different.
+  However, in the e-commerce industry, last minute shipments are a regular
+  thing. Many shippers need faster shipping for urgent situations, and if you
+  are in this situation, expedited shipping has many benefits and can be a
+  solution worth trying.  
+
+
+  What is expedited shipping?
+
+  -
+
+
+  Expedited sh
 postedAt: 1565154008000
 news: false
-author: "GoShip Admin"
-intro: "In the world of freight shipping, transit times play a crucial role for both the shipper and receiver. While most LTL carries give estimated delivery times, sometimes the actual time of arrival may be slightly different. However, in the e-commerce industry, last minute shipments are a regular thing. Many shippers need faster shipping for urgent situations, and if you are in this situation, expedited shipping has many benefits and can be a solution worth trying.  \n\nWhat is expedited shipping?\n-\n\nExpedited sh"
+description: "Expedited shipping is a solution for those who prioritize on-time
+  delivery and high customer satisfaction. "
+altText: expedited shipping planning
+image: images/goship-blog-5-.png
 ---
 In the world of freight shipping, transit times play a crucial role for both the shipper and receiver. While most LTL carries give estimated delivery times, sometimes the actual time of arrival may be slightly different. However, in the e-commerce industry, last minute shipments are a regular thing. Many shippers need faster shipping for urgent situations, and if you are in this situation, expedited shipping [has many benefits](https://www.plslogistics.com/blog/why-you-need-to-consider-expedited-shipping/) and can be a solution worth trying. 
 
