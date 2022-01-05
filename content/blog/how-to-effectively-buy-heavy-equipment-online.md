@@ -1,5 +1,5 @@
 ---
-keywords: heavy equipment
+keywords: heavy equipment, how to buy heavy equipment online
 author: GoShip Admin
 title: How to Effectively Buy Heavy Equipment Online
 intro: Buying and selling things online is a typical thing for us to do now,
@@ -11,10 +11,10 @@ intro: Buying and selling things online is a typical thing for us to do now,
   possible to make successful deals and buy equipment pieces you a
 postedAt: 1595998856000
 news: false
-description: Buying and selling heavy equipment online is a typical thing for us
-  to do now, especially with many businesses operating under restrictions.
-altText: heavy equipment
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-effectively-buy-heavy-equipment-online.png
+description: "If you need to buy heavy equipment online, go through a short
+  guide to save your time and costs. "
+altText: heavy equipment operating onsite
+image: images/goship-blog-6-.png
 ---
 Buying and selling things online is a typical thing for us to do now, especially with many businesses operating under restrictions. But it may  not be that simple when you are trying to buy or [sell expensive equipment](https://www.goship.com/blog/how-to-sell-heavy-equipment-online/) of enormous size. First of all, it's hard to accurately assess the condition of the object you’re looking to purchase. 
 
