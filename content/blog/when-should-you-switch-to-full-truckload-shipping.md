@@ -1,7 +1,7 @@
 ---
 keywords: Full Truckload Shipping, Switching to Full Truckload Shipping, Freight Shipping
 author: GoShip Admin
-title: When Should You Switch to Full Truckload Shipping?
+title: "Why Do I Need Full Truckload Shipping and When To Use It? "
 intro: >-
   For small business owners, shipping freight can sometimes be costly and
   challenging. You have to wear many hats and with a limited budget, getting the
