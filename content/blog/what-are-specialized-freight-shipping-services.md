@@ -1,5 +1,5 @@
 ---
-keywords: specialized shipping, specialized freight shipping
+keywords: specialized freight shipping, specialized freight shipping services
 author: GoShip Admin
 title: What Are Specialized Freight Shipping Services?
 intro: >-
@@ -19,13 +19,11 @@ intro: >-
   Specialized shipping is used in industrial businesses like o
 postedAt: 1621400409000
 news: false
-description: Freight shipping is the lifeblood of an extremely wide scope of
-  other industries. Many industries need heavy equipment, machinery details,
-  sensitive or fragile shipments, or bulky cargo shipped carefully and on time.
-  In other words, many companies need freight shipping services that require a
-  more tailored and cautious approach.
-altText: specialized shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-specialized-freight-shipping-services.jpg
+description: Modern logistics can adapt to any transporation needs. If you are
+  planning to ship items with particular requirements, explore specialized
+  freight shipping services.
+altText: specialized shipping measuring
+image: images/goship-blog-8-.png
 ---
 Freight shipping is the lifeblood of an extremely wide scope of other industries. Many industries need heavy equipment, machinery details, sensitive or fragile shipments, or bulky cargo shipped carefully and on time. In other words, many companies need freight shipping services that require a more tailored and cautious approach. This type of shipping involves specialized freight services.
 
