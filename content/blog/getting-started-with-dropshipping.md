@@ -1,10 +1,28 @@
 ---
-title: "Getting Started with Dropshipping"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/getting-started-with-dropshipping.png"
+keywords: dropshipping, dropshipping business, eCommerce platforms, Get Started
+  With Dropshipping Business
+author: GoShip Admin
+title: What Do You Need to Get Started With Dropshipping Business?
+intro: >-
+  Have you always wanted to start an eCommerce business? Many businesses have
+  failed to come to fruition due to insufficient capital and difficulties in
+  dealing with warehouses, inventory, and shipping. Fortunately, there’s a more
+  convenient and attainable alternative – dropshipping. Find out if dropshipping
+  is the right choice for you!  
+
+
+  What is Dropshipping?
+
+  -
+
+
+  Dropshipping is a form of eCommerce where all fulfillment of orders is taken care of by third-party suppliers. This means that digital store owners
 postedAt: 1625202022000
 news: false
-author: "GoShip Admin"
-intro: "Have you always wanted to start an eCommerce business? Many businesses have failed to come to fruition due to insufficient capital and difficulties in dealing with warehouses, inventory, and shipping. Fortunately, there’s a more convenient and attainable alternative – dropshipping. Find out if dropshipping is the right choice for you!  \n\nWhat is Dropshipping?\n-\n\nDropshipping is a form of eCommerce where all fulfillment of orders is taken care of by third-party suppliers. This means that digital store owners"
+description: eCommerce platforms can be incredibly beneficial for your business.
+  If you want to get into this area, dropshipping is a great starting point.
+altText: man packing goods for dropshipping
+image: images/goship-blog-2-.png
 ---
 Have you always wanted to start an eCommerce business? Many businesses have failed to come to fruition due to insufficient capital and difficulties in dealing with warehouses, inventory, and shipping. Fortunately, there’s a more convenient and attainable alternative – dropshipping. Find out if dropshipping is the right choice for you! 
 
