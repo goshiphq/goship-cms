@@ -15,7 +15,7 @@ shippingservices:
     url: /shipping-services/quote-ftl
 resourceslinks:
   - title: About Us
-    url: about-us
+    url: /about-us
   - title: GoShip App
     url: /resources/app
   - title: News
