@@ -1,6 +1,5 @@
 ---
-keywords: "LTL consolidation, LTL freight, LTL freight consolidation, LTL,
-  partial load, low cost shipment "
+keywords: LTL freight consolidation, what is LTL freight consolidation
 author: GoShip Admin
 title: What Is LTL Freight Consolidation & Why Should You Use It?
 intro: >-
@@ -20,12 +19,10 @@ intro: >-
   LTL freight consolidation is 
 postedAt: 1578395305000
 news: false
-description: There are many different options to make Less-than-truckload
-  shipping more cost-efficient, but one of the most working ways is LTL freight
-  consolidation. The higher the shipment volume, the lower is the cost per
-  shipment.
-altText: Freight Consolidation
-image: images/copy-of-goship-website-image-template-1024-x-768-px-13-.png
+description: LTL freight consolidation is a great opportunity to save costs and
+  optimize logistics processes by combining several shipments.
+altText: freight consolidation
+image: images/goship-blog-28-.png
 ---
 When you’re choosing [less-than-truckload (LTL)](https://www.goship.com/shipping-services/ltl-freight-shipping/) shipping mode, you think about saving freight costs. There are many different options to make LTL more cost-efficient, but one of the most working ways is LTL freight consolidation. The higher the shipment volume, the lower is the cost per shipment. Retailers and shippers use this strategy to combine or consolidate, smaller volumes of freight into bigger ones in order to reduce freight costs.
 
