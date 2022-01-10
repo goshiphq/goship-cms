@@ -1,7 +1,8 @@
 ---
-keywords: freight shipping trends, logistics trends, transportation trends
+keywords: supply chain and logistics trends, supply chain and logistics trends
+  in 2018, key shipping trends
 author: GoShip Admin
-title: Freight Shipping Trends in 2018 That Will Affect Your Business
+title: Biggest Supply Chain and Logistics Trends in 2018
 intro: At GoShip.com, we believe in closely watching the shipping industry and
   staying up to date with freight transportation and shipping trends to be able
   to provide our customers with the best tools for their shipping needs.
@@ -11,11 +12,10 @@ intro: At GoShip.com, we believe in closely watching the shipping industry and
   Based on what we have seen in the industry during that time, and
 postedAt: 1528865113000
 news: true
-description: Based on what we have seen in the industry during the last year,
-  here are some freight shipping trends to watch for in the industry in 2018 and
-  beyond.
+description: Certain supply chain and logistics trends of 2018 will remain
+  relevant and affect your business in the future.
 altText: freight shipping trends
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/2018-trends-affecting-shipping-costs.jpg
+image: images/goship-blog-32-.png
 ---
 At GoShip.com, we believe in closely watching the shipping industry and staying up to date with freight transportation and shipping trends to be able to provide our customers with the best tools for their shipping needs. 
 
