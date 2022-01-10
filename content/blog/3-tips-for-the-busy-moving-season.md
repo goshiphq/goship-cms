@@ -1,5 +1,5 @@
 ---
-keywords: moving season
+keywords: busy moving season, peak moving season, tips for the busy moving season
 author: GoShip Admin
 title: 3 Tips for the Busy Moving Season
 intro: >-
@@ -22,11 +22,11 @@ intro: >-
   If you're planning a personal move, the first step isn't packing, it's deciding what 
 postedAt: 1600837523000
 news: false
-description: It’s mid-September, and the busy moving season is in full swing!
-  While this month is more known for back to school and the start of fall, now
-  is the perfect time to book shipments
-altText: moving season
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-tips-for-the-busy-moving-season.jpg
+description: Busy moving season can be quite challenging for the shippers
+  without a determined logistics strategy. Start preparing for the peak moving
+  season in advance!
+altText: preparing for moving season
+image: images/goship-blog-40-.png
 ---
 It’s mid-September, and the [busy shipping season](https://www.goship.com/blog/moving-season-best-time-to-move/) is in full swing! While this month is more known for back to school and the start of fall, now is the perfect time to book shipments, whether you're moving equipment or from one city to another. But before you start packing up and searching for the best rates, there are some important factors you should consider.
 
