@@ -1,5 +1,5 @@
 ---
-keywords: trailers, types of trailers, truckload shipping
+keywords: truckload shipping, what are the types of trailers, different types of trailers
 author: GoShip Admin
 title: What Are The Types of Trailers In Truckload Shipping?
 intro: >-
@@ -15,13 +15,11 @@ intro: >-
   What are the types of trai
 postedAt: 1571806822000
 news: false
-description: "While many shippers are focused on freight rates, they often miss
-  the importance of using the correct equipment. There are different types of
-  trailers in truckload shipping, each created to move different types of
-  freight. Before booking a shipment, it’s crucial to know what are the
-  differences between truck trailers, their role, and their characteristics. "
-altText: trailers
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-types-of-trailers-in-truckload-shipping.jpg
+description: Truckload shipping operations are held using different types of
+  trailers, depending on your transportation needs and the features of your
+  freight.
+altText: trailer types
+image: images/goship-blog-29-.png
 ---
 If you don’t have a lot of experience with [truckload freight shipping](https://www.goship.com/blog/what-is-truckload-shipping-and-how-does-it-work/), it may be challenging to arrange everything properly. While many shippers are focused on freight rates, they often miss the importance of using the correct equipment. There are different types of trailers in truckload shipping, each created to move different types of freight. Before booking a shipment, it’s crucial to know what are the differences between truck trailers, their role, and their characteristics.
 
