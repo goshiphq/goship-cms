@@ -1,10 +1,21 @@
 ---
-title: "Cross Border E-Commerce: Everything You Need To Know"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/cross-border-e-commerce-everything-you-need-to-know.jpg"
+keywords: cross-border ecommerce, shipping abroad, cross-border trade
+author: GoShip Admin
+title: "Exploring Cross-Border eCommerce: Everything You Need To Know"
+intro: Over the last few years, the e-commerce sector in the U.S. and globally
+  has experienced significant growth. Overall, global e-commerce sales are
+  estimated to reach $1 trillion in 2020. With more customers shifting from
+  physical shopping trips to online purchasing, there are plenty of
+  opportunities for both small businesses and individual shippers to succeed in
+  cross border e-commerce.  Additionally, considering tensions between the U.S.
+  and China and growing import taxes, customers will be more interested i
 postedAt: 1579064429000
 news: false
-author: "GoShip Admin"
-intro: "Over the last few years, the e-commerce sector in the U.S. and globally has experienced significant growth. Overall, global e-commerce sales are estimated to reach $1 trillion in 2020. With more customers shifting from physical shopping trips to online purchasing, there are plenty of opportunities for both small businesses and individual shippers to succeed in cross border e-commerce.  Additionally, considering tensions between the U.S. and China and growing import taxes, customers will be more interested i"
+description: eCommerce is constantly expanding the scales of online purchasing
+  and cross-border trade. This creates a perfect opportunity to start shipping
+  abroad.
+altText: " cross-border trade"
+image: images/goship-blog-27-.png
 ---
 Over the last few years, the e-commerce sector in the U.S. and globally has experienced significant growth. Overall, global e-commerce sales are [estimated to reach $1 trillion](https://smallbusiness.yahoo.com/advisor/post/121605721332/a-report-from-accenture-and-alibaba-groups-aliresearch) in 2020. With more customers shifting from physical shopping trips to online purchasing, there are plenty of opportunities for both small businesses and individual shippers to succeed in cross border e-commerce.  Additionally, considering [tensions between the U.S. and China](https://www.bbc.com/news/business-45899310) and growing import taxes, customers will be more interested in trade between other countries, and in local shopping as well. Selling cross border is a new level, so you need a polished strategy to successfully enter the mature market of U.S. e-commerce. Whether you are a business selling directly to customers, or a merchant using platforms like eBay or Amazon, there are nuances in online commerce that you need to know.
 
