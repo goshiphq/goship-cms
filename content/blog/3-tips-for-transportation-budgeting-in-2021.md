@@ -1,5 +1,6 @@
 ---
-keywords: " transportation budget"
+keywords: transportation budgeting, transportation budget, tips for
+  transportation budgeting
 author: GoShip Admin
 title: 3 Tips for Transportation Budgeting in 2021
 intro: >-
@@ -21,10 +22,10 @@ intro: >-
   As a direct reflection of conditions created by COVID-19, there has been a dip in pricing across all ma
 postedAt: 1608095577000
 news: false
-description: What are 3 key things to consider when planning your transportation
-  budget in 2021?
-altText: " transportation budget"
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-tips-for-transportation-budgeting-in-2021.jpg
+description: Here are 3 key things to consider when calculating your costs and
+  planning your transportation budget in 2021.
+altText: " transportation budget planning"
+image: images/goship-blog-42-.png
 ---
 Setting a transportation budget for [2021](https://www.goship.com/blog/2021-outlook-small-business-trends/) seems like a daunting task after the roller coaster that was 2020. While many companies will surely keep their budgets low, logistics and transportation experts anticipate a rise in short-term contracts, extending existing agreements, and early planning.
 
