@@ -1,10 +1,21 @@
 ---
-title: "3 Best Practices for Building A Strong Local Supply Chain"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-building-a-strong-local-supply-chain.jpg"
+keywords: local supply chain business, how to build a local supply chain
+author: GoShip Admin
+title: "How to Build A Strong Local Supply Chain: Top Practices"
+intro: Supply chains in the US have been widely stretched around the globe for
+  decades. Outsourcing and offshoring manufacturing has been a gold standard in
+  the industry until 2020. Then, the pandemic happened,
+  accompanied by many other economic and political factors
+  like the US-China trade war and Brexit. Considering these factors, the time
+  has come to shorten the supply chains. Many retailers and businesses in the US
+  are trying to develop a better local supply chain, use regional freight
+  carriers, and take other
 postedAt: 1612331738000
 news: false
-author: "GoShip Admin"
-intro: "Supply chains in the US have been widely stretched around the globe for decades. Outsourcing and offshoring manufacturing has been a gold standard in the industry until 2020. Then, the pandemic happened, accompanied by many other economic and political factors like the US-China trade war and Brexit. Considering these factors, the time has come to shorten the supply chains. Many retailers and businesses in the US are trying to develop a better local supply chain, use regional freight carriers, and take other"
+description: Learn how to create a stable local supply chain business and
+  establish trusted relationships with other local business owners.
+altText: local business owners
+image: images/goship-blog-36-.png
 ---
 Supply chains in the US have been widely stretched around the globe for decades. Outsourcing and offshoring manufacturing has been a gold standard in the industry until 2020. Then, the pandemic happened, accompanied by many other [economic and political factors](https://www.forbes.com/sites/jwebb/2017/02/28/how-to-build-a-local-supply-chain-six-tips-to-survive-in-a-protectionist-world/?sh=7eafffc52f9b%22%20\) like the US-China trade war and Brexit. Considering these factors, the time has come to shorten the supply chains. Many retailers and businesses in the US are trying to develop a better local supply chain, use regional freight carriers, and take other steps to make their supply chain more flexible and prone to disruptions. Are the new times coming? Maybe. Regardless, it’s better to be prepared. Here are a few best practices for building a strong local supply chain to complement your [shipping strategy](https://www.goship.com/blog/3-tips-for-shipping-strategy-success-in-2021/).
 
