@@ -1,5 +1,5 @@
 ---
-keywords: "LTL freight, freight volume "
+keywords: volume LTL freight, what is volume LTL freight, LTL mode
 author: GoShip Admin
 title: What Is Volume LTL Freight and When Can You Use It?
 intro: >-
@@ -18,13 +18,10 @@ intro: >-
   Volume freight is a shipment that's larger and heavier than standard LTL, but not enough to fill a full truckload trailer and be justified for a full truckload ship
 postedAt: 1566363630000
 news: false
-description: Shippers who often ship LTL freight can benefit from another
-  shipping method called volume freight shipping. In the shipping industry, it
-  stands somewhere between full truckload and less than truckload shipping.
-  Knowing the difference can be tricky, so it’s important to know the difference
-  between all of the options.
-altText: "freight volume "
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/volume-ltl-freight-when-use-it.jpg
+description: If you actively ship your freight using LTL mode, it is time to
+  explore volume LTL freight shipping and start moving bigger amounts of goods.
+altText: packing volume LTL freight
+image: images/goship-blog-26-.png
 ---
 Shippers who often ship LTL freight can benefit from another shipping method called volume freight shipping. In the shipping industry, it stands somewhere between full truckload and less than truckload shipping. Knowing the difference can be tricky, so it’s important to know the difference between all of the options.
 
