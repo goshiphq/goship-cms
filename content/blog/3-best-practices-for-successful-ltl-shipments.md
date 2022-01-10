@@ -1,10 +1,24 @@
 ---
-title: "3 Best Practices For Successful LTL Shipments"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-successful-ltl-shipments.jpg"
+keywords: LTL shipments, LTL shipping mode, delivery service
+author: GoShip Admin
+title: 3 Best Practices For Successful LTL Shipments
+intro: >-
+  Less than truckload shipping is a great and cost-effective option to move
+  relatively small amounts of freight. However, there is a high demand for LTL
+  capacity, and it is often higher than the supply. Shippers that don’t know how
+  to prepare LTL freight and make it more attractive to the carriers may miss
+  out on the opportunity to land a place in an LTL trailer. There are several
+  practices for LTL shipments that can improve your freight’s status and also
+  affect the price you are paying for LTL shipments. 
+
+
+  W
 postedAt: 1581310819000
 news: false
-author: "GoShip Admin"
-intro: "Less than truckload shipping is a great and cost-effective option to move relatively small amounts of freight. However, there is a high demand for LTL capacity, and it is often higher than the supply. Shippers that don’t know how to prepare LTL freight and make it more attractive to the carriers may miss out on the opportunity to land a place in an LTL trailer. There are several practices for LTL shipments that can improve your freight’s status and also affect the price you are paying for LTL shipments. \n\nW"
+description: "If you are planning to move your freight in LTL shipping mode,
+  learn how to optimize the process and improve your delivery service. "
+altText: man packing LTL shipment
+image: images/goship-blog-20-.png
 ---
 Less than truckload shipping is a great and cost-effective option to move relatively small amounts of freight. However, there is a [high demand](https://www.goship.com/blog/2020-ltl-shipping-trends-3-key-updates-on-the-market/) for LTL capacity, and it is often higher than the supply. Shippers that don’t know how to prepare LTL freight and make it more attractive to the carriers may miss out on the opportunity to land a place in an LTL trailer. There are several practices for LTL shipments that can improve your freight’s status and also affect the price you are paying for LTL shipments.
 
