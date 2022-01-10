@@ -1,5 +1,6 @@
 ---
-keywords: Full truckload, truckload freight, FTL shipping
+keywords: truckload freight shipping, full truckload shipping, benefits of
+  truckload freight shipping
 author: GoShip Admin
 title: 3 Key Benefits of Truckload Freight Shipping
 intro: The trucking industry accounts for almost 70% of freight tonnage moved
@@ -11,11 +12,10 @@ intro: The trucking industry accounts for almost 70% of freight tonnage moved
   benefits shippers regardless of the industry and compan
 postedAt: 1569387611000
 news: false
-description: Full truckload is a freight shipping option that can best benefit
-  shippers who have more than 10,000 pounds, or more than 10 pallets of freight
-  to transport.
-altText: "Full truckload "
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-benefits-truckload-freight-shipping.jpg
+description: "Shippers who move large amounts of freight can significantly
+  benefit from full truckload shipping services. "
+altText: full truckload shipment
+image: images/goship-blog-35-.png
 ---
 The trucking industry accounts for almost 70% of freight tonnage moved throughout the U.S. Altogether, the truck market in the U.S. alone is worth [more than $700 billion](https://medium.com/@sambokher/segments-of-u-s-trucking-industry-d872b5fca913). Speaking facts, full truckload freight generates 85% of the entire trucking industry revenue. \
 \
