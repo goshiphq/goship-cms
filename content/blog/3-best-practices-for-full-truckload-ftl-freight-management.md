@@ -1,5 +1,5 @@
 ---
-keywords: FTL freight management
+keywords: FTL freight management, truckload freight performance
 author: GoShip Admin
 title: 3 Best Practices for Full Truckload (FTL) Freight Management
 intro: >-
@@ -15,9 +15,9 @@ intro: >-
 postedAt: 1583902826000
 news: false
 description: If you are trying to optimize your FTL freight management, there
-  are some best practices that can boost your [truckload freight performance.
-altText: FTL freight management
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-best-practices-for-full-truckload-ftl-freight-management.jpg
+  are some best practices that can boost your truckload freight performance.
+altText: FTL shipment
+image: images/goship-blog-37-.png
 ---
 Navigating the full truckload freight management may be challenging in today’s tight market. Shippers want to maintain a high customer satisfaction level, increase performance, and stick to their budget. This is why companies are looking for ways to secure truckload freight capacity and get top-performing carriers. If you are trying to optimize your FTL freight management, there are some best practices that can boost your [truckload freight](https://www.goship.com/blog/what-is-truckload-shipping-and-how-does-it-work/) performance.
 
