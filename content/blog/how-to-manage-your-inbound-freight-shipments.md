@@ -1,5 +1,5 @@
 ---
-keywords: " inbound freight "
+keywords: inbound freight shipment, freight shipment management, shipping performance
 author: GoShip Admin
 title: How To Manage Your Inbound Freight Shipments
 intro: >-
@@ -15,10 +15,10 @@ intro: >-
   Why is inbound shipment management im
 postedAt: 1582088450000
 news: false
-description: One of the possible solutions to cut unnecessary costs is to look
-  into your inbound freight shipping strategy.
-altText: " inbound freight "
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-manage-your-inbound-freight-shipments.jpg
+description: "Proper freight shipment management can significantly improve your
+  shipping performance and make it cost-efficient. "
+altText: " managing inbound freight "
+image: images/goship-blog-19-.png
 ---
 The role of high-performing and high-level shipping services is growing. Retailers and small businesses have to keep up with the increasing competition, and at the same time provide quality products and services to their customers. Essentially, breaking the bank to keep all the processes running is difficult, and businesses are looking for ways to save costs. One of the possible solutions to cut unnecessary costs is to look into your inbound freight shipping strategy.
 
