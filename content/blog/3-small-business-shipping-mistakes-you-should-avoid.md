@@ -1,5 +1,6 @@
 ---
-keywords: small business shipping mistakes
+keywords: small business shipping, small business supply chain, small business
+  shipping mistakes
 author: GoShip Admin
 title: 3 Small Business Shipping Mistakes You Should Avoid
 intro: "Small business owners are incredible multitaskers. In most cases, they
@@ -11,10 +12,10 @@ intro: "Small business owners are incredible multitaskers. In most cases, they
   Many companies underestimate the role of small business "
 postedAt: 1597813212000
 news: false
-description: There are common small business shipping mistakes small businesses
-  make, and you can learn to avoid them by making your shipping efficient.
-altText: small business shipping mistakes
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-small-business-shipping-mistakes-you-should-avoid.jpg
+description: "Learn what are the common small business shipping mistakes and how
+  to avoid them to improve your small business supply chain. "
+altText: "small business shipping "
+image: images/goship-blog-38-.png
 ---
 Small business owners are incredible multitaskers. In most cases, they are extremely involved in every small process that runs within a company. Learning every intricacy at every stage is complicated. One of the largest parts of the small business working process is shipping. Whether it’s shipping materials from suppliers, getting products for retail, or shipping directly to your customers, shipping is an integral part of the small business processes. Many companies underestimate the role of small business shipping, and by extension, the costs it consumes. An undeveloped shipping strategy can result in extra spending, stress, and frustrated customers. Obviously, it is impossible to become a logistics expert with other business needs weighing on your shoulders. But, there are common shipping mistakes small businesses make, and you can learn to avoid them by making your shipping efficient.
 
