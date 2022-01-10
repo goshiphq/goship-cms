@@ -1,7 +1,8 @@
 ---
-keywords: small business trends, small business shipping, small business logistics
+keywords: logistics trends of 2021, transportation trends, main logistics
+  trends, small business transportation trends
 author: GoShip Admin
-title: "2021 Outlook: Small Business Shipping and Logistics Trends"
+title: "Main Logistics Trends of 2021: Small Business Expectations"
 intro: >-
   This year was challenging for everyone, especially small business owners.
   COVID-19 and the economic fallout have highlighted the weak points in
@@ -22,11 +23,11 @@ intro: >-
   One important issue that business owners and retailers have faced is a disruption in the
 postedAt: 1606896008000
 news: false
-description: Anticipating 2021 small business trends in the face of so much
-  uncertainty is more vital than ever. Here's a rundown of what your business
-  can focus on heading into 2021.
-altText: small business trends
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/2021-outlook-small-business-trends.jpg
+description: It is important to get ready for the new shipping season in advance
+  and update your logistics strategy according to the latest transportation
+  trends.
+altText: small business transportation trends
+image: images/goship-blog-34-.png
 ---
 This year was challenging for everyone, especially small business owners. COVID-19 and the economic fallout have highlighted the weak points in companies’ [strategy](https://www.goship.com/blog/optimizing-your-truckload-shipping-strategy/), inventory, marketing, and transportation. [Anticipating future trends](https://www.forbes.com/sites/richkarlgaard/2020/07/09/the-business-trends-that-will-emerge-out-of-covid-19/?sh=6c7bcb9b3cf8) in the face of so much uncertainty is more vital than ever. Here's a rundown of what your business can focus on heading into 2021.
 
