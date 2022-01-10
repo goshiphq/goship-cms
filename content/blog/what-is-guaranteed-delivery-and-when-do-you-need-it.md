@@ -1,5 +1,5 @@
 ---
-keywords: guaranteed delivery, LTL, LTL delivery
+keywords: guaranteed delivery, guaranteed LTL delivery, customer experience
 author: GoShip Admin
 title: What is Guaranteed Delivery in LTL and When Do You Need It?
 intro: Transit time is a common concern among shippers that offer LTL services.
@@ -11,11 +11,10 @@ intro: Transit time is a common concern among shippers that offer LTL services.
   do if you need the shipment to be there at the right t
 postedAt: 1563944424000
 news: false
-description: "What should you do if you need the shipment to be there at the
-  right time, at the right place? If you want to ensure that you receive freight
-  on a certain date, you should request guaranteed LTL delivery. "
-altText: guaranteed delivery
-image: images/copy-of-goship-website-image-template-1024-x-768-px-17-.png
+description: Guaranteed LTL delivery is a perfect option for shippers who strive
+  for meeting deadlines and improving customer experience.
+altText: guaranteed delivery truck
+image: images/goship-blog-21-.png
 ---
 Transit time is a common concern among shippers that offer LTL services. Often, carriers give you the estimated delivery time, and it is assumed that the actual delivery date may be slightly delayed. Each [carrier defines its own transit times](https://www.plslogistics.com/blog/5-tips-to-choose-the-perfect-ltl-freight-carrier/) that mostly depend on the route, distance, lane, freight size, type, and other factors. Therefore, sometimes there are situations when a shipment doesn’t arrive strictly upon the mentioned date. But what should you do if you need the shipment to be there at the right time, at the right place? If you want to ensure that you receive freight on a certain date, you should request guaranteed LTL delivery. 
 
