@@ -1,18 +1,17 @@
 ---
-keywords: "reduce shipping costs, freight shipping costs, freight rates "
+keywords: freight shipping costs, reduce freight shipping costs
 author: kmagilton
-title: 10 Easy Ways to Reduce Freight Shipping Costs
+title: Top 10 Ways to Reduce Your Freight Shipping Costs
 intro: "Shipping can be a costly task that may put you off-budget, but there are
   ways to make sure you keep your costs in check. If it’s your first time or
   fiftieth time, we have compiled a list for you to help you reduce shipping
   costs to a minimum. "
 postedAt: "1512545486000"
 news: true
-description: Using a reliable freight shipping provider is crucial to reduce
-  shipping costs. A good provider would have a large list of carriers across the
-  region they service.
-altText: reduce shipping costs
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/10-tips-reduce-costs-shippers.jpg
+description: Learn about the most effective ways to reduce your shipping costs
+  without losing shipment quality and customer satisfaction.
+altText: shipper calculating shipping costs
+image: images/goship-blog-31-.png
 ---
 Shipping can be a [costly task](https://www.goship.com/blog/how-to-avoid-unwanted-shipping-costs/) that may put you off-budget, but there are ways to make sure you keep your costs in check. If it’s your first time or fiftieth time, we have compiled a list for you to help you reduce shipping costs to a minimum.
 
