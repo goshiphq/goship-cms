@@ -1,7 +1,8 @@
 ---
-keywords: international shipping
+keywords: international freight shipping, logistics practices, successful
+  international freight shipping
 author: GoShip Admin
-title: How To Ship Freight Internationally?
+title: Tips for Successful International Freight Shipping
 intro: It has never been easier to sell and buy things online or ship items
   internationally. Whether you’re an individual entrepreneur or a small
   business, you can benefit from the rapid development of cross border
@@ -11,16 +12,10 @@ intro: It has never been easier to sell and buy things online or ship items
   and handle transactions from different countries, shipping freight internat
 postedAt: 1580101237000
 news: false
-description: It has never been easier to sell and buy things online or ship
-  items internationally. Whether you’re an individual entrepreneur or a small
-  business, you can benefit from the rapid development of cross border
-  e-commerce. Numerous marketplaces made it possible to access customers across
-  the world. For example, shipping to Canada can be a great start for U.S.
-  retailers or businesses.  While it has become easier to expand your audiences
-  and handle transactions from different countries, shipping freight
-  internationally can still be a challenge.
+description: International freight shipping has become one of the most effective
+  logistics practices to grow your business.
 altText: international shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-freight-internationally.jpg
+image: images/goship-blog-24-.png
 ---
 It has never been easier to sell and buy things online or ship items internationally. Whether you’re an individual entrepreneur or a small business, you can benefit from the rapid development of [cross border e-commerce](https://www.goship.com/blog/cross-border-e-commerce-everything-you-need-to-know/). Numerous marketplaces made it possible to access customers across the world. For example, [shipping to Canada](https://www.goship.com/blog/shipping-to-canada-from-the-us/) can be a great start for U.S. retailers or businesses.  While it has become easier to expand your audiences and handle transactions from different countries, shipping freight internationally can still be a challenge.
 
