@@ -1,5 +1,5 @@
 ---
-keywords: International Roadcheck
+keywords: International Roadcheck 2021, how to prepare for International Roadcheck
 author: GoShip Admin
 title: "Annual International Roadcheck 2021: Getting Ready"
 intro: >-
@@ -19,10 +19,10 @@ intro: >-
   Starting on May 4th, inspectors all over North Amer
 postedAt: 1615957215000
 news: false
-description: As spring quickly approaches, so does the annual International
-  Roadcheck, and it’s time to start preparations for this event.
-altText: International Roadcheck
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/annual-international-roadcheck-2021-getting-ready.jpg
+description: Start preparing for International Roadcheck 2021 in advance to
+  continue your shipping activity with no interruptions.
+altText: International Roadcheck truck driver
+image: images/goship-blog-65-.png
 ---
 As spring quickly approaches, so does the annual International Roadcheck, and it’s time to start preparations for this event. Every year, the [Commercial Vehicle Safety Alliance (CVSA)](https://www.cvsa.org/programs/international-roadcheck/) manages an international roadcheck where certified inspectors check carriers’ and drivers’ compliance, enforcement, educational initiatives, and vehicle safety. This year, the roadcheck will take place over three days on May 4-6, 2021.
 
