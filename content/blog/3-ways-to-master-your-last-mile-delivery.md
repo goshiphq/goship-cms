@@ -1,5 +1,5 @@
 ---
-keywords: last mile delivery
+keywords: last-mile delivery, upgrading last-mile delivery
 author: GoShip Admin
 title: 3 Ways To Master Your Last-Mile Delivery
 intro: In today’s customer-centric world, it is critical to meet and even exceed
@@ -11,11 +11,10 @@ intro: In today’s customer-centric world, it is critical to meet and even exce
   expensive part. In fact, more than 25% of businesses name delive
 postedAt: 1611723606000
 news: false
-description: businesses should develop a flexible shipping strategy that will
-  provide enough visibility to enhance the ultimate leg of the supply chain -
-  last-mile delivery.
+description: Upgrading last-mile delivery can completely reverse the flow of
+  your supply chain and reduce the risks of shipping disruptions.
 altText: last mile delivery
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/3-ways-to-master-your-last-mile-delivery.jpg
+image: images/goship-blog-45-.png
 ---
 In today’s customer-centric world, it is critical to meet and even exceed your customer expectations as a small business. Shipping and delivery are vital parts of the picture when it comes to customer satisfaction. Thus, businesses should develop a flexible shipping strategy that will provide enough visibility to enhance the ultimate leg of the supply chain - [last-mile delivery](https://www.goship.com/blog/last-mile-delivery-improve-service/). 
 
