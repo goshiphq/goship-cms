@@ -8,7 +8,7 @@ news: false
 description: The dry van shipping rates vary throughout the year. Failure to
   learn about dry van rate features can significantly damage potential earnings.
 keywords: dry van rates
-altText: dry van, dry van rates, dry van trailer
+altText: dry van trailer
 image: images/goship-blog-55-.png
 ---
 Due to its high availability, affordable rates, and versatile operations, many companies and businesses rely on dry van shipping for local and nationwide freight transportation.
