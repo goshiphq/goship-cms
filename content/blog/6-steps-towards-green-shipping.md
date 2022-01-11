@@ -1,10 +1,20 @@
 ---
-title: "6 Steps Towards Greener Shipping"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/6-steps-towards-green-shipping.jpg"
+keywords: green shipping, how to make supply chain greener
+author: kmagilton
+title: How to Make Your Supply Chain and Logistics Greener
+intro: Freight shipping is one of the biggest contributors to pollution today,
+  but it doesn’t have to be that way. New studies on the effects of climate
+  change and green shipping over the last decade have encouraged establishments
+  to take measures for reducing the carbon footprint in all industries,
+  including the shipping industry. There are many steps that both truck drivers
+  and shippers alike can take in order to contribute to this up and coming
+  'green movement' and reduce the huge carbon footprint that the ship
 postedAt: 1534914054000
 news: false
-author: "kmagilton"
-intro: "Freight shipping is one of the biggest contributors to pollution today, but it doesn’t have to be that way. New studies on the effects of climate change and green shipping over the last decade have encouraged establishments to take measures for reducing the carbon footprint in all industries, including the shipping industry. There are many steps that both truck drivers and shippers alike can take in order to contribute to this up and coming 'green movement' and reduce the huge carbon footprint that the ship"
+description: Shippers can considerably reduce the pollution level and make their
+  supply chain greener by following a few steps.
+altText: green shipping
+image: images/goship-blog-56-.png
 ---
 Freight shipping is one of the biggest contributors to pollution today, but it doesn’t have to be that way. New studies on the effects of climate change and green shipping over the last decade have encouraged establishments to take measures for reducing the carbon footprint in all industries, including the shipping industry. There are many steps that both truck drivers and shippers alike can take in order to contribute to this up and coming 'green movement' and reduce the huge carbon footprint that the shipping industry is notable for being a part of. Today at [**GoShip.com**](http://goship.com) we will be covering the steps that can be taken to head off on the road to greener shipping!   **Steps that truck drivers can take:**
 
