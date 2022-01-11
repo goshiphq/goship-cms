@@ -1,7 +1,8 @@
 ---
-keywords: cold shipping
+keywords: Valentine's Day logistics, holiday shipping, how does Valentine's
+  logistics work
 author: GoShip Admin
-title: "Delivering Love: How Does Valentine's Day Logistics Work?"
+title: "Shipping on Valentine's: How Does Valentine's Day Logistics Work?"
 intro: If modern Cupid had to be embodied, physically, it would look like one of
   the world's global supply chain networks. Today, especially amidst the global
   pandemic, it's hard to deliver love without logistics. Flowers, cards, and
@@ -11,10 +12,10 @@ intro: If modern Cupid had to be embodied, physically, it would look like one of
   (https://www.goship.com/wp-content/uploads/2021/02/1ac
 postedAt: 1613539518000
 news: false
-description: " Ironically, delivering these signs of warm feelings requires
-  planning a very robust cold supply chain to maintain the products' condition."
-altText: cold shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/delivering-love-how-does-valentines-day-logistics-work.jpg
+description: "Being a part of holiday shipping, Valentine's day logistics can be
+  really intense and requires thorough preparation. "
+altText: Valentine's Day shipping
+image: images/goship-blog-76-.png
 ---
 If modern Cupid had to be embodied, physically, it would look like one of the world's global supply chain networks. Today, especially amidst the global pandemic, it's hard to deliver love without logistics. Flowers, cards, and chocolates are the first thing you might associate with the holiday of love. Ironically, delivering these signs of warm feelings requires planning a very robust cold supply chain to maintain the products' condition.   [](https://www.goship.com/)
 
