@@ -1,6 +1,5 @@
 ---
-keywords: Best LTL Shipping Rates, lowest freight shipping rates,  online
-  shipping services
+keywords: LTL shipping rates, how to get best LTL shipping rates, get LTL shipping rate
 author: GoShip Admin
 title: 5 Steps To Get the Best LTL Shipping Rates
 intro: >-
@@ -20,11 +19,10 @@ intro: >-
   Beginner shippers often 
 postedAt: 1550638817000
 news: false
-description: Before diving into the shipment booking process, you should know
-  some tips and tricks on how to save on transportation and get the best freight
-  rates.
-altText: " online shipping services"
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/best-ltl-shipping-rates.jpg
+description: Use our short guide to get the best LTL shipping rates and learn
+  how to effectively save costs on your LTL shipments.
+altText: getting shipping rates
+image: images/goship-blog-68-.png
 ---
 If you are shipping goods across the country, you probably look for the lowest freight shipping rates. While many online shipping services offer free quote comparison, it can be tricky to choose the best one for your needs. Shippers are often unaware of how they can reduce shipping costs on their own. Before diving into the shipment booking process, you should know some tips and tricks on how to save on transportation and get the best freight rates:
 
