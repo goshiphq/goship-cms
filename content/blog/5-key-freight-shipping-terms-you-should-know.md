@@ -1,5 +1,5 @@
 ---
-keywords: freight shipping terms
+keywords: shipping terms, freight shipping terms
 author: GoShip Admin
 title: 5 Key Freight Shipping Terms You Should Know
 intro: >-
@@ -23,11 +23,10 @@ intro: >-
   The bill of lading, or BOL, is the most important document in
 postedAt: 1592370044000
 news: false
-description: For individual shippers and small businesses, freight shipping
-  terms can be confusing. There is a huge variety of different words and
-  abbreviations, and it's hard to memorize them all.
-altText: freight shipping terms
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/5-key-freight-shipping-terms-you-should-know.jpg
+description: Sometimes shipping terms and abbreviations can be confusing. Get
+  familiar with the most common freight shipping terms with our short guide.
+altText: learning freight shipping terms
+image: images/goship-blog-49-.png
 ---
 For individual shippers and small businesses, freight shipping terms can be confusing. There is a huge variety of different words and abbreviations, and it's hard to memorize them all. If you are shipping freight, there are a few key terms you should know. Being aware of the correct meaning of these freight shipping terms will help you navigate the industry and avoid shipping mistakes. 
 
