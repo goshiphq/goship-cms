@@ -1,10 +1,26 @@
 ---
-title: "eCommerce Shipping Guide"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/ecommerce-shipping-guide.jpg"
+keywords: ecommerce shipping, ecommerce shipping strategy, ecommerce shipping
+  for small business
+author: GoShip Admin
+title: Best eCommerce Shipping Strategies for Small Business
+intro: >-
+  Just as important as developing your products and tweaking your online store,
+  establishing a clear eCommerce shipping strategy is a critical step to
+  jumpstart a growing business.  
+
+
+  What is eCommerce shipping? 
+
+  -
+
+
+  eCommerce shipping is more than fast delivery and free shipping. It encompasses all the services from marketing your product down to delivery and fulfillment, and everything in between.  The most successful online merchants use strategic eCommerce shipping strategies to set themselves apart from t
 postedAt: 1621864002000
 news: false
-author: "GoShip Admin"
-intro: "Just as important as developing your products and tweaking your online store, establishing a clear eCommerce shipping strategy is a critical step to jumpstart a growing business.  \n\nWhat is eCommerce shipping? \n-\n\neCommerce shipping is more than fast delivery and free shipping. It encompasses all the services from marketing your product down to delivery and fulfillment, and everything in between.  The most successful online merchants use strategic eCommerce shipping strategies to set themselves apart from t"
+description: Think your eCommerce strategy ahead to increase your shipment
+  productivity and make your product popular on the market.
+altText: ecommerce shipping
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/ecommerce-shipping-guide.jpg
 ---
 _Just as important as developing your products and tweaking your online store, establishing a_ [_clear eCommerce shipping strategy_](http://goship.com) _is a critical step to jumpstart a growing business._ 
 
