@@ -7,7 +7,7 @@ postedAt: "1633008060780"
 news: false
 description: The dry van shipping rates vary throughout the year. Failure to
   learn about dry van rate features can significantly damage potential earnings.
-keywords: dry van rates
+keywords: dry van rates, dry van shipping rates, factors that influence dry van rates
 altText: dry van trailer
 image: images/goship-blog-55-.png
 ---
