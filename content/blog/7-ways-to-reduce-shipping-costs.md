@@ -7,12 +7,11 @@ intro: When the bulk of your business funds go to packaging and deliveries, it
   reduce shipping expenses and improve profit!
 postedAt: "1633007886706"
 news: false
-description: When the bulk of your business funds go to packaging and
-  deliveries, it might be time to reconsider reducing shipping costs to improve
-  your profit margin.
-keywords: shipping costs, freight rates
-altText: shipping costs
-image: images/goship-blog-12-.png
+description: There are several working ways to effectively reduce your freight
+  shipping costs and help you manage your supply chain budgeting better.
+keywords: freight shipping costs, how to reduce freight shipping costs
+altText: calculating shipping costs
+image: images/goship-blog-60-.png
 ---
 
 
