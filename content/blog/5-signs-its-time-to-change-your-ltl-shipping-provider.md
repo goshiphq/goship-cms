@@ -1,5 +1,5 @@
 ---
-keywords: ltl provider
+keywords: LTL shipping provider, change LTL shipping provider
 author: kmagilton
 title: 5 Signs It’s Time to Change Your LTL Shipping Provider
 intro: When is the right time to change your LTL shipping provider? Building
@@ -11,11 +11,10 @@ intro: When is the right time to change your LTL shipping provider? Building
   significant signs that it’s time to change LTL shipping pr
 postedAt: 1535518821000
 news: false
-description: When is the right time to change your LTL shipping provider?
-  Building important long-lasting relationships with your LTL provider is an
-  important part of maintaining a strong shipping network
-altText: ltl provider
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/5-signs-its-time-to-change-your-ltl-shipping-provider.jpg
+description: Know when it is time to change your LTL shipping provider without
+  losing your transportation capacity or breaking the supply chain.
+altText: choosing LTL provider
+image: images/goship-blog-50-.png
 ---
 When is the right time to change your LTL shipping provider? Building important long-lasting relationships with your LTL provider is an important part of maintaining a strong shipping network, but there are numerous signs that will clearly let you know when the time has come to switch. 
 
