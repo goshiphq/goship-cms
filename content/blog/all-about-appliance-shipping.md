@@ -1,10 +1,20 @@
 ---
-title: "8 Tips for Appliance Shipping"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/all-about-appliance-shipping.jpg"
+keywords: appliance shipping, tips for appliance shipping, shipping home appliances
+author: GoShip Admin
+title: 8 Tips for Appliance Shipping
+intro: Whether you are planning to move-out or ship appliances to customers,
+  transporting household items can be challenging. The bulky size and complex
+  structure makes shipping fridges, washing machines and ovens slightly
+  different from furniture and other home items. If you plan to ship appliances,
+  GoShip.com provides the LTL solution that will make transportation smooth and
+  easy for you. When dealing with customers or personal use, it is important to
+  make sure the items are shipped in the same condition they we
 postedAt: 1543381232000
 news: false
-author: "GoShip Admin"
-intro: "Whether you are planning to move-out or ship appliances to customers, transporting household items can be challenging. The bulky size and complex structure makes shipping fridges, washing machines and ovens slightly different from furniture and other home items. If you plan to ship appliances, GoShip.com provides the LTL solution that will make transportation smooth and easy for you. When dealing with customers or personal use, it is important to make sure the items are shipped in the same condition they we"
+description: Shipping home appliances is complex and sometimes challenging, but
+  several working tips can help you organize the proper delivery process.
+altText: home appliances delivery
+image: images/goship-blog-61-.png
 ---
 Whether you are planning to move-out or ship appliances to customers, transporting household items can be challenging. The bulky size and complex structure makes shipping fridges, washing machines and ovens slightly different from furniture and other home items. If you plan to ship appliances, [GoShip.com](https://www.goship.com/) provides the LTL solution that will make transportation smooth and easy for you. When dealing with customers or personal use, it is important to make sure the items are shipped in the same condition they were in before transit. Here are some useful tips to help prepare you before getting a quote:
 
