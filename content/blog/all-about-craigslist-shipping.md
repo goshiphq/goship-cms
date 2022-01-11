@@ -1,10 +1,30 @@
 ---
-title: "All About Craigslist Shipping"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/all-about-craigslist-shipping.jpg"
+keywords: Craigslist shipping, online marketplaces
+author: GoShip Admin
+title: All About Craigslist Shipping
+intro: >-
+  Buying and selling items on online marketplaces like eBay and Craigslist is
+  becoming more and more popular. It is a quick and convenient way to sell
+  unwanted items or to buy them at a lower price. However, not all of the items
+  from Craigslist or eBay can fit into a cardboard box. Sometimes there are
+  really large and bulky objects. It may be confusing to figure out how to ship
+  items in a cheap and easy way. It is important to know the best ways for
+  Craigslist shipping. 
+
+
+  How to ship large items?
+
+  -
+
+
+  Large ite
 postedAt: 1546405217000
 news: false
-author: "GoShip Admin"
-intro: "Buying and selling items on online marketplaces like eBay and Craigslist is becoming more and more popular. It is a quick and convenient way to sell unwanted items or to buy them at a lower price. However, not all of the items from Craigslist or eBay can fit into a cardboard box. Sometimes there are really large and bulky objects. It may be confusing to figure out how to ship items in a cheap and easy way. It is important to know the best ways for Craigslist shipping. \n\nHow to ship large items?\n-\n\nLarge ite"
+description: Online marketplaces like Craigslist can be really beneficial for
+  your business. Learn how to develop your supply chain in terms of Craigslist
+  shipping.
+altText: booking online shipment
+image: images/goship-blog-62-.png
 ---
 Buying and [selling items](https://www.goship.com/blog/buying-oversized-items-online/) on online marketplaces like eBay and Craigslist is becoming more and more popular. It is a quick and convenient way to sell unwanted items or to buy them at a lower price. However, not all of the items from Craigslist or eBay can fit into a cardboard box. Sometimes there are really large and bulky objects. It may be confusing to figure out how to ship items in a cheap and easy way. It is important to know the best ways for Craigslist shipping.
 
