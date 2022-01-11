@@ -1,10 +1,31 @@
 ---
-title: "How to Avoid Making Freight Shipping Mistakes"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/avoid-shipping-mistakes.jpg"
+keywords: common freight shipping mistakes, freight shipping mistakes, how to
+  avoid freight shipping mistakes
+author: kmagilton
+title: Best Tips to Avoid Common Freight Shipping Mistakes
+intro: >-
+  Mistakes happen, and they can potentially cost companies thousands of dollars.
+  When it comes to freight shipping, time is money. Even the most experienced
+  shippers make common freight shipping mistakes during their everyday
+  planning. 
+
+
+  To avoid these freight shipping mistakes, we laid out 4 major strategies for you and your small business to follow when ready for shipment:
+
+  -
+
+
+
+  Packaging your freight properly
+
+
+  It’s up to the shipper to package their freight properly if damaged during shipment was due to impr
 postedAt: 1511940619000
 news: false
-author: "kmagilton"
-intro: "Mistakes happen, and they can potentially cost companies thousands of dollars. When it comes to freight shipping, time is money. Even the most experienced shippers make common freight shipping mistakes during their everyday planning. \n\nTo avoid these freight shipping mistakes, we laid out 4 major strategies for you and your small business to follow when ready for shipment:\n-\n\n\nPackaging your freight properly\n\nIt’s up to the shipper to package their freight properly if damaged during shipment was due to impr"
+description: Become an experienced shipper by exploring the most common freight
+  shipping mistakes and how to avoid them.
+altText: freight shipping mistakes
+image: images/goship-blog-67-.png
 ---
 Mistakes happen, and they can potentially cost companies thousands of dollars. When it comes to freight shipping, time is money. Even the most experienced shippers make common freight shipping mistakes during their everyday planning.
 
