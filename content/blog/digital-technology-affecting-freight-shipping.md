@@ -1,10 +1,20 @@
 ---
-title: "How Digital Technology is Affecting Freight Shipping"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/digital-technology-affecting-freight-shipping.jpg"
+keywords: technology in freight shipping, how technology is affecting freight shipping
+author: GoShip Admin
+title: How Digital Technology is Affecting Freight Shipping
+intro: Technology is on continuous advancement and the shipping industry is
+  transforming with it. Modern-day freight shipping companies are now relying on
+  new and more advanced digital technologies to heighten their efficiency.  In
+  such a large industry, there are many challenges, which are difficult to
+  overcome. Change is the solution for the future and for shippers to stay ahead
+  of their competitors. Freight shipping companies have been implementing new
+  applications and strategies to their business with overwhel
 postedAt: 1518075328000
 news: false
-author: "GoShip Admin"
-intro: "Technology is on continuous advancement and the shipping industry is transforming with it. Modern-day freight shipping companies are now relying on new and more advanced digital technologies to heighten their efficiency.  In such a large industry, there are many challenges, which are difficult to overcome. Change is the solution for the future and for shippers to stay ahead of their competitors. Freight shipping companies have been implementing new applications and strategies to their business with overwhel"
+description: Freight shipping is constantly getting affected by digital
+  technology to better meet the industry needs and simplify shipping operations.
+altText: shipping technologies
+image: images/goship-blog-77-.png
 ---
 Technology is on continuous advancement and the shipping industry is transforming with it. Modern-day freight shipping companies are now relying on new and more advanced digital technologies to heighten their efficiency.  In such a large industry, there are many challenges, which are difficult to overcome. Change is the solution for the future and for shippers to stay ahead of their competitors. Freight shipping companies have been implementing new applications and strategies to their business with overwhelming success. What have they been using? Below, you will find the most successful trends that have improved the freight shipping industry.
 
