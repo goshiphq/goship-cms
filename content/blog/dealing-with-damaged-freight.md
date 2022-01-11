@@ -1,7 +1,7 @@
 ---
-keywords: freight damage
+keywords: freight damage, damaged freight, how to deal with damaged freight
 author: GoShip Admin
-title: "Dealing with Damaged Freight: Types of Freight Damage"
+title: "How to Deal with Damaged Freight: Freight Damage Types"
 intro: >-
   What is freight damage? 
 
@@ -11,11 +11,10 @@ intro: >-
   Damaged freight can affect your customer's perception of your brand and ultimately, your profits. While many business owners are aware of the negative effects of damaged goods and packages, many still struggle to understand what freight damage is, how it occurs, and how to mitigate risks. In this guide, we will give you the tools you need to better your shipping strategy.  Freight damage is any partial or total physical damage to goods during the shipment process. Imagine the lon
 postedAt: 1622005203000
 news: false
-description: While many business owners are aware of the negative effects of
-  damaged goods and packages, many still struggle to understand what freight
-  damage is, how it occurs, and how to mitigate risks.
-altText: freight damage
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/dealing-with-damaged-freight.jpg
+description: The risks of freight damage are possible at all times. Learn how to
+  deal with damaged freight to avoid big losses.
+altText: boxes with damaged freight
+image: images/goship-blog-75-.png
 ---
 ## What is freight damage? 
 
