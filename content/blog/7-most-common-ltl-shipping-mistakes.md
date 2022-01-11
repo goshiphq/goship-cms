@@ -1,5 +1,5 @@
 ---
-keywords: LTL shipping mistakes, LTL freight, LTL
+keywords: LTL freight shipping, most common LTL freight shipping mistakes
 author: GoShip Admin
 title: 7 Most Common LTL Freight Shipping Mistakes to Avoid
 intro: >-
@@ -23,11 +23,10 @@ intro: >-
   One of the major shipping mistakes companies can often make is trying to save money on insurance, assuming that they probably
 postedAt: 1542776414000
 news: false
-description: It is important to carefully plan out all of the components of LTL
-  freight transportation to avoid common LTL freight shipping mistakes that most
-  shippers make.
+description: Thorough planning can help you avoid the most common mistakes
+  shippers make in terms of LTL freight shipping operations.
 altText: LTL shipping mistakes
-image: images/copy-of-goship-website-image-template-1024-x-768-px-1-.png
+image: images/goship-blog-59-.png
 ---
 LTL shipping is an [inexpensive way to move goods](https://www.thebalancesmb.com/less-than-truckload-ltl-2221319), and it can be an excellent logistics solution for companies that are looking to save money on their shipments. It is important to carefully plan out all of the components of transportation to avoid common shipping mistakes.
 
