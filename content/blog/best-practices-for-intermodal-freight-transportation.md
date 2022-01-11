@@ -1,17 +1,17 @@
 ---
-title: Best Practices for Intermodal Freight Transportation
+title: Best Logistics Practices for Intermodal Freight Transportation
 intro: Naturally, there isn’t a one size fits all solution to logistics.
   However, one shipping method comes close –– intermodal transportation.
 postedAt: "1640066453456"
 news: false
-description: Intermodal freight is the transportation of [products and raw
-  materials in an intermodal vehicle or container through multiple modes of
-  transportation
-keywords: Intermodal freight, intermodal transportation, intermodal shipping
+description: Intermodal freight transportation is a complex logistics operation
+  that allows you to deliver your goods to remote locations.
+keywords: intermodal freight transportation, best practices for intermodal
+  freight transportation
 altText: intermodal transportation
-image: images/depositphotos_49498411_xl.jpg
+image: images/goship-blog-69-.png
 ---
-<!--StartFragment-->
+
 
 The shipping industry is growing at an incredible rate and shippers are finding it harder to navigate the complicated supply chain process. 
 
@@ -122,5 +122,3 @@ While there are multiple types of IMCs, there is no provider that owns 100% of t
 An online freight marketplace is the best way to find affordable freight services. On top of that, you can avoid the expenses that come with dealing with a freight broker.
 
 To get started on intermodal shipping, get affordable LTL and FTL freight shipments quotes from the [GoShip.com online calculator.](https://www.goship.com/)
-
-<!--EndFragment-->
