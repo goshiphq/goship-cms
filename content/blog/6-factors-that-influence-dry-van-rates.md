@@ -5,12 +5,11 @@ intro: You can generate major savings in your logistics operations by planning
   factors that influence the dry van rates here..
 postedAt: "1633008060780"
 news: false
-description: The dry van freight shipping rates vary wildly throughout the year.
-  Failure to learn about dry van shipping rate trends can cause significant
-  damage to potential earnings.
+description: The dry van shipping rates vary throughout the year. Failure to
+  learn about dry van rate features can significantly damage potential earnings.
 keywords: dry van rates
 altText: dry van, dry van rates, dry van trailer
-image: images/goship-website-image-template-1024-x-768-px-27-.png
+image: images/goship-blog-55-.png
 ---
 Due to its high availability, affordable rates, and versatile operations, many companies and businesses rely on dry van shipping for local and nationwide freight transportation.
 
