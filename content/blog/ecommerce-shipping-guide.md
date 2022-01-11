@@ -20,7 +20,7 @@ news: false
 description: Think your eCommerce strategy ahead to increase your shipment
   productivity and make your product popular on the market.
 altText: ecommerce shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/ecommerce-shipping-guide.jpg
+image: images/goship-blog-79-.png
 ---
 _Just as important as developing your products and tweaking your online store, establishing a_ [_clear eCommerce shipping strategy_](http://goship.com) _is a critical step to jumpstart a growing business._ 
 
