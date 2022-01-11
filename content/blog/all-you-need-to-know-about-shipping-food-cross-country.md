@@ -1,14 +1,14 @@
 ---
-title: All You Need to Know About Shipping Food Cross Country
+title: How to Successfully Ship Food Across the Country
 intro: Shipping frozen and perishable food across the country can be very
   challenging. Read the must-knows about food shipping!
 postedAt: "1633618852439"
 news: false
-description: Shipping frozen and perishable food across the country can be very
-  challenging. Read the must-knows about shipping food cross country!
-keywords: shipping food, frozen food, food shipping
+description: Learn everything you need to know about shipping food cross country
+  and optimize your transportation costs.
+keywords: how to ship food across the country, shipping food cross country
 altText: shipping food
-image: images/packing-shipping-food.jpg
+image: images/goship-blog-63-.png
 ---
 # Everything You Need to Know About Shipping Food Cross Country
 
