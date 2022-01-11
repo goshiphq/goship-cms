@@ -1,10 +1,32 @@
 ---
-title: "5 Common Freight Shipping Challenges"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/5-common-freight-shipping-challenges.png"
+keywords: freight shipping challenges, most common freight shipping challenges,
+  shipping challenges
+author: GoShip Admin
+title: The Most Common Freight Shipping Challenges and How to Fix Them
+intro: >-
+  When you need to ship goods, there are many common shipping challenges that
+  can present themselves. Without the right knowledge, overcoming those
+  challenges can be tough. Luckily, GoShip.com can help alleviate those issues
+  for you. 
+
+
+  Let’s take a look at 5 of the most common shipping challenges and how to fix them:
+
+  -
+
+
+
+   Manpower
+
+
+  Your business is only as strong as your people. As the logistics industry expands and becomes more complex, so does the knowledge needed to manage logistics from within. It’s impor
 postedAt: 1513150512000
 news: false
-author: "GoShip Admin"
-intro: "When you need to ship goods, there are many common shipping challenges that can present themselves. Without the right knowledge, overcoming those challenges can be tough. Luckily, GoShip.com can help alleviate those issues for you. \n\nLet’s take a look at 5 of the most common shipping challenges and how to fix them:\n-\n\n\n Manpower\n\nYour business is only as strong as your people. As the logistics industry expands and becomes more complex, so does the knowledge needed to manage logistics from within. It’s impor"
+description: Learning about the most common freight shipping challenges will
+  help you avoid potential mistakes and organize the transportation process
+  properly.
+altText: shipping challenges
+image: images/goship-blog-46-.png
 ---
 When you need to ship goods, there are many common shipping challenges that can present themselves. Without the right knowledge, overcoming those challenges can be tough. Luckily, GoShip.com can help alleviate those issues for you.
 
