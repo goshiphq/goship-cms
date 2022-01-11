@@ -1,5 +1,5 @@
 ---
-keywords: inventory accuracy, warehousing, Improve Order Fulfillment, Order Fulfillment
+keywords: inventory accuracy, how to improve order fulfillment, warehousing operations
 author: GoShip Admin
 title: Attain Better Inventory Accuracy to Improve Order Fulfillment
 intro: The global pandemic has changed the e-commerce landscape forever. With
@@ -11,9 +11,8 @@ intro: The global pandemic has changed the e-commerce landscape forever. With
   transactions increase the chance for errors, so inventory accuracy
 postedAt: 1612934132000
 news: false
-description: Maintaining inventory accuracy has never been an easy task. By
-  following these logical steps, you will improve your warehousing and order
-  fulfillment operations.
+description: Review your warehousing operations to attain better inventory
+  accuracy and improve order fulfillment.
 altText: boxes in warehouse
 image: images/goship-blog-3-.png
 ---
