@@ -1,10 +1,20 @@
 ---
-title: "An Introduction to Freight Insurance"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/an-introduction-to-freight-insurance.jpg"
+keywords: freight insurance, getting freight insurance
+author: kmagilton
+title: An Introduction to Freight Insurance
+intro: Shipping freight can sometimes be a bit stressful, so we’ve put together
+  a guide to make sure you can sit back and relax throughout the process.
+  There’s a lot to keep an eye on, but with the right precautions taken before
+  your cargo hits the road, you can plan and ship without giving it a second
+  thought. At GoShip.com, we want you to know that taking these precautions will
+  allow you to feel confident that your cargo will be safe and sound no matter
+  what. What is freight insurance? Freight insurance, also kn
 postedAt: 1533704405000
 news: false
-author: "kmagilton"
-intro: "Shipping freight can sometimes be a bit stressful, so we’ve put together a guide to make sure you can sit back and relax throughout the process. There’s a lot to keep an eye on, but with the right precautions taken before your cargo hits the road, you can plan and ship without giving it a second thought. At GoShip.com, we want you to know that taking these precautions will allow you to feel confident that your cargo will be safe and sound no matter what. What is freight insurance? Freight insurance, also kn"
+description: Getting freight insurance will protect your cargo from unexpected
+  transit situations and reduce the risks of undesirable expenses.
+altText: getting freight insurance
+image: images/goship-blog-64-.png
 ---
 Shipping freight can sometimes be a bit stressful, so we’ve put together a guide to make sure you can sit back and relax throughout the process. There’s a lot to keep an eye on, but with the right precautions taken before your cargo hits the road, you can plan and ship without giving it a second thought. At [GoShip.com](http://goship.com), we want you to know that taking these precautions will allow you to feel confident that your cargo will be safe and sound no matter what.   **What is freight insurance?** Freight insurance, also known as cargo insurance, protects the owner or consigner of goods for possible physical loss or damage from outside causes during shipping. The insurer is responsible for reimbursing the policyholder for the value of the goods if they happen to get damaged or perish while in the hands of the shipper. It is usually available from the shipping company itself, or it may be purchased from a third-party insurer as well.   **Types of Freight Insurance** There are a variety of coverages available for your freight. It is important to become familiar with the different options before purchasing a policy. However, be aware that coverage is not catch all, so consider what you’re shipping and how it will be traveling.   Below are some of the different options:  
 
