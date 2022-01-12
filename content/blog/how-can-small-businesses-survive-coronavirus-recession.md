@@ -1,10 +1,28 @@
 ---
-title: "How Small Businesses Can Survive The Coronavirus"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-can-small-businesses-survive-coronavirus-recession.jpg"
+keywords: how small business can survive coronavirus, strategies to survive coronavirus
+author: GoShip Admin
+title: "Small Business Strategies to Overcome Coronavirus "
+intro: >-
+  Small businesses are an extremely important contributor to the global economy.
+  In fact, this sector accounts for 47.5% of the workforce in the U.S.,
+  employing roughly 59 million people. Small businesses generate 44% of our
+  country’s GDP. With every state issuing stay-at-home orders and closing
+  non-essential businesses, the small business sector appears to be the most
+  endangered and vulnerable to the coronavirus impact, economically. 
+
+
+  How are small businesses affected by the coronavirus pandemic?
+
+  -
+
+
+  The pro
 postedAt: 1585717244000
 news: false
-author: "GoShip Admin"
-intro: "Small businesses are an extremely important contributor to the global economy. In fact, this sector accounts for 47.5% of the workforce in the U.S., employing roughly 59 million people. Small businesses generate 44% of our country’s GDP. With every state issuing stay-at-home orders and closing non-essential businesses, the small business sector appears to be the most endangered and vulnerable to the coronavirus impact, economically. \n\nHow are small businesses affected by the coronavirus pandemic?\n-\n\nThe pro"
+description: Look into the best small business strategies to survive the
+  coronavirus pandemic without losing your finances and customers.
+altText: small business survive coronavirus
+image: images/goship-blog-98-.png
 ---
 Small businesses are an extremely important contributor to the global economy. In fact, this sector [accounts](https://www.sba.gov/sites/default/files/advocacy/2018-Small-Business-Profiles-US.pdf) for 47.5% of the workforce in the U.S., employing roughly 59 million people. Small businesses generate [44% of our country’s GDP](https://advocacy.sba.gov/2019/01/30/small-businesses-generate-44-percent-of-u-s-economic-activity/). With every state issuing stay-at-home orders and closing non-essential businesses, the small business sector appears to be the most endangered and vulnerable to the coronavirus impact, economically.
 
