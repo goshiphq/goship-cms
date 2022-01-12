@@ -1,7 +1,7 @@
 ---
-keywords: LTL shipping
+keywords: LTL shipping, ltl freight, less than truckload
 author: GoShip Admin
-title: LTL Freight Shipping For Beginners
+title: "LTL Freight Shipping: Guide For Beginners"
 intro: >-
   What is LTL freight?
 
@@ -14,14 +14,11 @@ intro: >-
   How 
 postedAt: 1557896459000
 news: false
-description: Less-than-truckload (LTL) shipping is the transportation method
-  where a carrier combines multiple loads into a single trailer. Shippers use
-  LTL when they don't have enough freight volume to fill an entire truck
-  container and want to save shipping costs. Compared to other types of
-  transportation, LTL trucking can be a useful solution for small businesses and
-  individual shippers.
+description: LTL shipping is when a carrier combines multiple loads into a
+  single trailer. Shippers use LTL when they don't have enough freight to fill
+  truck container.
 altText: LTL shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/ltl-freight-shipping-for-beginners.jpg
+image: images/copy-of-goship-blog-3-.png
 ---
 ## What is LTL freight?
 
