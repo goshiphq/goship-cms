@@ -1,5 +1,5 @@
 ---
-keywords: moving scams
+keywords: moving scams, how to avoid moving scams
 author: GoShip Admin
 title: Five Moving Scams to Look Out For
 intro: "Moving into a new house or apartment can be a very exciting time. It is
@@ -11,11 +11,10 @@ intro: "Moving into a new house or apartment can be a very exciting time. It is
   Here are some of the most common moving scams and "
 postedAt: 1526456705000
 news: false
-description: Moving into a new house or apartment can be a very exciting time.
-  It is very important to make sure that you pick a good service to help you
-  with your move to avoid possible moving scams
+description: It is very important to make sure that you pick a good shipping
+  service to help you deliver avoiding possible moving scams.
 altText: moving scams
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/five-moving-scams-look.jpg
+image: images/goship-blog-80-.png
 ---
 Moving into a new house or apartment can be a very exciting time. It is very important to make sure that you pick a good service to help you with your move to avoid possible moving scams. In some instances, the movers will demand a cash payment before unloading your items or drive off and store your items to get more money. This may sound extreme, but these situations do happen. It is important to be prepared and know what types of moving scams to look for. Here are some of the most common moving scams and how you can avoid them:
 
