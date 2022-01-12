@@ -1,5 +1,5 @@
 ---
-keywords: shipping seasons, freight shipping seasons
+keywords: shipping seasons, freight shipping seasons, seasons of freight
 author: GoShip Admin
 title: What Are The Four Freight Shipping Seasons?
 intro: >-
@@ -11,12 +11,11 @@ intro: >-
   Each year in freight, shipping is different. There are many market fluctuations and external conditions that affect the supply and demand in which the freight shipping industry relies heavily on. Traditionally, the year of freight shipping is divided into different seasons. Freight brokers, shippers, and industry workers use this differentiation to know what to expect in the upcoming months and start preparing for an increase or decrease in demand. Generally, there 
 postedAt: 1589950811000
 news: false
-description: Each year in freight, shipping is different. There are many market
-  fluctuations and external conditions that affect the supply and demand in
-  which the freight shipping industry relies heavily on. Traditionally, the year
-  of freight shipping is divided into different seasons.
+description: Generally, there are four symbolic freight shipping seasons. There
+  are many factors that affect the supply and demand in which the freight
+  shipping industry relies heavily on.
 altText: shipping seasons
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-are-the-four-freight-shipping-seasons.jpg
+image: images/copy-of-goship-website-image-template-1024-x-768-px-.png
 ---
 ## What are the freight shipping seasons?
 
