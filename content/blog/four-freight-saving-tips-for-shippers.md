@@ -1,7 +1,7 @@
 ---
-keywords: " freight shipping tips"
+keywords: freight saving, freight saving tips
 author: GoShip Admin
-title: Four Freight Saving Tips for Shippers
+title: Top 4 Freight Saving Tips for Shippers
 intro: >-
   Have you ever tried to make a shipment and were shocked by the price of the
   shipping cost estimates? There are many things that go into determining your
@@ -18,10 +18,10 @@ intro: >-
   Bundling, boxing and palletizing your shipment makes it easier for the LTL shipper to handle and pack your ship
 postedAt: 1525247156000
 news: false
-description: "We will go over four freight shipping tips to help you reduce the
-  cost of your shipments:"
-altText: " freight shipping tips"
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/four-freight-saving-tips-for-shippers.jpg
+description: Learn how to prepare your freight for shipment to save costs
+  without reducing transportation quality.
+altText: " freight saving"
+image: images/goship-blog-82-.png
 ---
 Have you ever tried to make a shipment and were shocked by the price of the shipping cost estimates? There are many things that go into determining your final shipping cost. Factors like fuel costs are out of your control, but other factors like weight can be controlled. We will go over four freight shipping tips to help you reduce the cost of your shipments:
 
