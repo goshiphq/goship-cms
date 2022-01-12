@@ -1,10 +1,20 @@
 ---
-title: "How Does Small Business Shipping Work?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-small-business-shipping-works.jpg"
+keywords: shipping for small business, small business shipping
+author: GoShip Admin
+title: Main Shipping Principles for Small Business Owners
+intro: Owning a small business is not easy. You have to manage most things by
+  yourself and operate a high volume of responsibilities, which is exhausting.
+  If you’re running a small business that is linked with manufacturing or
+  retailing goods, how do you arrange proper shipping? While striving to
+  maintain operational efficiency, high-level customer service, and focus on
+  marketing, thinking about shipping can be very exhausting. Many companies
+  overlook the importance of good shipping services. However, transportati
 postedAt: 1553662808000
 news: false
-author: "GoShip Admin"
-intro: "Owning a small business is not easy. You have to manage most things by yourself and operate a high volume of responsibilities, which is exhausting. If you’re running a small business that is linked with manufacturing or retailing goods, how do you arrange proper shipping? While striving to maintain operational efficiency, high-level customer service, and focus on marketing, thinking about shipping can be very exhausting. Many companies overlook the importance of good shipping services. However, transportati"
+description: Learn the main principles of organizing and managing freight
+  shipping operations for small business owners.
+altText: small business shipping
+image: images/goship-blog-2022-01-12t100338.122.png
 ---
 Owning a small business is not easy. You have to manage most things by yourself and operate a high volume of responsibilities, which is exhausting. If you’re running a small business that is linked with manufacturing or retailing goods, how do you arrange proper shipping? While striving to maintain operational efficiency, high-level customer service, and focus on marketing, thinking about shipping can be very exhausting. Many companies overlook the importance of good shipping services. However, [transportation can play a significant role in your customers’ experience](https://www.goship.com/blog/how-to-improve-your-customers-experience-through-shipping/) and therefore affect revenue. Apart from your customers’ satisfaction, convenient shipping can benefit your business in many different ways.
 
