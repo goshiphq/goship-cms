@@ -1,7 +1,7 @@
 ---
-keywords: freight claims, freight damage
+keywords: freight claim, how to file a freight claim, freight damage
 author: mderesh
-title: "Freight Damage: How to File a Freight Claim"
+title: How to Properly File a Freight Claim in Case of Freight Damage
 intro: >-
   In the diverse and ever-changing world of freight shipping, accidents happen.
   Freight damage is a pain for any shipper, especially when you discover it
@@ -11,10 +11,10 @@ intro: >-
   Regardless of how good your shipping service is, and how experienced the carrier moving your cargo is, there are still circumstances out of our control. Natural disasters, weather conditions, or other freight damage can occur while the s
 postedAt: 1552496422000
 news: false
-description: If you’re a small business owner or an individual shipper, you’ll
-  most likely deal with freight damage and learn how to file a freight claim..
-altText: freight claim
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/freight-damage-how-to-file-a-freight-claim.jpg
+description: Learn how to fast and properly file a freight claim in case any
+  freight damage occurred to your cargo.
+altText: damaged freight
+image: images/goship-blog-83-.png
 ---
 In the diverse and ever-changing world of freight shipping, accidents happen. Freight damage is a pain for any shipper, especially when you discover it after receiving goods. However, the process of receiving a refund can be easy and not as stressful as many can imagine it.
 
