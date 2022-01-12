@@ -1,10 +1,20 @@
 ---
-title: "5 Important LTL Shipping Questions To Ask"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/five-small-business-ltl-shipping-questions.jpg"
+keywords: LTL shipping, LTL shipping questions
+author: GoShip Admin
+title: 5 Important LTL Shipping Questions To Ask
+intro: When you're trying to find the best shipping options for small
+  businesses, the number of options available can be truly mind-boggling. Yet
+  which small business shipping options are the right ones for your company and
+  products? Many small businesses find that shipping items using a
+  less-than-truckload (LTL) carrier helps them save money while getting their
+  products where they need to go. Here's a quick look at the five LTL shipping
+  questions to always consider when setting up a small business logistics plan.
 postedAt: 1510933610000
 news: false
-author: "GoShip Admin"
-intro: "When you're trying to find the best shipping options for small businesses, the number of options available can be truly mind-boggling. Yet which small business shipping options are the right ones for your company and products? Many small businesses find that shipping items using a less-than-truckload (LTL) carrier helps them save money while getting their products where they need to go. Here's a quick look at the five LTL shipping questions to always consider when setting up a small business logistics plan."
+description: Use our short check up list of the most important LTL shipping
+  questions to ask yourself before transportation.
+altText: preparing LTL shipping
+image: images/goship-blog-81-.png
 ---
 When you're trying to find the best shipping options for small businesses, the number of options available can be truly mind-boggling. Yet which small business shipping options are the right ones for your company and products? Many small businesses find that shipping items using a less-than-truckload (LTL) carrier helps them save money while getting their products where they need to go. Here's a quick look at the five LTL shipping questions to always consider when setting up a small business logistics plan.
 
