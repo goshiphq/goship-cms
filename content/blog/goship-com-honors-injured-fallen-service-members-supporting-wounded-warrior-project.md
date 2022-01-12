@@ -1,5 +1,5 @@
 ---
-keywords: wounded warrior project, goship
+keywords: donates to Wounded Warrior Project, Memorial Day logistics
 author: kmagilton
 title: GoShip Honors Service Members with Wounded Warrior Project
 intro: Pittsburgh, PA, May 25, 2018 – GoShip.com, an online shipping exchange,
@@ -11,11 +11,10 @@ intro: Pittsburgh, PA, May 25, 2018 – GoShip.com, an online shipping exchange,
   of donors and corporate partners, WWP is able to provid
 postedAt: 1528477037000
 news: true
-description: GoShip.com partnered with the Wounded Warrior Project (WWP) to
-  honor our fallen service members this Memorial Day by becoming a WWP Corporate
-  Champion.
+description: GoShip partners with the Wounded Warrior Project (WWP) to honor
+  fallen service members on Memorial Day by becoming a WWP Corporate Champion.
 altText: wounded warrior project
-image: images/small-business-shipping.jpg
+image: images/goship-blog-90-.png
 ---
 **Pittsburgh, PA, May 25, 2018** – GoShip.com, an online shipping exchange, partnered with the Wounded Warrior Project (WWP) to honor our fallen service members this Memorial Day by becoming a WWP Corporate Champion. 
 
