@@ -1,10 +1,21 @@
 ---
-title: "The Future of Sustainable Shipping"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/future-green-shipping.jpg"
+keywords: sustainable shipping, sustainable freight shipping
+author: GoShip Admin
+title: Sustainable Freight Shipping Ideas for the Future
+intro: "The shipping industry will be facing many rapid changes in the near
+  future. One change, in particular, is to be more sustainable. We have already
+  seen efforts by companies to “go green” and make drastic changes to address
+  climate change. New studies on climate change have promoted businesses all
+  over the world to take measures for reducing the carbon footprint and turn to
+  sustainable shipping. Right now, the trucking industry is far from the “green”
+  industry that authorities are looking for and hoping for. "
 postedAt: 1523433057000
 news: false
-author: "GoShip Admin"
-intro: "The shipping industry will be facing many rapid changes in the near future. One change, in particular, is to be more sustainable. We have already seen efforts by companies to “go green” and make drastic changes to address climate change. New studies on climate change have promoted businesses all over the world to take measures for reducing the carbon footprint and turn to sustainable shipping. Right now, the trucking industry is far from the “green” industry that authorities are looking for and hoping for. "
+description: Sustainable shipping will be getting more and more popular in the
+  near future, thus requiring logistics providers to change their shipping
+  strategies.
+altText: electric trucks
+image: images/goship-blog-85-.png
 ---
 The shipping industry will be facing many rapid changes in the near future. One change, in particular, is to be more sustainable. We have already seen efforts by companies to “go green” and make drastic changes to address climate change. New studies on climate change have promoted businesses all over the world to take measures for reducing the carbon footprint and turn to sustainable shipping. Right now, the trucking industry is far from the “green” industry that authorities are looking for and hoping for. Trucks cover thousands of miles every day, polluting the air with CO2 and using large amounts of fuel and oil. Although these changes may take a while for companies to adapt to, there are a few easy ways that truckers and companies can help make a positive impact on the environment:
 
