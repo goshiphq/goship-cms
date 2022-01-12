@@ -1,7 +1,7 @@
 ---
-keywords: shipping to canada, international shipping
+keywords: shipping services to and from Canada, customs brokers
 author: GoShip Admin
-title: GoShip.com Expands Shipping Services into Canada
+title: GoShip Expands Freight Shipping Services into Canada
 intro: PITTSBURGH (Feb. 26, 2019) – GoShip.com, an online less-than-truckload
   (LTL) shipping exchange, announced that it is expanding its shipping services
   to and from Canada. GoShip.com is expanding its shipping radius to reach
@@ -11,11 +11,10 @@ intro: PITTSBURGH (Feb. 26, 2019) – GoShip.com, an online less-than-truckload
   shipments. For shipments to and from Canada, GoShip.com customers
 postedAt: 1551192761000
 news: true
-description: GoShip.com, an online less-than-truckload (LTL) shipping exchange,
-  announced that it is expanding its shipping services to and from Canada with
-  customs broker.
-altText: shipping to canada
-image: images/understanding-ltl-and-parcel-shipping.png
+description: GoShip transportation platform has announced expanding its shipping
+  services to and from Canada with customs brokers.
+altText: shipping to Canada
+image: images/goship-blog-88-.png
 ---
 **PITTSBURGH (Feb. 26, 2019)** – GoShip.com, an online less-than-truckload (LTL) shipping exchange, announced that it is expanding its shipping services to and from Canada.   
 
