@@ -1,5 +1,6 @@
 ---
-keywords: auto parts shipping
+keywords: shipping automotive parts, shipping auto parts, how to ship auto
+  parts, shipping vehicle parts
 author: GoShip Admin
 title: How Does Shipping Automotive Parts Work?
 intro: >-
@@ -17,14 +18,10 @@ intro: >-
   There are a variety of options when it comes to ship
 postedAt: 1594184449000
 news: false
-description: Whether you are a car owner, a seller or buyer of equipment, or an
-  auto business owner, you know that shipping in this industry can be tough.
-  Automotive parts are items of different size, shape, weight, and cost. They
-  require very careful handling and that’s why shipping automotive parts can be
-  troublesome. Finding the right shipping solution and taking some useful tips
-  can help you create a successful shipping process.
+description: Explore the key points of shipping automotive parts across the
+  country and start your vehicle parts delivery with no obstacles.
 altText: auto parts shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-does-the-shipping-of-automotive-parts-work.jpg
+image: images/goship-blog-100-.png
 ---
 Whether you are a car owner, a seller or buyer of equipment, or an auto business owner, you know that shipping in this industry can be tough. Automotive parts are items of different size, shape, weight, and cost. They require very careful handling and that’s why shipping automotive parts can be troublesome. Finding the right shipping solution and taking some useful tips can help you create a successful shipping process.
 
