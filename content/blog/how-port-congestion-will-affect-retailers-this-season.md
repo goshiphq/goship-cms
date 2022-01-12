@@ -1,16 +1,15 @@
 ---
-title: How Port Congestion Will Affect Retailers This Season
+title: Current Effects of Port Congestion on Retail Businesses
 intro: "Though businesses and retailers have prepared months before the holiday
   season to anticipate a supply chain surge, the nation’s ports are still
   expected to remain congested. "
 postedAt: "1640239258603"
 news: false
-description: Though businesses and retailers have prepared months before the
-  holiday season to anticipate a supply chain surge, there is still a global
-  port congestion.
-keywords: port congestion
+description: The global port congestion can be really harmful to retail
+  businesses, so it is important to be aware of all the possible risks.
+keywords: effects of port congestion on retail business, port congestion in retail
 altText: port congestion
-image: images/depositphotos_71316689_l.jpg
+image: images/goship-blog-2022-01-12t094634.029.png
 ---
 Due to heightened consumer demand caused by COVID-19, supply chain operations struggle to keep up, especially as the holidays are fast approaching.
 
