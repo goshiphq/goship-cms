@@ -1,18 +1,18 @@
 ---
-title: How Does Port Congestion Impact Your Business?
+title: Negative Effects of Port Congestion on Your Business
 intro: Port congestion has negative effects on businesses. Aside from delays in
   shipments, there can even be spoilage of perishable goods and hiking up
   inventory costs.
 postedAt: "1634792400000"
-news: true
-description: Port congestion has compounded negative effects on businesses.
-  Aside from delays in shipments, there can even be spoilage of perishable goods
-  and hiking up inventory costs.
-keywords: port congestion, supply chain delays, congested ports
+news: false
+description: Port congestion brings serious damage to your shipment operations.
+  Learn how to avoid the negative effects of port congestion to keep your
+  business safe.
+keywords: port congestion, negative effects of port congestion, how to avoid
+  port congestion
 altText: port congestion
-image: images/adobestock_183054997.jpeg
+image: images/goship-blog-99-.png
 ---
-
 Dealing with delayed shipments and angry customers is any business ownerâ€™s nightmare.
 
 You may never have thought too hard about shipping ports, but the fate of your deliveries is in their hands. Any form of delays or congestion in ports will have a domino effect on shipping lines, cargo handlers, your business, and sales.
@@ -50,7 +50,7 @@ Here are the major reasons why [70% of ports worldwide](https://www.lotus-contai
 * Extreme weather conditions
 * Shipping lines may take advantage of demurrage costs
 
-## ![](https://lh4.googleusercontent.com/7u3MysvuWZSQobBCOzm9jz6U54cR6Mg5luDNbhPuaxRVWkuBWGcOGYEGuZrS51MqYgRP_O0eujBx0ExiOcCsao3y12-LW4_hmgOyzYg6ew_-8fyvQaCVb-SVYyshTXVnVzhH8KRx=s1600)How does port congestion impact your business?
+## How does port congestion impact your business?
 
 ### Shipping delays
 
@@ -77,4 +77,3 @@ While the factors affecting port congestion are well out of an ordinary citizenâ
 While finding the best shipping company requires a lot of research, a quick way to get leads is by visiting an online freight marketplace.
 
 Visit GoShip.com to find reliable shipping companies that know how to deal with port congestion. GoShip.com offers 24/7 instant online quotations using their freight calculator.
-
