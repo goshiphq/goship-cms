@@ -1,17 +1,16 @@
 ---
-keywords: freight insurance, freight damage, freight claims
+keywords: full value freight insurance, what is full value freight insurance
 author: GoShip Admin
-title: "GoShip.com Now Offers Shippers Full Value Freight Insurance "
+title: GoShip Now Offers Shippers Full Value Freight Insurance
 intro: GoShip.com, an online less-than-truckload (LTL) shipping exchange, added
   full value freight insurance to its platform to help improve customers’
   experience.
 postedAt: 1550757372000
 news: true
-description: GoShip.com, an online less-than-truckload (LTL) shipping exchange,
-  added full value freight insurance to its platform to help improve customers’
-  experience.
-altText: " freight insurance"
-image: images/beverage-bottling.jpg
+description: GoShip has added full value freight insurance to its platform to
+  help improve your shipping performance and customers’ experience.
+altText: getting freight insurance
+image: images/goship-blog-86-.png
 ---
 **PITTSBURGH (Feb. 21, 2019)** – GoShip.com, an online less-than-truckload (LTL) shipping exchange, added full value [freight insurance](https://www.goship.com/shipping-services/freight-insurance/) to its platform to help improve customers’ experience. GoShip.com partnered with [Falvey Shippers Insurance](https://falveyinsurancegroup.com/) to provide a freight insurance option to assist customers with all necessary paperwork. Now, our customers can [opt-in to add insurance](https://www.goship.com/blog/what-is-freight-insurance/) to guarantee the full value of freight is covered in case of damages. Also, [Falvey Shippers Insurance](https://falveyinsurancegroup.com/) and GoShip.com’s partnership works to simplify the shipping process and create a painless claims process. [GoShip.com’s freight insurance](https://www.goship.com/blog/an-introduction-to-freight-insurance/) option offers full coverage including loading and unloading, protects against all risks of direct physical loss or damage, coverage for catastrophic perils including acts of God, and no deductibles. Also, GoShip.com customers can add freight insurance offered at checkout on a shipment-by-shipment basis. [GoShip.com](https://www.goship.com/)’s addition of freight insurance reiterates its commitment to giving its users the most reliable and convenient online shipping experience available today.
 
