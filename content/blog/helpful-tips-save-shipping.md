@@ -1,10 +1,28 @@
 ---
-title: "Helpful Tips to Save on Shipping"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/helpful-tips-save-shipping.jpg"
+keywords: how to save on shipping, save money on shipping
+author: GoShip Admin
+title: Top 5 Tips to Effectively Save Money on Shipping
+intro: >-
+  Many businesses, especially small businesses, are constantly looking for ways
+  to make shipping more efficient and cost-effective. Many believe that shipping
+  expenses are fixed costs that cannot be changed, but that is not the case.
+  There are many different ways to reduce the costs that you should know about
+  to make sure that you are using the resources you need to save money and time
+  when shipping. 
+
+
+  Know Your Shipment
+
+  -
+
+
+  You need to be exact when calculating the weight and size of your shipment. Estimating
 postedAt: 1522828257000
 news: false
-author: "GoShip Admin"
-intro: "Many businesses, especially small businesses, are constantly looking for ways to make shipping more efficient and cost-effective. Many believe that shipping expenses are fixed costs that cannot be changed, but that is not the case. There are many different ways to reduce the costs that you should know about to make sure that you are using the resources you need to save money and time when shipping. \n\nKnow Your Shipment\n-\n\nYou need to be exact when calculating the weight and size of your shipment. Estimating"
+description: You can effectively save on shipping operations and optimize your
+  budgeting by following several useful tips.
+altText: calculating shipping costs
+image: images/goship-blog-95-.png
 ---
 Many businesses, especially small businesses, are constantly looking for ways to make shipping more efficient and cost-effective. Many believe that shipping expenses are fixed costs that cannot be changed, but that is not the case. There are many different ways to reduce the costs that you should know about to make sure that you are using the resources you need to save money and time when shipping.
 
