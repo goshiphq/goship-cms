@@ -12,8 +12,9 @@ intro: "Small business owners are incredible multitaskers. In most cases, they
   Many companies underestimate the role of small business "
 postedAt: 1597813212000
 news: false
-description: "Learn what are the common small business shipping mistakes and how
-  to avoid them to improve your small business supply chain. "
+description: "Small business owners are incredible multitaskers. Learn what are
+  the common small business shipping mistakes and how to avoid them to improve
+  your small business supply chain. "
 altText: "small business shipping "
 image: images/goship-blog-38-.png
 ---
@@ -23,7 +24,9 @@ Small business owners are incredible multitaskers. In most cases, they are extre
 
 ### 1. Estimating costs by 'eye-balling it'
 
-Shipping [rates](https://www.goship.com/blog/what-are-the-different-types-of-freight-rates/) are tricky. To determine the accurate final cost, you need a ton of variable factors starting with precise shipment dimensions, weight to commodity type, and additional services. It’s very easy to miss something. Rates also depend on the season, lane, weather, and even a date. So, the major mistake of small businesses is guessing shipping costs. Compare rates from different services and include all the possible information to make your estimate even more accurate. Shipping information is a whole other concern. When it comes to numbers in freight shipping, you can’t assume - you must know. Do the homework and prepare the correct measures for your shipment, learn delivery requirements, etc. Research and preparation will help you significantly save on your shipping costs.
+Shipping [rates](https://www.goship.com/blog/what-are-the-different-types-of-freight-rates/) are tricky. To determine the accurate final cost, you need a ton of variable factors starting with precise shipment dimensions, weight to commodity type, and additional services. It’s very easy to miss something. Rates also depend on the season, lane, weather, and even a date. So, the major mistake of small businesses is guessing shipping costs. 
+
+Compare rates from different services and include all the possible information to make your estimate even more accurate. Shipping information is a whole other concern. When it comes to numbers in freight shipping, you can’t assume - you must know. Do the homework and prepare the correct measures for your shipment, learn delivery requirements, etc. Research and preparation will help you significantly save on your shipping costs.
 
 ### 2. Planning last minute
 
