@@ -1,5 +1,5 @@
 ---
-title: "Dry Van vs. Flatbed Trucks: Which is Better?"
+title: "Dry Van Trailer vs. Flatbed Truck: Which is Better?"
 intro: Booking your freight can be more complicated than you’d expect. Aside
   from looking for a reliable freight forwarder and reasonable rates, you need
   to figure out the best shipping option that meets your transportation
@@ -7,15 +7,13 @@ intro: Booking your freight can be more complicated than you’d expect. Asid
   transportation.
 postedAt: "1632945914633"
 news: false
-description: Dry vans are commonly preferred due to their availability and
-  price. Flatbeds are preferred for their higher maximum capacity and higher
+description: Dry van trailers are commonly preferred due to their availability
+  and price. Flatbeds are preferred for their higher maximum capacity and higher
   weight limit.
-keywords: dry van vs flatbed
-altText: flatbed truck
-image: images/dry-van-vs-flatbed.jpg
+keywords: dry van, dry van trailer, flatbed truck
+altText: dry van
+image: images/copy-of-goship-website-image-template-1024-x-768-px-9-.png
 ---
-
-
 Booking your freight can be more complicated than you’d expect. Aside from looking for a reliable freight forwarder and reasonable rates, you need to figure out the best shipping option that meets your transportation needs. In this article, you’ll learn about the most common types of freight transportation. Learn about dry van vs. flatbed trucks: 
 
 * Dimensions and specifications 
@@ -101,12 +99,3 @@ By approaching [GoShip.com](https://www.goship.com/), you can trust to find the
 Booking is convenient. Simply visit the [self-service platform](https://www.goship.com/shipping-services/), and you’ll be connected to a carrier that’s most compatible with you! GoShip.com is the fastest way to get an instant quote, find a compatible freight carrier, and make a booking! The friendly support team will guide you through the whole process, from the moment you get a quote until your freight reaches its destination. 
 
 [Get a Quote at GoShip](https://www.goship.com/)
-
-**Sources:** 
-
-* <https://www.freightquote.com/blog/dry-van-trucking-vs-refrigerated-shipping-and-flatbed-trucks/> 
-* <https://haletrailer.com/blog/dry-van-vs-flatbed/> 
-* <https://truckstop.com/blog/flatbed-vs-dry-van/> 
-
- 
-
