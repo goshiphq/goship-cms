@@ -1,5 +1,5 @@
 ---
-keywords: mobile shipping apps
+keywords: mobile shipping apps, how to use mobile shipping apps
 author: GoShip Admin
 title: How Are Mobile Shipping Apps Changing the Shipping Industry?
 intro: >-
@@ -18,11 +18,10 @@ intro: >-
   With more individual shippers, small businesses, and carriers wanting to keep their ship
 postedAt: 1593579629000
 news: false
-description: Enabling shippers and carriers to manage and monitor their
-  shipments through mobile shipping apps is essential to simplifying customers’
-  lives.
+description: Mobile shipping apps enable shippers and carriers to manage and
+  monitor their shipments throughtout the transportation process.
 altText: mobile shipping apps
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-are-mobile-shipping-apps-changing-the-shipping-industry.jpg
+image: images/goship-blog-96-.png
 ---
 The freight shipping industry is moving far away from paperwork-centered operations. Most companies have implemented technology tools to run their business and keep data organized. Now that CRM's, ELD's, and many other essential technologies have become popular in the industry, shipping apps can improve shipping experiences for both shippers and carriers.
 
