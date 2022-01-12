@@ -1,7 +1,7 @@
 ---
-keywords: freight claim
+keywords: freight claim, freight damage
 author: GoShip Admin
-title: How To File A Freight Claim?
+title: How To Accurately File A Freight Claim?
 intro: "Even if your shipping strategy is perfect, and you are using a good
   shipping provider, sometimes freight damage is difficult to avoid. There are
   different reasons why your load may suffer damage upon arrival, like multiple
@@ -19,7 +19,7 @@ description: Even if your shipping strategy is perfect, and you are using a good
   shipment being damaged, it is better to be fully prepared. This includes
   knowing how to file a freight claim.
 altText: freight claim
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-file-a-freight-claim.jpg
+image: images/copy-of-goship-blog-1-.png
 ---
 Even if your [shipping strategy](https://www.goship.com/blog/creating-a-successful-small-business-shipping-strategy/) is perfect, and you are using a good shipping provider, sometimes freight damage is difficult to avoid. There are different reasons why your load may suffer damage upon arrival, like multiple handling, inconvenient packaging, extreme weather, etc. Of course, this might not happen to you, but when at a certain point you find out about your freight shipment being damaged, it is better to be fully prepared. 
 
