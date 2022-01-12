@@ -1,5 +1,5 @@
 ---
-keywords: ltl shipping, ltl freight
+keywords: online shipping platform, competitive LTL rates
 author: kmagilton
 title: GoShip Launches a Self-Service LTL Shipping Platform
 intro: Innovative Technology Company Introduces A No-Touch, Less-Than-Truckload
@@ -11,11 +11,11 @@ intro: Innovative Technology Company Introduces A No-Touch, Less-Than-Truckload
   input shipment and book upfront quotes with ease. GoShip.com ca
 postedAt: 1528476977000
 news: true
-description: GoShip.com, an online shipping platform, has redefined how to ship
-  your less-than-truckload (LTL) freight. It offers small shippers highly
-  competitive LTL rates.
-altText: ltl freight
-image: images/goship-blog-6-.png
+description: GoShip online shipping platform has redefined how to ship your
+  less-than-truckload (LTL) freight. It offers small shippers highly competitive
+  LTL rates.
+altText: ltl freight delivery
+image: images/goship-blog-92-.png
 ---
 *Innovative Technology Company Introduces A No-Touch, Less-Than-Truckload Shipping Website Connecting Shippers To Carriers With The Touch Of A Button* 
 
