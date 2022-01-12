@@ -1,5 +1,5 @@
 ---
-keywords: green shipping
+keywords: how to support green shipping, green shipping for small business
 author: GoShip Admin
 title: How Shippers and Businesses Can Support Green Shipping
 intro: Customer demands are nothing new to small businesses and companies.
@@ -11,10 +11,10 @@ intro: Customer demands are nothing new to small businesses and companies.
   To show they care, businesses take part in different ini
 postedAt: 1555909213000
 news: false
-description: To address the truck-related pollution issue, companies strive to
-  make their shipping more sustainable, green shipping.
+description: Supporting green shipping has become one of the main focus points
+  of successful shippers and business owners.
 altText: green shipping
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-shippers-can-support-green-shipping.jpg
+image: images/goship-blog-2022-01-12t095034.992.png
 ---
 Customer demands are nothing new to small businesses and companies. Today, being a successful company means a little more than just providing good products and fast shipping. Eventually, people become interested not only in what you do, but also in who you are. 
 
