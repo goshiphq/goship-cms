@@ -1,5 +1,5 @@
 ---
-title: How Businesses Can Prepare for Holiday Shipping Season 2021
+title: How to Prepare Your Business for Holiday Shipping Season 2021
 intro: With the 2021 holiday season coming up, businesses need to prepare a bit
   more than usual.  Because of the COVID-19 pandemic, freight carriers have been
   busier than ever all year, and shipping lines are already clogged up.   To
@@ -7,10 +7,11 @@ intro: With the 2021 holiday season coming up, businesses need to prepare a bit
   practices and holiday shipping deadlines.
 postedAt: "1638974358202"
 news: false
-description: "Best practices for small business shippers: holiday shipping season 2021"
-keywords: "shipping 2021, holiday shipping 2021, shipping deadlines "
-altText: Holiday Shipping for Small Business
-image: images/adobestock_300381696.jpeg
+description: Start preparing for the 2021 holiday shipping season to make your
+  business more popular and profitable.
+keywords: 2021 holiday shipping season, how to prepare for holiday shipping season
+altText: holiday shipping 2021
+image: images/goship-blog-97-.png
 ---
 With the 2021 holiday season coming up, businesses need to prepare a bit more than usual. Because of the COVID-19 pandemic, freight carriers have been busier than ever all year, and shipping lines are already clogged up. 
 
