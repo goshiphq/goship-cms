@@ -1,5 +1,5 @@
 ---
-keywords: wounded warrior project, goship
+keywords: Corporate Champion partnership, logistics for veterans
 author: GoShip Admin
 title: GoShip Supports Veterans with Wounded Warrior Project
 intro: PITTSBURGH (Aug. 19, 2020) – GoShip.com, a digital shipping platform, is
@@ -12,11 +12,11 @@ intro: PITTSBURGH (Aug. 19, 2020) – GoShip.com, a digital shipping platform
   rewarding civilia
 postedAt: 1597845034000
 news: true
-description: GoShip.com, a digital shipping platform, is continuing
-  its Corporate Champion partnership with Wounded Warrior Project® (WWP) for the
-  third year in a row.
-altText: wounded warrior project
-image: images/beverage-bottling.jpg
+description: GoShip digital shipping platform is continuing its Corporate
+  Champion partnership with Wounded Warrior Project (WWP) for the third year in
+  a row.
+altText: logistics for veterans
+image: images/goship-blog-94-.png
 ---
 **PITTSBURGH (\*\***Aug. 1***\*9\****,\*\* **2020)** – GoShip.com, a digital shipping platform, is continuing its Corporate Champion partnership with Wounded Warrior Project® (WWP) for the third year in a row.  
 
