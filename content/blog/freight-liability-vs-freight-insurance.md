@@ -1,7 +1,8 @@
 ---
-keywords: freight liability, freight insurance
+keywords: difference between freight insurance and freight liability, freight
+  insurance and freight liability
 author: GoShip Admin
-title: "Freight Liability vs Freight Insurance: The Difference"
+title: "Freight Insurance vs Freight Liability: What's the Difference?"
 intro: >-
   No one ever wants to hear that their freight was damaged during the shipping
   process. Whenever you are shipping, you want to make sure that your shipment
@@ -19,11 +20,10 @@ intro: >-
   There are many things you must prove to be compensated for your damaged freight. This can inc
 postedAt: 1524037540000
 news: false
-description: When dealing with damages, it is important to know the coverage you
-  might receive from a freight carrier and the difference between freight
-  liability and freight insurance.
+description: The difference between freight insurance and freight liability can
+  be decisive when dealing with freight damages.
 altText: freight insurance
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/freight-liability-vs-freight-insurance.jpg
+image: images/goship-blog-84-.png
 ---
 No one ever wants to hear that their freight was damaged during the shipping process. Whenever you are shipping, you want to make sure that your shipment is prepared correctly to avoid possible damages during the shipment. When dealing with damages, it is important to know the coverage you might receive from a freight carrier and the difference between freight liability and freight insurance.
 
