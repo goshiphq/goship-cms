@@ -1,10 +1,27 @@
 ---
-title: "How Does a Logistics Hub Work?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-does-a-logistics-hub-work.jpg"
+keywords: logistics hub, shipping hub, freight hub
+author: GoShip Admin
+title: What Is a Logistics Hub and How Does It Work?
+intro: >-
+  Suppliers and eCommerce managers are all too familiar with coordinating with
+  logistics hubs, yet there is still a lot of ambiguity surrounding these
+  facilities. Find out what exactly occurs in a logistics hub and how they
+  function to optimize your supply chain. 
+
+
+  What is a Logistics Hub?
+
+  -
+
+
+  Logistics hubs act as linking points that facilitate the efficient flow of goods. Contrary to what most people think, logistics hubs aren’t only used for storage. They’re also the center for the manufacturing, assembly, 
 postedAt: 1623214836000
 news: false
-author: "GoShip Admin"
-intro: "Suppliers and eCommerce managers are all too familiar with coordinating with logistics hubs, yet there is still a lot of ambiguity surrounding these facilities. Find out what exactly occurs in a logistics hub and how they function to optimize your supply chain. \n\nWhat is a Logistics Hub?\n-\n\nLogistics hubs act as linking points that facilitate the efficient flow of goods. Contrary to what most people think, logistics hubs aren’t only used for storage. They’re also the center for the manufacturing, assembly, "
+description: Logistics hubs act as linking points that facilitate the efficient
+  flow of goods. Contrary to what most people think, logistics hubs aren’t only
+  used for storage.
+altText: logistics hub
+image: images/copy-of-goship-blog-3-.png
 ---
 _Suppliers and [eCommerce](https://www.goship.com/blog/ecommerce-shipping-guide/) managers are all too familiar with coordinating with logistics hubs, yet there is still a lot of ambiguity surrounding these facilities. Find out what exactly occurs in a logistics hub and how they function to optimize your supply chain._
 
