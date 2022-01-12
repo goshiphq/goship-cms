@@ -1,15 +1,15 @@
 ---
-keywords: cdc donations, covid, goship
+keywords: CDC Foundation, donates to CDC Foundation
 author: GoShip Admin
-title: GoShip.com Donates to CDC Foundation with Customer Support
+title: GoShip Donates to CDC Foundation with Customer Support
 intro: GoShip.com, a digital freight shipping platform, donated 100% of profits
   during the months of April and May to the CDC Foundation.
 postedAt: 1592236201000
-news: true
-description: GoShip.com, a digital freight shipping platform, donated 100% of
-  profits during the months of April and May to the CDC Foundation.
-altText: goship
-image: images/copy-of-goship-blog-8-.png
+news: false
+description: GoShip digital freight shipping platform donated 100% of profits
+  during the months of April and May to the CDC Foundation.
+altText: donating CDC Foundation
+image: images/goship-blog-87-.png
 ---
 **PITTSBURGH (June 15, 2020)** – GoShip.com, a digital freight shipping platform, donated 100% of profits during the months of April and May to the CDC Foundation. 
 
