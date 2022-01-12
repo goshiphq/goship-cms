@@ -1,5 +1,5 @@
 ---
-keywords: freight shipping
+keywords: freight shipping, goship, online shipping platfrom
 author: GoShip Admin
 title: "Online Shipping Platform: Tips and Tricks on using GoShip"
 intro: >
@@ -10,17 +10,17 @@ intro: >
   tips on how to ship.
 postedAt: 1497616023000
 news: false
-description: GoShip makes shipping easy by connecting people and carriers with
-  extra truck space. To avoid unnecessary worry, costs, an inconvenience, we’ve
-  developed a list of 4 tips on how to ship.
+description: GoShip is an online shipping service that makes shipping easy by
+  connecting people and carriers with extra truck space. We’ve developed a list
+  of 4 tips on how to ship.
 altText: freight shipping
-image: images/consumer-packaged-goods-3.jpeg
+image: images/goship-blog-11-.png
 ---
-Shipping freight can be a daunting task. There are uncertainties ranging from understanding types of packages to the logistics of delivery. GoShip makes shipping easy by connecting people and carriers with extra truck space. To avoid unnecessary worry, costs, an inconvenience, we’ve developed a list of 4 tips on how to ship.
+Shipping freight can be a daunting task. There are uncertainties ranging from understanding types of packages to the logistics of delivery. GoShip makes shipping easy by connecting people and carriers with extra truck space. To avoid unnecessary worry, costs, and inconvenience, we’ve developed a list of 4 tips on how to ship.
 
 ## **Tip #1** 
 
-**Accuracy is key -** it’s essential to provide accurate information about your freight. We ask the exact dimensions and weight to define a class for your package. By providing accurate information, this will save you the hassle of changing your shipment type and truck drivers will know what to expect when picking up your shipment. 
+**Accuracy is key -** it’s essential to provide accurate information about your freight. We ask for the exact dimensions and weight to define a class for your package. By providing accurate information, will save you the hassle of changing your shipment type and truck drivers will know what to expect when picking up your shipment. 
 
 Shipping rates are calculated by a combination of dimensions, weight, and other factors. Correct information about our cargo will give you the most affordable options that are suited for your shipment. If you need us, we're here to **help.**
 
@@ -30,9 +30,9 @@ Shipping rates are calculated by a combination of dimensions, weight, and other 
 
 **Damage protection –** whether you are shipping fragile contents or not, every package should have some form of damage protection. Packages can be damaged through a variety of factors such as dropping, compression, temperature changes, humidity, and air pressure. With all these risks, here are some preventative measures to save your package:
 
-* Cushioning – to protect the insides of your package, cushioning’s the answer. If you’re shipping multiple goods inside one package, think about using a box-in-box packaging or individually wrapping each item. This will save more space than shipping multiple packages and can reduce costs and damage.
+* Cushioning – to protect the insides of your package, cushioning’s the answer. If you’re shipping multiple goods inside one package, think about using box-in-box packaging or individually wrapping each item. This will save more space than shipping multiple packages and can reduce costs and damage.
 * Minimize empty space – the better fit the container is for the goods shipped, the less room there is for “rattling” of your contents. Moral of the story: minimize the empty space.
-* Quality packing materials – the quality of your box, cushioning and packing tape matter. Be sure to inspect the quality of all before shipping your package
+* Quality packing materials – the quality of your box, cushioning, and packing tape matter. Be sure to inspect the quality of all before shipping your package
 
 LTL drivers will **not** provide straps for shipments to strap items to the pallet/handling unit.  It is the responsibility of the shipper to prepare the shipment for the rigors of travel (shrink wrap, strapping, edge protectors, cushioning, etc.).  Once the shipment is on the trailer, the driver will secure the pallet/handling unit to the trailer as required for safe travel. 
 
