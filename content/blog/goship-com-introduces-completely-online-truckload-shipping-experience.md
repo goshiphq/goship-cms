@@ -1,5 +1,6 @@
 ---
-keywords: truckload freight quotes, truckload shipping
+keywords: online freight shipping service, instant freight quotes, get a freight
+  quote, online shipping platform
 author: GoShip Admin
 title: GoShip Introduces Online Truckload Shipping Experience
 intro: PITTSBURGH (Sept. 24, 2019) – GoShip.com, an online freight shipping
@@ -11,11 +12,11 @@ intro: PITTSBURGH (Sept. 24, 2019) – GoShip.com, an online freight shipping
   truckload shipments, all without speaking with a freight broker
 postedAt: 1569354858000
 news: true
-description: GoShip.com, an online freight shipping service, now offers instant
-  truckload freight quotes and truckload shipping options through its online
-  shipping platform.
-altText: truckload shipping
-image: images/goship-blog-8-.png
+description: GoShip online freight shipping service now offers instant truckload
+  freight quotes and truckload shipping options through its online shipping
+  platform.
+altText: online shipping
+image: images/goship-blog-91-.png
 ---
 **PITTSBURGH (Sept. 24, 2019)** – GoShip.com, an online freight shipping service, now offers instant truckload freight quotes and truckload shipping options through its online shipping platform. GoShip.com has expanded its shipping services and will now allow customers to ship truckload shipments completely online through its platform. 
 
