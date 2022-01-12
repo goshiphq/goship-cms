@@ -1,10 +1,20 @@
 ---
-title: "The Benefits of Using LTL For Small Business Shipping"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-small-business-benefits-from-ltl.jpg"
+keywords: benefits of LTL, benefits of LTL shipping
+author: GoShip Admin
+title: The Benefits of Using LTL For Small Business Shipping
+intro: As a small business owner, you’re already accustomed to working with
+  fewer resources than your larger competitors. Yet when it comes to shipping
+  large items, the problem is that you have too much — too much empty space in a
+  trailer, that is. Small businesses that have to ship larger items often find
+  themselves in a bind because the items are too large to use a parcel shipper
+  such as UPS or FedEx. That's why it's beneficial to use LTL for small business
+  shipping needs. In many cases, small businesses find th
 postedAt: 1514360126000
 news: false
-author: "GoShip Admin"
-intro: "As a small business owner, you’re already accustomed to working with fewer resources than your larger competitors. Yet when it comes to shipping large items, the problem is that you have too much — too much empty space in a trailer, that is. Small businesses that have to ship larger items often find themselves in a bind because the items are too large to use a parcel shipper such as UPS or FedEx. That's why it's beneficial to use LTL for small business shipping needs. In many cases, small businesses find th"
+description: Check out the top reasons why LTL shipments are the best shipping
+  services to cover small businesses’ logistics needs.
+altText: preparing LTL shipment
+image: images/goship-blog-2022-01-12t095950.059.png
 ---
 As a small business owner, you’re already accustomed to working with fewer resources than your larger competitors. Yet when it comes to shipping large items, the problem is that you have too much — too much empty space in a trailer, that is. Small businesses that have to ship larger items often find themselves in a bind because the items are too large to use a parcel shipper such as UPS or FedEx. That's why it's beneficial to use LTL for small business shipping needs. In many cases, small businesses find themselves paying for an entire trailer that is only half-full. As a result, they either have to take the unnecessary cost out of their bottom line or pass it to their customers. There’s an option of which you may not be aware — less-than-truckload (LTL) shipping. LTL  for small business shipping needs involves palletized shipments that don’t fill an entire truckload. LTL can be the [best shipping for small businesses](http://104.196.177.103/shipping-services/small-business-shipping/) because it ensures your shipments will get where they need to go quickly and cost-effectively.
 
