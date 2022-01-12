@@ -1,7 +1,8 @@
 ---
-keywords: taskrabbit, goship
+keywords: digital freight shipping platform, TaskRabbit logistics, partnership
+  with TaskRabbit
 author: gwarder
-title: "GoShip.com Announces Partnership with TaskRabbit "
+title: GoShip Service Announces Partnership with TaskRabbit
 intro: SAN FRANCISCO, March 31, 2021 – GoShip, a digital freight shipping
   platform, has partnered with TaskRabbit, the global network that connects
   people who need help with “Taskers” to handle tasks such as packing, moving,
@@ -11,11 +12,11 @@ intro: SAN FRANCISCO, March 31, 2021 – GoShip, a digital freight shipping
   show up at their doors. “After listening to feedback from o
 postedAt: 1617194957000
 news: true
-description: GoShip, a digital freight shipping platform, has partnered with
+description: GoShip digital freight shipping platform has partnered with
   TaskRabbit, the global network that connects people who need help with
   “Taskers".
-altText: taskrabbit
-image: images/adobestock_124131568.jpeg
+altText: taskrabbit delivery
+image: images/goship-blog-93-.png
 ---
 **SAN FRANCISCO, March 31, 2021** – 
 
