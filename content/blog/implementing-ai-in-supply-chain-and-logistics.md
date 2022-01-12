@@ -1,5 +1,5 @@
 ---
-keywords: AI logistics
+keywords: supply chain ai, ai logistics
 author: GoShip Admin
 title: Implementing AI in Supply Chain and Logistics
 intro: >-
@@ -18,13 +18,11 @@ intro: >-
   With the volume of data entering the supply chain every day, AI computing technology has the potential to shift business trends
 postedAt: 1623846605000
 news: false
-description: The rapid development of AI in supply chain in the last decade has
+description: "The rapid development of AI in supply chain in the last decade has
   made moving packages from one end of the globe to the other more seamless than
-  ever.  From virtual assistants, robotics, analytics, and autonomous vehicles,
-  AI technology has provided sophisticated solutions to supply chain and
-  logistics operations around the globe.
+  ever.  "
 altText: AI logistics
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/implementing-ai-in-supply-chain-and-logistics.jpg
+image: images/goship-blog-43-.png
 ---
 The rapid development of AI in supply chain in the last decade has made moving packages from one end of the globe to the other more seamless than ever.  From virtual assistants, robotics, analytics, and autonomous vehicles, AI technology has provided sophisticated solutions to **supply chain and logistics operations** around the globe.
 
@@ -82,9 +80,4 @@ Adopting AI into your supply chain and logistics operations requires years of in
 
 ## Shipping with GoShip.com
 
-While GoShip does not operate using AI at this time, our freight shipping services are automated and perfect for the shipper who is looking for fast and reliable access to carriers. [GoShip.com](https://www.goship.com/) will help you find flexible solutions for better logistics management and business growth. **Sources:**
-
-* <https://venturebeat.com/2018/03/25/3-steps-to-getting-started-with-supply-chain-ai/>
-* <https://venturebeat.com/2017/04/21/the-impact-of-ai-on-supply-chain-logistics/>
-* <https://inc42.com/resources/role-of-ai-and-machine-learning-in-logistics-industry/>
-* <https://supplychainbeyond.com/6-ways-ai-is-impacting-the-supply-chain/>
+While GoShip does not operate using AI at this time, our freight shipping services are automated and perfect for the shipper who is looking for fast and reliable access to carriers. [GoShip.com](https://www.goship.com/) will help you find flexible solutions for better logistics management and business growth.
