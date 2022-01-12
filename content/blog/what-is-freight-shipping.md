@@ -1,5 +1,5 @@
 ---
-title: What is Freight Shipping?
+title: What is Freight Shipping? All You Need To Know
 intro: Freight shipping is the process of transporting goods, commodities, and
   cargo by land, sea, or air. The most common freight shipping modes are: full
   truckload (FTL), less than truckload (LTL), international marine shipping, and
@@ -9,12 +9,10 @@ news: false
 description: Freight shipping is the process of transporting goods and cargo by
   land, sea, or air. Learn about the different modes of freight shipping and
   their benefits.
-keywords: freight transportation
-altText: cargo freight transportation
-image: images/what-is-freight-shipping.png
+keywords: freight transportation, freight shipping
+altText: freight shipping
+image: images/copy-of-goship-blog-11-.png
 ---
-
-
 If you’re managing a business, understanding freight shipping should be at the top of your to-do list. Since there are many different types of freight shipping, the best mode will depend on your hauling needs. In this article, familiarize yourself with: 
 
 * Different types of freight shipping modes 
@@ -86,11 +84,4 @@ GoShip.com offers
 
 Get an instant quote through their [self-service platform](https://www.goship.com/shipping-services/), and connect with your partner freight carrier in no time! 
 
-[Get a Quote at GoShip](https://www.goship.com/) 
-
-**Sources:** 
-
-* <https://www.freightcenter.com/tools/types-of-freight#:~:text=By%20far%20the%20most%20popular,with%20other%20LTL%20freight%20shipments> 
-* <https://www.universalcargo.com/8-of-the-most-common-freight-shipping-services/> 
-* <https://www.freightquote.com/define/what-is-freight-shipping/> 
-
+[Get a Quote at GoShip](https://www.goship.com/)
