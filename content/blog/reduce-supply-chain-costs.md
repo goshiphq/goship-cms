@@ -1,10 +1,28 @@
 ---
-title: "3 Unpopular Ways To Reduce Supply Chain Costs"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/reduce-supply-chain-costs.jpg"
+keywords: how to reduce supply chain costs, how to reduce transportation costs
+author: GoShip Admin
+title: Advanced Strategies to Reduce Your Supply Chain Costs
+intro: >-
+  There is a lot more that goes into choosing the best carrier for your shipment
+  than most people think. When deciding which LTL carrier to work with, many
+  businesses or supply chain managers will only take the upfront cost of
+  transportation into account. There are a few strategies we will explore that
+  you can use when choosing the best carrier for your company. Here are three
+  simple, strategic ways to reduce supply chain costs: 
+
+
+  Reduce DSO and Collect Faster
+
+  -
+
+
+  You can reduce your DSO (days sales outstandin
 postedAt: 1524642350000
 news: false
-author: "GoShip Admin"
-intro: "There is a lot more that goes into choosing the best carrier for your shipment than most people think. When deciding which LTL carrier to work with, many businesses or supply chain managers will only take the upfront cost of transportation into account. There are a few strategies we will explore that you can use when choosing the best carrier for your company. Here are three simple, strategic ways to reduce supply chain costs: \n\nReduce DSO and Collect Faster\n-\n\nYou can reduce your DSO (days sales outstandin"
+description: You can significantly reduce your supply chain costs and optimize
+  the shipping process by applying advanced planning strategies.
+altText: shipping costs
+image: images/goship-blog-22-.png
 ---
 There is a lot more that goes into choosing the best carrier for your shipment than most people think. When deciding which LTL carrier to work with, many businesses or supply chain managers will only take the upfront cost of transportation into account. There are a few strategies we will explore that you can use when choosing the best carrier for your company. Here are three simple, [strategic ways](https://www.goship.com/blog/how-to-improve-supply-chain-costs/) to reduce supply chain costs:
 
