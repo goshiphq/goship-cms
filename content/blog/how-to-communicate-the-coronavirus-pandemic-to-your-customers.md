@@ -1,10 +1,20 @@
 ---
-title: "How To Communicate The Coronavirus Pandemic To Your Customers"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-communicate-the-coronavirus-pandemic-to-your-customers.jpg"
+keywords: coronavirus logistics, how to communicate with customers during coronavirus
+author: GoShip Admin
+title: How to Communicate with Customers During Coronavirus Pandemic
+intro: "The unexpected wave of the coronavirus is affecting the world’s economy
+  beyond belief, causing business owners panic. Certain businesses that were
+  most affected, like restaurants, bars, catering, etc, have already started
+  laying off their workforce. It is a huge challenge for both employees and
+  small businesses, however, the freezing period does not necessarily mean that
+  it is over for your business. One of the most important orders for businesses
+  right now is to properly communicate the pandemic situation "
 postedAt: 1585112414000
 news: false
-author: "GoShip Admin"
-intro: "The unexpected wave of the coronavirus is affecting the world’s economy beyond belief, causing business owners panic. Certain businesses that were most affected, like restaurants, bars, catering, etc, have already started laying off their workforce. It is a huge challenge for both employees and small businesses, however, the freezing period does not necessarily mean that it is over for your business. One of the most important orders for businesses right now is to properly communicate the pandemic situation "
+description: Explore the best ideas of advanced business communication during
+  pandemic to keep your customers onsite.
+altText: coronavirus logistics
+image: images/goship-blog-19-.png
 ---
 The unexpected wave of the coronavirus is affecting the world’s economy beyond belief, causing business owners panic. Certain businesses that were most affected, like restaurants, bars, catering, etc, have already started laying off their workforce. It is a huge challenge for both employees and small businesses, however, the freezing period does not necessarily mean that it is over for your business. One of the most important orders for businesses right now is to [properly communicate](https://hbr.org/2020/03/communicating-through-the-coronavirus-crisis) the pandemic situation to their customers. 
 
