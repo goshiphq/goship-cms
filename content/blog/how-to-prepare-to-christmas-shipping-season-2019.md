@@ -1,10 +1,21 @@
 ---
-title: "How to Prepare for Christmas Shipping Season 2019"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-prepare-to-christmas-shipping-season-2019.jpg"
+keywords: Christmas shipping season 2019, Christmas shipping season, how to
+  prepare for Christmas shipping season
+author: GoShip Admin
+title: How to Prepare for Christmas Shipping Season 2019
+intro: Each year, winter marks the most exciting shopping season for customers
+  and the busiest time for retailers and e-commerce companies. Last year’s
+  overall retail sales reached $998.32 billion and are expected to grow by 3.9%.
+  Despite the season officially starting before Black Friday, the majority of
+  the holiday purchasing falls throughout the Christmas shipping season.  For
+  the holiday shopping season, shipping plays a critical role in a positive
+  experience. That’s why your holiday shipping strategy should b
 postedAt: 1575954003000
 news: false
-author: "GoShip Admin"
-intro: "Each year, winter marks the most exciting shopping season for customers and the busiest time for retailers and e-commerce companies. Last year’s overall retail sales reached $998.32 billion and are expected to grow by 3.9%. Despite the season officially starting before Black Friday, the majority of the holiday purchasing falls throughout the Christmas shipping season.  For the holiday shopping season, shipping plays a critical role in a positive experience. That’s why your holiday shipping strategy should b"
+description: Prepare for Christmas shipping season 2019 in advance to remain
+  competitive during busy shipping period.
+altText: Christmas shipping
+image: images/goship-blog-18-.png
 ---
 Each year, winter marks the most exciting shopping season for customers and the busiest time for retailers and e-commerce companies. Last year’s overall retail sales reached $998.32 billion and are [expected to grow by 3.9%](https://www.emarketer.com/content/us-2018-holiday-season-review-and-2019-preview). Despite the season officially starting before [Black Friday](https://www.goship.com/blog/surviving-the-black-friday-guide-for-retailers/), the majority of the holiday purchasing falls throughout the Christmas shipping season.  For the holiday shopping season, shipping plays a critical role in a positive experience. That’s why your holiday shipping strategy should be well-thought-out and organized.
 
