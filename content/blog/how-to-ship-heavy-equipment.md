@@ -1,7 +1,8 @@
 ---
-keywords: "heavy equipment "
+keywords: shipping heavy equipment, how to ship heavy equipment, how to pack and
+  ship heavy equipment
 author: GoShip Admin
-title: How to Ship Heavy Equipment
+title: "How to Properly Pack and Ship Heavy Equipment: A Short Guide"
 intro: Shipping heavy items like large equipment, machinery, or auto parts can
   be quite challenging. Before diving into the heavy equipment shipping process,
   you should understand the intricacies of shipping heavy equipment. Whether
@@ -11,15 +12,10 @@ intro: Shipping heavy items like large equipment, machinery, or auto parts can
   the best practices for a smooth shipping experience. ![i
 postedAt: 1617771626000
 news: false
-description: Shipping heavy items like large equipment, machinery, or auto parts
-  can be quite challenging. Before diving into the heavy equipment shipping
-  process, you should understand the intricacies of shipping heavy equipment.
-  Whether you’re shipping auto parts to another state, or regularly transport
-  heavy commercial equipment, it is crucial to choose the right transportation
-  mode, find a proper shipping partner, choose convenient freight insurance, and
-  apply the best practices for a smooth shipping experience.
-altText: "heavy equipment "
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-ship-heavy-equipment.jpeg
+description: Learn what shipping services are the best option to safely move
+  your heavy equipment across the country.
+altText: "heavy construction equipment "
+image: images/goship-blog-24-.png
 ---
 Shipping heavy items like large equipment, machinery, or auto parts can be quite challenging. Before diving into the heavy equipment shipping process, you should understand the intricacies of shipping heavy equipment. Whether you’re shipping auto parts to another state, or regularly transport heavy commercial equipment, it is crucial to choose the [right transportation mode](https://www.goship.com/posts/modes-of-transportation-in-logistics), find a proper shipping partner, choose convenient freight insurance, and apply the best practices for a smooth shipping experience.
 
