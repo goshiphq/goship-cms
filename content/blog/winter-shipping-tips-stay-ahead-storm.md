@@ -1,5 +1,5 @@
 ---
-keywords: Freight Shipping, Full Truckload, LTL, Winter Shipping
+keywords: winter shipping, shipping in winter
 author: GoShip Admin
 title: Winter Shipping Tips to Stay Ahead of the Storm
 intro: Winter is upon us. Have you prepared for the cold season? With the
@@ -11,9 +11,10 @@ intro: Winter is upon us. Have you prepared for the cold season? With the
   However, if you plan ahead of schedule, you have a better chance o
 postedAt: 1515571853000
 news: false
-description: Freight Shipping Made Easy With LTL and Full Truckload Services!
+description: Learn how to avoid common shipping difficulties during the winter
+  season and stay ahead of dangerous weather conditions.
 altText: Winter Freight Shipping
-image: images/copy-of-goship-website-image-template-1024-x-768-px-.png
+image: images/goship-blog-15-.png
 ---
 Winter is upon us. Have you prepared for the cold season? With the unpredictable weather patterns from Mother Nature, you never know when or where a storm will take place. Winter is one of the most challenging seasons when traveling, just think about winter shipping! For the freight industry, it’s not any easier… With unsavory road conditions, freezing temperatures, and other hazards in the mix, you never know what delays can be lying ahead. However, if you plan ahead of schedule, you have a better chance of beating Mother Nature at her own game. Don’t let your shipment fall into the category of a delayed shipment this season.
 
