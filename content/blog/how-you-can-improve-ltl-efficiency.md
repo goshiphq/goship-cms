@@ -1,10 +1,31 @@
 ---
-title: "How You Can Improve LTL Efficiency"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-you-can-improve-ltl-efficiency.jpg"
+keywords: LTL efficiency, how to improve LTL efficiency
+author: GoShip Admin
+title: How You Can Improve LTL Efficiency
+intro: >-
+  Shipping efficiency provides a double benefit for both the carrier and the
+  shipper. Knowing how to maximize your efficiency as a shipper will accelerate
+  all future shipments. As a shipper, reducing your cost and time spent is
+  important. Simply by choosing the right shipping methods, you will increase
+  LTL efficiency. 
+
+
+  The next time you plan to ship LTL, consider these improvements:
+
+  -
+
+
+
+  Ship from an ideal location
+
+
+  Shipping close to a metropolitan area reduces the likelihood of delayed freight and reduces yo
 postedAt: 1513755343000
 news: false
-author: "GoShip Admin"
-intro: "Shipping efficiency provides a double benefit for both the carrier and the shipper. Knowing how to maximize your efficiency as a shipper will accelerate all future shipments. As a shipper, reducing your cost and time spent is important. Simply by choosing the right shipping methods, you will increase LTL efficiency. \n\nThe next time you plan to ship LTL, consider these improvements:\n-\n\n\nShip from an ideal location\n\nShipping close to a metropolitan area reduces the likelihood of delayed freight and reduces yo"
+description: Consider the most reasonable freight shipping improvements to
+  increase your LTL efficiency and grow your business.
+altText: preparing LTL shipment
+image: images/goship-blog-16-.png
 ---
 Shipping efficiency provides a double benefit for both the carrier and the shipper. Knowing how to maximize your efficiency as a shipper will accelerate all future shipments. As a shipper, reducing your cost and time spent is important. Simply by choosing the right shipping methods, you will increase LTL efficiency.
 
