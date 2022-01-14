@@ -1,10 +1,20 @@
 ---
-title: "Surviving Black Friday: Guide for Retailers"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/surviving-the-black-friday-guide-for-retailers.jpg"
+keywords: black friday shipping, black friday 2021, how to survive black friday
+author: GoShip Admin
+title: "How to Survive Black Friday 2021: A Guide for Retail Businesses"
+intro: Black Friday is just around the corner, marking the official start of the
+  holiday season for shoppers and retailers. Each year, the last Friday of
+  November is getting bigger by generating more and more sales and revenues. In
+  2018, it generated $6.2 billion in online sales, which was almost 23% more
+  than the previous year.  This has resulted in a leap in demand for e-commerce
+  companies and retailers. It can be very challenging to keep up with that
+  demand and maintain high-quality customer service at the same
 postedAt: 1574744435000
 news: false
-author: "GoShip Admin"
-intro: "Black Friday is just around the corner, marking the official start of the holiday season for shoppers and retailers. Each year, the last Friday of November is getting bigger by generating more and more sales and revenues. In 2018, it generated $6.2 billion in online sales, which was almost 23% more than the previous year.  This has resulted in a leap in demand for e-commerce companies and retailers. It can be very challenging to keep up with that demand and maintain high-quality customer service at the same"
+description: Check out the best tips on how to prepare to one of the busiest
+  shipping periods and deliver your Black Friday orders on time.
+altText: black friday 2021
+image: images/goship-blog-23-.png
 ---
 Black Friday is just around the corner, marking the official start of the holiday season for shoppers and retailers. Each year, the last Friday of November is getting bigger by generating more and more sales and revenues. In 2018, it [generated $6.2 billion](https://www.forbes.com/sites/nikkibaird/2018/11/28/every-result-you-need-to-know-about-black-friday-cyber-monday-and-holiday-2018-so-far/#efc6cec4eb59) in online sales, which was almost 23% more than the previous year.  This has resulted in a leap in demand for e-commerce companies and retailers. It can be very challenging to keep up with that demand and maintain high-quality customer service at the same time.  This is crucial for businesses since the overall customer experience defines whether they will return or not.  Many of these purchases are gifts, which puts even more pressure to provide on-time delivery. Considering the enormously high return rates after Black Friday and Cyber Monday, retailers have to literally prepare for everything.
 
