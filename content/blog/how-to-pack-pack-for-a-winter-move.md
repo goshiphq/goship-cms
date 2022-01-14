@@ -1,10 +1,25 @@
 ---
-title: "How to Pack for a Winter Move"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-pack-pack-for-a-winter-move.jpg"
+keywords: winter shipping, how to ship in winter, cold season shipping, how to
+  pack and move in winter
+author: GoShip Admin
+title: "Cold Season Shipping: How to Properly Pack and Move in Winter"
+intro: >-
+  You may not have wanted it, but you're moving, and it's winter. Moving this
+  time of year can bring about many challenges when you're making arrangements
+  for the big day. It’s a good plan to outline what you need to do before
+  setting your date in stone, luckily, we did that for you! Here is our outline
+  of how you should pack for your winter move. Weatherproof your packing is a
+  must. With the possibility of freezing temperatures or wet conditions, you
+  want your items protected. 
+
+
+  Consider these packing materi
 postedAt: 1517385619000
 news: false
-author: "GoShip Admin"
-intro: "You may not have wanted it, but you're moving, and it's winter. Moving this time of year can bring about many challenges when you're making arrangements for the big day. It’s a good plan to outline what you need to do before setting your date in stone, luckily, we did that for you! Here is our outline of how you should pack for your winter move. Weatherproof your packing is a must. With the possibility of freezing temperatures or wet conditions, you want your items protected. \n\nConsider these packing materi"
+description: The winter season can be quite challenging for active shipping
+  because of lower roads capacity and unpredictable weather conditions.
+altText: winter shipping
+image: images/goship-blog-13-.png
 ---
 You may not have wanted it, but you're moving, and it's winter. Moving this time of year can bring about many challenges when you're making arrangements for the big day. It’s a good plan to outline what you need to do before setting your date in stone, luckily, we did that for you! Here is our outline of how you should pack for your winter move. Weatherproof your packing is a must. With the possibility of freezing temperatures or wet conditions, you want your items protected.
 
