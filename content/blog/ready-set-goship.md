@@ -1,5 +1,5 @@
 ---
-keywords: GoShip, shipping service
+keywords: GoShip, shipping with GoShip, how to ship with GoShip
 author: kmagilton
 title: Ready. Set. GoShip!
 intro: |+
@@ -12,12 +12,10 @@ intro: |+
 
 postedAt: 1497626305000
 news: false
-description: GoShip is the industry’s latest innovation for all your shipping
-  needs. We connect you with trusted carriers who will ensure your shipment
-  reaches its destination safe and sound. We offer the quickest turnaround
-  times, and an easy, hands-off way for you to ship.
+description: GoShip is the industry’s latest innovation for fulfilling all your
+  transportation needs and introducing unique shipping experience.
 altText: shipping service
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/ready-set-goship.jpg
+image: images/goship-blog-17-.png
 ---
 Finally selling your old couch? Buying that grand piano for your new home?
 --------------------------------------------------------------------------
