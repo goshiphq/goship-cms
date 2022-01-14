@@ -26,7 +26,7 @@ news: false
 description: Thorough planning can help you avoid the most common mistakes
   shippers make in terms of LTL freight shipping operations.
 altText: LTL shipping mistakes
-image: images/goship-blog-59-.png
+image: images/goship-blog-26-.png
 ---
 LTL shipping is an [inexpensive way to move goods](https://www.thebalancesmb.com/less-than-truckload-ltl-2221319), and it can be an excellent logistics solution for companies that are looking to save money on their shipments. It is important to carefully plan out all of the components of transportation to avoid common shipping mistakes.
 
