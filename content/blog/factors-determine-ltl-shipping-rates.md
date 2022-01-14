@@ -22,7 +22,7 @@ news: false
 description: Many factors affect LTL rates. Thus, less than truckload rates are
   calculated differently compared to general truckload rates.
 altText: "packing LTL freight boxes and calculating LTL freight rates "
-image: images/goship-blog-2-.png
+image: images/goship-blog-25-.png
 ---
 ## How are LTL freight rates calculated?
 
