@@ -1,10 +1,20 @@
 ---
-title: "5 Ways To Reduce Supply Chain Costs"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/how-to-improve-supply-chain-costs.jpg"
+keywords: how to reduce supply chain costs, reduce supply chain costs
+author: GoShip Admin
+title: 5 Effective Ways to Reduce Your Supply Chain Costs
+intro: "Have you recently noticed your costs are eating up your budget? It could
+  be from your supply chain strategy. The supply chain is crucial for your
+  business to be successful and everyone has success as their priority. If
+  you're spending too much and seeing too little of a return, it could be time
+  to make improvements and reduce supply chain costs. By achieving sufficient
+  savings in your supply chain costs, you could see your profits rocket upward.
+  If you are focused on earning these savings, you need to know "
 postedAt: 1516779616000
 news: false
-author: "GoShip Admin"
-intro: "Have you recently noticed your costs are eating up your budget? It could be from your supply chain strategy. The supply chain is crucial for your business to be successful and everyone has success as their priority. If you're spending too much and seeing too little of a return, it could be time to make improvements and reduce supply chain costs. By achieving sufficient savings in your supply chain costs, you could see your profits rocket upward. If you are focused on earning these savings, you need to know "
+description: No matter the scale of your business, certain opportunities will
+  effectively help you reduce supply chain costs.
+altText: warehouse with LTL shipments
+image: images/goship-blog-14-.png
 ---
 Have you recently noticed your [costs are eating up your budget](https://www.goship.com/blog/10-tips-reduce-costs-shippers/)? It could be from your supply chain strategy. The supply chain is crucial for your business to be successful and everyone has success as their priority. If you're spending too much and seeing too little of a return, it could be time to make improvements and reduce supply chain costs. By achieving sufficient savings in your supply chain costs, you could see your profits rocket upward. If you are focused on earning these savings, you need to know where to look.
 
