@@ -1,8 +1,8 @@
 ---
-keywords: fob shipping meaning, what does fob mean, fob definition, what is fob
-  fob meaning, what does fob stand for
+keywords: FOB, free on board, freight on board, what is free on board, what does
+  free on board mean
 author: GoShip Admin
-title: What Does FOB Mean In Freight Shipping?
+title: "Free On Board: What Does FOB Mean in Supply Chain and Logistics?"
 intro: >-
   The freight shipping industry is saturated with many shipping terms that are
   sometimes confusing even to experienced shippers. One such term is the FOB
@@ -16,11 +16,10 @@ intro: >-
   What is FOB in
 postedAt: 1618981255000
 news: false
-description: What does FOB in shipping stand for? FOB is an international term
-  that designated the liability for the goods being transported. Basically, FOB
-  marks who handles the payments and responsibility for freight.
-altText: fob shipping meaning, what does fob mean, fob definition
-image: images/depositphotos_411458746_xl.jpg
+description: Learn what the free on board service includes and how it
+  contributes to the organization of shipping process.
+altText: free on board
+image: images/goship-blog-20-.png
 ---
 The freight shipping industry is saturated with [many shipping terms](https://www.goship.com/blog/5-key-freight-shipping-terms-you-should-know/) that are sometimes confusing even to experienced shippers. One such term is the FOB acronym, which stands for free (or freight) on board. It is a widely used term in the industry, however, not everyone knows the accurate meaning and definition. A lack of understanding of certain industry abbreviations or terms can cost you time and money. FOB is one of the rarely recognized terms in freight shipping, yet is still important.
 
