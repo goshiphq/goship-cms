@@ -1,7 +1,7 @@
 ---
-keywords: Supply chain visibility, supply chain, business practices
+keywords: supply chain visibility, what is supply chain visibility, shipping visibility
 author: GoShip Admin
-title: What Is Supply Chain Visibility And Why Is It Important?
+title: Supply Chain Visibility and Its Importance in Modern Logistics
 intro: >-
   What is end-to-end visibility in the supply chain?
 
@@ -11,12 +11,10 @@ intro: >-
   Supply chain visibility means having access to all processes and products involved in the supply chain. It includes transparency and real-time visibility into shipments, inventory, transactions, operations, payments, etc. Generally, supply chain visibility is the ability to track and trace everything that goes on in the supply chain from manufacturing to the end customer. In a current business environment, having visibility enables businesses to have con
 postedAt: 1618376459000
 news: false
-description: Supply chain visibility is the ability to track and trace
-  everything that goes on in the supply chain from manufacturing to the end
-  customer. Having visibility enables businesses to have more control over their
-  supply chains.
+description: Find out why it is important to support supply chain visibility and
+  how it can influence your shipping operations.
 altText: supply chain visibility
-image: images/copy-of-goship-website-image-template-1024-x-768-px-8-.png
+image: images/goship-blog-21-.png
 ---
 ## What is end-to-end visibility in the supply chain?
 
