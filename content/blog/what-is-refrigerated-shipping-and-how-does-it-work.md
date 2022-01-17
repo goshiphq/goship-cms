@@ -11,7 +11,7 @@ intro: "What is refrigerated shipping? Refrigerated (or reefer) shipping and
   prevent product deterioration in transit. Fresh produce, dairy, meat products,
   and pharmaceutics rely on refrigerated transportation every day. "
 postedAt: 1569992426000
-news: true
+news: false
 description: "There is a huge variety of products that need
   temperature-controlled shipping. Refrigerated shipping is a basis of regular
   delivery of consumer packaged goods. "
