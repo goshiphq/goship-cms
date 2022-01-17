@@ -11,7 +11,7 @@ intro: At GoShip.com, we believe in closely watching the shipping industry and
   was a particularly robust year in shipping, especially in the second half.
   Based on what we have seen in the industry during that time, and
 postedAt: 1528865113000
-news: true
+news: false
 description: Certain supply chain and logistics trends of 2018 will remain
   relevant and affect your business in the future.
 altText: freight shipping trends
