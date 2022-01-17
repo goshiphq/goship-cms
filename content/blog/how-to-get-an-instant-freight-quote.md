@@ -3,7 +3,7 @@ title: How To Get an Instant Freight Quote
 intro: In this guide, learn how freight marketplaces help individual shippers
   and small businesses can benefit from GoShip.com’s instant freight calculator.
 postedAt: "1642053621430"
-news: true
+news: false
 description: "Shipping doesn’t have to be complicated! With an instant freight
   quote, shippers can send out their deliveries ASAP. "
 keywords: freight quote, ltl quote, ftl quote
