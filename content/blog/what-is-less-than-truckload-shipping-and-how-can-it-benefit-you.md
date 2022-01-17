@@ -10,7 +10,7 @@ intro: >-
 
   LTL (less than truckload) shipping is a shipping method where your freight takes only a part of the carrier's truck. It is one of many logistics options, but unlike many other types, it offers the best solutions for small businesses and individual shippers. The point is that you share the truck capacity with other shippers and pay only for space you actually use. LTL shipping services are just the right balance between full truckload and parcel shipping. When you cho
 postedAt: 1553058005000
-news: true
+news: false
 description: LTL stands for less than truckload and is a shipping method where
   your LTL freight shipment takes only a part of the carrier's truck, instead of
   the whole space.
