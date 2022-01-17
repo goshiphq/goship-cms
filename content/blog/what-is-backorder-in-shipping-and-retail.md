@@ -3,7 +3,7 @@ title: What Is Backorder In Freight Shipping and Retail?
 intro: Generating backorders is an indicator that orders (demand) are far beyond
   what the store expected. But do stores really allow this to happen?
 postedAt: "1635224403893"
-news: true
+news: false
 description: Backorders may be an effect of poor planning, inaccurate
   forecasting, or maybe an unforeseeable rise in demand. Here are the main
   causes of backorders
