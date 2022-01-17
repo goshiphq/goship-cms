@@ -10,7 +10,7 @@ intro: Shipment security is an important aspect of the shipping process.
   packaging requirements to ensure that goods are adequately protected and can
   be handled and stowed in a manner that is reasonably safe and practica
 postedAt: 1560920434000
-news: true
+news: false
 description: The role of LTL freight packaging becomes even more important.
   Since your load is handled multiple times during the transit, it is more prone
   to damage.
