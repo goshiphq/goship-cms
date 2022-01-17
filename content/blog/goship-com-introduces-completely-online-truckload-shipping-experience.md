@@ -11,7 +11,7 @@ intro: PITTSBURGH (Sept. 24, 2019) – GoShip.com, an online freight shipping
   allows customers to receive an instant quote on their less-than-truckload and
   truckload shipments, all without speaking with a freight broker
 postedAt: 1569354858000
-news: true
+news: false
 description: GoShip online freight shipping service now offers instant truckload
   freight quotes and truckload shipping options through its online shipping
   platform.
