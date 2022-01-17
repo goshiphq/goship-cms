@@ -11,7 +11,7 @@ intro: Whether you are moving cross country, planning a relocation, or just
   much does it cost to ship furniture, and that’s why shippers seek affordable,
   reliable furniture shipping platforms. How much does it cost to
 postedAt: 1556686850000
-news: true
+news: false
 description: Whether you are furnisihing your house or office, planning a
   relocation, or just selling fitting pieces, shipping furniture cross country
   can appear quite challenging.
