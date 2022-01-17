@@ -7,7 +7,7 @@ intro: "Shipping can be a costly task that may put you off-budget, but there are
   fiftieth time, we have compiled a list for you to help you reduce shipping
   costs to a minimum. "
 postedAt: "1512545486000"
-news: true
+news: false
 description: Learn about the most effective ways to reduce your shipping costs
   without losing shipment quality and customer satisfaction.
 altText: shipper calculating shipping costs
