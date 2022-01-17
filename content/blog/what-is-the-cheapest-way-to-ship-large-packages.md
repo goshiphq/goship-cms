@@ -18,7 +18,7 @@ intro: >-
 
   It is not a surprise if you find large-item shipping pri
 postedAt: 1559710829000
-news: true
+news: false
 description: if you are a newcomer to the industry, you may find shipping prices
   confusing, especially when you need cheapest way to ship large packages.
 altText: Large package shipping
