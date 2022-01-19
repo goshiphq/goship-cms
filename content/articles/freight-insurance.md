@@ -1,5 +1,5 @@
 ---
-title: "Freight Insurance: Do I Need to Get Freight Insurance For My Shipment?"
+title: "Freight Insurance: Do I Need to Get Freight Insurance for My Shipment?"
 description: Freight insurance is an effective tool to make your shipments
   secure. Get reliable freight protection through insuring your items.
 keywords: freight insurance
