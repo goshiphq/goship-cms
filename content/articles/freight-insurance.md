@@ -1,9 +1,7 @@
 ---
-title: Freight Insurance
-description: We want our customers to have the best experience possible when
-  shipping with us, and that’s why we have freight insurance options available
-  to you to help guarantee your goods are covered in case of any unpredictable
-  circumstances.
+title: "Freight Insurance: Do I Need to Get Freight Insurance For My Shipment?"
+description: Freight insurance is an effective tool to make your shipments
+  secure. Get reliable freight protection through insuring your items.
 keywords: freight insurance
 ---
 Here at [GoShip.com](https://www.goship.com/), we know how important it is for your shipment to arrive safely to its destination. We want our customers to have the best experience possible when shipping with us, and that’s why we have freight insurance options available to you to help guarantee your goods are covered in case of any unpredictable circumstances.
