@@ -6,7 +6,7 @@ intro: Cross-border trade has become one of the main priorities for
   most important cross-border logistics trends of 2022 to help you get ready for
   straightforward shipping.
 postedAt: "1643007625211"
-news: true
+news: false
 description: Explore the new trends of cross-border logistics and get ready to
   effectively ship and grow your business in 2022.
 keywords: cross-border shipping 2022, how to ship cross-border in 2022,
