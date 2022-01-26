@@ -15,7 +15,7 @@ description: "Palletizing is one of the best packaging methods for any shipment
   type. Pallets do not only fixate and secure your cargo, but also keep the
   trailer space well-organized. "
 altText: shipping pallets
-image: images/goship-blog-6-.png
+image: images/goship-blog-3.jpg
 ---
 ## What is a wooden pallet?
 
