@@ -29,7 +29,7 @@ Shipment safety is an important concern when arranging the delivery. That's why 
 
 ## What is the difference between package and pallet shipping?
 
-A package is usually a cardboard box that smaller items are shipped in. This can range from clothing items to car tires. A package is simply a parcel in the form of a compact unit. However, for larger shipments, you will need more convenient protection. A pallet is normally used when you have multiple packages to ship at once. The standard size pallet is 48” x 40” and can normally hold about 4,600 lbs.
+A package is usually a cardboard box that smaller items are shipped. This can range from clothing items to car tires. A package is simply a parcel in the form of a compact unit. However, for larger shipments, you will need more convenient protection. A pallet is normally used when you have multiple packages to ship at once. The standard size pallet is 48” x 40” and can normally hold about 4,600 lbs.
 
 ## How do I know when to use a pallet?
 
