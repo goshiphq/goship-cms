@@ -12,8 +12,6 @@ keywords: ltl freight shipping, ltl freight, ltl shipping
 altText: ltl freight
 image: images/goship-blog-12-.png
 ---
-<!--StartFragment-->
-
 If you’re contemplating whether LTL makes sense for your business, the first thing we’d like to do is say is “congratulations!” Businesses, even the ones that are just starting out, have great potential for growth with LTL shipping.
 
 The switch from parcel shipping to LTL can cut back shipping costs and improve security and traceability. LTL shipping also offer more services for improved customer experience compared to FTL shipments.
@@ -109,5 +107,3 @@ We’ve got businesses covered with their shipping needs for:
 * Retail
 
 We work with some of the most reliable and affordable LTL carriers in the country. By using our [online calculator,](https://www.goship.com/) we’ll help you find a carrier that’s fit for your cargo type, location, and budget.
-
-<!--EndFragment-->
