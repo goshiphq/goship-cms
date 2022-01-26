@@ -33,7 +33,7 @@ A package is usually a cardboard box that smaller items are shipped in. This can
 
 ## How do I know when to use a pallet?
 
-Using a pallet is a smart choice when shipping using LTL and can help ease the loading and unloading process. Pallet shipping can be more expensive than package shipping but can ensure that your shipment gets delivered efficiently and safely to its destination. Choosing the wrong pallet for your shipment can lead to damages to the items you are having shipped. 
+Using a pallet is a smart choice when [shipping using LTL](https://www.goship.com/posts/palletizing-ltl-freight-everything-you-need-to-know) and can help ease the loading and unloading process. Pallet shipping can be more expensive than package shipping but can ensure that your shipment gets delivered efficiently and safely to its destination. Choosing the wrong pallet for your shipment can lead to damages to the items you are having shipped. 
 
 When choosing a pallet for your shipment, you want to choose one that is made of sturdy wood that can hold up the weight of your shipment and the freight that will be stacked on top of it. Pallet shipments are wrapped in a protective plastic film to further ensure the safety of your shipment. 
 
