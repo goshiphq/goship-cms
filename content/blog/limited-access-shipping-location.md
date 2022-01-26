@@ -36,8 +36,6 @@ Usually, delivery locations are considered limited access if loading and unloadi
 
 Limited access locations get their delivery restraints due to several common reasons. Most often, these places are unavailable for the general public during regular business hours or work according to a special schedule. In this case, you will have to make your delivery appointment in advance and inform the receiver about your arrival time. Beforehand appointments also apply to places with certain security restrictions, where you will have to spend some time going through security checks and inspections. Besides, some locations may be considered limited access because of their poor technical support or inability to accommodate certain kinds of trucks. You should also be aware of the specifics of shipping to [congested areas](https://www.goship.com/posts/how-port-congestion-will-affect-retailers-this-season) since their busy traffic can cause serious delivery delays.
 
-<!--StartFragment-->
-
 * Transportation bases (airports, stations, piers)
 * Religious organizations (cemeteries, churches)
 * Construction sites
