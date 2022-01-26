@@ -57,7 +57,7 @@ Determining small business shipping costs can be tricky, as it is connected to 
 
 ## Benefits of LTL shipping for small business
 
-It is recommended to pay attention to the most prevalent shipping modes you might be using for your transportation needs. LTL carriers consolidate multiple shipments from different companies onto the same truck. This allows businesses to transport their goods affordably and quickly, even when they don't have enough items to fill an entire trailer. Using LTL gives customers the opportunity to receive automatic tracking alerts and thus stay updated on the load's actual location. By working with LTL carriers, retailers can gain numerous benefits, such as: 
+It is recommended to pay attention to the most prevalent shipping modes you might be using for your transportation needs. LTL carriers consolidate multiple shipments from different companies onto the same truck. This allows businesses to transport their goods affordably and quickly, even when they don't have enough items to fill an entire trailer. Using [less than truckload](https://www.goship.com/posts/ltl-freight-shipping-for-beginners) shipping mode gives customers the opportunity to receive automatic tracking alerts and thus stay updated on the load's actual location. By working with LTL carriers, retailers can gain numerous benefits, such as: 
 
 * **Reduced costs:** because trailers are filled with multiple loads, each retailer only pays for the capacity it actually uses. This means participating companies don't pay for the space they don't need.
 * **Greater efficiency:** with the power of this method behind them, businesses in the retailing sector can streamline their operations. They can avoid needless air freights, chargebacks, and noncompliance fees that can bog down their logistics. This results in better scorecard performance across the board.
@@ -66,7 +66,7 @@ It is recommended to pay attention to the most prevalent shipping modes you migh
 
 ## Benefits of FTL shipping for small business
 
-Full truckload freight shipping is a convenient and most common way of shipping freight over the road. If you have enough freight to fill a 48 ft truck trailer, full truckload shipping can be a beneficial option for your business. Here are a few benefits of full truckload shipping for retail logistics:
+[Full truckload](https://www.goship.com/posts/when-should-you-switch-to-full-truckload-shipping) freight shipping is a convenient and most common way of shipping freight over the road. If you have enough freight to fill a 48 ft truck trailer, full truckload shipping can be a beneficial option for your business. Here are a few benefits of full truckload shipping for retail logistics:
 
 * **Faster transit times.** Since truckload trucks are dedicated to just your freight, it is likely that FTL loads will reach the destination faster than LTL ones. There are no transit stops in truckload shipping, which also makes it faster.
 * **Reliability.** No stops during transit lead to less freight handling, which reduces the risk of freight damage, theft, or loss.
