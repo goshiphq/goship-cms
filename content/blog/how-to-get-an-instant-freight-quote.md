@@ -6,12 +6,10 @@ postedAt: "1642053621430"
 news: false
 description: "Shipping doesn’t have to be complicated! With an instant freight
   quote, shippers can send out their deliveries ASAP. "
-keywords: freight quote, ltl quote, ftl quote
+keywords: instant freight quote, ltl quote, ftl quote
 altText: freight quote
 image: images/goship-blog-62-.png
 ---
-<!--StartFragment-->
-
 Shipping doesn’t have to be complicated! With an instant freight quote, shippers can send out their deliveries ASAP. 
 
 There’s no need to call and email multiple carriers and brokers to ask for quotes. Eliminate the need for tiresome back and forth negotiations just to get a reasonable rate.
@@ -171,5 +169,3 @@ Shipping can be expensive for many small businesses because they don’t have en
 Do your business a favor by making informed decisions about your shipping strategy.
 
 By using instant calculators from trusted online freight marketplaces like [GoShip.com](http://goship.com), you can take advantage of new technologies that give you accurate and guaranteed booking rates from top shipping carriers.
-
-<!--EndFragment-->
