@@ -15,9 +15,9 @@ news: false
 description: Building a sustainable strategy and switching to eco-friendly
   packaging can have an extremely beneficial impact on your business.
 altText: "woman choosing eco-friendly packaging "
-image: images/goship-blog-7-.png
+image: images/goship-blog-.jpg
 ---
-They say that you should never judge a book by its cover. However, business owners are aware of how critical product packaging is to customer satisfaction. It is likely to be the first physical encounter your customers have with your brand and sets the tone for the customer’s perception of your brand. With the skyrocketing online shopping demands due to COVID-19, eye-catching plastic packaging waste has unfortunately become a serious environmental issue which has become a rising concern among consumers in recent years.   Fortunately, sustainable and eco-friendly packaging that is just as beneficial for Mother Earth as it is for your business, is becoming more accessible!  
+They say that you should never judge a book by its cover. However, business owners are aware of how critical product packaging is to customer satisfaction. It is likely to be the first physical encounter your customers have with your brand and sets the tone for the customer’s perception of your brand. With the skyrocketing online shopping demands due to COVID-19, eye-catching plastic packaging waste has unfortunately become a serious environmental issue that has become a rising concern among consumers in recent years.   Fortunately, sustainable and eco-friendly packaging that is just as beneficial for Mother Earth as it is for your business, is becoming more accessible!  
 
 ## What is eco-friendly packaging? 
 
@@ -31,7 +31,7 @@ Put simply, eco-friendly packaging is sustainable for the environment and consum
 
 ## What are the benefits of eco-friendly packaging?
 
-Over the years, [plastic packaging](https://www.theguardian.com/environment/2019/may/15/single-use-plastics-a-serious-climate-change-hazard-study-warns) (including bubble wrap and packets) has helped businesses make deliveries more secure and efficient. However, did you know that it can take 1,000 years for plastic to break down completely? In a span of almost 70 years, not even [10% of the world’s plastic waste](https://ourworldindata.org/faq-on-plastics#how-much-of-global-plastic-is-recycled) was recycled.    Aside from the critical responsibility of businesses and eCommerce to address the plastic problem, here is how sustainable packaging can help the planet and your business:  
+Over the years, [plastic packaging](https://www.theguardian.com/environment/2019/may/15/single-use-plastics-a-serious-climate-change-hazard-study-warns) (including bubble wrap and packets) has helped businesses make deliveries more secure and efficient. However, did you know that it can take 1,000 years for plastic to break down completely? In a span of almost 70 years, not even [10% of the world’s plastic waste](https://ourworldindata.org/faq-on-plastics#how-much-of-global-plastic-is-recycled) was recycled. Aside from the critical responsibility of businesses and eCommerce to address the plastic problem, here is how sustainable packaging can help the planet and your business:  
 
 * Biodegradable and recyclable packaging are easy to reuse and dispose of. 
 * Only use renewable, organic, and natural raw material for production. 
