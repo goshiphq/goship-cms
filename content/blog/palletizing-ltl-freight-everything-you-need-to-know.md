@@ -9,7 +9,8 @@ intro: Palletizing LTL freight can help reduce overall shipping costs, since a
 postedAt: 1550034002000
 news: false
 description: Palletizing LTL freight can help reduce your overall shipping
-  costs, regardless of the number of packages you put on a pallet.
+  costs, regardless of the number of packages you move. Palletized freight will
+  guarantee secure shipping and moderate expenses.
 altText: Palletizing LTL freight
 image: images/copy-of-goship-blog-10-.png
 ---
