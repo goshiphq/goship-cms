@@ -1,6 +1,6 @@
 ---
 keywords: palletized, how to palletize freight, how to palletize shipping,
-  palletizing, shipping costs, palletizing LTL freight, pallets
+  palletizing LTL freight, shipping pallets
 author: GoShip Admin
 title: "Palletizing LTL Freight: Everything You Need to Know"
 intro: Palletizing LTL freight can help reduce overall shipping costs, since a
