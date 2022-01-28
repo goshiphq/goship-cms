@@ -23,8 +23,6 @@ Thankfully, there are [online freight shipping marketplaces](http://www.goship.c
 
 To learn more about dry van services and quotes, keep reading!
 
-
-
 ## What Is a Dry Van Trailer?
 
 Dry vans are standard non-temperature controlled trailers, measuring:
@@ -37,21 +35,15 @@ Standard dry van trailers can haul a total of 45,000 pounds.
 
 Dry van freight is typically loaded in boxes or pallets or otherwise secured within the truck. Standard 53-foot dry van trailers carry 26 pallets.
 
-Because of their versatility, dry vans are ideal for almost all types of shipment of goods and equipment that meet size and weight limitations. 
-
-
+Because of their versatility, [dry vans](https://www.goship.com/posts/what-is-dry-van-shipping) are ideal for almost all types of shipment of goods and equipment that meet size and weight limitations. 
 
 ### Full Truckload (FTL) Dry Van Shipping
 
 FTL dry van shipments are hauled in a dedicated trailer. Although FTL means covering the costs of the entire trucking service, shippers get the advantage of on-time pickup and delivery.
 
-
-
 ### Less-than-Truckload (LTL) Dry Van Shipping
 
 LTL shipments require only partial floor space, making it an efficient, energy-saving, and cost-effective alternative to FTL if you don’t have enough freight for a full truckload.
-
-
 
 ## What Are the Key Factors Behind Dry Van Quotes?
 
@@ -69,8 +61,6 @@ Traveling through a busier lane with potentially more deliveries, such as highwa
 
 A shipment that requires deadheading, or traveling without a trailer, also drives up dry van quotes. This is usually when drivers need to get to a remote location just to make a single delivery.
 
-
-
 ### Trucking Supply and Demand
 
 Demand for transportation is heavily influenced by the produce season, which starts in spring and ends in early summer. Shippers in the food industry are advised to plan their dry van shipments around this season, as higher demand equates to higher rates.
@@ -79,23 +69,17 @@ Supply in dry van shipping refers to truck and driver capacity. The fewer trucks
 
 While this factor is more difficult to mitigate, some shippers opt for contracted rates to avoid sizable dry van rate fluctuations.
 
-
-
 ### Freight Description and Dimensions
 
 The general rule with dry van shipping is the higher the weight and density of the freight, the higher the quote will be.
 
 Especially if you’re shipping freight by truckloads, condensing your packages to take up less space can mean massive savings.
 
-
-
 ### Rare Events
 
 Dry van freight rates are also affected by unique events, such as natural disasters that cause warehouses, factories, and even roads to close down.
 
 In this case, it’s essential to partner with reliable and experienced providers that have the right tools for flexible and affordable shipments. 
-
-
 
 ## The Best Way  to Get a Dry Van Quote
 
