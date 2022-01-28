@@ -71,7 +71,7 @@ Most flatbed trailers are 58-inches high. 
 
 ### Dry Van 
 
-Most shippers prefer this method because of its high availability and affordability. However, dry vans are vulnerable to moisture and temperature issues.
+Most shippers prefer this method because of its [high availability and affordability](https://www.goship.com/posts/what-is-dry-van-shipping). However, dry vans are vulnerable to moisture and temperature issues.
 
 ### **Flatbed**
 
