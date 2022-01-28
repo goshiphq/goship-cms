@@ -27,10 +27,9 @@ description: Consider the most reasonable freight shipping improvements to
 altText: preparing LTL shipment
 image: images/goship-blog-16-.png
 ---
-Shipping efficiency provides a double benefit for both the carrier and the shipper. Knowing how to maximize your efficiency as a shipper will accelerate all future shipments. As a shipper, reducing your cost and time spent is important. Simply by choosing the right shipping methods, you will increase LTL efficiency.
+Shipping efficiency provides a double benefit for both the carrier and the shipper. Knowing how to maximize your efficiency as a shipper will accelerate all future shipments. As a shipper, reducing your cost and time spent is important. Simply by choosing the right shipping methods, you will increase [LTL efficiency](https://www.goship.com/posts/how-to-make-ltl-shipping-easy).
 
-The next time you plan to ship LTL, consider these improvements:
-----------------------------------------------------------------
+## The next time you plan to ship LTL, consider these improvements:
 
 ### **Ship from an ideal location**
 
@@ -40,7 +39,7 @@ Shipping close to a metropolitan area reduces the likelihood of delayed freight 
 
 Giving your carrier more time to move your freight will save you money, simple, right?
 
-### **Palatalize your loads**
+### **Palletize your loads**
 
 Pallets not only keep your freight secure, but they also keep costs low. Pallets will be easy and fast for your carrier to load. Also, if your pallet can be stacked, it becomes a space saver.
 
