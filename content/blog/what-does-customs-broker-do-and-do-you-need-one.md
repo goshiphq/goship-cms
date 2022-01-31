@@ -40,7 +40,7 @@ Many businesses that plan shipping overseas, are extermely worried about unexpec
 
 Running cross-border trade by yourself can appear really exhausting and [time-consuming](https://www.goship.com/posts/tips-saving-time-freight-shipping). Hiring a customs broker is fairly beneficial if you want your international shipping to take off with no interruptions and thrive to stay focused on your core business operations.
 
-International shipping process can be unpredictable due to many details. If you don't have any previous experience in submitting paperwork to customs, it is better to get the professional support. Qualified customs brokers will get you familiar with all the shipping regulations and resolve miscommunications that sometimes occur in terms of global trade.
+International shipping process can be unpredictable due to many details. If you don't have any previous experience in [submitting paperwork](https://www.goship.com/posts/what-is-an-embargo-in-freight-shipping) to customs, it is better to get the professional support. Qualified customs brokers will get you familiar with all the shipping regulations and resolve miscommunications that sometimes occur in terms of global trade.
 
 ## **Where Do I Find Customs Brokers?**
 
