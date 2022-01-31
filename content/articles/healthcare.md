@@ -74,7 +74,7 @@ Internal packaging is equally important for safe pharmaceutical shipment. To sto
 
 ### Liquid pharmaceuticals
 
-Shipping liquids. Since [liquid](https://www.goship.com/posts/step-by-step-guide-how-to-ship-liquids-1) pharmacy substances are often bottled, it is essential to follow a certain sequence while packing them. To keep the medicines from leaking, seal the bottles into bags or wrap them with bubble film. When placing bottles inside the box, verify you’ve taken up the extra space with void fillers like foam or packing peanuts. Often shippers use the method of double-boxing to exclude vibrations and oscillations during movement. If you decide to apply double-boxing, make sure the outer box is also bulked with inner fillers. 
+Shipping liquids. Since [liquid](https://www.goship.com/food-beverage) pharmacy substances are often bottled, it is essential to follow a certain sequence while packing them. To keep the medicines from leaking, seal the bottles into bags or wrap them with bubble film. When placing bottles inside the box, verify you’ve taken up the extra space with void fillers like foam or packing peanuts. Often shippers use the method of double-boxing to exclude vibrations and oscillations during movement. If you decide to apply double-boxing, make sure the outer box is also bulked with inner fillers. 
 
 While finally sealing the box, do not forget to place the “Fragile” stamp on top.
 
