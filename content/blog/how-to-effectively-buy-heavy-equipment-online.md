@@ -36,4 +36,4 @@ Once you have it narrowed down to a few options, look carefully at the seller an
 
 ### 4. Equipment shipping
 
-Last but not least, transportation plays a crucial role in equipment buying and selling. This is the final step of the purchase, and arranging a reliable and safe shipping process is essential. To make your shipping experience better, work with specialized services or platforms that understand the intricacies of [heavy equipment shipping](https://www.goship.com/blog/how-do-you-ship-heavy-equipment/).
+Last but not least, transportation plays a crucial role in equipment buying and selling. This is the final step of the purchase, and arranging a reliable and safe shipping process is essential. To make your shipping experience better, work with specialized services or platforms that understand the intricacies of [heavy equipment shipping](https://www.goship.com/blog/how-to-ship-heavy-equipment).
