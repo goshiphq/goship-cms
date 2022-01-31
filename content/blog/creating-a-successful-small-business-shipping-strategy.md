@@ -27,7 +27,7 @@ If you are just starting a business, or don’t have a large budget, you can par
 
 ### Use shipping technology
 
-It’s impossible these days to run a business without using any sort of technology. There are plenty of solutions for shipping software, or small business customer management systems, which let you integrate other services and tools you are using for shipping. With good software, you can keep all the orders, shipments and [returns](https://www.goship.com/blog/reverse-logistics-how-to-handle-e-commerce-returns/) in one place, and efficiently analyze and monitor all processes. Through a tech tool, you can define gaps or weak spots in your supply chain and effectively eliminate the disruptions.
+It’s impossible these days to run a business without using any sort of technology. There are plenty of solutions for shipping software, or small business customer management systems, which let you integrate other services and tools you are using for shipping. With good software, you can keep all the orders, shipments and [returns](https://www.goship.com/blog/how-to-increase-customer-loyalty-through-returns) in one place, and efficiently analyze and monitor all processes. Through a tech tool, you can define gaps or weak spots in your supply chain and effectively eliminate the disruptions.
 
 ### Utilize a shipping platform
 
