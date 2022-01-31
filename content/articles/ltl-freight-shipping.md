@@ -102,7 +102,7 @@ Proper packaging is crucial for LTL freight shipping. LTL shipments are handled 
 
 ## LTL vs FTL: What is the difference between LTL shipping and FTL shipping? 
 
-There is a [difference](https://www.goship.com/posts/what-is-the-difference-between-an-ltl-and-ftl-freight-quote) between less-than-truckload (LTL) and full truckload (FTL) shipping. In LTL shipping, your freight does not take an entire space in the trailer. Also, there are other shipments from different shippers combined with your freight. Basically, in LTL, you share the truck space with other shippers. In full truckload, you pay and use the entire freight trailer, even if it does not necessarily full. 
+There is a difference between less-than-truckload (LTL) and full truckload (FTL) shipping. In LTL shipping, your freight does not take an entire space in the trailer. Also, there are other shipments from different shippers combined with your freight. Basically, in LTL, you share the truck space with other shippers. In full truckload, you pay and use the entire freight trailer, even if it does not necessarily full. 
 
 ## Benefits of LTL freight shipping with GoShip.com 
 
