@@ -15,7 +15,7 @@ image: images/copy-of-goship-blog-9-.png
 ---
 # Shipping large and oversize packages
 
-The market today offers numerous transportation options to shippers. However, if you are a newcomer to the industry, you may find shipping prices confusing, especially when you need to ship large items. If your shipment is heavier than 70 lbs, it may be difficult to find the cheapest way to ship large packages. If you want to ship appliances, machinery, or a large volume of goods, it's likely that your shipment won’t fit into standard parcel shipping. There are many reliable and affordable [shipping platforms](https://www.goship.com/blog/top-3-benefits-of-using-an-online-shipping-solution/) that can be helpful.
+The market today offers numerous transportation options to shippers. However, if you are a newcomer to the industry, you may find shipping prices confusing, especially when you need to ship large items. If your shipment is heavier than 70 lbs, it may be difficult to find the cheapest way to ship large packages. If you want to ship appliances, machinery, or a large volume of goods, it's likely that your shipment won’t fit into standard parcel shipping. There are many reliable and affordable [shipping platforms](https://www.goship.com/posts/benefits-of-using-an-online-shipping-service) that can be helpful.
 
 ## What is a large shipment? What is the difference between parcel and freight shipping?
 
