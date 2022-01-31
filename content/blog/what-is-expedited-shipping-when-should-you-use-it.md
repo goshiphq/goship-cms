@@ -37,9 +37,9 @@ But if you’re tight on the budget, this service is not for usage on a daily ba
 
 ## Who uses expedited shipping?
 
-Basically, everyone who has a time-sensitive LTL shipment can use expedited services. Whether you are a [business](https://www.goship.com/shipping-services/small-business-shipping/) or an individual shipper, expedited can become a practical solution for your logistics needs. There are no limits in terms of distance and freight volume. You can ship from several pallets to a full truckload.  Usually, expedited shipping is common within the industries that often need last-minute shipments to keep processes running. [](https://www.goship.com/shipping-services/ltl-shipping-for-retail-logistics/)
+Basically, everyone who has a time-sensitive LTL shipment can use expedited services. Whether you are a [business](https://www.goship.com/shipping-services/small-business-shipping/) or an individual shipper, expedited can become a practical solution for your logistics needs. There are no limits in terms of distance and freight volume. You can ship from several pallets to a full truckload.  Usually, expedited shipping is common within the industries that often need last-minute shipments to keep processes running. [](https://www.goship.com/shipping-services/small-business-shipping)
 
-[E-commerce companies](https://www.goship.com/shipping-services/ltl-shipping-for-retail-logistics/) see the spike of last-minute, urgent orders during the holiday season. Medical structures often need a prompt supply to save somebody’s life. The oil and gas industry relies on expedited freight services to move important drilling equipment. However, usage of the service is certainly not limited to these industries - anyone can ship expedited.
+[E-commerce companies](https://www.goship.com/shipping-services/small-business-shipping) see the spike of last-minute, urgent orders during the holiday season. Medical structures often need a prompt supply to save somebody’s life. The oil and gas industry relies on expedited freight services to move important drilling equipment. However, usage of the service is certainly not limited to these industries - anyone can ship expedited.
 
 ## LTL Shipping with GoShip.com
 
