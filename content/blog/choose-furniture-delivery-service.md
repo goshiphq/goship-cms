@@ -34,4 +34,4 @@ Often overlooked by shippers, goods protection is a critical factor that lets yo
 
 ## **Ship furniture with GoShip!**
 
-GoShip offers an affordable and reliable **[furniture delivery](https://www.goship.com/shipping-services/furniture-shipping/)** service. Our professional experience and network of [LTL shipping companies](https://www.goship.com/shipping-services/ltl-freight-shipping/) provide you with options that are cost-effective, time-saving, and easy to use.
+GoShip offers an affordable and reliable **[furniture delivery](https://www.goship.com/furniture)** service. Our professional experience and network of [LTL shipping companies](https://www.goship.com/shipping-services/ltl-freight-shipping/) provide you with options that are cost-effective, time-saving, and easy to use.
