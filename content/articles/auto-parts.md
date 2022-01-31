@@ -25,7 +25,7 @@ GoShip will help you to locate a carrier and calculate its cost in a matter of a
 
 ### Auto parts transport services
 
-The mode of transportation you can use for shipping auto parts mostly depends on the size of your cargo and any time constraints you have. Based on these criteria, the [two most prevalent methods for shipping](https://www.goship.com/blog/what-is-the-difference-between-an-ltl-and-ftl-freight-quote/) auto parts are :
+The mode of transportation you can use for shipping auto parts mostly depends on the size of your cargo and any time constraints you have. Based on these criteria, the two most prevalent methods for shipping auto parts are :
 
 * Full truckload (FTL) shipments use the entire truck for your freight only. FTL shipments typically provide a 48-foot trailer and can transport up to 45,000 lbs. This transit type also excludes any additional stops and delivers your cargo straight to the destination point.
 * Less than truckload (LTL) shipments share the truck with other shippers for a reduced expense. Usually, LTL shipments are limited to 20,000 lbs or up to six pallets. LTL freight often takes longer because it includes many stops for delivering other shippers’ goods.
