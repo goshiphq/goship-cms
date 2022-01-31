@@ -24,7 +24,7 @@ Throughout the COVID-19 pandemic, e-commerce skyrocketed, and buyers transit
 
 The first thing that buyers look for in shipping is expediency. The longer the wait time, the less likely the customer will purchase again. With GoShip, we have a feature that allows shippers to track freight, estimate arrival times, and provide constant updates on the shipping process, giving your customers peace of mind knowing that their package is safe and on its way. 
 
-The other key factor in shipping for e-commerce companies is cost. Pricing plays a major role in choosing the right shipping company for most shippers. With most of the world going digital and skyrocketing e-commerce shipping demand, GoShip's [quoting tool](https://www.goship.com/faq/ltl-quote/) helps to find the best shipping deal that best suits your budget. Whether you're looking for a quick, one-time shipment or a long-term shipping contract, GoShip can help you find the best deal for your company. 
+The other key factor in shipping for e-commerce companies is cost. Pricing plays a major role in choosing the right shipping company for most shippers. With most of the world going digital and skyrocketing e-commerce shipping demand, GoShip's [quoting tool](https://www.goship.com/shipping-services/quote-ltl) helps to find the best shipping deal that best suits your budget. Whether you're looking for a quick, one-time shipment or a long-term shipping contract, GoShip can help you find the best deal for your company. 
 
 ![Ecommerce business owner reviewing shipping label before packing shoes](images/goship-website-image-template-1024-x-768-px-14-.png "Packing Ecommerce Order")
 
@@ -97,7 +97,7 @@ When considering a full truckload for the shipment of your item or items, first
 
 [eBay](https://www.ebay.com/) is a multi-billion e-commerce company where businesses or private sellers go to sell their products. The e-commerce industry has taken over a major part of the business world, which has allowed eBay to grow rapidly over the past few years. But while eBay has grown tremendously in size and reach as a marketplace, a key component of your experience—shipping—is out of their hands. 
 
-At GoShip, we always set our customer's needs as our top priority. We can help with all your shipping needs with our wide variety of carriers and rates, and our trusty team of support providers. No matter if it's a one-time shipment, or you're a business selling your products to a variety of customers, at GoShip our easy [Get a Quote](https://www.goship.com/faq/ltl-quote/) feature allows people to quickly fill out a form, and receive a quote from a variety of carriers in minutes. Instead of handling shipping on your own through eBay's shipping system, let us at GoShip handle all your shipping needs and find the best rate that suits your companies or individual needs. 
+At GoShip, we always set our customer's needs as our top priority. We can help with all your shipping needs with our wide variety of carriers and rates, and our trusty team of support providers. No matter if it's a one-time shipment, or you're a business selling your products to a variety of customers, at GoShip our easy [Get a Quote](https://www.goship.com/shipping-services/quote-ltl) feature allows people to quickly fill out a form, and receive a quote from a variety of carriers in minutes. Instead of handling shipping on your own through eBay's shipping system, let us at GoShip handle all your shipping needs and find the best rate that suits your companies or individual needs. 
 
 ![Ecommerce business owner talking on phone while packing orders](images/goship-website-image-template-1024-x-768-px-16-.png "Shipping eBay Orders")
 
@@ -117,7 +117,7 @@ When moving freight through GoShip, Etsy shippers can get quotes from a range of
 
 ### Etsy Shipping Calculator 
 
-Whether you’re selling or buying items on [Etsy](https://www.etsy.com/), you are probably interested in how much does the shipping cost. The final cost of shipping is defined by many different factors, including shipment size, weight, dimensions, type of commodity, destination, and type of transportation. Luckily, it is easy to calculate the approximate cost of shipping with GoShip’s easy-to-use [shipping calculator](https://www.goship.com/faq/ltl-quote/).  
+Whether you’re selling or buying items on [Etsy](https://www.etsy.com/), you are probably interested in how much does the shipping cost. The final cost of shipping is defined by many different factors, including shipment size, weight, dimensions, type of commodity, destination, and type of transportation. Luckily, it is easy to calculate the approximate cost of shipping with GoShip’s easy-to-use [shipping calculator](https://www.goship.com/shipping-services/quote-ltl).  
 
 Our pricing tool lets you get an immediate estimate and compare shipping rates from multiple freight carriers in real-time. All you do is fill in the information about your shipment in the online form, and the tool will calculate your estimate in seconds. It is important to give accurate data about your goods to increase the preciseness of the price estimate.  
 
