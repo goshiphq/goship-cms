@@ -33,7 +33,7 @@ In full truckload, the entire truck capacity, and the driver, are committed to y
 
 ### Cost-efficient
 
-Since truckload pricing is mostly based on mileage, it can be cost-efficient. The more you ship, the lower the cost per pound is, regardless of the freight type. Often, FTL can even become more economical than [LTL shipping](https://www.goship.com/what-is-ltl-shipping/).
+Since truckload pricing is mostly based on mileage, it can be cost-efficient. The more you ship, the lower the cost per pound is, regardless of the freight type. Often, FTL can even become more economical than [LTL shipping](https://www.goship.com/shipping-services/ltl-freight-shipping).
 
 ### Safety
 
