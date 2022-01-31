@@ -41,7 +41,7 @@ A vendor chargeback is a fee that the retailer assigns to the supplier for faili
 
 ### Lost sales
 
-In most cases, failed delivery means lost sales or the need to manage back order. Every time this happens, the company loses money on customers and [reverse logistics](https://www.goship.com/blog/reverse-logistics-how-to-handle-e-commerce-returns/). Apart from costs, this also does damage to the company’s reputation and results in increased spends on [customer support](https://www.goship.com/blog/how-to-improve-your-customers-experience-through-shipping/) and retention.
+In most cases, failed delivery means lost sales or the need to manage back order. Every time this happens, the company loses money on customers and [reverse logistics](https://www.goship.com/blog/how-to-increase-customer-loyalty-through-returns). Apart from costs, this also does damage to the company’s reputation and results in increased spends on [customer support](https://www.goship.com/blog/how-to-improve-your-customers-experience-through-shipping/) and retention.
 
 ### Increased inbound costs
 
