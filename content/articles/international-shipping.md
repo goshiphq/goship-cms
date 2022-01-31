@@ -5,8 +5,6 @@ description: International freight shipping can incredibly help you grow your
   business. Start shipping to Canada today!
 keywords: international freight shipping, how to ship to Canada, shipping to Canada
 ---
-
-
 # International shipping
 
 No matter the industry you work in, international freight shipping is one of the most powerful means of expanding and boosting your business. Along with the rapid development of global marketplaces and digital shopping, international delivery becomes more and more profitable for national economics. Complicated at a first sight, international freight shipping is all about advanced planning and learning the necessary information. 
@@ -58,7 +56,7 @@ If you are ready to learn international rules and manage the paperwork on your o
 
 The choice of a customs broker mainly depends on the scale of your transit. In case you are planning a moderate international shipment or looking for a starting point for moving goods overseas, you may accept an offer of using a customs broker recommended by the freight shipping company you work with. On the other hand, larger shipments are usually supervised by companies like UPS or FedEx which provide their own customs brokers. 
 
-Along with growing import and export volumes, the role of the customs brokers in international shipping has extended. Nowadays, they offer a wide range of services like business analytics, exploring new trade markets, developing product lines, etc. Also, customs brokers gradually digitalize their operations to streamline the communication with the customers and shippers. 
+Along with growing import and export volumes, [the role of the customs brokers](https://www.goship.com/posts/what-does-customs-broker-do-and-do-you-need-one) in international shipping has extended. Nowadays, they offer a wide range of services like business analytics, exploring new trade markets, developing product lines, etc. Also, customs brokers gradually digitalize their operations to streamline the communication with the customers and shippers. 
 
 ## International shipping rates: how much is international shipping?
 
