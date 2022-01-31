@@ -38,7 +38,7 @@ The bill of lading, or BOL, is the most important document in freight shipping. 
 
 ### LTL/FTL
 
-There are two primary shipping modes in trucking: [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) (LTL) and [full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) (FTL). There are many [differences](https://www.goship.com/ftl-vs-ltl/) between these two modes, but the main one is that in LTL shipping, you only use a part of a trailer’s space, while in full truckload your freight takes the entire capacity. LTL and FTL also have different pricing mechanisms because, in less-than-truckload shipping, the rate is mostly defined by the shipment’s destiny. 
+There are two primary shipping modes in trucking: [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/) (LTL) and [full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) (FTL). There are many differences between these two modes, but the main one is that in LTL shipping, you only use a part of a trailer’s space, while in full truckload your freight takes the entire capacity. LTL and FTL also have different pricing mechanisms because, in less-than-truckload shipping, the rate is mostly defined by the shipment’s destiny. 
 
 ### Freight class
 
