@@ -37,7 +37,7 @@ There are five essential parts in the process of shipping freight internationall
 
 ### Information
 
-Essentially, you will be working with the customs broker, who will assist you with paperwork. However, it is your responsibility to collect and provide [accurate information](https://www.goship.com/blog/how-to-measure-your-freight-shipment-properly/) about your shipment. Weight, dimensions, value, classes, or anything that is needed for transportation and customs clearance must be correct.
+Essentially, you will be working with the customs broker, who will assist you with paperwork. However, it is your responsibility to collect and provide [accurate information](https://www.goship.com/blog/how-to-measure-your-freight-shipment-properly/) about your shipment. Weight, dimensions, value, classes, [possible restrictions](https://www.goship.com/posts/what-is-an-embargo-in-freight-shipping), or anything that is needed for transportation and customs clearance must be correct.
 
 ### Customs broker
 
