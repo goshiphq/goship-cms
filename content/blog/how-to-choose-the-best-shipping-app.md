@@ -25,7 +25,7 @@ Choosing a good shipping app can be a challenge with so many companies in the ma
 
 ### Services and features
 
-Make sure to check if the company's app provides the services you need for your shipping. Some shipping apps offer services only connected to parcel shipping or label printing, where others offer freight shipping options for larger than parcel items. For the freight shipping apps, there are a variety of shipping services you can use through it, including [truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/), [LTL](https://www.goship.com/shipping-services/ltl-freight-shipping/), [expedited](https://www.goship.com/blog/what-is-expedited-shipping-when-should-you-use-it/), free quoting, additional services, [insurance](https://www.goship.com/shipping-services/freight-insurance/), updates and tracking, etc.
+Make sure to check if the company's app provides the services you need for your shipping. Some shipping apps offer services only connected to parcel shipping or label printing, where others offer freight shipping options for larger than parcel items. For the freight shipping apps, there are a variety of shipping services you can use through it, including [truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/), [LTL](https://www.goship.com/shipping-services/ltl-freight-shipping/), [expedited](https://www.goship.com/blog/what-is-expedited-shipping-when-should-you-use-it/), free quoting, additional services, [insurance](https://www.goship.com/resources/freight-insurance), updates and tracking, etc.
 
 ### Price
 
