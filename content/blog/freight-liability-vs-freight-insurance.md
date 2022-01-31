@@ -57,4 +57,4 @@ Freight insurance is almost always set up through a third party. Normally, you s
 * Remember – you will have to show proof of value and proof of loss.
 * Claims that are filed through insurance will usually be paid out within 30 days of submission.
 
-Dealing with freight damages is very frustrating and sometimes unavoidable. Make sure you build a good relationship with the carrier that you choose for your shipment. For information about our claims process, [click here](https://www.goship.com/claim/).
+Dealing with freight damages is very frustrating and sometimes unavoidable. Make sure you build a good relationship with the carrier that you choose for your shipment. For information about our claims process, [click here](https://www.goship.com/claims/).
