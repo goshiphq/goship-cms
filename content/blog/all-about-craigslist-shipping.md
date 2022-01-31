@@ -36,7 +36,7 @@ Large items are often too large for regular parcel shipping companies, and the p
 **How to arrange a Craigslist shipping?**
 -----------------------------------------
 
-Thanks to advanced technology, you don’t have to go through stressful operations to manage your shipment. There are online shipping services like GoShip.com where you can fill in the basic information about your item and choose the transportation option online. Larger shipments may require more complex processes, but with services like GoShip.com, booking a shipment goes as smooth as possible. We [pair](https://www.goship.com/shipping-services/craigslist-shipping/) you with carriers that best fit your budget and schedule. With GoShip.com, everything is completed online and you can easily [track](https://www.goship.com/blog/3-benefits-of-shipment-tracking/) your shipment’s every move.
+Thanks to advanced technology, you don’t have to go through stressful operations to manage your shipment. There are online shipping services like GoShip.com where you can fill in the basic information about your item and choose the transportation option online. Larger shipments may require more complex processes, but with services like GoShip.com, booking a shipment goes as smooth as possible. We pair you with carriers that best fit your budget and schedule. With GoShip.com, everything is completed online and you can easily [track](https://www.goship.com/blog/3-benefits-of-shipment-tracking/) your shipment’s every move.
 
 **What do I have to take care of?**
 -----------------------------------
