@@ -24,7 +24,7 @@ GoShip offers heavy equipment and machinery shipping services as we work with�
 
 ### Cost to Ship Heavy Equipment 
 
-[Shipping heavy and large materials](https://www.goship.com/shipping-services/large-item-shipping/) is always a hassle, but with GoShip's [quoting feature](https://www.goship.com/faq/truckload-quote/), shipping has never been easier. Some of the factors that affect the price of shipping are the number of materials being shipping, the weight and dimensions of the materials, the destination, and the shipping service you choose. The easiest way to find out how much a shipment would cost is to fill out the Get a Quote form and find prices from a variety of carriers that best fit within your budget.  
+[Shipping heavy and large materials](https://www.goship.com/shipping-services/large-item-shipping/) is always a hassle, but with GoShip's [quoting feature]( https://www.goship.com/shipping-services/quote-ftl), shipping has never been easier. Some of the factors that affect the price of shipping are the number of materials being shipping, the weight and dimensions of the materials, the destination, and the shipping service you choose. The easiest way to find out how much a shipment would cost is to fill out the Get a Quote form and find prices from a variety of carriers that best fit within your budget.  
 
 ## Machinery Transport 
 
