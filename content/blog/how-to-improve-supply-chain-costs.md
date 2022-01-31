@@ -39,7 +39,7 @@ Setting future goals and seeing how your performance stack up to them is a great
 
 ### **Outsourcing**
 
-Many businesses outsource some aspect of their supply chain operations, so don’t feel left out. Sometimes the cost of doing something in-house is greater than using someone else’s services. By creating a healthy relationship with a company whose services, you choose to use, both parties will [enjoy the rewards](https://www.goship.com/blog/bets-ltl-shipping-rates/) of profit by helping each other to achieve their goals. Take shipping, for example, most businesses lack a team dedicated to moving their shipments between two points, so they look towards a partnering business who can do it for them.
+Many businesses outsource some aspect of their supply chain operations, so don’t feel left out. Sometimes the cost of doing something in-house is greater than using someone else’s services. By creating a healthy relationship with a company whose services, you choose to use, both parties will [enjoy the rewards](https://www.goship.com/blog/best-ltl-shipping-rates/) of profit by helping each other to achieve their goals. Take shipping, for example, most businesses lack a team dedicated to moving their shipments between two points, so they look towards a partnering business who can do it for them.
 
 Ship with GoShip.com
 --------------------
