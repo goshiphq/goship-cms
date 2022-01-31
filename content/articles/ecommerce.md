@@ -47,7 +47,7 @@ The trick is when additional factors, such as insurance, accessorials, or f
 
 So what do you do if your annual budget doesn't include adding a freight economist? Keep it simple. If your customers want low shipping costs, you find the path of least resistance to getting low shipping costs and passing the savings to your customers. 
 
-By leveraging tools like the [GoShip Get a Quote tool](https://www.goship.com/shipping-services/ltl-less-than-truckload-quote/), you can find wholesale pricing and guaranteed capacity for LTL or FTL shipments whenever and wherever you need it. In GoShip’s case, over 45,000 FTL carriers and all the major LTL networks are available, allowing you to compare rates, find the carrier that is the best fit for your freight, and protect those margins from rising buyer expectations. 
+By leveraging tools like the [GoShip Get a Quote tool](https://www.goship.com/shipping-services/quote-ltl), you can find wholesale pricing and guaranteed capacity for LTL or FTL shipments whenever and wherever you need it. In GoShip’s case, over 45,000 FTL carriers and all the major LTL networks are available, allowing you to compare rates, find the carrier that is the best fit for your freight, and protect those margins from rising buyer expectations. 
 
 ![Small business owner packing shirt to ship via ltl freight](images/ecommerce-business-owner-packing-shirt.jpg "Shipping Ecommerce Orders")
 
