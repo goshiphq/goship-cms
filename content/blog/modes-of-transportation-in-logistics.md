@@ -43,7 +43,7 @@ This option is the perfect solution for retail companies and light industries. E
 
 ### Trucking (Over-the-Road Shipping)
 
-Over-the-road transportation is the most popular, the most frequently used, and the most in-demand mode of transportation. It works for everyone, from individual shippers to large enterprises. Also, road transport comes with a wide variety of equipment and shipping modes. There are two main types of over-the-road transportation: [full truckload (FTL)](https://www.goship.com/blog/full-truckload-vs-less-than-truckload-what-is-the-difference/) and [less-than-truckload (LTL)](https://www.goship.com/blog/ltl-freight-shipping-for-beginners/). 
+Over-the-road transportation is the most popular, the most frequently used, and the most in-demand mode of transportation. It works for everyone, from individual shippers to large enterprises. Also, road transport comes with a wide variety of equipment and shipping modes. There are two main types of over-the-road transportation: full truckload (FTL) and [less-than-truckload (LTL)](https://www.goship.com/blog/ltl-freight-shipping-for-beginners/). 
 
 FTL shipping means that one shipper takes the entire truck capacity to move the freight. LTL shipping means several shippers share partial use of the trailer. There are also various types of trailers that serve different shipping needs: dry van, flatbed, refrigerated, etc. It is easy to get a freight quote from the [carrier](https://www.goship.com/blog/how-to-choose-the-right-ltl-carriers/) and choose the needed equipment.
 
