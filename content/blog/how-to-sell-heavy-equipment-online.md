@@ -17,7 +17,7 @@ description: Selling heavy equipment online can take long time. However, you can
 altText: heavy equipment transported in oversize load
 image: images/goship-blog-7-.png
 ---
-Selling heavy equipment online is not a simple process. If you are dealing with this type of business on a regular basis, you know that it might take a long time to get the item sold, a lot of effort to finalize the deal, and careful consideration to [properly ship](https://www.goship.com/blog/how-do-you-ship-heavy-equipment/) it. Heavy equipment is a specialized, narrow market. 
+Selling heavy equipment online is not a simple process. If you are dealing with this type of business on a regular basis, you know that it might take a long time to get the item sold, a lot of effort to finalize the deal, and careful consideration to [properly ship](https://www.goship.com/blog/how-to-ship-heavy-equipment) it. Heavy equipment is a specialized, narrow market. 
 
 There aren't many people ready to buy heavy pieces of equipment for hundreds of thousands of dollars. If you have a few interested customers, the sale could be a long process, which makes selling heavy equipment online a bit challenging. Whether you are a newcomer or a skilled equipment seller, knowing a few tricks can help you sell your heavy equipment faster and more efficiently.
 
