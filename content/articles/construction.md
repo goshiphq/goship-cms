@@ -107,7 +107,7 @@ Since construction supplies are often oversized, sometimes they are not condense
 
 ### Internal packaging 
 
-Taking into account the huge variety of construction materials, it is worth taking a look at internal packaging. For example, plastic film is one of the most wanted types of packaging as it keeps metal-consisting materials from corrosion. In some cases, you might also need to apply inner fillers to take up the extra space inside boxes. It is crucial to get airtight packaging if you are going to [ship liquids](https://www.goship.com/blog/how-to-ship-liquids/) or materials containing liquids.
+Taking into account the huge variety of construction materials, it is worth taking a look at internal packaging. For example, plastic film is one of the most wanted types of packaging as it keeps metal-consisting materials from corrosion. In some cases, you might also need to apply inner fillers to take up the extra space inside boxes. It is crucial to get airtight packaging if you are going to [ship liquids](https://www.goship.com/food-beverage) or materials containing liquids.
 
 ### Reusing construction packaging
 
