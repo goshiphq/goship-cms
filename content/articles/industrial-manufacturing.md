@@ -34,7 +34,7 @@ Whether you are [buying](https://www.goship.com/blog/how-to-effectively-buy-hea
 
 ### Construction Equipment Shipping 
 
-The [construction industry](https://www.goship.com/industries/construction/) has a complicated supply chain and logistics network with many moving parts often involving transporting large items, machinery and other construction materials and supplies. 
+The [construction industry](https://www.goship.com/construction/) has a complicated supply chain and logistics network with many moving parts often involving transporting large items, machinery and other construction materials and supplies. 
 
 Our platform can help you lessen the burden with just a few quick clicks of a button! Using our quick and easy Get a Quote tool, you can choose from many shipment quotes for full truckload (FTL) and less-than-truckload (LTL) carriers in seconds. You may wonder which option may be best for you, well we’ve got you covered! 
 
