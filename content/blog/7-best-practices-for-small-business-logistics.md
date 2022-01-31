@@ -136,8 +136,8 @@ With enough data, artificial intelligence should be able to produce forecasts so
 
 ## Where can you find good logistics providers?
 
-If you are looking for good logistics providers to transport your supplies and products, the easiest way to find them is by [using a freight shipping marketplace like GoShip](http://goship.com)!
+If you are looking for good logistics providers to transport your supplies and products, the easiest way to find them is by [using a freight shipping marketplace like GoShip](https://goship.com)!
 
 By allowing you to compare multiple freight carriers’ services, prices, and details all on one site, you’ll be able to find the carrier that is right for you in no time.
 
-[Click here to go to GoShip](http://goship.com) and get your free quotes!
+[Click here to go to GoShip](https://goship.com) and get your free quotes!

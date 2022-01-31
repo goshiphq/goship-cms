@@ -11,6 +11,7 @@ keywords: effects of port congestion on retail business, port congestion in reta
 altText: port congestion
 image: images/goship-blog-2022-01-12t094634.029.png
 ---
+
 Due to heightened consumer demand caused by COVID-19, supply chain operations struggle to keep up, especially as the holidays are fast approaching.
 
 According to National Retail Federation Vice President Jonathan Gold, retailers face a failing logistics system with an apparent lack of capacity, labor, and equipment.
@@ -27,7 +28,7 @@ Because ports can’t accommodate all the vessels in question, some will have to
 
 ### Causes of port congestion
 
-The leading cause of port congestion is that there isn’t enough freight capacity and volume –– containers, chassis, trucks, trailers, docks, and drivers–– to keep up with the skyrocketing demand for consumer goods.  In short, there’s still a large volume of cargo lined up and waiting to board containers. 
+The leading cause of port congestion is that there isn’t enough freight capacity and volume –– containers, chassis, trucks, trailers, docks, and drivers–– to keep up with the skyrocketing demand for consumer goods.  In short, there’s still a large volume of cargo lined up and waiting to board containers.
 
 Today, the supply chain is still recovering from the aftermath of increased panic buying and home consumption [due to COVID-19.](https://www.sciencedirect.com/science/article/pii/S2590198220300762) Compounded with the large volume of cargo waiting to board ships in time for the holidays, we can only expect port congestion to worsen during this peak season.
 
@@ -69,15 +70,15 @@ To avoid port congestion, some carriers are skipping required stops altogether. 
 
 In light of higher shipping costs for containers and ocean freight, retailers and consumers will likely face [higher product prices.](https://edition.cnn.com/2021/08/23/business/global-supply-chains-christmas-shipping/index.html)
 
-Retailers are already struggling to replenish inventory, so businesses face the possibility of being unable to meet consumer demand during the holidays. 
+Retailers are already struggling to replenish inventory, so businesses face the possibility of being unable to meet consumer demand during the holidays.
 
-Because of delayed shipments and unavailable product choices, retailers will likely receive less than ideal customer satisfaction rates. Companies are looking for different ways to meet customers’ expectations, such as moving factories closer to their final destination. 
+Because of delayed shipments and unavailable product choices, retailers will likely receive less than ideal customer satisfaction rates. Companies are looking for different ways to meet customers’ expectations, such as moving factories closer to their final destination.
 
 To expedite deliveries, other corporations are ordering supplies way ahead of schedule. Others are working with more carriers to increase the number of ports under their belt.
 
 ### Businesses have lower revenue 
 
-Retailers simply do not have enough products on their shelves to meet the growing demands of customers. 
+Retailers simply do not have enough products on their shelves to meet the growing demands of customers.
 
 Due to the pandemic, warehouse restrictions and shutdowns have caused major backlogs in protecting inventory due to longer production times.
 
@@ -93,4 +94,4 @@ It’s important for businesses to have a wide selection of shipping options to 
 
 Online freight marketplaces can help retailers find affordable shipping options while preventing port congestion.
 
-**[Goship.com](http://goship.com) offers a 24/7 online calculator which will give you an instant quotation for your freight needs.**
+**[Goship.com](https://goship.com) offers a 24/7 online calculator which will give you an instant quotation for your freight needs.**

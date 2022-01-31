@@ -11,9 +11,10 @@ keywords: backorder, backorder shipping, retail logistics
 altText: backorder
 image: images/adobestock_124131568.jpeg
 ---
+
 ## What is backorder in shipping and retail?
 
-Retailers offer backorders when an order can’t be fulfilled as of the moment because the product is currently out of stock. 
+Retailers offer backorders when an order can’t be fulfilled as of the moment because the product is currently out of stock.
 
 Backorders (or backlogs) are a promise to customers that you’ll send out their orders as soon as you replenish your inventory. Generally, the said item is still in production, or it’s still with the warehouse or distributor.
 
@@ -37,9 +38,9 @@ Backorders may be an effect of poor planning, inaccurate forecasting, or maybe a
 
 If you’re wondering how much effort and time backorder fulfillment actually requires, you’ll have to consider these factors:
 
-* **Supply chain complexity:** depending on the structure of your supply chain, it may take longer to make up for backorder demand.
-* **Drop-shipping:** getting your items directly from the manufacturer or distributor speeds up backorder fulfillment.
-* **Customer service:** backorders require additional customer service handling, so businesses with automated supply chain management will fulfill backlogs faster.
+- **Supply chain complexity:** depending on the structure of your supply chain, it may take longer to make up for backorder demand.
+- **Drop-shipping:** getting your items directly from the manufacturer or distributor speeds up backorder fulfillment.
+- **Customer service:** backorders require additional customer service handling, so businesses with automated supply chain management will fulfill backlogs faster.
 
 ## ![](https://lh6.googleusercontent.com/5D0WaWbrgDggetzlfqneRWB4BY2d4Aukf7PuPWFx2xcoBUoFtVQaBgQIfSdC5MIO-rBmo2B9xPCzhyaJUVFRgR31jvgYO49B6Xsm2Zw9_ABLmtWvChS17UehHlQopOiQ4P1k_BuD=s1600)How to prevent backorders?
 
@@ -63,8 +64,8 @@ Suppliers and manufacturers can also run into their own backorder woes. Consider
 
 ## Increase shipping efficiency with GoShip.com
 
-Thanks to the GoShop.com freight marketplace, you can find the most reliable carriers to fulfill your backorders in the nick of time. 
+Thanks to the GoShop.com freight marketplace, you can find the most reliable carriers to fulfill your backorders in the nick of time.
 
-GoShip.com also offers real-time automated tracking to ensure that your backorders are fulfilled immediately. Rest assured that GoShip.com offers all the resources you need to ship your items in a safe and timely manner. 
+GoShip.com also offers real-time automated tracking to ensure that your backorders are fulfilled immediately. Rest assured that GoShip.com offers all the resources you need to ship your items in a safe and timely manner.
 
-Start fulfilling your backorders and expanding your business by getting a [free freight quote from GoShipcom.](http://goship.com)
+Start fulfilling your backorders and expanding your business by getting a [free freight quote from GoShipcom.](https://goship.com)

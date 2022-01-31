@@ -11,6 +11,7 @@ keywords: dry van rates, dry van shipping rates, factors that influence dry van 
 altText: dry van trailer
 image: images/goship-blog-55-.png
 ---
+
 Due to its high availability, affordable rates, and versatile operations, many companies and businesses rely on dry van shipping for local and nationwide freight transportation.
 
 However, dry van freight shipping rates vary wildly throughout the year. Failure to learn about dry van shipping rate trends can cause significant damage to potential earnings. With this in mind, businesses need to keep track of the dry van shipping market and know the specific factors that can cause massive rate fluctuations.
@@ -35,10 +36,10 @@ Freight that requires special handling or special delivery instructions is more 
 
 The type of freight is classified according to [18 different freight classes](https://www.goship.com/blog/what-is-freight-class/), ranging from Class 50 to Class 500. Freight class is determined by [National Motor Freight Classification](http://www.nmfta.org/pages/nmfc) (NMFC) codes, and it’s based on:
 
-* Storability
-* Handling
-* Density
-* Liability
+- Storability
+- Handling
+- Density
+- Liability
 
 The higher the freight class, the more expensive your freight rates will be.
 
@@ -54,6 +55,6 @@ Unique and unforeseen events (such as natural disasters) that cause factories, w
 
 Multiple factors affect dry van rates, but the good news is it’s possible to avoid most of them by careful planning and risk mitigation. You’ll need to build an effective strategy based on the right tools, experience, and flexibility.
 
-While it’s possible to get regular updates on the US freight market conditions and regulations [through freight analytics](https://www.dat.com/industry-trends/trendlines/van/national-rates), choosing the right carrier can guarantee that you get the best rates in your area. With a freight shipping marketplace, it’s possible to get an overview of the best domestic freight carriers. 
+While it’s possible to get regular updates on the US freight market conditions and regulations [through freight analytics](https://www.dat.com/industry-trends/trendlines/van/national-rates), choosing the right carrier can guarantee that you get the best rates in your area. With a freight shipping marketplace, it’s possible to get an overview of the best domestic freight carriers.
 
-[GoShip.com](http://goship.com) features a self-service online quote calculator that simplifies the process of getting freight quotes, booking, and customer support.
+[GoShip.com](https://goship.com) features a self-service online quote calculator that simplifies the process of getting freight quotes, booking, and customer support.

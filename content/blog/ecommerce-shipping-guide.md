@@ -22,17 +22,16 @@ description: Think your eCommerce strategy ahead to increase your shipment
 altText: ecommerce shipping
 image: images/goship-blog-79-.png
 ---
-_Just as important as developing your products and tweaking your online store, establishing a_ [_clear eCommerce shipping strategy_](http://goship.com) _is a critical step to jumpstart a growing business._ 
 
-What is eCommerce shipping? 
-----------------------------
+_Just as important as developing your products and tweaking your online store, establishing a_ [_clear eCommerce shipping strategy_](https://goship.com) _is a critical step to jumpstart a growing business._
+
+## What is eCommerce shipping? 
 
 eCommerce shipping is more than fast delivery and free shipping. It encompasses all the services from marketing your product down to delivery and fulfillment, and everything in between.  The most successful online merchants use strategic eCommerce shipping strategies to set themselves apart from the competition and increase margins.
 
-What does eCommerce involve? 
------------------------------
+## What does eCommerce involve? 
 
-The eCommerce shipping process begins when your customer clicks that “add to cart” button, and it ends just after the parcel arrives on their doorstep. 
+The eCommerce shipping process begins when your customer clicks that “add to cart” button, and it ends just after the parcel arrives on their doorstep.
 
 ### Step 1: Order Received
 
@@ -46,8 +45,7 @@ Now it is time to verify client data and information to ship the right product t
 
 As soon as a picklist (includes information on product SKUs, inventory, and location) is generated, items will be picked, packed, and prepared for shipment.
 
-How do I proceed with eCommerce Shipping?
------------------------------------------
+## How do I proceed with eCommerce Shipping?
 
 ### 1\. Assemble the right team team
 
@@ -57,17 +55,16 @@ Identify the right people to make up every department in relation to shipping yo
 
 Define the goals that you want to accomplish with your shipping strategy. Some common eCommerce shipping goals include
 
-*   Increasing average order value from promotions 
-*   Increasing conversions
-*   Expanding your market to include international shipping or alternative shipping options
-*   Decreasing costs with a real-time rate calculator or shipping partner
-*   Improved operational efficiency and automation for better decision-making
+- Increasing average order value from promotions
+- Increasing conversions
+- Expanding your market to include international shipping or alternative shipping options
+- Decreasing costs with a real-time rate calculator or shipping partner
+- Improved operational efficiency and automation for better decision-making
 
 ### 3\. Establish your shipping strategy
 
-Once you’ve assembled your team and the goals for your e-commerce shipment, it is time to choose a shipping strategy that will work for your team and the goals you have set. Here are the top considerations to come up with your shipping strategy: **Product size and weight** Gather the dimensions of all the products on your online store. If your products do not differ much in size or weight, you can go with a location-based approach to calculating shipping costs. Otherwise, break down your products into categories depending on their size or weight, and assign a shipping cost. **Shipping destinations** For domestic shipping, a simple flat-rate or free shipping option is attractive for customers. For a more comprehensive approach, you can go with zone-based pricing. International shipping will be more difficult to quote. We suggest getting in touch with a logistics operation provider to get professional assistance on how to navigate paperwork, ensure compliance with trade laws, and get an accurate [shipping quote](https://www.goship.com/). **Packaging** Presentation is an essential part of eCommerce shipping. It is the first time your customer will experience your package, so make sure to go above and beyond to impress your customers and exceed their expectations by delivering an experience, not just a physical product. **Shipping Options** While there are many [shipping options](https://www.goship.com/shipping-services/) that you can choose from, we recommend going for total shipping eCommerce solutions. Platforms like GoShip.com allow [instant and real-time freight quotes](https://www.goship.com/) from multiple carriers. They offer affordable [full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/), [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/), and [international shipping](https://www.goship.com/shipping-services/international-shipping/) options that are ideal for eCommerce businesses. Save both time and money with the innovative [GoShip app](https://www.goship.com/resources/app/) and self-service platform that allows booking, tracking, and managing shipments. You and your clients will never have to worry about parcels with [24/7 tracking](https://www.goship.com/blog/3-reasons-shipment-tracking-matters/). 
+Once you’ve assembled your team and the goals for your e-commerce shipment, it is time to choose a shipping strategy that will work for your team and the goals you have set. Here are the top considerations to come up with your shipping strategy: **Product size and weight** Gather the dimensions of all the products on your online store. If your products do not differ much in size or weight, you can go with a location-based approach to calculating shipping costs. Otherwise, break down your products into categories depending on their size or weight, and assign a shipping cost. **Shipping destinations** For domestic shipping, a simple flat-rate or free shipping option is attractive for customers. For a more comprehensive approach, you can go with zone-based pricing. International shipping will be more difficult to quote. We suggest getting in touch with a logistics operation provider to get professional assistance on how to navigate paperwork, ensure compliance with trade laws, and get an accurate [shipping quote](https://www.goship.com/). **Packaging** Presentation is an essential part of eCommerce shipping. It is the first time your customer will experience your package, so make sure to go above and beyond to impress your customers and exceed their expectations by delivering an experience, not just a physical product. **Shipping Options** While there are many [shipping options](https://www.goship.com/shipping-services/) that you can choose from, we recommend going for total shipping eCommerce solutions. Platforms like GoShip.com allow [instant and real-time freight quotes](https://www.goship.com/) from multiple carriers. They offer affordable [full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/), [less-than-truckload](https://www.goship.com/shipping-services/ltl-freight-shipping/), and [international shipping](https://www.goship.com/shipping-services/international-shipping/) options that are ideal for eCommerce businesses. Save both time and money with the innovative [GoShip app](https://www.goship.com/resources/app/) and self-service platform that allows booking, tracking, and managing shipments. You and your clients will never have to worry about parcels with [24/7 tracking](https://www.goship.com/blog/3-reasons-shipment-tracking-matters/).
 
-Wrapping Up
------------
+## Wrapping Up
 
 With a reliable [eCommerce shipping solution](https://www.goship.com/), all that’s left to do is get your team members in place so that you can reach your shipping goals!

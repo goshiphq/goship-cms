@@ -151,4 +151,4 @@ The quickest and easiest way to find the best freight carrier for your needs is 
 
 By allowing you to compare the services of different freight carriers all in one place, GoShip lets you find the carrier that ships your orders in time 
 
-Hurry and find the freight carrier that’s right for you at [GoShip](http://goship.com)!
+Hurry and find the freight carrier that’s right for you at [GoShip](https://goship.com)!

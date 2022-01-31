@@ -14,14 +14,13 @@ altText: calculating shipping costs
 image: images/goship-blog-60-.png
 ---
 
-
 When the bulk of your business funds go to packaging and deliveries, it might be time to reconsider reducing shipping costs to improve your profit margin. Calculating the costs of shipping expenses can be overwhelming. Businesses need to consider:
 
-* Shipping zones
-* Weight and dimensions
-* Delivery insurance
-* Delivery speed
-* Tracking
+- Shipping zones
+- Weight and dimensions
+- Delivery insurance
+- Delivery speed
+- Tracking
 
 Fortunately, we’ve got some tips for eCommerce and small business owners to reduce shipping expenses and improve profit!
 
@@ -53,5 +52,4 @@ By negotiating with different carriers, you’ll be able to keep up with the bes
 
 Finding affordable and reputable shipping carriers is arguably the most challenging aspect of reducing shipping costs. Thanks to online freight shipping marketplaces like **[GoShip.com](https://www.goship.com/)**, it’s possible to find the best deals from the major local freight companies in your area.
 
-[GoShip.com](http://goship.com) is a self-service platform that’s designed to offer free online quoting, easy booking, and customer support for your shipping needs. Find the best shipping rates in your area without the complicated process of haggling with a freight broker.
-
+[GoShip.com](https://goship.com) is a self-service platform that’s designed to offer free online quoting, easy booking, and customer support for your shipping needs. Find the best shipping rates in your area without the complicated process of haggling with a freight broker.
