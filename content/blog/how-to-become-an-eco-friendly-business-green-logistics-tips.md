@@ -7,7 +7,7 @@ intro: "The rapid growth of online shopping services has allowed small
   Not only the quality of suggested items affects your sales scope, but the
   ability to stay environmentally friendly. "
 postedAt: "1643622956094"
-news: true
+news: false
 description: Discover the best ways to become an eco-friendly business to
   deliver your goods with less damage to the environment and contribute to the
   development of green logistics.
