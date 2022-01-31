@@ -93,7 +93,7 @@ There are a lot of types of mailers so that they can be used for the whole range
 
 #### Bags
 
-Different kinds of bags will do the trick with many packaged goods that are not under threat of losing their shape during shipping. Additionally, certain bags are necessary as the inner packaging for the products. For example, waterproof bags ensure that the [liquids](https://www.goship.com/posts/step-by-step-guide-how-to-ship-liquids-1) remain contained.
+Different kinds of bags will do the trick with many packaged goods that are not under threat of losing their shape during shipping. Additionally, certain bags are necessary as the inner packaging for the products. For example, waterproof bags ensure that the [liquids](https://www.goship.com/food-beverage) remain contained.
 
 #### Cooling materials 
 
