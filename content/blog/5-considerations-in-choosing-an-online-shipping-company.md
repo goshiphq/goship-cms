@@ -37,7 +37,7 @@ Does the carrier offer the particular shipping services you need? Is customer su
 
 Reviewing what type of service you need will help you figure out which companies to reach out to. However, it gets more complicated if you’re running a business that requires more than one service. You’ll have to work with multiple shipping companies, which requires a larger investment of your time and money.
 
-The best-case scenario would be to find a [24/7 freight shipping marketplace](http://www.goship.com) that works with multiple carriers so that your business can meet all its needs.
+The best-case scenario would be to find a [24/7 freight shipping marketplace](https://www.goship.com) that works with multiple carriers so that your business can meet all its needs.
 
 ### Simple interface
 

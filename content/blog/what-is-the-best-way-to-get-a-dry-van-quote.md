@@ -11,15 +11,16 @@ keywords: dry van quote, dry van trailer, dry van shipping
 altText: dry van truck driving down highway
 image: images/copy-of-goship-website-image-template-1024-x-768-px-7-.png
 ---
+
 # What Is the Best Way to Get a Dry Van Quote Fast
 
-Because of its versatility, dry van shipping is the most common way to send freight across state lines. 
+Because of its versatility, dry van shipping is the most common way to send freight across state lines.
 
 Whether it’s a full truckload or less-than-truckload service, dry van shipping is an affordable and accessible way for shippers to send most types of goods.
 
 However, calculating the costs of dry van quotes isn’t that easy – you have to consider various factors, such as location, freight description, and even trucking supply and demand to get an accurate quote.
 
-Thankfully, there are [online freight shipping marketplaces](http://www.goship.com) available that give an instant quote. There’s no need to do any time-consuming calculations and market research.
+Thankfully, there are [online freight shipping marketplaces](https://www.goship.com) available that give an instant quote. There’s no need to do any time-consuming calculations and market research.
 
 To learn more about dry van services and quotes, keep reading!
 
@@ -27,15 +28,15 @@ To learn more about dry van services and quotes, keep reading!
 
 Dry vans are standard non-temperature controlled trailers, measuring:
 
-* Length: 48 to 53 feet
-* Width: 8.5 feet
-* Height: 13.5 feet
+- Length: 48 to 53 feet
+- Width: 8.5 feet
+- Height: 13.5 feet
 
 Standard dry van trailers can haul a total of 45,000 pounds.
 
 Dry van freight is typically loaded in boxes or pallets or otherwise secured within the truck. Standard 53-foot dry van trailers carry 26 pallets.
 
-Because of their versatility, [dry vans](https://www.goship.com/posts/what-is-dry-van-shipping) are ideal for almost all types of shipment of goods and equipment that meet size and weight limitations. 
+Because of their versatility, [dry vans](https://www.goship.com/posts/what-is-dry-van-shipping) are ideal for almost all types of shipment of goods and equipment that meet size and weight limitations.
 
 ### Full Truckload (FTL) Dry Van Shipping
 
@@ -65,7 +66,7 @@ A shipment that requires deadheading, or traveling without a trailer, also drive
 
 Demand for transportation is heavily influenced by the produce season, which starts in spring and ends in early summer. Shippers in the food industry are advised to plan their dry van shipments around this season, as higher demand equates to higher rates.
 
-Supply in dry van shipping refers to truck and driver capacity. The fewer trucks and drivers available to make deliveries, the higher the dry van quotes will be. 
+Supply in dry van shipping refers to truck and driver capacity. The fewer trucks and drivers available to make deliveries, the higher the dry van quotes will be.
 
 While this factor is more difficult to mitigate, some shippers opt for contracted rates to avoid sizable dry van rate fluctuations.
 
@@ -79,14 +80,14 @@ Especially if you’re shipping freight by truckloads, condensing your packages 
 
 Dry van freight rates are also affected by unique events, such as natural disasters that cause warehouses, factories, and even roads to close down.
 
-In this case, it’s essential to partner with reliable and experienced providers that have the right tools for flexible and affordable shipments. 
+In this case, it’s essential to partner with reliable and experienced providers that have the right tools for flexible and affordable shipments.
 
 ## The Best Way  to Get a Dry Van Quote
 
 As you’ve read, getting a dry van quote is complicated, requiring heavy research on the trucking industry and the freight market.
 
-A quick and painless way to get a dry van quote is through an online freight marketplace, like GoShip. 
+A quick and painless way to get a dry van quote is through an online freight marketplace, like GoShip.
 
-Through the GoShip [24/7 dry van calculator](https://www.goship.com/), you can get an instant quote for FTL and LTL shipments–– all you have to do is enter the load type, the pickup and delivery ZIP code, and the pickup date. 
+Through the GoShip [24/7 dry van calculator](https://www.goship.com/), you can get an instant quote for FTL and LTL shipments–– all you have to do is enter the load type, the pickup and delivery ZIP code, and the pickup date.
 
 With GoShip’s self-service, dry van shipping becomes truly accessible and affordable for all.

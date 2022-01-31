@@ -27,17 +27,18 @@ description: Find out how business owners can prepare for major and minor supply
 altText: supply chain
 image: images/goship-blog-8-.png
 ---
-Most customers may never give it a second thought, but business owners are well-acquainted with the fact that supply chains operate like a well-oiled machine. Due to the COVID-19 pandemic, disrupted supply chains made it difficult to provide communities with the pandemic response, including food, vaccines, and other medical supplies. Find out how business owners can prepare for disrupted supply operations to benefit both customers and employees.  
+
+Most customers may never give it a second thought, but business owners are well-acquainted with the fact that supply chains operate like a well-oiled machine. Due to the COVID-19 pandemic, disrupted supply chains made it difficult to provide communities with the pandemic response, including food, vaccines, and other medical supplies. Find out how business owners can prepare for disrupted supply operations to benefit both customers and employees.
 
 ## What is a Supply Chain Disruption?
 
-Supply chain disruptions create anxiety and uncertainty for consumers and businesses during turbulent times in the market. Supply chains are a network of organizations, individuals, and activities. These interconnected parts seamlessly move a product from a manufacturer or supplier to its final destination, such as a customer or retail store. Any change or crisis along the supply chain will immediately impact the whole process. Here is a brief overview of the supply chain: 
+Supply chain disruptions create anxiety and uncertainty for consumers and businesses during turbulent times in the market. Supply chains are a network of organizations, individuals, and activities. These interconnected parts seamlessly move a product from a manufacturer or supplier to its final destination, such as a customer or retail store. Any change or crisis along the supply chain will immediately impact the whole process. Here is a brief overview of the supply chain:
 
-* **Tier 3:** Suppliers provide raw metals that are used to construct specific products. 
-* **Tier 2:** Suppliers are typically composed of small businesses that create products and sell their products to a company that directly deals with major corporations. 
-* **Tier 1:** Suppliers directly sell products to major corporations. OEMs or distributors manufacture and sell products directly to the consumer market. 
+- **Tier 3:** Suppliers provide raw metals that are used to construct specific products.
+- **Tier 2:** Suppliers are typically composed of small businesses that create products and sell their products to a company that directly deals with major corporations.
+- **Tier 1:** Suppliers directly sell products to major corporations. OEMs or distributors manufacture and sell products directly to the consumer market.
 
-Not all supply chains will provide all tiers in the supply chain, but businesses and eCommerce will rely on this highly interdependent chain. 
+Not all supply chains will provide all tiers in the supply chain, but businesses and eCommerce will rely on this highly interdependent chain.
 
 ## What are the types of Supply Chain Disruptions?
 
@@ -51,7 +52,7 @@ Due to rapid globalization and increased trade opportunities, most supply chains
 
 ### Natural Disasters
 
-Natural disasters like tsunamis, hurricanes, wildfires, floods, and tornados can have far-reaching implications on the global economy and production line, depending on the affected area. 
+Natural disasters like tsunamis, hurricanes, wildfires, floods, and tornados can have far-reaching implications on the global economy and production line, depending on the affected area.
 
 ### Price fluctuations
 
@@ -67,10 +68,10 @@ With increased dependence on logistics and supply chain software, cybercriminals
 
 ## How does my business prepare for Supply Chain Disruptions?
 
-The first step is to create a supply chain emergency plan and budget. To effectively get this done, you must conduct a thorough risk analysis to figure out the weakest links in your supply chain. Don’t forget to factor in environmental, political, and social factors.  It will also be best to build up your inventory and find backup suppliers from different locations in the event of a disruption. Make the most of technology to figure out potential threats along your supply chain. Find reliable software with AI mapping, analysis, security systems, predictive tools, and customer service solutions. 
+The first step is to create a supply chain emergency plan and budget. To effectively get this done, you must conduct a thorough risk analysis to figure out the weakest links in your supply chain. Don’t forget to factor in environmental, political, and social factors.  It will also be best to build up your inventory and find backup suppliers from different locations in the event of a disruption. Make the most of technology to figure out potential threats along your supply chain. Find reliable software with AI mapping, analysis, security systems, predictive tools, and customer service solutions.
 
 ## Partnering with a Logistics Expert
 
-Supply chain disruptions are complex occurrences that require thorough research and preparation. The best course of action to successfully assess risk and prepare for these disruptions is to get support from a [logistics and supply chain expert](https://www.goship.com/).  
+Supply chain disruptions are complex occurrences that require thorough research and preparation. The best course of action to successfully assess risk and prepare for these disruptions is to get support from a [logistics and supply chain expert](https://www.goship.com/).
 
-Companies like GoShip.com will get you in touch with the most dependable industry experts in logistics and freight shipping. At GoShip.com, you should be able to find the right freight courier that knows how to navigate supply chain disruptions, fees, and surcharges.  With [GoShip.com’s digital platform](http://www.goship.com/), it is easy to get an instant online quotation, booking, and customer support management.
+Companies like GoShip.com will get you in touch with the most dependable industry experts in logistics and freight shipping. At GoShip.com, you should be able to find the right freight courier that knows how to navigate supply chain disruptions, fees, and surcharges.  With [GoShip.com’s digital platform](https://www.goship.com/), it is easy to get an instant online quotation, booking, and customer support management.

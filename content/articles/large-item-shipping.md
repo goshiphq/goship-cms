@@ -7,17 +7,18 @@ description: GoShip's large item shipping allows you to ship oversize or heavy
 keywords: large item shipping, How to Ship Large Items? What is the best way to
   ship large items?
 ---
+
 # Large Item Shipping
 
-*When you're shipping large items, GoShip can help. Our expertise and contacts in the industry ensure that you'll get a good match. We can help move your items across town or across the country fast and easy.*
+_When you're shipping large items, GoShip can help. Our expertise and contacts in the industry ensure that you'll get a good match. We can help move your items across town or across the country fast and easy._
 
 ## The Benefits of Shipping Large Items with GoShip
 
-* Free and instant [freight quotes](https://www.goship.com/)
-* [Full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) and less-than-truckload shipping options
-* 24/7 shipment tracking
-* A wide network of freight carriers
-* The self-service platform that lets you book a shipment easily within a few clicks
+- Free and instant [freight quotes](https://www.goship.com/)
+- [Full truckload](https://www.goship.com/shipping-services/truckload-freight-shipping/) and less-than-truckload shipping options
+- 24/7 shipment tracking
+- A wide network of freight carriers
+- The self-service platform that lets you book a shipment easily within a few clicks
 
 At GoShip, we can help you find the right solutions for your company. We offer various price points and carrier options so you can choose what works best for your budget and timeline.
 
@@ -87,11 +88,11 @@ Shipping appliances can be difficult. Most traditional shipping companies don't 
 
 Shipping appliances such as refrigerators, dishwashers, or stoves require a little extra care to avoid damaging them during shipping.
 
-* Defrost refrigerators at least 24 hours ahead of time
-* Remove and pack all shelves and drawers separately
-* Clean and pack ovens, all racks, knobs, and grills separately
-* Washers and dryers should have their hoses removed and packed by themselves --- with the dryer's drum properly secured
-* All appliances with doors should have them taped and secured to avoid falling open during transit
+- Defrost refrigerators at least 24 hours ahead of time
+- Remove and pack all shelves and drawers separately
+- Clean and pack ovens, all racks, knobs, and grills separately
+- Washers and dryers should have their hoses removed and packed by themselves --- with the dryer's drum properly secured
+- All appliances with doors should have them taped and secured to avoid falling open during transit
 
 ## How does appliance delivery work?
 
@@ -105,7 +106,7 @@ It's possible to buy or sell virtually anything on Craigslist, from an antique p
 
 ## Craigslist shipping cost
 
-If you are shipping large items sold or bought on Craigslist, parcel delivery service may come up as too expensive. Your shipment cost is determined by several factors, like freight type, dimensions, weight, destination, etc. You can get a quick and [free shipping estimate](http://www.goship.com/) with GoShip!
+If you are shipping large items sold or bought on Craigslist, parcel delivery service may come up as too expensive. Your shipment cost is determined by several factors, like freight type, dimensions, weight, destination, etc. You can get a quick and [free shipping estimate](https://www.goship.com/) with GoShip!
 
 ## How LTL shipping can benefit Craigslist buyers and sellers
 
@@ -121,8 +122,8 @@ Our cross-country shipping services will move your items across the country easi
 
 ## What you need to know about cross-country freight shipping
 
-* How long should I expect the move to take? A typical cross-country move should take less than a week. Generally, it takes between two and five business days, depending on how far your destination is. It's good to also understand unforeseen circumstances such as holiday or weather delays.
-* How much will cross-country shipping cost? The [cost](https://www.goship.com/blog/factors-determine-ltl-shipping-rates/) of your cross-country move will depend on the size of your shipment, the weight of your shipment, the distance traveled, and whether you need any additional services.
+- How long should I expect the move to take? A typical cross-country move should take less than a week. Generally, it takes between two and five business days, depending on how far your destination is. It's good to also understand unforeseen circumstances such as holiday or weather delays.
+- How much will cross-country shipping cost? The [cost](https://www.goship.com/blog/factors-determine-ltl-shipping-rates/) of your cross-country move will depend on the size of your shipment, the weight of your shipment, the distance traveled, and whether you need any additional services.
 
 ## How to ship freight cross-country?
 

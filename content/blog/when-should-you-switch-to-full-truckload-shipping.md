@@ -20,10 +20,10 @@ description: "Switching to full truckload shipping can solve the problem of
 altText: Full Truckload Shipping trucks
 image: images/goship-blog-.png
 ---
+
 For small business owners, shipping freight can sometimes be costly and challenging. You have to wear many hats and with a limited budget, getting the best out of the shipping services can be hard. If your goods are time-sensitive and prone to damage, we may have the right solutions for you - FTL ([full truckload shipping](https://www.goship.com/blog/what-is-truckload-shipping-and-how-does-it-work/)). Regardless of the shipping method, you are using right now, truckload shipping can be a great way to optimize your [transportation strategy](https://www.goship.com/blog/optimizing-your-truckload-shipping-strategy/).
 
-When should you try using full truckload shipping?
---------------------------------------------------
+## When should you try using full truckload shipping?
 
 ### 1\. Negotiable rates
 
@@ -37,7 +37,6 @@ When you use full truckload shipping, the truck is dedicated entirely to your fr
 
 Shipping full truckload means better safety and fewer risks for your shipment. The key reason for the reliability of full truckload shipping is that there is no extra handling during transit. Once your freight is picked up, the next stop is the final stop. This significantly reduces the chances of freight loss or damage, and ultimately, it saves you time and money. For small businesses that transport fragile or sensitive products, whether this is furniture, metal details, or retail products, FTL shipping means increased security for their freight.
 
-How do you get the best out of truckload shipping?
---------------------------------------------------
+## How do you get the best out of truckload shipping?
 
-While full truckload is not for every shipper, if you have more than 6 pallets or 5,000 pounds of goods that are possibly time-sensitive or can be easily damaged, truckload can be the right solution for you. At [GoShip.com](http://www.goship.com), we make sure to make the truckload shipping process affordable, simple, and smooth for small businesses. Need to ship something? Get started with a [free quote](https://www.goship.com/) right now!
+While full truckload is not for every shipper, if you have more than 6 pallets or 5,000 pounds of goods that are possibly time-sensitive or can be easily damaged, truckload can be the right solution for you. At [GoShip.com](https://www.goship.com), we make sure to make the truckload shipping process affordable, simple, and smooth for small businesses. Need to ship something? Get started with a [free quote](https://www.goship.com/) right now!

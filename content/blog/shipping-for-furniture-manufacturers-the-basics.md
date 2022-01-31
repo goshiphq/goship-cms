@@ -21,4 +21,4 @@ Freight shipping companies often require specific packaging from furniture distr
 
 ### Last-mile delivery
 
-Apart from choosing a [reliable shipping platform](https://www.goship.com/) for your main transportation purposes, you may also need a [last-mile service](https://www.goship.com/blog/last-mile-delivery-improve-service/) to deliver furniture to the final customer. Whether you're shipping ottomans, bed frames, or anything in between, GoShip is the perfect platform to find the best carriers at the best rates. Take control of your shipping schedule and [get a quote](http://www.goship.com) today!
+Apart from choosing a [reliable shipping platform](https://www.goship.com/) for your main transportation purposes, you may also need a [last-mile service](https://www.goship.com/blog/last-mile-delivery-improve-service/) to deliver furniture to the final customer. Whether you're shipping ottomans, bed frames, or anything in between, GoShip is the perfect platform to find the best carriers at the best rates. Take control of your shipping schedule and [get a quote](https://www.goship.com) today!

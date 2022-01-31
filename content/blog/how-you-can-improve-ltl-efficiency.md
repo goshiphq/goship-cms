@@ -27,6 +27,7 @@ description: Consider the most reasonable freight shipping improvements to
 altText: preparing LTL shipment
 image: images/goship-blog-16-.png
 ---
+
 Shipping efficiency provides a double benefit for both the carrier and the shipper. Knowing how to maximize your efficiency as a shipper will accelerate all future shipments. As a shipper, reducing your cost and time spent is important. Simply by choosing the right shipping methods, you will increase [LTL efficiency](https://www.goship.com/posts/how-to-make-ltl-shipping-easy).
 
 ## The next time you plan to ship LTL, consider these improvements:
@@ -53,4 +54,4 @@ Coordinate a system with a pick-up in mind to maximize the carriers time and red
 
 ### **Choose a carrier that covers your shipping region**
 
-If you plan to ship far, make sure that the carrier reaches out to the destination. Some carriers will pass off your freight if they don’t cover the region. This is costly and increases time in transit. GoShip.com will help you save time and money, and improve your LTL efficiency. With a system backed by thousands of carriers nationwide, we have solutions to fit any shipping need. All you have to do is enter in your dimensions, place of origin, and destination, then you're ready to receive multiple rate quotes. If you're in a time crunch, our easy-to-use solution is here for you. Get your [Free Quote](http://www.goship.com) to try it for yourself.
+If you plan to ship far, make sure that the carrier reaches out to the destination. Some carriers will pass off your freight if they don’t cover the region. This is costly and increases time in transit. GoShip.com will help you save time and money, and improve your LTL efficiency. With a system backed by thousands of carriers nationwide, we have solutions to fit any shipping need. All you have to do is enter in your dimensions, place of origin, and destination, then you're ready to receive multiple rate quotes. If you're in a time crunch, our easy-to-use solution is here for you. Get your [Free Quote](https://www.goship.com) to try it for yourself.
