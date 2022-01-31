@@ -12,7 +12,7 @@ description: The appropriate customs clearance can upgrade your business to the
 altText: customs broker, customs brokers, customs brokerage, customs clearance,
   international shipping, how to ship internationally, how to ship cross-border,
   cross-border trade
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-does-customs-broker-do-and-do-you-need-one.jpg
+image: images/goship-blog-21.jpg
 ---
 Most companies start their business on a local level, but once you start observing a good trade flow, you may consider expanding to [international trade](https://www.goship.com/shipping-services/international-shipping). With the spike in e-commerce shops and giant retail platforms, it has become much easier to spread products beyond the border. However, customs brokerage still remains a challenging and complex procedure. To make importing operations and customs clearance easier and faster, businesses of all scales address customs brokers.
 
