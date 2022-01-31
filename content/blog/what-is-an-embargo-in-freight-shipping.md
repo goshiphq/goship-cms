@@ -24,7 +24,7 @@ description: Embargoes can become a real obstacle for the freight shipping
   process and result in logistics disruptions. Learn what is an embargo and how
   to deal with it to maintain the supply chain convenience.
 altText: embargo
-image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-an-embargo-in-freight-shipping.jpg
+image: images/goship-blog-55.jpg
 ---
 Logistics operations are often regulated by economic sanctions that can significantly affect global shipping processes. Embargoes are one of the influential freight shipping factors that you need to get familiar with.
 
