@@ -1,5 +1,5 @@
 ---
-title: How‌ ‌to‌ ‌Effectively‌ ‌Ship‌ ‌Cross-Border‌ ‌in‌ ‌2022‌
+title: How to Effectively Ship Cross-Border in 2022
 intro: Cross-border trade has become one of the main priorities for
   entrepreneurs willing to grow, and nowadays international logistics operations
   are getting more simple even for small business owners. We have analyzed the
