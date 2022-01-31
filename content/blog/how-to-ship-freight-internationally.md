@@ -41,7 +41,7 @@ Essentially, you will be working with the customs broker, who will assist you wi
 
 ### Customs broker
 
-Finding an experienced [customs broker](https://www.goship.com/blog/what-does-customs-broker-do-and-do-you-need-one/) is probably the most critical step in shipping freight internationally. A good professional will know all the nuances involved in the process and will save you time and money. From collecting required paperwork to actually handling the customs clearance, a customs broker will be your key guide in the global shipping process. Usually, businesses use freight forwarding companies, but some shipping services offer customs brokers on their side to make it easier for the shippers.
+Finding an experienced [customs broker](https://www.goship.com/posts/what-does-customs-broker-do-and-do-you-need-one) is probably the most critical step in shipping freight internationally. A good professional will know all the nuances involved in the process and will save you time and money. From collecting required paperwork to actually handling the customs clearance, a customs broker will be your key guide in the global shipping process. Usually, businesses use freight forwarding companies, but some shipping services offer customs brokers on their side to make it easier for the shippers.
 
 ### Tracking
 
