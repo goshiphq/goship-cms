@@ -62,7 +62,7 @@ Whether you’re moving doors or hoods, panels or plastic moldings, shocks or co
 
 With a sprawling range of sizes, weights, and dimensions, auto parts might find their way into LTL or FTL shipments, into dry vans or onto flat beds, moving via parcel or via freight. Combine this mess of variables with high-value shipments that are often fragile, inconsistently shaped, and susceptible to damage, and you need a pre-vetted, reliable carrier for your auto parts shipments. 
 
-Fortunately, GoShip works with a professional, reliable network of local, regional, and global carriers that have been pre-vetted and sport a robust background in [automotive shipping](https://www.goship.com/industries/auto-parts/). We assist with any paperwork, freight tracking, insurance, and handling freight claims.  
+Fortunately, GoShip works with a professional, reliable network of local, regional, and global carriers that have been pre-vetted and sport a robust background in [automotive shipping](https://www.goship.com/auto-parts). We assist with any paperwork, freight tracking, insurance, and handling freight claims.  
 
 While GoShip can take care of your automotive parts once they're ready to move, it’s on you to get them ready to move. To set your shipment up for success, make sure you: 
 
