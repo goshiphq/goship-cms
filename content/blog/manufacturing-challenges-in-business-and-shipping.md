@@ -32,7 +32,7 @@ description: Reportedly, more than 60% of manufacturers were affected by the
 altText: shipping challenges
 image: https://storage.googleapis.com/goshiprepo/prod/blog/images/manufacturing-challenges-in-business-and-shipping.jpg
 ---
-Reportedly, more than 60% of manufacturers [were affected](https://industrytoday.com/coronavirus-and-manufacturing-shipping-and-logistics/) by the coronavirus pandemic and its consequences. There is a lot of news on retail, but not much information about other key links in the supply chains, like manufacturers. While this is a very broad category to define, you typically see small businesses involved in manufacturing who distribute [furniture](https://www.goship.com/blog/the-best-way-to-ship-furniture/), electronics, or [construction equipment](https://www.goship.com/blog/how-does-the-shipping-of-automotive-parts-work/).
+Reportedly, more than 60% of manufacturers [were affected](https://industrytoday.com/coronavirus-and-manufacturing-shipping-and-logistics/) by the coronavirus pandemic and its consequences. There is a lot of news on retail, but not much information about other key links in the supply chains, like manufacturers. While this is a very broad category to define, you typically see small businesses involved in manufacturing who distribute [furniture](https://www.goship.com/furniture), electronics, or [construction equipment](https://www.goship.com/blog/how-does-the-shipping-of-automotive-parts-work/).
 
 ## What challenges do manufacturers face?
 
