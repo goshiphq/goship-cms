@@ -27,7 +27,7 @@ Whenever you are thinking about a way to move items, you should begin by looking
 
 ## How to ship large packages?
 
-There are many different transportation modes available for moving freight. Depending on the shipment’s volume and size, it can be moved through [two shipping modes](https://www.goship.com/blog/full-truckload-vs-less-than-truckload-what-is-the-difference/): full truckload and or less-than-truckload. The less-than-truckload (LTL) shipping mode is the most popular way to ship goods at a reasonable price. LTL suggests your items are large, yet don't require a full trailer. This allows you to share shipping costs with other shippers whose freight is combined with yours in one truckload.
+There are many different transportation modes available for moving freight. Depending on the shipment’s volume and size, it can be moved through two shipping modes: full truckload and or less-than-truckload. The less-than-truckload (LTL) shipping mode is the most popular way to ship goods at a reasonable price. LTL suggests your items are large, yet don't require a full trailer. This allows you to share shipping costs with other shippers whose freight is combined with yours in one truckload.
 
 ## Here are 3 steps to successfully ship heavy items:
 
