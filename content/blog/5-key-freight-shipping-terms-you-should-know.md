@@ -50,4 +50,4 @@ A delivery appointment is an [additional service](https://www.goship.com/blog/ty
 
 ### Freight insurance
 
-[Freight insurance](https://www.goship.com/shipping-services/freight-insurance/) is an important document that is purchased to protect your goods and cover their value in case of shipment loss or damage. Freight insurance should not be confused with carrier liability, which is usually limited and will not refund the full cost of shipment in most cases.
+[Freight insurance](https://www.goship.com/resources/freight-insurance) is an important document that is purchased to protect your goods and cover their value in case of shipment loss or damage. Freight insurance should not be confused with carrier liability, which is usually limited and will not refund the full cost of shipment in most cases.
