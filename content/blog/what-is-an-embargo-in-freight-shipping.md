@@ -75,7 +75,7 @@ Carriers who accept embargoed items will likely take on more freight than usual,
 
 ### Increased freight rates
 
-When a carrier imposes an embargo on a location that you commonly import or export from, you may have to look for a more expensive carrier company to complete the delivery. Same way, if the carrier capacity is tight due to extremely high demand, the freight rates will definitely increase.
+When a carrier imposes an embargo on a location that you commonly import or export from, you may have to look for a more expensive carrier company to complete the delivery. Same way, if the carrier capacity is tight due to extremely high demand, the[ freight rates](https://www.goship.com/posts/how-are-truckload-freight-rates-calculated) will definitely increase.
 
 ## How can GoShip help you?
 
