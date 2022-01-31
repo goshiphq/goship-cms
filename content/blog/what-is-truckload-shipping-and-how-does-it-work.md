@@ -49,5 +49,3 @@ Obviously, if there’s just your freight on the board, it won’t be handled as
 ### Cost-efficiency
 
 Usually, truckload is more expensive than LTL. However, it can be cheaper if you have heavy, high volume loads. In that case, shipping FTL will be a much more cost-effective option than booking several LTL shipments.
-
-### Read more about [Differences Between LTL and FTL](https://www.goship.com/blog/full-truckload-vs-less-than-truckload-what-is-the-difference/)
