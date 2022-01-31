@@ -6,7 +6,7 @@ intro: "The rapid growth of online shopping services has allowed small
   resulted in customers becoming extremely selective in their shopping choices.
   Not only the quality of suggested items affects your sales scope, but the
   ability to stay environmentally friendly. "
-postedAt: "1643622956094"
+postedAt: "1643634056094"
 news: false
 description: Discover the best ways to become an eco-friendly business to
   deliver your goods with less damage to the environment and contribute to the
