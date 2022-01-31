@@ -113,7 +113,7 @@ Furthermore, valuable equipment units are typically expected to be tracked throu
 Shipping pharmaceuticals can be carried out using prevalent transportation modes. They include:
 
 * [Full truckload](https://www.goship.com/posts/when-should-you-switch-to-full-truckload-shipping) (FTL) shipping offers the entire truck that is devoted only to your cargo. If you are planning to move big amounts of medical items, the FTL mode can be a good choice. It also perfectly meets the on-time delivery requirement by excluding any additional stops.
-* [Less than truckload](https://www.goship.com/posts/full-truckload-vs-less-than-truckload-what-is-the-difference) (LTL) shipping suggests cheaper transportation due to sharing the truck space with other customers and delivering goods to several places. 
+* [Less than truckload](https://www.goship.com/shipping-services/ltl-freight-shipping) (LTL) shipping suggests cheaper transportation due to sharing the truck space with other customers and delivering goods to several places. 
 
 When deciding on the appropriate shipping mode, remember that a huge part of pharmaceuticals has to be shipped in reefer trucks or trailers. Both FTL and LTL modes provide cold chain services, however, it is better to verify the availability of refrigerated vehicles in advance. [Reefer shipping](https://www.goship.com/posts/what-is-refrigerated-shipping-and-how-does-it-work) is a nearly irreplaceable option when it comes to healthcare logistics. 
 
