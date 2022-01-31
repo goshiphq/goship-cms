@@ -24,7 +24,7 @@ Regardless of the fluctuations in the freight market, there is a relatively stab
 * The Quiet Shipping Season (January - March)
 * The [Produce Shipping Season](https://www.goship.com/blog/produce-shipping-season-2021-how-to-ship-frozen-food/) (April - July)
 * The [Peak Shipping Season](https://www.goship.com/blog/peak-season-of-freight/) (August - October)
-* The [Holiday Shipping Season](https://www.goship.com/blog/holiday-returns-3-tips-for-handling-reverse-logistics/) (November - December)
+* The [Holiday Shipping Season](https://www.goship.com/blog/prepare-for-the-holiday-shipping-season) (November - December)
 
 ## What is peak season shipping?
 
