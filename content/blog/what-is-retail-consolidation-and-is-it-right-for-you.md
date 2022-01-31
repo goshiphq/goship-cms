@@ -43,4 +43,4 @@ Consolidating your inbound freight is a huge opportunity for cost savings. First
 
 ### Better connectivity
 
-Generally, utilizing a retail consolidation program improves connectivity and [visibility](https://www.goship.com/blog/the-evolution-of-retail-the-role-of-visibility/) throughout the supply chain. More transparent and integrated communication between vendors, suppliers, shippers, and consignees can cooperate more efficiently, and make supply chain performance better. This also reduces stock and inventory issues and eliminated delayed deliveries as well.
+Generally, utilizing a retail consolidation program improves connectivity and visibility throughout the supply chain. More transparent and integrated communication between vendors, suppliers, shippers, and consignees can cooperate more efficiently, and make supply chain performance better. This also reduces stock and inventory issues and eliminated delayed deliveries as well.
