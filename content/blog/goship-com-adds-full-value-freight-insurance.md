@@ -20,7 +20,7 @@ image: images/goship-blog-86-.png
 
 ## About GoShip.com
 
-Founded in 2017, GoShip.com is an [innovative online exchange](https://www.goship.com/how-goship-works/) for less-than-truckload shipping services. Users can ship anything from household appliances to living room furniture, to large freight – no matter the size, you can GoShip it. GoShip.com has partnered with thousands of pre-qualified trucking companies to ensure customers are getting the best rate. Additionally, with countless transportation companies in the market, GoShip.com differentiated itself with the [lowest rates](https://app.goship.com/#/wizard) compared to other major competitors. Finally, users can get a free, no-obligation quote and book their shipment within the same screen. To learn more visit [GoShip.com.](https://www.goship.com/)
+Founded in 2017, GoShip.com is an innovative online exchange for less-than-truckload shipping services. Users can ship anything from household appliances to living room furniture, to large freight – no matter the size, you can GoShip it. GoShip.com has partnered with thousands of pre-qualified trucking companies to ensure customers are getting the best rate. Additionally, with countless transportation companies in the market, GoShip.com differentiated itself with the [lowest rates](https://app.goship.com/#/wizard) compared to other major competitors. Finally, users can get a free, no-obligation quote and book their shipment within the same screen. To learn more visit [GoShip.com.](https://www.goship.com/)
 
 ## Press Contact:
 
