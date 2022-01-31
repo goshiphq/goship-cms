@@ -51,4 +51,4 @@ Another concern is inbound freight costs that arise when shippers don’t follow
 
 Any disruption results in longer operational processes (for example, the need to produce more paperwork, add more manual force to fix the issues, etc). Inconsistency in operations leads to even more chaos, becoming long and inefficient. The whole retail industry depends on EDI's to manage their business, and non-compliant suppliers can cause great complications with document processing. Ultimately, it’s crucial to adjust to market trends and engage in effective compliance programs. Then, both vendors and retailers will find it beneficial.
 
-### Looking for retail shipping? Check GoShip.com’s [small business shipping](https://www.goship.com/shipping-services/ltl-shipping-for-retail-logistics/) services!
+### Looking for retail shipping? Check GoShip.com’s [small business shipping](https://www.goship.com/shipping-services/small-business-shipping) services!
