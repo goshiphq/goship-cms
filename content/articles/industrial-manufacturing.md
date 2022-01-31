@@ -28,7 +28,7 @@ GoShip offers heavy equipment and machinery shipping services as we work with�
 
 ## Machinery Transport 
 
-The logistics industry covers many different verticals, from steel and manufacturing to [food and bev](https://www.goship.com/industries/food-beverage-supply-chain/). Machinery transport falls under a slightly different category which the logistics industry refers to as specialized freight shipping, which is typically used by industrial businesses such as oil and gas, mining, metal manufacturing and more.  
+The logistics industry covers many different verticals, from steel and manufacturing to [food and bev](https://www.goship.com/food-beverage). Machinery transport falls under a slightly different category which the logistics industry refers to as specialized freight shipping, which is typically used by industrial businesses such as oil and gas, mining, metal manufacturing and more.  
 
 Whether you are [buying](https://www.goship.com/blog/how-to-effectively-buy-heavy-equipment-online/) construction equipment or [selling](https://www.goship.com/blog/how-to-sell-heavy-equipment-online/) agriculture equipment, GoShip can provide the means for shipping your heavy load. Backhoes, excavators, tractors - shipping construction equipment and agriculture equipment is possible with this type of service, which GoShip conveniently provides. In the next two sections, we will dive into the essentials of machinery shipping and connect you with the best fit specialized carrier.  
 
