@@ -67,7 +67,7 @@ Knowing the number of shipping units, commodity type, weight, and dimensions is 
 
 ## What is the best way to ship furniture?
 
-What is the [best way of getting the furniture](https://www.goship.com/blog/the-best-way-to-ship-furniture/) to your customers? You could rent a full semi-trailer, even though your furniture will only fill a small portion of the entire load. Unfortunately, this means you'll either need to absorb the extra cost or pass it on to the customer.
+What is the [best way of getting the furniture](https://www.goship.com/furniture) to your customers? You could rent a full semi-trailer, even though your furniture will only fill a small portion of the entire load. Unfortunately, this means you'll either need to absorb the extra cost or pass it on to the customer.
 
 You could load the furniture into a private vehicle to deliver. However, that will often exceed the cost of renting a semitrailer while keeping yourself or a valued employee away from the business. You could also hire long-distance furniture movers. But they're accustomed to moving used household goods. This means they may not give your beautiful furniture the attention and care it deserves.
 
