@@ -37,4 +37,4 @@ Working with reverse logistics can be especially challenging for small businesse
 Cross Border Shipping with GoShip.com
 -------------------------------------
 
-Whether you need to ship LTL or a full truckload, we ship to Canada! Expand your business with GoShip.com’s [**cross border shipping**](https://www.goship.com/shipping-services/cross-country-shipping/) services.
+Whether you need to ship LTL or a full truckload, we ship to Canada! Expand your business with GoShip.com’s [**cross border shipping**](https://www.goship.com/shipping-services/international-shipping) services.
