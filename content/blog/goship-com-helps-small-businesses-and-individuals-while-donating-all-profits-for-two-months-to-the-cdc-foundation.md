@@ -16,15 +16,16 @@ description: GoShip platform is donating 100% of its profits from April and May
 altText: covid donations
 image: images/goship-blog-89-.png
 ---
-**PITTSBURGH, PA — April 8, 2020 —** GoShip.com, a digital shipping platform, is donating 100% of its profits from April and May to help the response to COVID-19. 
 
-GoShip will be donating the profits to the CDC Foundation’s Emergency Response Fund, which provides support to rapidly emerging response needs related to COVID-19. As a 24/7 digital shipping platform, GoShip is open all the time and requires no face-to-face contact — which is particularly relevant with social distancing and stay-at-home orders throughout the United States. 
+**PITTSBURGH, PA — April 8, 2020 —** GoShip.com, a digital shipping platform, is donating 100% of its profits from April and May to help the response to COVID-19.
 
-Featuring a user-friendly interface, customers can conveniently place orders anytime and anywhere in just a few minutes while saving up to 30% over some of the better-known shipping options. GoShip has relationships with more than 50,000 freight carriers, providing shippers of all sizes the most cost-competitive shipping solutions. 
+GoShip will be donating the profits to the CDC Foundation’s Emergency Response Fund, which provides support to rapidly emerging response needs related to COVID-19. As a 24/7 digital shipping platform, GoShip is open all the time and requires no face-to-face contact — which is particularly relevant with social distancing and stay-at-home orders throughout the United States.
 
-GoShip.com Director of Product Ramesh Chalapalli said, “We’re fortunate to be classified as an essential business and to be in a position to help others. GoShip has continued to experience record-setting volumes throughout the COVID-19 pandemic, and we are pleased to be able to give back to the medical community.” 
+Featuring a user-friendly interface, customers can conveniently place orders anytime and anywhere in just a few minutes while saving up to 30% over some of the better-known shipping options. GoShip has relationships with more than 50,000 freight carriers, providing shippers of all sizes the most cost-competitive shipping solutions.
 
-GoShip.com is a digital shipping platform that allows shippers of all sizes to electronically book full-truckload (FTL) and less-than-truckload (LTL) shipments at the press of a button, while enjoying highly competitive rates that are unavailable to most non-Fortune 500 shippers. For more information, visit [www.GoShip.com](http://www.GoShip.com). To download the GoShip.com app, visit the Apple Store or Google Play on your Apple or Android device.
+GoShip.com Director of Product Ramesh Chalapalli said, “We’re fortunate to be classified as an essential business and to be in a position to help others. GoShip has continued to experience record-setting volumes throughout the COVID-19 pandemic, and we are pleased to be able to give back to the medical community.”
+
+GoShip.com is a digital shipping platform that allows shippers of all sizes to electronically book full-truckload (FTL) and less-than-truckload (LTL) shipments at the press of a button, while enjoying highly competitive rates that are unavailable to most non-Fortune 500 shippers. For more information, visit [www.GoShip.com](https://www.GoShip.com). To download the GoShip.com app, visit the Apple Store or Google Play on your Apple or Android device.
 
 \# # #
 
