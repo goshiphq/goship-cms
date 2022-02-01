@@ -1,11 +1,11 @@
 ---
-title: "Large Item Shipping "
+title: "Large Items Shipping: What Is the Best Way to Ship Large Items Cross-Country?"
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/large-item-shipping.jpg
 description: GoShip's large item shipping allows you to ship oversize or heavy
   items and packages with ease. Learn more about our shipping services and get a
   free quote today!
-keywords: large item shipping, How to Ship Large Items? What is the best way to
-  ship large items?
+keywords: large items shipping, how to ship large items, best way to ship large
+  items, shipping large items
 ---
 
 # Large Item Shipping
