@@ -8,7 +8,7 @@ intro: s a business owner, you will need to look for a secure and economical way
   To figure out which method is best for your business, there are many factors
   to consider.
 postedAt: "1632946362700"
-news: true
+news: false
 description: "Parcel shipping is a great solution for brands that ship
   individual or small orders, but if you ship large items, consider LTL freight
   shipping. "
@@ -16,17 +16,16 @@ keywords: LTL and Parcel Shipping
 altText: parcel shipping, ltl shipping, what is ltl
 image: images/understanding-ltl-and-parcel-shipping.png
 ---
-
 As a business owner, you will need to look for a secure and economical way to send your products to your customers.
 
 Most e-commerce business owners are familiar with the sky-high fees of small parcel carriers like FedEx, DHL, and UPS. Don’t even get us started on sending oversized or bulky parcels!
 
 Small businesses can opt for parcel shipping or less-than-truckload (LTL) freight. To figure out which method is best for your business, consider:
 
-- Package dimensions
-- Shipping weight
-- Transit times
-- Final destination
+* Package dimensions
+* Shipping weight
+* Transit times
+* Final destination
 
 To help you make the leap, we rounded up the best reasons why you should go for either LTL or parcel shipping.
 
@@ -94,10 +93,10 @@ However, as your business grows, you’ll want to scale up and increase the secu
 
 Consider making a move to LTL when you start:
 
-- Shipping out more packages;
-- Selling higher value and fragile products;
-- Shipping larger and heavier pallets; and
-- Dealing with bigger retailers.
+* Shipping out more packages
+* Selling higher value and fragile products
+* Shipping [larger and heavier](https://www.goship.com/posts/how-to-ship-large-items) pallets
+* Dealing with bigger retailers
 
 At [GoShip.com](https://goship.com), we can assist you in finding reliable LTL freight carriers with affordable rates.
 
