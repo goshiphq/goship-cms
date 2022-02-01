@@ -1,78 +1,75 @@
 ---
-title: "LTL Freight Shipping: What Is LTL Freight? | GoShip.com"
+title: "LTL Freight Shipping: How to Move Your Freight with LTL Carriers?  "
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/ltl-freight-shipping.jpg
-description: " LTL freight shipping is a transportation method when your freight
-  takes only a part of carrier's trailer. Learn what is LTL freight!"
-keywords: ltl freight shipping
+description: Make your freight shipping operations convenient and cost-effective
+  with LTL shipping mode. GoShip will provide you with a vast network of LTL
+  carriers ready to move your load.
+keywords: ltl freight shipping, ltl, ltl carriers, ltl carrier, ltl shipping,
+  ltl shipping mode, ltl shipping costs
 ---
 # LTL Freight Shipping & LTL Quotes
 
-*Don't have time to compare thousands of quotes from LTL carriers? Let us do it for you! At GoShip.com, we make quoting [LTL freight shipments](https://www.goship.com/posts/ltl-freight-shipping-for-beginners) easier than ever with our self-service online tools. Get an instant quote and list of competitive shipping rates from our contract carriers with the touch of a button. GoShip.com helps you plan, execute, and manage your shipping needs.* 
+Don't have time to compare thousands of quotes from LTL carriers? Let us handle it for you! At GoShip, we make quoting [LTL freight shipments](https://www.goship.com/posts/ltl-freight-shipping-for-beginners) easier than ever with our self-service online tools. Get an instant quote and list of competitive shipping rates from our contract carriers with the touch of a button. GoShip helps you plan, execute, and manage your shipping operations at the highest level. 
 
-## What does LTL stand for? LTL meaning 
+## What Is LTL Shipping and How Does It Work? 
 
-LTL stands for less-than-truckload, which means a typical LTL shipment takes only a part of a freight trailer's space. LTL freight shipping is a transportation method when your shipment takes only a part of the carrier's trailer. Your freight is stacked into pallets, crates, large boxes, and is combined with shipments from other businesses into a single trailer. This makes LTL freight, or less-than-truckload freight, a reliable and cost-efficient solution for shippers and businesses who have small amounts of goods. It is more flexible than a full truckload and offers many benefits to individual shippers and small businesses. 
+LTL stands for less than truckload, which means a typical LTL shipment takes only a part of a freight trailer's space. LTL freight shipping is a transportation method when your shipment takes only a part of the carrier's trailer. Your freight is stacked into pallets, crates, large boxes, and is combined with shipments from other businesses into a single trailer. This makes LTL freight shipping a reliable and cost-efficient solution for shippers and businesses who have small amounts of goods. It is more flexible than a full truckload mode and offers many benefits to individual shippers and small businesses. 
 
- LTL freight is usually combined in hubs, facilities, or distribution centers, and is unloaded in special terminals, where receivers can pick up their orders. LTL shipments can be handled multiple times while in transit. This means that it's the most cost-efficient way to ship your larger-than-parcels items without the cost of a full trailer. The remaining space is filled by other companies, each only having to pay for a portion of the trailer being used. To better understand how LTL shipping works, read our guide on [What Is LTL Shipping](https://www.goship.com/posts/ltl-freight-shipping-for-beginners). 
+LTL freight is usually combined in [hubs](https://www.goship.com/posts/how-does-a-logistics-hub-work), facilities, or distribution centers, and is unloaded in special terminals, where receivers can pick up their orders. LTL shipments can be handled multiple times while in transit. This means that it's the most affordable way to ship your larger-than-parcels items without the cost of a full trailer. The remaining space is filled by other companies, each only having to pay for a portion of the trailer being used. 
 
-## What is LTL freight and when to use it? 
+## When to Use LTL Shipping Mode? 
 
-LTL freight shipping is a great and cost-efficient way to move goods, but it is not quite for everyone. If you are considering LTL freight as an option, you should understand how it works and what do you need to do in order to successfully ship freight.  
+If you are considering LTL freight as an option, make sure you understand how it works and what do you need to do in order to successfully ship your items.  
 
-## LTL freight shipping is perfect for you, if: 
+### LTL freight shipping is perfect for you, if: 
 
-* Your shipment is beyond parcel size limits. If your freight is larger than standard parcels and can be fitted on a couple of pallets or crates, it is a perfect option for LTL. Typically, less-than-truckload shipment will include from 1 to 7 pallets of freight. So if your load is beyond size limits but not enough to take the entire trailer, you should try LTL. 
-* You can pack and load freight by yourself. LTL carriers will often expect you to have the shipment fully prepared before loading. It is highly recommended to pack and secure your freight, with you or your agent being able to help load freight into the trailer. For this service, you can get additional help with our partner -- TaskRabbit. This service offers extra hands when you need help with packaging, loading, unloading, etc.
-* You understand the time specifics of LTL freight shipping. Because LTL involves shipments from multiple shippers that ship to different destinations, it often takes longer to deliver freight. Depending on the destination and route, LTL shipping takes 2-5 days on average. 
+* **Your shipment is beyond parcel size limits.** If your freight is larger than standard parcels and can be fitted on a couple of pallets or crates, it is a perfect option for LTL. Typically, less than truckload shipment will include from 1 to 7 pallets of freight. So if your load is beyond size limits but not enough to take the entire trailer, you should try LTL. 
+* **You can pack and load the freight by yourself.** LTL carriers will often expect you to have the shipment fully prepared before loading. It is highly recommended to pack and secure your freight before the start of the shipping process. To get some help with preparation services, you can address our reliable partner - [TaskRabbit](https://www.goship.com/resources/get-help-with-taskrabbit), that offers extra hands when you need to pack, load, or unload your goods.
+* **You understand the time specifics of LTL freight shipping.** Because LTL involves shipments from multiple shippers that ship to different destinations, it often takes longer to deliver freight. Depending on the destination and route, LTL shipping takes 2-5 days on average. 
 
 ![ltl freight driver inspecting truck](images/ltl-freight-driver.jpg "LTL Freight Carrier")
 
-## How to ship LTL freight? 
+## How to Ship LTL Freight? 
 
-It is easy to ship LTL freight with our online shipping platform. GoShip proprietary technology takes your shipment information and references our carrier network to match you with the best trucks for your shipping needs. We use multiple best practices to provide you with the best, most accurate LTL quote by using multiple carriers and taking weight and dimensions into account. 
+It is easy to ship LTL freight with our online shipping platform. GoShip proprietary technology takes your shipment information and references our carrier network to match your shipping requests. We use multiple best practices to provide you with the best, most accurate LTL quotes by using multiple carriers and taking weight and dimensions into account. 
 
- You can also choose additional services, like liftgate, inside delivery, residential delivery, etc. You can get quotes instantly and book a shipment without extra communication. This makes the shipping process faster and easier for you. With transparent tracking and updates, you can control your shipment in real-time. To learn more about the exact process, read [how to get a quote](https://quotes.goship.com/booking/request-quote). 
+You can also choose additional services, like liftgate, inside delivery, residential delivery, etc. You can get quotes instantly and book a shipment without extra communication. This makes the shipping process faster and easier for you. With transparent tracking and updates, you can control your shipment in real-time. To learn more about the exact process, read [how to get a quote](https://quotes.goship.com/booking/request-quote). 
 
-## Who is an LTL carrier? And what are the types of LTL carriers? 
+## What Are the Types of LTL Carriers? 
 
-An LTL freight carrier is an individual or a company, that provides less-than-truckload transportation services to shippers and third parties. To better choose a carrier for your type of shipment, it's important to understand different types of LTL carriers:
+An LTL freight carrier is an individual or a company, that provides less than truckload transportation services to shippers and third parties. To better choose a carrier for your type of shipment, it's important to understand different types of LTL carriers:
 
-* Local carriers. Local or small carriers form a majority of freight carriers in the US, accounting for 60% of all motor carriers. They usually operate within a small area within 80-100 miles. Typically, local carriers don't have a lot of equipment but can be a better solution if you need last-mile delivery or special services.
-* Regional carriers. Their carriers are somewhere in between, moving freight through the local yet bigger area, or a region. They usually have more trucks and cover an extensive territory. Regional LTL carriers often work with other carriers to fulfill transportation gaps.
-* National carriers. The largest players in the game are called national carriers. These are large companies that operate throughout the country, have tons of equipment, and industry expertise. Sometimes, these carriers can offer better rates and service levels. GoShip.com works with all types of professional carriers to match your purpose. 
+* **Local carriers.** Local or small carriers form a majority of freight carriers in the US, accounting for 60% of all motor carriers. They usually operate within small areas up to100 miles. Typically, local carriers don't have a lot of equipment but can be a better solution if you are interested in [last-mile delivery](https://www.goship.com/posts/last-mile-delivery-improve-service) or special services.
+* **Regional carriers.** This type of LTL carriers is somewhere in between, moving freight through the local yet bigger area, or a region. They usually have more trucks and cover an extensive territory. Regional LTL carriers often work with other carriers to fulfill transportation gaps.
+* **National carriers.** The largest players in the game are called national carriers. These are large companies that operate throughout the country, have tons of equipment, and industry expertise. Sometimes, these carriers can offer better rates and service levels. GoShip works with all types of professional carriers to match your transportation purpose.
 
-## How much does it cost to ship LTL freight? And how LTL rates are calculated? 
+## How Much Does LTL Freight Shipping Cost? 
 
 There are many factors that affect LTL freight rates, but there are a few key things they are based on. LTL rates greatly depend on the freight class, a special [shipping code](http://www.nmfta.org/pages/nmfc) that is determined by National Motor Freight Traffic Association. Freight class is determined by the density, freight stow-ability, ease of handling, and liability of an LTL shipment. 
 
- At GoShip.com, we use our freight class calculator to automatically calculate your freight class for you. The distance your LTL load will travel also determines the final cost.  Here are the key factors that define the cost of LTL freight shipping:
+At GoShip, we use our freight class calculator to automatically determine your freight class for you. The distance your LTL load will travel hugely affects the final cost.
 
-* Freight class 
-* Weight 
-* Dimensions 
-* Destination 
-* Mileage 
-* Additional services 
+## What Factors Determine LTL Shipping Costs?  
 
-## What factors determine LTL freight shipping [rates](https://www.goship.com/posts/best-ltl-shipping-rates)?  
+If you want to maintain the cost-effectiveness of your supply chain, get familiar with the key factors that define the price of LTL freight shipping.
 
 ### Distance 
 
-Typically, the longer the haul, the higher the price. Some LTL carriers only serve a specific region, and transferring the shipment to another LTL carrier will increase the cost. At GoShip.com we do this research for you and match your freight with the best lane and best price. 
+Typically, the longer the haul, the higher the price. Some LTL carriers only serve a specific region, and transferring the shipment to another LTL carrier will increase the cost. At [GoShip](https://www.goship.com/), we do this research for you and match your freight with the best lane and best price. 
 
 ### Freight Class 
 
-[Freight class](https://www.goship.com/posts/what-is-freight-class) is defined by a variety of factors. It is determined by the weight and density of your freight. If you have a lower-class freight, it means that it's heavy, dense, and difficult to break making it easy to handle. Higher-class freight is typically lighter, less dense, and difficult to handle due to being fragile. At GoShip.com, we utilize our freight class calculator to determine your class, so you don't have to! 
+[Freight class](https://www.goship.com/posts/what-is-freight-class) is determined by the size, weight, and density of your freight. If you have a lower-class freight, it means that it's heavy, dense, and difficult to break making it easy to handle. Higher-class freight is typically lighter, less dense, and difficult to handle due to being fragile. 
 
 ### Additional Charges 
 
 Services that go above the normal pick-up and delivery require additional fees. These could include lift gate use, inside delivery, limited access delivery, or freeze protection. 
 
-## What is an LTL freight class? 
+## What Is An LTL Freight Class? 
 
 An LTL freight class is a specific classification, created by [NMFTA](http://www.nmfta.org/) (National Motor Freight Traffic Association) to categorize LTL freight. LTL freight class is based on a number of characteristics and pricing differentiation.  
 
- Mostly, it is defined by a shipment's density. This way, bigger and lighter shipments with low density will cost more to ship, than dense and heavy freight. All commodities are divided into 18 classes,  from Class 50 to Class 500, and a unique NMFC code is attached to each commodity. Freight class plays a prominent role in defining the final cost of LTL shipping. 
+Mostly, the freight class is defined by a shipment's density. This way, bigger and lighter shipments with low density will cost more to ship, than dense and heavy freight. All commodities are divided into 18 classes,  from Class 50 to Class 500, and a unique NMFC code is attached to each commodity. The reight class plays a prominent role in defining the final shipping costs of LTL transportation. 
 
 ![ltl freight carrier loading pallet onto truck](images/ltl-freight-shipping.jpg "Preparing an LTL freight load")
 
