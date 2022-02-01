@@ -43,7 +43,7 @@ An LTL freight carrier is an individual or a company, that provides less than tr
 * **Regional carriers.** This type of LTL carriers is somewhere in between, moving freight through the local yet bigger area, or a region. They usually have more trucks and cover an extensive territory. Regional LTL carriers often work with other carriers to fulfill transportation gaps.
 * **National carriers.** The largest players in the game are called national carriers. These are large companies that operate throughout the country, have tons of equipment, and industry expertise. Sometimes, these carriers can offer better rates and service levels. GoShip works with all types of professional carriers to match your transportation purpose.
 
-## How Much Does LTL Freight Shipping Cost? 
+## How Much Does LTL Freight Shipping Cost?
 
 There are many factors that affect LTL freight rates, but there are a few key things they are based on. LTL rates greatly depend on the freight class, a special [shipping code](http://www.nmfta.org/pages/nmfc) that is determined by National Motor Freight Traffic Association. Freight class is determined by the density, freight stow-ability, ease of handling, and liability of an LTL shipment. 
 
@@ -111,7 +111,7 @@ Through our user-friendly interface, you can get immediate access and compare hu
 
 ### LTL carrier network 
 
-With our online shipping platform, you get access to a wide network of experienced carriers. This way, you don't have to search for shipping providers and can start shipping right away. Whether you're an experienced supply chain professional or an industry novice, GoShip is your one-stop-shop for all your LTL transport needs. 
+With our online shipping platform, you get access to a wide network of experienced carriers. This way, you don't have to search for shipping providers and can start shipping right away. Whether you're an experienced supply chain professional or an industry novice, GoShip is your one-stop shop for all your LTL transport needs. 
 
 ### Online billing and invoicing 
 
