@@ -107,19 +107,19 @@ There is a difference between less than truckload (LTL) and full truckload (FT
 
 ### Instant quotes 
 
-Through our user-friendly interface, you can get immediate access and compare hundreds of quotes from different LTL carriers. That means you don't have to request the price and wait for a response from multiple carriers. Instead, you have all the available rates by your hand and can choose an option that fits you most. The self-service design means there's no need to contact a freight broker to move your LTL load. All you need to do is enter basic shipment information, and pick your carrier! GoShip.com provides you the lowest rates for your LTL shipping needs. To better understand the process, read our guide on [how to get a freight quote](https://quotes.goship.com/booking/request-quote). 
+Through our user-friendly interface, you can get immediate access and compare hundreds of quotes from different LTL carriers. That means you don't have to request the price and wait for a response from multiple carriers. Instead, you have all the available rates by your hand and can choose an option that fits you most. The self-service design means there's no need to contact a freight broker to move your LTL load. All you need to do is enter basic shipment information, and pick your carrier! GoShip provides you with the lowest rates for your LTL shipping needs. To better understand the process, read our guide on [how to get a freight quote](https://quotes.goship.com/booking/request-quote). 
 
 ### LTL carrier network 
 
-With our online shipping platform, you get access to a wide network of experienced carriers. This way, you don't have to search for shipping providers and can start shipping right away.  Whether you're an experienced supply chain professional or an industry novice, GoShip.com is your one-stop-shop for all your LTL transport needs. 
+With our online shipping platform, you get access to a wide network of experienced carriers. This way, you don't have to search for shipping providers and can start shipping right away. Whether you're an experienced supply chain professional or an industry novice, GoShip is your one-stop-shop for all your LTL transport needs. 
 
 ### Online billing and invoicing 
 
-You don't have to worry much about invoicing since GoShip.com provides basic paperwork online. We also audit extra charges for additional services and notify you about any payment changes. If any issue with payment occurs, we provide on-time support. 
+You don't have to worry much about invoicing since GoShip provides basic paperwork online. We also audit extra charges for additional services and notify you about any payment changes. If any issue with payment occurs, we provide on-time support. 
 
 ### Insurance options 
 
-Sometimes, carrier liability is not enough to guarantee goods safety. We care about your shipments and provide a reliable [freight insurance](https://www.goship.com/posts/what-is-freight-insurance) option. We partner with Falvey Insurance Group, industry professionals that help our customers with all required paperwork. Read more about our freight insurance options. 
+Sometimes, carrier liability is not enough to guarantee goods' safety. We care about your shipments and provide a reliable freight insurance option. We partner with [Falvey Insurance Group](https://falveyshippers.com/), industry professionals that help our customers with all required paperwork. Read more about our freight insurance options. 
 
 ### Shipping to Canada 
 
