@@ -53,7 +53,7 @@ Logistics are more vital than ever for any retailer's success. With our experien
 
 ## What Types of Oversized Items Can You Ship?
 
-With GoShip, you can ship any types of freight, from your couch to auto parts. Here are some of the most common large items shipping services we provide:
+With GoShip, you can ship various types of freight, from your couch to auto parts. Here are some of the most common large items shipping services we provide:
 
 ### Furniture shipping
 
