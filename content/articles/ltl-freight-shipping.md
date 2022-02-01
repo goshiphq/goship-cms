@@ -73,19 +73,21 @@ Mostly, the freight class is defined by a shipment's density. This way, bigger a
 
 ![ltl freight carrier loading pallet onto truck](images/ltl-freight-shipping.jpg "Preparing an LTL freight load")
 
-## How to prepare LTL freight for shipping? 
+## How to Prepare LTL Freight for Shipping? 
+
+It is important to know how to prepare your LTL freight shipment for transportation to eliminate the risks of possible logistics disruption.
 
 ### Documentation 
 
-It's important to always make sure the address for pick-up and delivery is correct. After you book a shipment with GoShip.com, you will receive a [bill of lading (BOL)](https://www.goship.com/posts/how-to-complete-a-bol-bill-of-lading-form). The bill of lading is the most important document in the shipping process. So, it is crucial to provide accurate, exact information, and avoid mistakes. Ensure that the document is correct before turning it over to your carrier. 
+It's crucial to always make sure the pick-up and delivery addresses of your shipment are correct. After you book a shipment with GoShip, you will receive a [bill of lading (BOL)](https://www.goship.com/posts/how-to-complete-a-bol-bill-of-lading-form). The bill of lading is the most important document in the shipping process. Ensure that the document is filled out correctly before turning it over to your carrier. 
 
 ### Shipment information 
 
-Accurate dimensions are very important to you and the carrier. The carrier relies on accuracy to maximize their capacity and prevent any fees toward your shipment. This also applies to the weight, freight class, [density](https://www.goship.com/posts/density-affect-ltl-shipping), address destination, etc. If any of the necessary data is inaccurate or uncertain, the shipper can end up paying fees and additional charges. To avoid delays and unwanted costs, double-check your shipment information. 
+Accurate dimensions are very important to you and the carrier. The LTL carriers rely on accuracy to maximize their capacity and prevent any unexpected fees. This also applies to the weight, freight class, [density](https://www.goship.com/posts/density-affect-ltl-shipping), address destination, etc. To avoid delays and unwanted costs, double-check your shipment information. 
 
 ### Packaging and labeling 
 
-Proper packaging is crucial for LTL freight shipping. LTL shipments are handled numerous times before arriving at their destination, so for safe transportation, freight needs to be secured.  It's important and highly recommended to stack your freight onto pallets or crates if possible. There are also different types of freight packages, but some of the most commonly used are:  
+Proper packaging is crucial for LTL freight shipping. LTL shipments are handled numerous times before arriving at their destination, so they need to be secured in a proper way. It's highly recommended to stack your freight onto pallets or crates if possible. There are several types of the most commonly used packaging methods:  
 
 * Crates 
 * Pallets 
@@ -93,11 +95,11 @@ Proper packaging is crucial for LTL freight shipping. LTL shipments are handled 
 * Bundles 
 * Barrels 
 
- To make the shipping process easy and fast, pack your freight accurately before loading. Use tapes and seals if needed, to keep the shipments tight, fixed, and consolidated. This will significantly reduce your chances of damage. To fully prepare your LTL shipment, we recommend referencing our [GoShip packing guide](https://www.goship.com/posts/how-to-safely-prepare-your-ltl-freight-shipment). 
+To make the shipping process easy and fast, pack your freight accurately before loading. Use tapes and seals to keep the shipments tight, fixed, and consolidated. This will significantly reduce the chances of freight damage. To fully prepare your LTL shipment, we recommend referencing our [GoShip packing guide](https://www.goship.com/posts/how-to-safely-prepare-your-ltl-freight-shipment). 
 
 ![small business owner reviewing bill of lading for ltl freight](images/ltl-freight-packing-review.jpg "Reviewing LTL shipment information")
 
-## LTL vs FTL: What is the difference between LTL shipping and FTL shipping? 
+## LTL vs FTL: What Is the Difference Between LTL and FTL Shipping Methods? 
 
 There is a difference between less-than-truckload (LTL) and full truckload (FTL) shipping. In LTL shipping, your freight does not take an entire space in the trailer. Also, there are other shipments from different shippers combined with your freight. Basically, in LTL, you share the truck space with other shippers. In full truckload, you pay and use the entire freight trailer, even if it does not necessarily full. 
 
