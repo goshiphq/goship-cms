@@ -14,7 +14,7 @@ description: Since shipping fragile items can be quite tricky, we recommend you
   transit.
 keywords: fragile items, shipping fragile items, fragile items packaging and shipping
 altText: packing fragile items for shipping
-image: images/goship-blog-15-.png
+image: images/goship-blog-66.jpg
 ---
 Shipping can be stressful, especially if it involves fragile items! You’ll be holding your breath from the moment your package leaves your doorstep up until it reaches its final destination. Businesses are especially careful about damaged items since it’s more likely that you’ll bear the brunt of the damage. Nobody wants to deal with unhappy customers either. Delicate and fragile items, like glassware or antiques, need extra attention, so be prepared to pack and ship them properly.  Using the right packing materials, learning how to protect fragile items, and learning the best way to ship items domestically and overseas will ensure happy customers and a less stressful situation for you.
 
