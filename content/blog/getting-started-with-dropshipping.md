@@ -29,7 +29,7 @@ Have you always wanted to develop your business in eCommerce? It is quite challe
 
 ## What Is Dropshipping?
 
-Dropshipping is a form of eCommerce where order fulfillment is taken care of by third-party suppliers. This means that digital store owners don’t need to use warehouses, keep inventory, and deal with shipping organization. Online store owners are mainly responsible for marketing operations and customer service. This makes online dropshipping attractive for many new entrepreneurs since less capital is needed. 
+Dropshipping is a form of eCommerce where order fulfillment is taken care of by third-party suppliers. This means that digital store owners don’t need to use warehouses, keep inventory, and deal with shipping organizing. Online store owners are mainly responsible for marketing operations and customer service. This makes online dropshipping attractive for many new entrepreneurs since less capital is needed. 
 
 ## Is Dropshipping Business Profitable?
 
