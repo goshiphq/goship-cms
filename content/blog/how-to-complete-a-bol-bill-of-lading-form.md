@@ -59,8 +59,8 @@ To correctly [fill out the BOL](https://www.goship.com/posts/what-is-the-bill-of
 * The date of the shipment
 * The number of shipping units
 * The freight classification
-* The exact weight of the shipment - If there are multiple freight units, each item’s weight must be listed.
-* Type of packaging, including cartons, pallets, skids, and drums
+* The exact weight of the shipment - if there are multiple freight units, each item’s weight must be listed
+* Type of packaging, including cartons, [pallets](https://www.goship.com/posts/a-guide-to-different-types-of-shipping-pallets), skids, and drums
 * A description of the items, including the material of manufacture and common name
 * PO or special account numbers used between businesses for order tracking
 * Special instructions for the carrier
