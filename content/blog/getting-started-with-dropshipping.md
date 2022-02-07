@@ -53,7 +53,7 @@ You only need to find reliable third-party suppliers that you can launch your st
 
 ### Flexible operations
 
-Running a dropshipping business offers work flexibility. As long as you have a stable internet connection, you can successfully get in touch with suppliers and customers to run your business.
+Running a dropshipping business offers work flexibility. As long as you have a stable internet connection, you can successfully get in touch with suppliers and customers to control your business.
 
 ### Low overhead costs
 
@@ -61,11 +61,11 @@ Testing out business strategies will likely have little consequence and low over
 
 ### Wide product selection
 
-Dropshipping businesses can easily ride the wave of viral and trending products. Once you find a supplier that stocks these products, you can add them to your online store listing without spending anything. 
+Dropshipping businesses can easily ride the wave of viral and trending products. Once you find a supplier that stocks these products, you can add them to your online store listing without spending anything. This will also facilitate the buying experience for your customers as they will find many positions from their shopping lists gathered in one place.
 
 ### Great scalability
 
-The bulk of additional work involved with higher demand will fall mostly on your suppliers. While you will still need to research and stay up-to-date on the latest trends, this will give you more time to develop your brand image rather than developing products. 
+The bulk of additional work involved with higher demand will fall mostly on your suppliers. While you still need to research and stay up-to-date on the latest trends, this will give you more time to develop your brand image rather than developing products. 
 
 ## Challenges of Dropshipping
 
