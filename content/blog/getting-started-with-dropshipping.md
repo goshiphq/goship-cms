@@ -25,15 +25,15 @@ description: eCommerce platforms can be incredibly beneficial for your business.
 altText: man packing goods for dropshipping
 image: images/goship-blog-2-.png
 ---
-Have you always wanted to start an eCommerce business? Many businesses have failed to come to fruition due to insufficient capital and difficulties in dealing with warehouses, inventory, and shipping. Fortunately, there’s a more convenient and attainable alternative – dropshipping. Find out if dropshipping is the right choice for you! 
+Have you always wanted to develop your business in eCommerce? It is quite challenging to succeed in eCommerce due to insufficient capital and difficulties in dealing with warehouses, inventory, and numerous shipping operations. Fortunately, there’s a convenient and attainable alternative to start delivering your products in terms of online sales – dropshipping. Find out if dropshipping is the right choice for you! 
 
-## What is Dropshipping?
+## What Is Dropshipping?
 
-Dropshipping is a form of eCommerce where all fulfillment of orders is taken care of by third-party suppliers. This means that digital store owners don’t need a warehouse, keep inventory, and deal with shipping. Online store owners are mainly responsible for marketing and customer service. This makes online dropshipping attractive for many entrepreneurs since less capital is needed. However, dropshipping has gained a negative reputation over the years due to poor management and customer service. 
+Dropshipping is a form of eCommerce where order fulfillment is taken care of by third-party suppliers. This means that digital store owners don’t need to use warehouses, keep inventory, and deal with shipping organization. Online store owners are mainly responsible for marketing operations and customer service. This makes online dropshipping attractive for many new entrepreneurs since less capital is needed. 
 
-## How do Dropshipping businesses make money?
+## Is Dropshipping Business Profitable?
 
-Dropshipping online business owners find reliable third-party suppliers to provide the best dropshipping products to market. By helping potential customers find, review, and purchase the right product with marketing strategies, dropshippers will mark up the price of products offered by third-party suppliers. For dropshipping to be profitable, business owners need to factor in the time and money involved in successfully encouraging customers to buy a product through marketing and customer service strategies
+Dropshipping online business owners find reliable third-party suppliers to provide the best dropshipping products to market. By helping potential customers find, review, and purchase the right product with marketing strategies, dropshippers mark up the price of products offered by third-party suppliers. For dropshipping to be profitable, business owners need to factor in the time and money needed to encourage customers to buy a product through marketing and customer service strategies.
 
 ## Advantages of Dropshipping
 
@@ -67,11 +67,13 @@ Dropshipping businesses can easily ride the wave of viral and trending products
 
 The bulk of additional work involved with higher demand will fall mostly on your suppliers. While you will still need to research and stay up-to-date on the latest trends, this will give you more time to develop your brand image rather than developing products. 
 
-## Disadvantages of Dropshipping
+## Challenges of Dropshipping
+
+It is better to be prepared for common challenging situations that may occur when managing the dropshipping business.
 
 ### Liability
 
-If anything goes wrong down the supply chain, you will still be liable for any mistakes in fulfilling orders. On your part as an online retailer, you will have to accept responsibility and apologize to your customers. Low-quality and unreliable suppliers can lead to endless frustration when it comes to unsecured shipping, packaging, missing items, and damaged products. 
+If anything goes wrong down the supply chain, you will still be liable for any mistakes in [fulfilling orders](https://www.goship.com/posts/attain-better-inventory-accuracy-to-improve-order-fulfillment). On your part as an online retailer, you will have to accept responsibility and apologize to your customers. Low-quality and unreliable suppliers can lead to endless frustration when it comes to unsecured shipping, packaging, missing items, and damaged products. 
 
 ### Limited branding and customization
 
