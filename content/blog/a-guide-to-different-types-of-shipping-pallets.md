@@ -21,7 +21,7 @@ image: images/goship-blog-3.jpg
 
 [The pallet](https://www.plslogistics.com/blog/10-tips-for-palletizing/) is a flat structure used for transporting freight. Wooden pallets are simply platforms of a standard pallet size that are the most [common type of packaging](https://www.goship.com/blog/package-vs-pallet-shipping/) in freight shipping. There are different types of pallets, but they are mostly made of either wood or plastic. The freight is usually secured or tied to the pallet and then stacked into the trailer. 
 
-Pallets are mostly used to attach and secure already packaged freight. This way, the carrier can load a full trailer and avoid moving or damaging any cargo on the truck. Pallets are preferred for most shipments, no matter if this is a full truckload or [less than truckload](https://www.goship.com/posts/palletizing-ltl-freight-everything-you-need-to-know) shipping mode. If you are not planning to use shipping pallets, make sure to discuss packaging requirements with the shipping company or a carrier. [](https://www.goship.com/)
+Pallets are mostly used to attach and secure already packaged freight. This way, the carrier can load a full trailer and avoid moving or damaging any cargo on the truck. Pallets are preferred for most shipments, no matter if this is a full truckload or [less than truckload](https://www.goship.com/posts/palletizing-ltl-freight-everything-you-need-to-know) shipping mode. If you are not planning to use [shipping pallets](https://www.goship.com/posts/package-vs-pallet-shipping), make sure to discuss packaging requirements with the shipping company or a carrier. [](https://www.goship.com/)
 
 ## Standard pallet size & dimensions
 
