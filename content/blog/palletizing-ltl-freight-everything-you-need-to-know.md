@@ -22,7 +22,7 @@ It is crucial for adequate loading and is highly recommended for shippers. **Pal
 
 ## **When should I use pallets?**
 
-Basically, every time you’re moving multiple packages through LTL shipping services. This will make handling easier and faster and will mitigate your worry about your shipment’s safety.
+Basically, every time you’re moving multiple packages through LTL shipping services. [Shipping pallets](https://www.goship.com/posts/package-vs-pallet-shipping) will make handling easier and faster and will mitigate your worry about your shipment’s safety.
 
 ## **How to choose the right pallets?**
 
