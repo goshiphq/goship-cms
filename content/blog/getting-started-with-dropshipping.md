@@ -81,7 +81,7 @@ With dropshipping, there is little room for personalization that can drive up c
 
 ### Lower profit margin
 
-Most online stores will sell products at low prices. To remain competitive, you must match your prices to the market. Even though you have low overhead, your profit margin may be much lower. 
+Most online stores will sell products at low prices. To remain competitive, you must match your prices to the market. Even though you have a low overhead, your profit margin may be much lower. 
 
 ## Getting started with GoShip
 
