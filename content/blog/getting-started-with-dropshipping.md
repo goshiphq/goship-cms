@@ -40,7 +40,7 @@ Dropshipping online business owners find reliable third-party suppliers to prov
 Dropshipping is a great way for entrepreneurs to enter the business scene. Here are the main advantages of dropshipping: 
 
 * **Easy start-up.** Launching an eCommerce business doesn’t have to involve thousands of dollars. Even if you don't have any experience in selling your goods online, dropshipping will give you a chance to take off without extra expenses. Nowadays, when eCommerce marketplaces have become the major global shopping space, you won't have to risk all your finances to enter it and find your target audience.
-* **Less risk involved.** You won’t have to rent warehouse space nor invest in products you aren’t sure customers will buy.  
+* **Less risk involved.** You won’t have to rent warehouse space nor invest in products you aren’t sure customers will buy. When managing the dropshipping business, you can run the demand forecasting to see if there are any changes in your buyers' reactions to different products. Based on this data, it will be easier for you to define the most popular items and make them more available on eCommerce platforms.
 
 Running a dropshipping business means that you don’t have to deal with: 
 
