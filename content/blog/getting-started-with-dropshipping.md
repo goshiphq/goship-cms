@@ -53,7 +53,7 @@ You only need to find reliable third-party suppliers that you can launch your st
 
 ### Flexible operations
 
-Running a dropshipping business offers work flexibility.   As long as you have a stable internet connection, you can successfully get in touch with suppliers and customers to run your business.
+Running a dropshipping business offers work flexibility. As long as you have a stable internet connection, you can successfully get in touch with suppliers and customers to run your business.
 
 ### Low overhead costs
 
@@ -83,4 +83,4 @@ Most online stores will sell products at low prices. To remain competitive, you 
 
 ## Getting started with GoShip
 
-If you are thinking of getting started in eCommerce, dropshipping is a cheaper, easier, and more profitable way to begin your entrepreneurial journey.  By trusting in eCommerce logistics experts like GoShip, you can further enhance and streamline their fulfillment process by connecting them to the leading freight shipping carriers in the US. With GoShip innovative tools, including instant online quotation, booking, and customer assistance and support, your dropshipping business can reach new heights in record time.
+If you are thinking of getting started in eCommerce, dropshipping is a cheaper, easier, and more profitable way to begin your entrepreneurial journey.  By trusting in eCommerce logistics experts like GoShip, you can further enhance and streamline their fulfillment process by connecting them to the leading freight shipping carriers in the US. With [GoShip innovative tools](https://www.goship.com/), including instant online quotation, booking, and customer assistance and support, your dropshipping business can reach new heights in record time.
