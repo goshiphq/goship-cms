@@ -5,7 +5,7 @@ intro: Overstocking and understocking are common outcomes when retail businesses
   However, modern supply chain and logistics offer a number of effective
   solutions to help you meet your buyers’ needs and avoid these challenges.
 postedAt: "1644235216232"
-news: true
+news: false
 description: The frequent problems of overstocking and understocking in terms of
   modern logistics can be extremely harmful to your business operations.
   However, with proper order fulfillment organization, you can successfully
