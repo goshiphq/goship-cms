@@ -83,6 +83,6 @@ With dropshipping, there is little room for personalization that can drive up c
 
 Most online stores will sell products at low prices. To remain competitive, you must match your prices to the market. Even though you have a low overhead, your profit margin may be much lower. 
 
-## Getting started with GoShip
+## Getting Started with GoShip
 
 If you are thinking of getting started in eCommerce, dropshipping is a cheaper, easier, and more profitable way to begin your entrepreneurial journey.  By trusting in eCommerce logistics experts like GoShip, you can further enhance and streamline their fulfillment process by connecting them to the leading freight shipping carriers in the US. With [GoShip innovative tools](https://www.goship.com/), including instant online quotation, booking, and customer assistance and support, your dropshipping business can reach new heights in record time.
