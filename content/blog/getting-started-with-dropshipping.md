@@ -23,7 +23,7 @@ description: eCommerce platforms can be incredibly beneficial for your business.
   If you want to get into this area and increase your sales, dropshipping is a
   great starting point.
 altText: man packing goods for dropshipping
-image: images/goship-blog-2-.png
+image: images/goship-blog-77.jpg
 ---
 Have you always wanted to develop your business in eCommerce? It is quite challenging to succeed in eCommerce due to insufficient capital and difficulties in dealing with warehouses, inventory, and numerous shipping operations. Fortunately, there’s a convenient and attainable alternative to start delivering your products in terms of online sales – dropshipping. Find out if dropshipping is the right choice for you! 
 
