@@ -151,10 +151,6 @@ The carriers' freight liability is limited by Canadian law regulations to $2 CAD
 
 The cost of your shipment will depend on many factors like freight type, weight, dimensions, lane, etc. For certain products, shipping to Canada may be more expensive than regular domestic shipping due to the import taxes.
 
-### Are there any extra duties and taxes for shipping to Canada?
-
-Yes. Like any country, Canada has custom taxes for imported goods. All taxes are based on the shipment's type, declared value, and commodity type. Everything that exceeds $20 CAD in value is subject to 5% duty (for some states, the duties may differ). To see all of the Canada Custom Tariffs, click [here](https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2018/menu-eng.html).
-
 ### What items are prohibited for transportation to Canada?
 
 Canada has a list of restricted or prohibited items for import and export, and some of them require special permits for commercial transportation. You can see the full list of prohibited goods [here](https://www.cbsa-asfc.gc.ca/publications/dm-md/d9-eng.html). Please note that our service does not provide shipping of any personal effects to Canada.
