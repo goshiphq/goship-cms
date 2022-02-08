@@ -101,7 +101,7 @@ When organizing international freight shipping, it is crucial to examine the opt
 
 ## Shipping to Canada 
 
-Canada is the second-largest country in the world and is an important trade destination for many U.S. shippers. Since the United States and Canada are each other’s largest trading partners, small businesses often think of enhancing their shipping flow. Crossing the Canadian border is a perfect start to enter the global market. Nearly 60% of Canadians shop at the US online marketplaces, which means there are plenty of opportunities for business development. 
+Canada is the second-largest country in the world and is an important trade destination for many U.S. shippers. Since the United States and Canada are each other’s largest trading partners, small businesses often think of enhancing their shipping flow. Crossing the Canadian border is a perfect start to enter the global market. The majority of Canadian buyers actively shop at the US online marketplaces, which means there are plenty of opportunities for business development. 
 
 To run a smooth shipment to or from Canada, it is worth evaluating certain aspects of international North American delivery. First, it is crucial to learn what documents you need to ship through Canada. The essential documents for both Canadian and U.S. shippers cover a commercial invoice and a bill of lading. There may be other required documents depending on the type of commodity used or special Canadian customs. Feel free to check out the full list of necessary paperwork [here](https://www.cbsa-asfc.gc.ca/import/guide-eng.html). 
 
