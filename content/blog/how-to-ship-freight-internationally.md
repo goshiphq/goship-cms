@@ -18,7 +18,7 @@ description: International freight shipping has become one of the most effective
   logistics practices to grow your business. Learn how to ship internationally
   and improve your overseas customers' experience.
 altText: international freight shipping
-image: images/goship-blog-24-.png
+image: images/goship-blog-31.jpg
 ---
 It has never been easier to sell and buy things online or ship items internationally. Whether you’re an individual entrepreneur or a small business owner, you can benefit from the rapid development of [cross-border e-commerce](https://www.goship.com/blog/cross-border-e-commerce-everything-you-need-to-know/). Numerous marketplaces made it possible to access customers across the world. For example, [shipping to Canada](https://www.goship.com/blog/shipping-to-canada-from-the-us/) can be a great start for U.S. retailers or businesses.  While it has become easier to expand your audiences and handle transactions from different countries, shipping freight internationally can still be a challenge.
 
