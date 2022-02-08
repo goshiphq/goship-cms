@@ -41,8 +41,6 @@ Choosing the type of international freight shipping is of primary importance as 
 2. **Ocean freight transportation** is probably the most effective way to move large amounts of cargo or oversized items as the shipping is done in big containers loaded onto ocean freighters. However, ocean freight transportation can take much time, so it is better to keep the delivery deadlines in mind. 
 3. **Ground freight transportation** seems to be the most manageable in the organization as it involves well-known logistics operations, and is more accessible and cost-efficient. It works well especially for international shipments of moderate distances that don’t take too long to deliver. Ground freight transportation also includes moving goods by rail, which is quite applicable for delivering heavyweight items of a [large size](https://www.goship.com/shipping-services/large-item-shipping).
 
-
-
 In terms of road freight transportation, there are two prevalent shipping modes:
 
 1. [Full truckload](https://www.goship.com/posts/when-should-you-switch-to-full-truckload-shipping) shipping mode is typically chosen for moving big and heavy items, or large volumes of goods. If you have enough goods to fill in the entire trailer space and the weight of your cargo is up to 50,000 lbs, full truckload is a solution. Also, this shipping mode is aimed at delivering the items on time with making no extra stops during transportation. 
@@ -90,7 +88,7 @@ With GoShip, the process of arranging your shipments is easy and logical. We hav
 
 ## International shipping companies: key solutions for international shipping
 
-When organizing international freight shipping, it is crucial to examine the options of international shipping companies. If you are preparing to ship to Canada, evaluating big transportation providers will come in handy. Currently, there are several most popular options for your international shipping.
+When organizing international freight shipping, it is crucial to examine the options of international shipping companies. If you are preparing to ship to Canada, evaluating big transportation providers will come in handy. Currently, there are several most popular options for your [international shipping](https://www.goship.com/posts/how-to-ship-freight-internationally).
 
 * USPS works well in those cases when you are not limited to strict delivery deadlines and your customer can wait a few extra days to receive the products while they are being sorted out at Canada Post and sent to the final destination. Due to all these procedures, USPS services are usually of moderate prices. 
 * UPS is probably one of the best choices for fast delivery to Canada as this transportation service bypasses the transfer through Canada Post thus saving much time. In addition, UPS provides the possibility of tracking the items’ movement on their way from point A to point B.
