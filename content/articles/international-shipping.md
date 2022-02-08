@@ -1,9 +1,11 @@
 ---
-title: "International Freight Shipping: How to Ship to Canada?"
+title: "International Freight Shipping: How to Manage Shipping to Canada?"
 image: https://storage.googleapis.com/goshiprepo/prod/articles/images/international-shipping.jpg
 description: International freight shipping can incredibly help you grow your
-  business. Start shipping to Canada today!
-keywords: international freight shipping, how to ship to Canada, shipping to Canada
+  business and find your target audience overseas. Start shipping from the US to
+  Canada today!
+keywords: international freight shipping, how to ship to Canada, shipping to
+  Canada, international shipping
 ---
 # International shipping
 
