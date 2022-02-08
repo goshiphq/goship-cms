@@ -64,7 +64,7 @@ Along with growing import and export volumes, [the role of the customs brokers](
 
 ## International shipping rates: how much is international shipping?
 
-The cost of international freight shipping is connected to a variety of factors. Some of them are common for both in-state and international freight transportation, the others are really important to count when planning the international delivery. 
+The shipping costs of international freight transportation are connected to a variety of factors. Some of them are common for both in-state and international freight transportation, the others are really important to count when planning the international delivery. 
 
 To work out the approximate rates of international freight shipping, you primarily have to calculate the distance your cargo is supposed to cover. Shipping to remote areas may appear quite costly, but the final pricing equally depends on the expected delivery time. If you are not tied to strict deadlines, even shipping to distant international destinations can be cost-effective. 
 
