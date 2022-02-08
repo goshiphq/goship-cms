@@ -72,7 +72,7 @@ On the other hand, time-sensible shipments need thorough planning and thinking o
 
 No less important is the **size and weight** of the cargo. Most of the transportation types and modes are conditional on the volume of the items shipped. Thus, it is necessary to get all the required [measurements](https://www.goship.com/posts/how-to-measure-your-freight-shipment-properly) before making any decisions on the transport means. Having all this data in mind, you’ll be able to see what type of international shipping suits you the best - ocean, air, or ground freight transportation. 
 
-For instance, it is convenient to ship oversized items by the ocean, while air freight transportation perfectly meets the strict deadlines requirements. Shipping regular cargo to Canada can be successfully done through ground freight transportation. 
+For instance, it is convenient to ship oversized items by the ocean, while air freight transportation perfectly meets the strict deadlines requirements. Shipping regular cargo to Canada can be successfully done through international ground transportation. 
 
 In the process of arranging your international shipping, you’ll have to pay close attention to gathering all the necessary customs documentation. Commonly, the shippers address the customs brokers who can help to organize the transit according to all the international regulations and restrictions. Apparently, customs broker services modify the shipment pricing, but you will only benefit from leading your documentation correctly and thus avoiding any fines or shipping interdictions. 
 
