@@ -66,11 +66,11 @@ Along with growing import and export volumes, [the role of the customs brokers](
 
 The shipping costs of international freight transportation are connected to a variety of factors. Some of them are common for both in-state and international freight transportation, the others are really important to count when planning the international delivery. 
 
-To work out the approximate rates of international freight shipping, you primarily have to calculate the distance your cargo is supposed to cover. Shipping to remote areas may appear quite costly, but the final pricing equally depends on the expected delivery time. If you are not tied to strict deadlines, even shipping to distant international destinations can be cost-effective. 
+To work out the approximate rates of international freight shipping, you primarily have to calculate the **distance** your cargo is supposed to cover. Shipping to remote areas may appear quite costly, but the final pricing equally depends on the expected delivery time. If you are not tied to strict deadlines, even shipping to distant international destinations can be cost-effective. 
 
-On the other hand, time-sensible shipments need thorough planning and thinking of all the peculiarities that may affect the duration. For example, crossing the border usually involves checking the transported cargo for safety purposes, and this can take some time according to the volume of your freight. 
+On the other hand, time-sensible shipments need thorough planning and thinking of all the peculiarities that may affect the **duration**. For example, crossing the border usually involves checking the transported cargo for safety purposes, and this can take some time according to the volume of your freight. 
 
-No less important is the size and weight of the cargo. Most of the transportation types and modes are conditional on the volume of the items shipped. Thus, it is necessary to get all the required measurements before making any decisions on the transport means. Having all this data in mind, you’ll be able to see what type of international shipping suits you the best - ocean, air, or ground freight transportation. 
+No less important is the **size and weight** of the cargo. Most of the transportation types and modes are conditional on the volume of the items shipped. Thus, it is necessary to get all the required [measurements](https://www.goship.com/posts/how-to-measure-your-freight-shipment-properly) before making any decisions on the transport means. Having all this data in mind, you’ll be able to see what type of international shipping suits you the best - ocean, air, or ground freight transportation. 
 
 For instance, it is convenient to ship oversized items by the ocean, while air freight transportation perfectly meets the strict deadlines requirements. Shipping regular cargo to Canada can be successfully done through ground freight transportation. 
 
