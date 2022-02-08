@@ -19,11 +19,11 @@ International shipping involves the border crossing of your cargo by various tra
 
 ## How to ship freight overseas?
 
-When planning to ship internationally, it is critical to develop a transportation strategy and follow it without skipping any steps. Apparently, international freight shipping requires thorough preparation. On balance, moving goods to other countries, especially to Canada, is nowadays so common that it can appear to be a pleasant and profitable experience even for the newcomers. 
+When planning to ship internationally, it is critical to develop a transportation strategy and follow it without skipping any steps. Apparently, international freight shipping requires thorough preparation. On balance, moving goods to other countries, especially to Canada, is nowadays so common that it appears to be a pleasant and profitable experience even for the newcomers. 
 
-The first thing to consider while getting ready for international shipping is gathering information on the goods you are going to move. Try to analyze what items are most wanted by international buyers and remain popular for longer periods. This will give you a prompt on what you are more likely to sell abroad with a better income. 
+The first thing to consider while getting ready for international shipping is **gathering information** on the goods you are going to move. Try to analyze what items are most wanted by international buyers and remain popular for longer periods. This will give you a prompt on what you are more likely to sell abroad with a better income. 
 
-If you are only starting to ship internationally and would like to avoid possible risks, consider shipping smaller items of moderate size. Also, it is safe-wise to move your products for shorter distances at the beginning to test the market and see whether you are ready to expand the area of trade. The more familiarized with the market of your interest you become, the easier the demand forecasting gets.  
+If you are only starting to ship internationally and would like to avoid possible risks, consider shipping **items of moderate size**. Also, it is safe wise to move your products for shorter distances at the beginning to test the market and see whether you are ready to expand the area of trade. The more familiarized with the market of your interest you become, the easier the demand forecasting gets.  
 
 Preliminary gathering of data also includes the questions of the import and export regulations and restrictions. Dealing with territorial regulations usually engages the customs broker services, but it is better to learn some basics before actually hiring a specialist. Thus you will find out if your goods can cross the border at all. You can easily check it using the official [ International Trade Administration](https://www.trade.gov/) site. 
 
