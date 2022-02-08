@@ -26,7 +26,7 @@ It is not required for you to hire customs brokers. However, if you decide to su
 
 ### The convenience of cross-border shipping operations
 
-The international logistics process isn't too simple to organize, that is why it seems reasonable to direct paperwork clearance responsibilities to a customs broker. Instead of contacting governmental offices on your own, you'll get all the documents issues sorted out by a professional. The appropriate paperwork management will exclude the possibility of shipping disruptions or facing unexpected logistics restrictions. Addressing customs brokerage services can be considered one of the guarantors of successful international delivery. If organized correctly,   all the shipping operations will be completed with no delays and your customers will receive their orders on time.
+The international logistics process isn't too simple to organize, that is why it seems reasonable to direct paperwork clearance responsibilities to a customs broker. Instead of contacting governmental offices on your own, you'll get all the documents issues sorted out by a professional. The appropriate paperwork management will exclude the possibility of shipping disruptions or facing unexpected logistics restrictions. Addressing customs brokerage services can be considered one of the guarantors of successful [international delivery](https://www.goship.com/posts/how-to-ship-freight-internationally). If organized correctly,   all the shipping operations will be completed with no delays and your customers will receive their orders on time.
 
 ### Proper cargo classification
 
