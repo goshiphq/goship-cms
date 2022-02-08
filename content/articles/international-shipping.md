@@ -37,9 +37,11 @@ GoShip offers a wide range of [shipping services](https://www.goship.com/shippin
 
 Choosing the type of international freight shipping is of primary importance as it identifies the flow of actions that need to be taken in terms of organization. Depending on the way you want to ship your goods, there are several main types of international shipping:
 
-1. Air freight transportation is a good option for delivering a cargo of a high density yet being limited in size so it can be easily located inside the plane. This transportation type is quite beneficial as it allows to deliver the goods in a short time and thus improves the overall productivity of the supply chain. Still, air freight transportation is higher in prices and might occur more complicated to arrange. 
-2. Ocean freight transportation is probably the most effective way to move large amounts of cargo or oversized items as the shipping is done in big containers loaded onto ocean freighters. However, ocean freight transportation can take much time, so it is better to keep the delivery deadlines in mind. 
-3. Ground freight transportation seems to be the most manageable in the organization as it involves well-known logistics operations, and is more accessible and cost-efficient. It works well especially for international shipments of moderate distances that don’t take too long to deliver. Ground freight transportation also includes moving goods by rail, which is quite applicable for delivering heavyweight items of a large size.
+1. **Air freight transportation** is a good option for delivering a cargo of a high [density](https://www.goship.com/posts/density-affect-ltl-shipping) yet being limited in size so it can be easily located inside the plane. This transportation type is quite beneficial as it allows to deliver the goods in a short time and thus improves the overall productivity of the supply chain. Still, air freight transportation is higher in prices and might occur more complicated to arrange. 
+2. **Ocean freight transportation** is probably the most effective way to move large amounts of cargo or oversized items as the shipping is done in big containers loaded onto ocean freighters. However, ocean freight transportation can take much time, so it is better to keep the delivery deadlines in mind. 
+3. **Ground freight transportation** seems to be the most manageable in the organization as it involves well-known logistics operations, and is more accessible and cost-efficient. It works well especially for international shipments of moderate distances that don’t take too long to deliver. Ground freight transportation also includes moving goods by rail, which is quite applicable for delivering heavyweight items of a [large size](https://www.goship.com/shipping-services/large-item-shipping).
+
+
 
 In terms of road freight transportation, there are two prevalent shipping modes:
 
@@ -62,7 +64,7 @@ Along with growing import and export volumes, [the role of the customs brokers](
 
 ## International shipping rates: how much is international shipping?
 
-The cost for international freight shipping is connected to a variety of factors. Some of them are common for both in-state and international freight transportation, the others are really important to count when planning the international delivery. 
+The cost of international freight shipping is connected to a variety of factors. Some of them are common for both in-state and international freight transportation, the others are really important to count when planning the international delivery. 
 
 To work out the approximate rates of international freight shipping, you primarily have to calculate the distance your cargo is supposed to cover. Shipping to remote areas may appear quite costly, but the final pricing equally depends on the expected delivery time. If you are not tied to strict deadlines, even shipping to distant international destinations can be cost-effective. 
 
