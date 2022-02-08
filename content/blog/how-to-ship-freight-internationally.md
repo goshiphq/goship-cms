@@ -26,29 +26,25 @@ It has never been easier to sell and buy things online or ship items internation
 
 International shipping is moving shipments between different countries via various transportation modes: trucking, ocean, or road. The main complexity of shipping freight internationally is the customs clearance process. It is important to consider all the intricacies of import and export rules and regulations of a certain country, as well as [taxes](https://www.cbsa-asfc.gc.ca/menu-eng.html), duties, etc. If you’re shipping a parcel, you would typically go to the parcel shipping service and just pay for delivery. But if you need to ship a large volume of goods or freight, the process becomes more complicated. Usually, shippers turn to freight forwarding companies or work with a customs broker to arrange their shipment.
 
-## Stages of international shipping:
+## Types of International Freight Shipping
 
-There are five essential parts in the process of shipping freight internationally:
+The type of your international shipping is determined by the transport means you choose to complete the delivery. While **air freight transportation** is fast and effective, **ocean freight shipping** is more suitable for moving [large items](https://www.goship.com/shipping-services/large-item-shipping). If you are only starting to ship internationally, it is recommended to use **ground freight transportation** due to its high accessibility and cost-efficiency.
 
-* Export haulage
-* Export customs clearance
-* Transportation
-* Import customs clearance
-* Import haulage
+
 
 ## How to Organize International Freight Shipping?
 
-
+When planning your international shipments, make sure to follow principal preparation steps.
 
 ### Information
 
-Essentially, you will be working with the customs broker, who will assist you with paperwork. However, it is your responsibility to collect and provide [accurate information](https://www.goship.com/blog/how-to-measure-your-freight-shipment-properly/) about your shipment. Weight, dimensions, value, classes, [possible restrictions](https://www.goship.com/posts/what-is-an-embargo-in-freight-shipping), or anything that is needed for transportation and customs clearance must be correct.
+Although you might be working with customs brokerage services, it is your primary responsibility to collect and provide [accurate information](https://www.goship.com/blog/how-to-measure-your-freight-shipment-properly/) about your shipment. Weight, dimensions, value, classes, [possible restrictions](https://www.goship.com/posts/what-is-an-embargo-in-freight-shipping), or anything that is needed for transportation and customs clearance must be correct.
 
 Since international freight shipping requires more time for preparations and planning all the necessary operations, it is recommended to complete demand forecasting. You can do it by analyzing your income over certain periods. If you are actively selling your products online, demand forecasting can be held with the help of various marketing tools like collecting feedback, etc. These actions will allow you to start your international shipping with the most popular products.
 
 ### Customs broker
 
-Finding an experienced [customs broker](https://www.goship.com/posts/what-does-customs-broker-do-and-do-you-need-one) is probably the most critical step in shipping freight internationally. A good professional will know all the nuances involved in the process and will save you time and money. From collecting required paperwork to actually handling the customs clearance, a customs broker will be your key guide in the global shipping process and inform you about all the duties and taxes you may face. Usually, businesses use freight forwarding companies, but some international shipping services offer customs brokers on their side to make it easier for the shippers.
+Finding an experienced [customs broker](https://www.goship.com/posts/what-does-customs-broker-do-and-do-you-need-one) is probably the most critical step in shipping freight internationally. A good professional will know all the nuances involved in the process and will save you time and money. From collecting required paperwork and filling out numerous customs forms, to actually handling the customs clearance, a customs broker will be your key guide in the global shipping process and inform you about all the duties and taxes you may face. Usually, businesses use freight forwarding companies, but some international shipping services offer customs brokers on their side to make it easier for the shippers.
 
 ### Tracking
 
@@ -56,6 +52,6 @@ Once your shipment has successfully crossed the border, it’s important to make
 
 ### Reliable carrier
 
-The choice of the carrier is extremely important for successful international shipments. 
+The choice of the carrier is extremely important for successful international shipments. When deciding on suitable international shipping services, verify the carrier's capacity meets your load requirements and can deliver the items within set deadlines.
 
 Need to ship freight [internationally](https://www.goship.com/shipping-services/international-shipping/)? GoShip provides shipping options to and from Canada with easy online booking and customs broker assistance. Use [GoShip online tool](https://www.goship.com/) to get an instant freight quote and pick a reliable carrier to schedule a pickup for your international shipment.
