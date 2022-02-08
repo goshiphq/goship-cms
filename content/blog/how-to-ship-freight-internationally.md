@@ -1,6 +1,7 @@
 ---
 keywords: international freight shipping, successful international freight
-  shipping, international shipping, how to ship internationally
+  shipping, international shipping, how to ship internationally, international
+  shipment, international shipments
 author: GoShip Admin
 title: "How to Ship Internationally: Tips for Successful International Freight
   Shipping"
@@ -51,8 +52,10 @@ Finding an experienced [customs broker](https://www.goship.com/posts/what-does-c
 
 ### Tracking
 
-Once your shipment has successfully crossed the border, it’s important to make sure it makes it to the final destination. Through [shipment tracking](https://www.goship.com/posts/3-benefits-of-shipment-tracking), you can monitor how the transportation process is going, and analyze gaps if there are some. Also, let’s not dismiss [reverse logistics](https://www.goship.com/blog/how-to-increase-customer-loyalty-through-returns) and returns, which is pretty common in the eCommerce business. Think about how your business will respond in case the product will not satisfy or fit your customers. 
+Once your shipment has successfully crossed the border, it’s important to make sure it makes it to the final destination. Through [shipment tracking](https://www.goship.com/posts/3-benefits-of-shipment-tracking), you can monitor how the transportation process is going, and analyze gaps if there are some. Moreover, shipment tracking significantly increases customers' experience by keeping them updated on the cargo's current location. Also, let’s not dismiss [reverse logistics](https://www.goship.com/blog/how-to-increase-customer-loyalty-through-returns) and returns, which is pretty common in the eCommerce business. Think about how your business will respond in case the product will not satisfy or fit your customers. 
 
+### Reliable carrier
 
+The choice of the carrier is extremely important for successful international shipments. 
 
-Need to ship freight [internationally](https://www.goship.com/shipping-services/international-shipping/)? GoShip provides shipping options to and from Canada with easy online booking and customs broker assistance!
+Need to ship freight [internationally](https://www.goship.com/shipping-services/international-shipping/)? GoShip provides shipping options to and from Canada with easy online booking and customs broker assistance. Use [GoShip online tool](https://www.goship.com/) to get an instant freight quote and pick a reliable carrier to schedule a pickup for your international shipment.
