@@ -30,7 +30,10 @@ International shipping is moving shipments between different countries via vario
 
 The type of your international shipping is determined by the transport means you choose to complete the delivery. While **air freight transportation** is fast and effective, **ocean freight shipping** is more suitable for moving [large items](https://www.goship.com/shipping-services/large-item-shipping). If you are only starting to ship internationally, it is recommended to use **ground freight transportation** due to its high accessibility and cost-efficiency.
 
+Ground freight transportation offers you two main shipping modes the choice of which depends on your cargo size and expected delivery time.
 
+* [Less than truckload](https://www.goship.com/posts/ltl-freight-shipping-for-beginners) shipping mode (LTL) is a perfect option for small shipments that don't require the whole trailer's space. You'll share the truck with several individuals and thus saving shipping costs.
+* [Full truckload](https://www.goship.com/posts/when-should-you-switch-to-full-truckload-shipping) shipping mode (FTL) suits large shipments that are both time-sensitive and have high load safety requirements.
 
 ## How to Organize International Freight Shipping?
 
