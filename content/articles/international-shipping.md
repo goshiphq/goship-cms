@@ -90,7 +90,7 @@ With GoShip, the process of arranging your shipments is easy and logical. We hav
 
 ## International shipping companies: key solutions for international shipping
 
-In the process of organizing international freight shipping, it is crucial to examine the options of international shipping companies. If you are preparing to ship to Canada, evaluating big transportation providers will come in handy. Currently, the most popular of them are:
+When organizing international freight shipping, it is crucial to examine the options of international shipping companies. If you are preparing to ship to Canada, evaluating big transportation providers will come in handy. Currently, there are several most popular options for your international shipping.
 
 * USPS works well in those cases when you are not limited to strict delivery deadlines and your customer can wait a few extra days to receive the products while they are being sorted out at Canada Post and sent to the final destination. Due to all these procedures, USPS services are usually of moderate prices. 
 * UPS is probably one of the best choices for fast delivery to Canada as this transportation service bypasses the transfer through Canada Post thus saving much time. In addition, UPS provides the possibility of tracking the items’ movement on their way from point A to point B.
