@@ -131,7 +131,7 @@ After getting familiar with all the frequent questions, it is easier to plan you
 
 ### Shipping to the US islands
 
-Some of the US states are located outside the continent and usually, the goods reach them by ocean freight transportation. Since the US islands are viewed as export territories, it causes the shippers to move their cargo according to the international transportation rules. For instance, shipping to Puerto Rico will require you to fill the standard bill of lading, a commercial invoice, and an Electronic Export Information form if the declared value of your cargo is more than $2, 500. To ship goods to Puerto Rico, you need to move them to the port of Fort Lauderdale where they will be picked by ocean transport.
+Some of the US states are located outside the continent and usually, the goods reach them by ocean freight transportation. Since the US islands are viewed as export territories, it causes the shippers to move their cargo according to the international transportation rules. For instance, shipping to Puerto Rico will require you to fill the standard bill of lading, a commercial invoice, and an Electronic Export Information form if the declared value of your cargo is more than $2, 500. To ship goods to Puerto Rico, you need to move them to the port of Fort Lauderdale where they will be picked up by ocean transport.
 
 In the case of delivering goods to Hawaii, they first travel to the port of California. Interestingly, Hawaii shipments do not typically require any documentation besides a bill of lading. However, if you are going to move some hazardous materials, it is compulsory to prepare additional documentation. 
 
@@ -153,7 +153,7 @@ The cost of your shipment will depend on many factors like freight type, weight,
 
 ### Are there any extra duties and taxes for shipping to Canada?
 
-Yes. Like any country, Canada has custom taxes for imported goods. All taxes are based on the shipment's type, declared value, and commodity type. Everything that exceeds $20 CAD in value is a subject of 5% duty (for some states, the duties may differ). To see all of the Canada Custom Tariffs, click [here](https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2018/menu-eng.html).
+Yes. Like any country, Canada has custom taxes for imported goods. All taxes are based on the shipment's type, declared value, and commodity type. Everything that exceeds $20 CAD in value is subject to 5% duty (for some states, the duties may differ). To see all of the Canada Custom Tariffs, click [here](https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2018/menu-eng.html).
 
 ### What items are prohibited for transportation to Canada?
 
@@ -180,4 +180,4 @@ Yes, all of the payments are held in USD. Shippers need to have a billable U.S. 
 
 With GoShip, the process of arranging your shipments is easy and convenient. We have long-standing relationships with thousands of reliable, experienced carriers across the country. Our self-service website makes finding the carrier that's right for you as simple as possible. We offer free quote comparisons, online booking, and tracking tools, and customizable solutions to meet your exact needs.
 
-Logistics are more vital than ever for any retailer's success. With our experience, expertise and extensive network of carriers, we can provide the capabilities you require to keep your promises to your customers. Get a free quote today!
+Logistics are more vital than ever for any retailer's success. With our experience, expertise, and extensive network of carriers, we can provide the capabilities you require to keep your promises to your customers. Get a free quote today!
