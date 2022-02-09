@@ -4,7 +4,7 @@ intro: The switch from parcel shipping to LTL can cut back shipping costs and
   improve security and traceability. LTL shipping also offer more services for
   improved customer experience compared to FTL shipments.
 postedAt: "1642485639102"
-news: true
+news: false
 description: The switch from parcel shipping to LTL freight shipping can cut
   back shipping costs and improve security and improve customer experience
   compared to FTL shipments.
