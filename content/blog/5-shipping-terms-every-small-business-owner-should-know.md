@@ -4,7 +4,7 @@ intro: Freight shipping is overwhelming for any business owner. However, if you
   want to find the best shipping strategy that will work for you and your
   customers, it’s critical to understand how the process works.
 postedAt: "1642658436896"
-news: true
+news: false
 description: Adding some critical shipping terms to your vocabulary is a great
   way to start taking control of your business shipping strategy.
 keywords: shipping terms, freight shipping, BOL
