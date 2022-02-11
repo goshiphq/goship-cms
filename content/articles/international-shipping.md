@@ -151,7 +151,7 @@ The cost of your shipment will depend on many factors like freight type, weight,
 
 ### What items are prohibited for transportation to Canada?
 
-Canada has a list of restricted or prohibited items for import and export, and some of them require special permits for commercial transportation. You can see the full list of prohibited goods [here](https://www.cbsa-asfc.gc.ca/publications/dm-md/d9-eng.html). Please note that our service does not provide shipping of any personal effects to Canada.
+Canada has a list of restricted or prohibited items for import and export, and some of them require special permits for commercial transportation. Please note that our service does not provide shipping of any personal effects to Canada.
 
 ### What are transit times for shipments from the U.S. to Canada?
 
