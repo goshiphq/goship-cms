@@ -52,7 +52,7 @@ There are different services available for proper shipping of specialized freigh
 
 * **Expedited delivery** is a good option in case your shipment is time-critical and needs to be delivered with no delays. In terms of [expedited delivery](https://www.goship.com/posts/what-is-expedited-shipping-when-should-you-use-it), the driver won't make any unnecessary stops and will follow the most optimal route. Also, this specialized freight service works best for arranging last-minute shipments during the [busy moving season](https://www.goship.com/posts/3-tips-for-the-busy-moving-season).
 * White glove service or [service for hiring helpers](https://www.goship.com/resources/get-help-with-taskrabbit/)
-* [Oversize freight shipping](https://www.goship.com/blog/buying-oversized-items-online/)
+* **Oversize freight shipping** often requires booking special trucks that can properly place and fixate your cargo. [Large items](https://www.goship.com/shipping-services/large-item-shipping) transportation is regulated by numerous shipping policies, so it is beneficial to get some help when organizing this type of shipment.
 * [Tradeshow shipping](https://www.goship.com/blog/trade-show-shipping-3-things-to-know/)
 * [Furniture shipping](https://www.goship.com/blog/choose-furniture-delivery-service/)
 
