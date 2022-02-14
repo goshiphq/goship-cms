@@ -46,8 +46,8 @@ For [businesses](https://www.goship.com/shipping-services/small-business-shippin
 
 ## How much does an inside delivery cost?
 
-Inside delivery is an additional service in LTL freight shipping, and each carrier will individually determine the charge for these services. Before arranging an inside delivery, clearly communicate it with your carrier and state accurate location details to receive the most decent pricing.
+Inside delivery is an additional service in [LTL freight shipping](https://www.goship.com/posts/ltl-freight-shipping-for-beginners), and each carrier will individually determine the charge for these services. Before arranging an inside delivery, clearly communicate it with your carrier and state accurate location details to receive the most decent pricing.
 
 ## Shipping with GoShip
 
-GoShip.com offers an option of inside pickup and delivery when you book a shipment. Also, we partner with a [helping service TaskRabbit](https://www.goship.com/resources/get-help-with-taskrabbit/), where you can additionally hire taskers. If you want a reliable shipping platform, GoShip.com offers the ability to work with many trusted carriers who offer inside delivery. Just select it as an option when entering information about your shipment!
+GoShip offers an option of inside pickup and delivery when you book a shipment. Also, we partner with a [helping service TaskRabbit](https://www.goship.com/resources/get-help-with-taskrabbit/), where you can additionally hire taskers. If you want a reliable shipping platform, GoShip offers the ability to work with many trusted carriers who offer inside delivery. Just select it as an option when entering information about your shipment!
