@@ -42,7 +42,7 @@ Many carriers have strict policies that prohibit drivers from in-home delivery o
 
 ### Commercial delivery
 
-For businesses, the rules are slightly different, but the policies remain the same. The carrier will only bring the load a few feet inside the main entrance, and no further. If it exceeds the limitations, there will be an increase in the delivery charges. Delivering freight up winding stairways or driveways are considered “extraordinary” functions and will not be performed.
+For businesses, the rules are slightly different, but the policies remain the same. The carrier will only bring the load a few feet inside the main entrance, and no further. If it exceeds the limitations, there will be an increase in the delivery charges. According to the commercial transportation terms and conditions, delivering freight up winding stairways or driveways are considered “extraordinary” functions and will not be performed.
 
 ## How much does an inside delivery cost?
 
@@ -50,4 +50,4 @@ Inside delivery is an additional service in [LTL freight shipping](https://www.g
 
 ## Shipping with GoShip
 
-GoShip offers an option of inside pickup and delivery when you book a shipment. Also, we partner with a [helping service TaskRabbit](https://www.goship.com/resources/get-help-with-taskrabbit/), where you can additionally hire taskers. If you want a reliable shipping platform, GoShip offers the ability to work with many trusted carriers who offer inside delivery. Just select it as an option when entering information about your shipment!
+GoShip offers an option of inside pickup and delivery when you book a shipment. Also, we partner with a [helping service TaskRabbit](https://www.goship.com/resources/get-help-with-taskrabbit/), where you can additionally hire taskers and make a delivery or pickup request. If you want to use a reliable shipping platform, GoShip offers the ability to work with many trusted carriers. Just select it as an option when entering information about your freight shipments!
