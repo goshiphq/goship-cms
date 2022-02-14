@@ -35,7 +35,7 @@ On the one hand, empty shelves of the regular stores or online marketplaces resu
 
 On the other hand, the excessive presence of your product on the market can become a signal of a limited amount of what you can suggest to your buyers in the future. Retailers who have just started shipping their goods are often afraid of being out of stock, which makes them oversupply the stores with their goods. This usually happens because of the lack of supply chain experience and lack of planning. 
 
-As a result, you are likely to lose the finances you put into the production of certain goods that haven’t turned out to be popular among your customers. Frequently, the redundant supply provokes [deadstock](https://www.goship.com/posts/what-is-deadstock-and-how-to-get-rid-of-it) issues, when you are no more capable of releasing your products at a profitable retail price so that they are being kept at warehouses bringing no income to your business.
+As a result, you are likely to lose the finances you put into the production of certain goods that haven’t turned out to be popular among your customers. Frequently, the redundant supply provokes [deadstock issues](https://www.goship.com/posts/what-is-deadstock-and-how-to-get-rid-of-it), when you are no more capable of releasing your products at a profitable retail price so that they are being kept at warehouses bringing no income to your business.
 
 ## How to Avoid Overstocking and Understocking?
 
