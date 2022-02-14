@@ -1,6 +1,6 @@
 ---
 keywords: specialized freight shipping, specialized freight shipping services,
-  how to transport specialized freight
+  how to transport specialized freight, special freight services
 author: GoShip Admin
 title: What Are Specialized Freight Shipping Services?
 intro: >-
@@ -48,9 +48,9 @@ Usually, specialized freight includes mining equipment, large metal details, oil
 
 ## What are the available special freight services?
 
-There are different services available for proper shipping of specialized freight, and the one that fits you most depends on your product specifics. Here are a few examples of special services you can use:
+There are different services available for proper shipping of specialized freight, and the one that fits you most depends on your product specifics. Here are a few examples of the most popular special freight services:
 
-* [Expedited delivery](https://www.goship.com/blog/what-is-expedited-shipping/)
+* **Expedited delivery** is a good option in case your shipment is time-critical and needs to be delivered with no delays. In terms of [expedited delivery](https://www.goship.com/posts/what-is-expedited-shipping-when-should-you-use-it), the driver won't make any unnecessary stops and will follow the most optimal route. Also, this specialized freight service works best for arranging last-minute shipments during the [busy moving season](https://www.goship.com/posts/3-tips-for-the-busy-moving-season).
 * White glove service or [service for hiring helpers](https://www.goship.com/resources/get-help-with-taskrabbit/)
 * [Oversize freight shipping](https://www.goship.com/blog/buying-oversized-items-online/)
 * [Tradeshow shipping](https://www.goship.com/blog/trade-show-shipping-3-things-to-know/)
