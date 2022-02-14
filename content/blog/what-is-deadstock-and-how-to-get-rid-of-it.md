@@ -34,17 +34,16 @@ It is difficult to accurately forecast market demand. Essentially, there will be
 
 If you already have plenty of products left on your warehouse shelves, there are a few ways you can get rid of them. Firstly, it is reasonable to analyze the items' appearance and functionality. If they're still up-to-date and can regain certain popularity among your buyers, it's worth selling them with a discount. Also, it is easier to sell products during holidays, so consider offering deadstock goods in terms of big sales like [Black Friday](https://www.goship.com/posts/shipping-black-friday-and-cyber-monday-key-reminders).
 
-Secondly, the deadstock products can be sent to your customers as gifts added to their main order. Organizing a trial on your online marketplace can be a win-win situation: you'll get rid of deadstock, and simultaneously launch a customer appreciation program. According to numerous surveys, a high percentage of buyers feel more devoted to retailers offering [free gift purchases](https://www.brandwatch.com/blog/promotional-products-brand-recognition/#:~:text=66%25%20of%20participants%20claimed%20they,business%20with%20the%20company%20again.). In addition, this strategy significantly contributes to your brand recognition process.
+Secondly, the deadstock products can be sent to your customers as gifts added to their main order. Organizing a trial on your online marketplace can be a win-win situation: you'll eliminate deadstock units, and simultaneously launch a customer appreciation program. According to numerous surveys, a high percentage of buyers feel more devoted to retailers offering [free gift purchases](https://www.brandwatch.com/blog/promotional-products-brand-recognition/#:~:text=66%25%20of%20participants%20claimed%20they,business%20with%20the%20company%20again.). In addition, this strategy significantly contributes to your brand recognition process.
 
 Another way to dispose of excessive items is applying for charity donations. It may not be as profitable as arranging a sale, but this is a great opportunity to expand your target audience and deliver your product to those unable to afford it. Besides, participating in charity programs can help you gain the customers' trust and make your business attractive for future partnerships.
 
 ## How to avoid deadstock issues?
 
-However, the best way to avoid a problem is to prevent it from happening. So, the main step to prevent dead inventory from staying in your warehouse is reevaluating your inventory management strategy. This includes the following considerations: 
+The main step to prevent inventory leftovers from staying in the warehouse is reevaluating your inventory management strategy. This includes the following considerations:
 
-* Accurate demand forecasts 
-* Upgrading your inventory management software  
-* Keep track of sales data and customer demands 
-* Set preorders and keep safety stock 
+* **Accurate demand forecasts**. A detailed analysis of your sales statistics will allow you to spot the most profitable items. This is how you know what products are worth keeping in stock at all times. Likewise, less popular items can be ordered in smaller amounts to reduce the deadstock risks. Also, get to know your audience better by gathering feedback and suggesting product rating options. It is equally beneficial to follow the latest market trends to supply highly demanded goods and constantly stay competitive.
+* **Setting preorders**. As soon as you complete the demand prediction, you can start practicing preorders on your trade platforms. Setting preorders can give you a clearer picture of the order quantity so you don't overstock your storage facility. Moreover, the preorders strategy will give you an interesting insight into your customers' purchase wishlist.
+* **Upgrading inventory management software**. Modern logistics takes advantage of a whole range of software options that helps to effectively supervise the inventory. The inventory management software will immediately notify you about the changes in the product's quantity. This is especially useful for retailers keeping their stock in warehouses since they always remain updated on their items' volume.
 
-Ultimately, updating your inventory management takes time and effort that will pay off. Keeping your stock under control will benefit not only your profits and productivity but will also present your company as a sustainable market player.
+Ultimately, updating your inventory management takes a long time and effort that will certainly pay off. Keeping your stock under control will not only grow your profits and productivity but will also present your company as a sustainable market player.
