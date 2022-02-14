@@ -20,7 +20,7 @@ intro: >-
   Specialized shipping is used in industrial businesses like o
 postedAt: 1621400409000
 news: false
-description: Modern logistics can adapt to any transporation needs. If you are
+description: Modern logistics can adapt to any transportation needs. If you are
   planning to ship items with particular requirements, explore specialized
   freight shipping services.
 altText: specialized shipping measuring
