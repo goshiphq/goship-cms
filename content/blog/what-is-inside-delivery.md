@@ -18,7 +18,7 @@ description: Applying inside freight pickup and delivery services can
   significantly improve customer experience and guarantee the secure
   transportation of your cargo.
 altText: "Inside Pickip "
-image: images/copy-of-goship-website-image-template-1024-x-768-px-16-.png
+image: images/goship-blog-35.jpg
 ---
 ## What is inside freight delivery?
 
