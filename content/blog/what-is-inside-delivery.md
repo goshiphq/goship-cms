@@ -42,7 +42,7 @@ Many carriers have strict policies that prohibit drivers from in-home delivery o
 
 ### Commercial delivery
 
-For [businesses](https://www.goship.com/shipping-services/small-business-shipping/), the rules are slightly different, but the policies remain the same. The carrier will only bring the load a few feet inside the main entrance, and no further. If it exceeds the limitations, there will be an increase in the delivery charges. Delivering freight up winding stairways or driveways are considered “extraordinary” functions and will not be performed.
+For businesses, the rules are slightly different, but the policies remain the same. The carrier will only bring the load a few feet inside the main entrance, and no further. If it exceeds the limitations, there will be an increase in the delivery charges. Delivering freight up winding stairways or driveways are considered “extraordinary” functions and will not be performed.
 
 ## How much does an inside delivery cost?
 
