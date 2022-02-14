@@ -18,8 +18,7 @@ image: images/goship-blog-3-.png
 ---
 The global pandemic has [changed the e-commerce landscape](https://www.goship.com/blog/3-tips-for-shipping-strategy-success-in-2021/) forever. With intense digitalization and the exponential growth of online shopping, retail supply chains across the world are now strained with new market demands. One of those demands is a more efficient order fulfillment strategy, which requires reviewing your [warehouse practices](https://www.plslogistics.com/blog/3-predicted-warehouse-management-trends-for-2021) as well. Inventory discrepancies are becoming a costly issue for businesses. Essentially, more orders and transactions increase the chance for errors, so inventory accuracy is critical.
 
-How do you achieve higher inventory accuracy?
----------------------------------------------
+## How do you achieve higher inventory accuracy?
 
 ### Review your warehouse strategy
 
@@ -31,4 +30,4 @@ Software is an [essential tool](https://www.goship.com/blog/2021-outlook-small-b
 
 ### Control and consistency
 
-Ultimately, market demands are changing very fast. It is crucial to keep a keen eye on your inventory and warehousing. Regular warehouse check-ups will help you keep a finger on your supply chain’s pulse and be more proactive with your strategy. Consistency and control will help maintain a properly organized warehouse space and enhance order.
+Ultimately, market demands are changing very fast. It is crucial to [keep an eye on your inventory](https://www.goship.com/posts/what-is-deadstock-and-how-to-get-rid-of-it) and warehousing. Regular warehouse check-ups will help you keep a finger on your supply chain’s pulse and be more proactive with your strategy. Consistency and control will help maintain a properly organized warehouse space and enhance order.
