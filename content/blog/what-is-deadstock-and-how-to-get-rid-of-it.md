@@ -1,10 +1,22 @@
 ---
-title: "What Is Deadstock and How Do I Get Rid of It?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-deadstock-and-how-to-get-rid-of-it.jpg"
+keywords: what is deadstock, how to avoid deadstock, effective inventory
+  management, inventory management strategies, inventory control
+author: GoShip Admin
+title: What Is Deadstock and How to Get Rid of It?
+intro: Well-organized inventory management is a must-have for a successful
+  retail strategy. In the post-pandemic world, optimal use of warehouse space is
+  a necessity to meet the budget bottom line and grow profits. Often, shippers
+  are faced with inaccurate or inconsistent inventory management which leads to
+  overstocking or understocking.  While understocking is a common issue,
+  overstocking, or deadstock, is rarely talked about in the retail industry.
+  However, it isn’t less important and can have equally damaging c
 postedAt: 1614747637000
 news: false
-author: "GoShip Admin"
-intro: "Well-organized inventory management is a must-have for a successful retail strategy. In the post-pandemic world, optimal use of warehouse space is a necessity to meet the budget bottom line and grow profits. Often, shippers are faced with inaccurate or inconsistent inventory management which leads to overstocking or understocking.  While understocking is a common issue, overstocking, or deadstock, is rarely talked about in the retail industry. However, it isn’t less important and can have equally damaging c"
+description: The problem of deadstock is one of the effects of ineffective
+  inventory management. Learn what is deadstock and how to avoid stocking issues
+  in your business.
+altText: deadstock items
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-deadstock-and-how-to-get-rid-of-it.jpg
 ---
 Well-organized inventory management is a must-have for a successful retail strategy. In the post-pandemic world, optimal use of warehouse space is a necessity to [meet the budget](https://www.goship.com/blog/3-tips-for-transportation-budgeting-in-2021/) bottom line and grow profits. Often, shippers are faced with inaccurate or inconsistent inventory management which leads to overstocking or understocking.  While understocking is a common issue, overstocking, or deadstock, is rarely talked about in the retail industry. However, it isn’t less important and can have equally damaging consequences to not having products in stock. Considered an ongoing struggle for sustainable manufacturing and supply chain management, overstocking and keeping deadstock is definitely not a bonus to any company. If your company faces challenges with understocking or dead inventory management, it is time to learn what deadstock is and the impact it can have on your business. Another crucial tip is to review your [inventory management strategy](https://www.goship.com/blog/attain-better-inventory-accuracy-to-improve-order-fulfillment/) to make sure you are prepared.  
 
