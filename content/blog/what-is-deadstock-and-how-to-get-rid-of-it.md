@@ -12,9 +12,9 @@ intro: Well-organized inventory management is a must-have for a successful
   However, it isn’t less important and can have equally damaging c
 postedAt: 1614747637000
 news: false
-description: The problem of deadstock is one of the effects of ineffective
-  inventory management. Learn what is deadstock and how to avoid stocking issues
-  in your business.
+description: The problem of deadstock is one of the characteristics of
+  ineffective inventory management. Learn what is deadstock and how to avoid
+  stocking issues in your business.
 altText: deadstock items
 image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-deadstock-and-how-to-get-rid-of-it.jpg
 ---
