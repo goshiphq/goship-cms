@@ -51,12 +51,12 @@ Usually, specialized freight includes mining equipment, large metal details, oil
 There are different services available for proper shipping of specialized freight, and the one that fits you most depends on your product specifics. Here are a few examples of the most popular special freight services:
 
 * **Expedited delivery** is a good option in case your shipment is time-critical and needs to be delivered with no delays. In terms of [expedited delivery](https://www.goship.com/posts/what-is-expedited-shipping-when-should-you-use-it), the driver won't make any unnecessary stops and will follow the most optimal route. Also, this specialized freight service works best for arranging last-minute shipments during the [busy moving season](https://www.goship.com/posts/3-tips-for-the-busy-moving-season).
-* White glove service or [service for hiring helpers](https://www.goship.com/resources/get-help-with-taskrabbit/)
-* **Oversize freight shipping** often requires booking special trucks that can properly place and fixate your cargo. [Large items](https://www.goship.com/shipping-services/large-item-shipping) transportation is regulated by numerous shipping policies, so it is beneficial to get some help when organizing this type of shipment.
-* [Tradeshow shipping](https://www.goship.com/blog/trade-show-shipping-3-things-to-know/)
-* [Furniture shipping](https://www.goship.com/blog/choose-furniture-delivery-service/)
+* **White glove service** allows you to direct the logistics operations to helpers and concentrate on managing your business. [Companies that offer](https://www.goship.com/resources/get-help-with-taskrabbit) white glove services take care of all the packing, lifting, shifting, and delivery processes. In addition, they can provide aid with assembling and disassembling the shipped items.
+* **Oversize freight shipping** often requires booking specific trucks that can properly place and fixate your cargo. [Large items](https://www.goship.com/shipping-services/large-item-shipping) transportation is regulated by numerous shipping policies, so it is beneficial to get some help when organizing this type of shipment.
+* **Tradeshow shipping** is actively used by business owners willing to represent and advertise their products on expos and tradeshows. If you are planning to take part in events like these, you'll have to bring your items in perfect condition. This is where the [tradeshow shipping](https://www.goship.com/posts/trade-show-shipping-3-things-to-know) will offer you careful handling and highly secure transportation.
+* **Furniture shipping** service will help you safely move furniture pieces of all sizes. Many furniture units need to be disassembled before shipping, and this specialized freight service can help you properly organize the sequence of packing, loading, and [transporting furniture](https://www.goship.com/furniture).
 
-There is also a long list of available accessorial services.
+
 
 ## How to transport specialized freight
 
