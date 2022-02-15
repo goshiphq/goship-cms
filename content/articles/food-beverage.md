@@ -92,23 +92,19 @@ Packaging is also a huge factor in the safety of your fruits and vegetables. 
 
 GoShip can bridge you to the right shipper that provides safe and quick end-to-end temperature control for shipping your produce at a great price! 
 
-### Shipping Dairy Products 
+## Shipping Dairy 
 
-Over the past year, grocery e-commerce has become the most popular means of food shopping, prompting dairy shippers to strengthen their supply chains. Unfortunately, shipping dairy products is one of the more challenging aspects of transportation. 
+Over the past year, grocery e-commerce has become the most popular means of food shopping, prompting dairy shippers to strengthen their supply chains. 
 
-When shipping dairy products, you want to select a reliable carrier because dairy is so tricky, with a proclivity to spoil and delicate packaging. Dairy shippers must prioritize finding the right carrier with a strong reliability record. That is why leveraging a freight marketplace like GoShip is the best option because you are allowed to select a carrier that fits your needs and sets your customers and products as their top priority. 
+When shipping dairy products, it is important to select a reliable carrier. Dairy goods are tricky, with a proclivity to spoil fast and needing delicate packaging. GoShip is one of the best options since you can select a carrier that sets your products' quality as their top priority. 
 
 ## Shipping Liquids 
 
-Shipping liquids is just like shipping solids, just harder. As with any shipment, you’ll want to identify the base needs of the shipment: cost, pick-up, and drop-off dates, temperature requirements, and so on. 
-
-The key difference comes down to adhering to best practices for packaging and carrier selection. 
+When shipping liquids, the key difference comes down to adhering to best practices for packaging and carrier selection. 
 
 Liquids should always be packaged in waterproof containers to avoid spillage. For products that can be moved in a wide range of temperatures, sealed containers help prevent spoilage through fluctuations in humidity that naturally occur during transit. Shippers often include a waterproof liner within their shipping container to err on the side of caution. 
 
 Your shipping container should be clearly labeled that it carries liquids, with a notice on all sides and clear indicators of which side should face up. While you likely trust your packaging manufacturer, there is no need to take on additional risks. 
-
-Because shipping liquids carries additional risk, you should select a carrier with a strong safety record and who is prepared to move your liquids. If you are finding for a new carrier, you should use an online freight marketplace like [GoShip](https://www.goship.com/shipping-services/truckload-freight-shipping/), which has pre-vetted carriers for safety and quality. 
 
 Finally, you should make sure that you are falling on the right side of any carrier agreement and local laws. Many carriers will have specific requirements depending on the contents of your liquid shipment, and most governments have laws on how certain liquids, like alcohol, are shipped. 
 
