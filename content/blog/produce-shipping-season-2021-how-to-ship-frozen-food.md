@@ -42,6 +42,12 @@ When it comes to shipping frozen food, successful order fulfillment depends heav
 
 Because of the tight capacity of the refrigerated trucks market, it is important to book cold containers in advance. Shipping food products is challenging since your goods have to be delivered in excellent condition. Maintaining an attractive appearance and condition is only possible with proper temperature control and good service. When looking for a carrier, make sure the company is compliant with the FDA Food Safety Modernization Act. The next years will be especially complicated to compete for cold shipping options in terms of COVID-19 vaccine distribution.
 
+## Cold chain shipping strategy
+
+Cold chain shipping strategy is a necessity of transportation of the food items. Adopting the cold chain scheme includes working with [reefer shipping services](https://www.goship.com/posts/3-best-practices-for-refrigerated-freight-shipping) who offer modern transport means with built-in temperature regulation systems. These systems can maintain the required temperature and humidity for a long time, even during the international shipping.
+
+If you don't have an opportunity to book refrigerated trucks, you may consider using different types of coolers such as frozen gel packs or dry ice packs. However, it is worth remembering that shipping with dry ice can only be a suitable choice for short distance shipments.
+
 ## Ship food with GoShip
 
 We can connect you with the best truckload carriers with temperature-controlled equipment and provide safety for your shipment. Get a [free quote](https://www.goship.com/) in a few clicks!
