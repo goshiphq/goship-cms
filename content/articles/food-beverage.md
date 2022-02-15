@@ -1,8 +1,10 @@
 ---
-title: How to Ship Food and Beverages  with GoShip
-description: Using instant pricing and guaranteed capacity from GoShip, shipping
-  food and beverages has never been easier.
-keywords: "shipping food, how to ship food, food shipping services "
+title: How to Organize Shipping Food and Beverages with GoShip
+description: Transportation of perishable goods requires complex logistics
+  organization. Learn how to make shipping food and beverages easier with a
+  reliable freight shipping service.
+keywords: shipping food, how to ship food, food shipping services, how to ship
+  food and beverages, shipping food and beverages, how to ship beverages
 ---
 ## How to Ship Food 
 
