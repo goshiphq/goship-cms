@@ -14,7 +14,7 @@ postedAt: 1615352433000
 news: false
 description: Springtime traditionally marks the peak season of shipping fresh
   produce. Learn how to ship frozen food using reliable shipping services and
-  maintain your cold chain.
+  follow your cold chain strategy.
 altText: shipping frozen food
 image: images/goship-website-image-template-1024-x-768-px-1-.png
 ---
