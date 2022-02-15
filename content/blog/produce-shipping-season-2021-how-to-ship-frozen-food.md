@@ -44,9 +44,9 @@ Because of the tight capacity of the refrigerated trucks market, it is important
 
 ## Cold chain shipping strategy
 
-Cold chain shipping strategy is a necessity of transportation of the food items. Adopting the cold chain scheme includes working with [reefer shipping services](https://www.goship.com/posts/3-best-practices-for-refrigerated-freight-shipping) who offer modern transport means with built-in temperature regulation systems. These systems can maintain the required temperature and humidity for a long time, even during the international shipping.
+The cold chain shipping strategy is a necessity for transportation of the food items. Adopting the cold chain scheme includes working with [reefer shipping services](https://www.goship.com/posts/3-best-practices-for-refrigerated-freight-shipping) who offer modern transport means with built-in temperature regulation systems. These systems can maintain the required temperature and humidity for a long time, even during international shipping.
 
-If you don't have an opportunity to book refrigerated trucks, you may consider using different types of coolers such as frozen gel packs or dry ice packs. However, it is worth remembering that shipping with dry ice can only be a suitable choice for short distance shipments.
+If you don't have an opportunity to book refrigerated trucks, you may consider using different types of coolers such as frozen gel packs or dry ice packs. However, it is worth remembering that shipping with dry ice can only be a suitable choice for short-distance shipments.
 
 ## Ship food with GoShip
 
