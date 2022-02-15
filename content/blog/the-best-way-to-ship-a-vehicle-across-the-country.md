@@ -1,10 +1,26 @@
 ---
-title: "The Best Way to Ship a Vehicle Across the Country"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/the-best-way-to-ship-a-vehicle-across-the-country.jpg"
+keywords: Goship Vehicle
+author: GoShip Admin
+title: The Best Way to Ship a Vehicle Across the Country
+intro: >-
+  Shipping large objects and equipment is always a challenge. Shipping a vehicle
+  is no exception. Whether you are selling a vehicle or a heavy piece of
+  equipment, you'll need to be prepared with a successful shipping strategy.
+  While shipping a vehicle across the country can be quite costly, you can find
+  a more reasonable price by taking the right steps. 
+
+
+  1. How much does it cost to ship a vehicle across the country?
+
+  -
+
+
+  The price of shipping a vehicle has a very wide range, varying between $300 and $1500. Pri
 postedAt: 1601355967000
 news: false
-author: "GoShip Admin"
-intro: "Shipping large objects and equipment is always a challenge. Shipping a vehicle is no exception. Whether you are selling a vehicle or a heavy piece of equipment, you'll need to be prepared with a successful shipping strategy. While shipping a vehicle across the country can be quite costly, you can find a more reasonable price by taking the right steps. \n\n1. How much does it cost to ship a vehicle across the country?\n-\n\nThe price of shipping a vehicle has a very wide range, varying between $300 and $1500. Pri"
+description: Goship Vehicle
+altText: Goship Vehicle
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/the-best-way-to-ship-a-vehicle-across-the-country.jpg
 ---
 Shipping large objects and equipment is always a challenge. Shipping a vehicle is no exception. Whether you are [selling a vehicle](https://www.goship.com/blog/how-to-sell-heavy-equipment-online/) or a heavy piece of equipment, you'll need to be prepared with a successful shipping strategy. While shipping a vehicle across the country can be quite costly, you can find a more reasonable price by taking the [right steps](https://www.goship.com/blog/how-does-the-shipping-of-automotive-parts-work/).
 
@@ -21,4 +37,4 @@ There are two key types of transportation for vehicles: open and closed transpor
 3\. What is the best way to ship a vehicle?
 -------------------------------------------
 
-Ultimately, if you’re not familiar with all the intricacies of [heavy items shipping](https://www.goship.com/blog/how-do-you-ship-heavy-equipment/), it is better to turn to professionals. You can choose a specialized car shipping company or use a reliable shipping platform that will connect you with many professional carriers. This way, you will be able to choose from a variety of options in terms of budget and service. These platforms also usually help with paperwork, tracking your shipment, getting insurance, and handling a freight claim if needed.
+Ultimately, if you’re not familiar with all the intricacies of [heavy items shipping](https://www.goship.com/posts/how-to-ship-heavy-equipment), it is better to turn to professionals. You can choose a specialized car shipping company or use a reliable shipping platform that will connect you with many professional carriers. This way, you will be able to choose from a variety of options in terms of budget and service. These platforms also usually help with paperwork, tracking your shipment, getting insurance, and handling a freight claim if needed.
