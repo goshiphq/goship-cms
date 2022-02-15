@@ -152,28 +152,18 @@ To sum up, when shipping beer, it's safe to follow the best practices for shippi
 
 ### Shipping Wine 
 
-When it comes to shipping wine, you can experience an array of issues if unprepared. From complicated alcohol laws to heavy boxes filled with liquids, the logistics involved with shipping wine can be challenging. 
-
-To legally ship wine anywhere in the country, you must be a licensed wine dealer. It is illegal for any unlicensed citizen to mail wine to another person. 
-
-Additionally, shipping wine requires extreme care and protection to prevent the bottles from being damaged. Securely package the bottles so they reach the customer safely. 
+When it comes to shipping wine, you can experience an array of issues if unprepared. From complicated alcohol laws to heavy boxes filled with liquids, the logistics involved with shipping wine can be challenging. To legally ship wine anywhere in the country, you must be a licensed wine dealer. It is illegal for any unlicensed citizen to mail wine to another person. Additionally, shipping wine requires extreme care and protection to prevent the bottles from being damaged. Securely package the bottles so they reach the customer safely. 
 
 Finally, shipping wine can be more expensive compared to other goods due to size, weight, required signatures, and the occasional surcharge for delivering directly to consumers instead of a traditional warehouse or facility. 
 
-With GoShip, you can circumvent a number of these challenges. We’ll ship your wine to your customer safely and quickly through our network of over 50,000 pre-vetted carriers, and at wholesale prices, giving you the peace of mind in knowing you’ve gotten the best rates. 
-
 ### Shipping Liquor 
 
-Safety is a primary concern when shipping spirits, so make sure to properly organize your shipping process. Many carriers accept shipments that contain alcoholic beverages, but there are some additional steps to the process. 
+Safety is a primary concern when shipping spirits, so make sure to properly organize your shipping process. Many carriers accept shipments that contain alcoholic beverages, but there are some additional steps to the process. Most carriers require labeling liquor shipments and providing proper packaging for the bottles, like double-sealing, waterproof packaging, and then boxing. We recommend you completely cover the shipment in something soft to reduce the risk of glass damage and to absorb any liquid if the bottle breaks. 
 
-Most carriers require labeling liquor shipments and providing proper packaging for the bottles, like double-sealing, waterproof packaging, and then boxing. We recommend you completely cover the shipment in something soft to reduce the risk of glass damage and to absorb any liquid if the bottle breaks. 
-
-Additionally, some states require you to obtain a special license for shipping alcohol. Once you meet the necessary requirements, GoShip can help you [find quotes](https://quotes.goship.com/booking/request-quote) from a wide variety of pre-vetted carriers. Final delivery requires an adult over 21 with proper identification to sign for the package, so you’ll want tight coordination between you, the recipient, and the carrier. 
+Additionally, some states require you to obtain a special license for shipping alcohol. Once you meet the necessary requirements, GoShip can help you [find quotes](https://quotes.goship.com/booking/request-quote) from a wide variety of experienced carriers. Final delivery requires an adult over 21 with proper identification to sign for the package, so you’ll want tight coordination between you, the recipient, and the carrier. 
 
 ### Shipping Whiskey 
 
-Whiskey has grown to become one of the most popular liquors in the United States over the past year, recently surpassing vodka. Shipping whiskey is similar to shipping wine or other liquors: you need to have a license that allows you to ship alcohol and you need to operate within federal laws and the laws of both the pickup and delivery states.  
+Shipping whiskey is similar to shipping wine or other liquors: you need to have a license that allows you to ship alcohol and you need to operate within federal laws and the laws of both the pickup and delivery states.  
 
-When shipping whiskey, you must be cautious with the packaging. Glass bottles need to be packaged and handled delicately. At GoShip, we offer a variety of reliable carriers that are trained to handle delicate shipments like whiskey. As you book a load, you can note shipments that contain fragile materials so carriers know to handle them with care. 
-
-Shippers often think that shipping whiskey can be expensive, but at GoShip, we help you get wholesale pricing that fits within your budget. You can review pricing through our [Get a Quote](https://quotes.goship.com/booking/request-quote) feature, which presents options from local, regional, and national carriers ready to ship your whiskey.
+When shipping whiskey, you must be cautious with the packaging. Glass bottles need to be packaged and handled delicately. At GoShip, we offer a variety of carriers ready to handle all types of shipments. As you book a load, you can note shipments that contain fragile materials so carriers know to handle them with care.
