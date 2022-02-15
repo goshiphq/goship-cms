@@ -4,7 +4,7 @@ intro: Freight shipping returns can be a good opportunity to improve your retail
   strategy. Learn how to manage reverse logistics and process order returns with
   no damage to your business.
 postedAt: "1644944807013"
-news: true
+news: false
 description: Freight shipping returns can be a good opportunity to improve your
   retail strategy. Learn how to manage reverse logistics and process order
   returns with no damage to your business.
