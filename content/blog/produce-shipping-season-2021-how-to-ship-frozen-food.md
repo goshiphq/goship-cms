@@ -1,7 +1,7 @@
 ---
 keywords: shipping food, shipping frozen food
 author: GoShip Admin
-title: "Produce Shipping Season 2021: How to Ship Frozen Food"
+title: "How to Ship Frozen Food: Tips for Managing Produce Shipping Season"
 intro: Springtime traditionally marks the start of the shipping season for fresh
   produce. Peaking in late spring, loads of fresh produce start filling shipping
   lanes from southern states. Most fruit and vegetable farmers, as well as
@@ -19,15 +19,15 @@ image: images/goship-website-image-template-1024-x-768-px-1-.png
 ---
 Springtime traditionally marks the start of the shipping season for fresh produce. Peaking in late spring, loads of fresh produce start filling shipping lanes from southern states. Most fruit and vegetable farmers, as well as importers, start to look for the capacity to distribute their products across the country when the demand for fresh produce greatly increases. 
 
-Grocery stores, supermarkets, and restaurants need seasonal fruit and veggies to sustain their businesses. Refrigerated capacity is normally tight during this season. The COVID-19 pandemic has exacerbated this capacity shortage because a great chunk of carriers with cold containers are needed to [ship the COVID-19 vaccine](https://www.plslogistics.com/blog/preparing-supply-chain-networks-for-vaccine-transportation). 
-
-This means shippers will need to be more proactive when planning their fresh produce and frozen food shipping strategy in 2021.
+Grocery stores, supermarkets, and restaurants need seasonal fruit and veggies to sustain their businesses. Refrigerated capacity is normally tight during this season. The COVID-19 pandemic has exacerbated this capacity shortage because a great chunk of carriers with cold containers are needed to [ship the COVID-19 vaccine](https://www.plslogistics.com/blog/preparing-supply-chain-networks-for-vaccine-transportation). This means shippers will need to be more proactive when planning their fresh produce and frozen food shipping strategy.
 
 ## When is the produce shipping season?
 
-The produce season usually starts in April and lasts till the end of summer. It is the peak season for fresh produce farmers and distributors, making it one of the busiest seasons of the year. Regardless of the circumstances, greenery and veggies are always in high demand during this time. As fresh produce is transported only through refrigerated trucks, the temperature-controlled capacity begins to tighten, and freight rates sometimes increase as much as 30%.
+The produce season usually starts in April and lasts till the end of summer. It is the peak season for fresh produce farmers and distributors, making it one of the busiest seasons of the year. Regardless of the circumstances, greenery and veggies are always in high demand during this time. As fresh food items are transported only through refrigerated trucks, the temperature-controlled capacity begins to tighten, and freight rates sometimes increase as much as 30%.
 
-## Tips for shipping fresh produce: How to ship frozen food
+## Tips for shipping fresh products: how to ship frozen food
+
+
 
 ### Plan your food shipping strategy ahead
 
