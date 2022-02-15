@@ -1,10 +1,24 @@
 ---
+keywords: Goship Service
+author: GoShip Admin
 title: "Last Mile Delivery: What Is It And How To Improve Your Service?"
-image: "https://storage.googleapis.com/goshiprepo/prod/blog/images/last-mile-delivery-improve-service.jpg"
+intro: >-
+  In the fiercely competitive e-commerce industry, last mile delivery is a
+  crucial stage of the shipping process. With the growing role of customer
+  experience, the demand for high quality, last mile shipping is rising. 
+
+
+  What is last mile delivery?
+
+  -
+
+
+  Last mile delivery refers to the transportation of freight from a warehouse or distribution facility to the final destination, which is almost always a facility or residence of a customer. Despite it’s the final step of the supply chain, last mile is the most ex
 postedAt: 1566968411000
 news: false
-author: "GoShip Admin"
-intro: "In the fiercely competitive e-commerce industry, last mile delivery is a crucial stage of the shipping process. With the growing role of customer experience, the demand for high quality, last mile shipping is rising. \n\nWhat is last mile delivery?\n-\n\nLast mile delivery refers to the transportation of freight from a warehouse or distribution facility to the final destination, which is almost always a facility or residence of a customer. Despite it’s the final step of the supply chain, last mile is the most ex"
+description: Goship Service
+altText: Goship Service
+image: https://storage.googleapis.com/goshiprepo/prod/blog/images/last-mile-delivery-improve-service.jpg
 ---
 In the fiercely competitive e-commerce industry, last mile delivery is a crucial stage of the shipping process. With the growing role of customer experience, the demand for high quality, last mile shipping is rising.
 
@@ -35,4 +49,4 @@ Utilizing tracking systems and technology for inventory management will reduce t
 
 At the end of the day, trying and constantly analyzing processes will help increase the efficiency of last mile delivery. With the help of technology and monitoring, you will be able to see the gaps and opportunities to improve. It’s important to make smart decisions since every mistake can cost you a loyal customer.
 
-### Check our solutions for [Small Business Shipping](https://www.goship.com/shipping-services/ltl-shipping-for-retail-logistics/)!
+### Check our solutions for [Small Business Shipping](https://www.goship.com/wholesale-retail-trade)!
