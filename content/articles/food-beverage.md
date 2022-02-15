@@ -48,7 +48,7 @@ Planning is critical when shipping this type of food. [Refrigerated trucks](
 
 If your goods aren't packaged properly, the food might not stay frozen and can potentially spoil. Refrigerated trucks will keep the temperature and humidity within range, but the time before and after loading requires extra protection in case of outages at your facility or the shipment’s destination. You want to make sure the food you are shipping is fresh and unspoiled when it arrives at its destination, so packaging it properly is important. Consider applying additional ice packs to maintain the required temperature in case the reefer truck system stops working.
 
-### Book a Suitable Carrier 
+### Book a Suitable Carrier
 
 At GoShip, we can help you plan a fast and easy shipping process with one of our many reliable, pre-vetted carriers to help make sure your frozen foods arrive on time and in perfect condition. Visit our [food and beverage page](https://www.goship.com/posts/all-you-need-to-know-about-shipping-food-cross-country) to learn more about how GoShip can help you safely ship your frozen foods, or fill out our [Get a Quote](https://www.goship.com/) form and see which providers best suit your shipping needs. 
 
@@ -76,17 +76,17 @@ By planning ahead—when packaging, when selecting a carrier, when warehousing�
 
 ![small business owners packing and preparing to ship food and beverages at table](images/goship-website-image-template-1024-x-768-px-31-.png "Shipping Perishables")
 
-### Shipping Meat 
+## Shipping Meat 
 
-Food quality and extreme delivery deadlines are just some of the many challenges [food and beverage](https://www.goship.com/posts/all-you-need-to-know-about-shipping-food-cross-country) retailers are facing. Fast and planned shipping is what can help strengthen your entire business mechanism. Perishable products like meat require thorough supply chain planning that cannot survive any disruptions. 
+Food quality and extreme delivery deadlines are just some of the many challenges food and beverage retailers are facing. Fast and planned shipping is what can help strengthen your entire business mechanism. Perishable products like meat require thorough supply chain planning that cannot survive any [disruptions](https://www.goship.com/posts/how-to-deal-with-supply-chain-disruptions). 
 
 With logistics playing such a large role in transporting temperature-sensitive shipments, GoShip can provide you with consistent and workable solutions for shipping meat and other perishables. 
 
 [Refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/) have special protection from sun and rain apart from in-built refrigeration systems. Also, there is a strict compliance policy for reefer carriers, so it is a safe and reliable way to ship meat. GoShip offers free refrigerated shipping rates for your meat supply chain! 
 
-### Shipping Fruit & Shipping Vegetables 
+### Shipping Fruits & Vegetables 
 
-Shipping fresh fruits and vegetables requires careful planning and near-perfect execution to have fresh produce arrive fresh and edible. Keeping the fresh produce at a safe temperature for the entirety of the journey is your major focus. While some fruits and vegetables may travel fine without a climate-controlled truck, you will often want to consider [refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/) to move your freight. Not only are fruit and vegetables susceptible to temperature, but humidity as well, as condensation can build up on your fresh produce and cause premature aging.  
+Shipping fresh fruits and vegetables requires careful planning and near-perfect execution to have products arrive fresh and edible. Keeping the fresh produce at a safe temperature for the entirety of the journey is your major focus. While some fruits and vegetables may travel fine without a climate-controlled truck, you will often want to consider [refrigerated trucks](https://www.goship.com/blog/what-is-refrigerated-shipping-and-how-does-it-work/) to move your freight. Not only are fruit and vegetables susceptible to temperature, but humidity as well, as condensation can build up on your fresh produce and cause premature aging.  
 
 Packaging is also a huge factor in the safety of your fruits and vegetables. Your produce should be carefully packaged and padded to prevent damage. Leverage moisture-wicking bags to help keep your produce dry. You should plan for your perishable goods to be able to survive 24-36 hours and stay under 40 degrees Fahrenheit throughout the trip. 
 
