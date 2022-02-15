@@ -1,5 +1,6 @@
 ---
-keywords: shipping food, shipping frozen food
+keywords: shipping food, shipping frozen food, how to ship produce, how to ship
+  frozen food
 author: GoShip Admin
 title: "How to Ship Frozen Food: Tips for Managing Produce Shipping Season"
 intro: Springtime traditionally marks the start of the shipping season for fresh
@@ -12,8 +13,8 @@ intro: Springtime traditionally marks the start of the shipping season for fresh
 postedAt: 1615352433000
 news: false
 description: Springtime traditionally marks the peak season of shipping fresh
-  produce. Shippers need to know how to ship frozen food with cold shipping
-  practices.
+  produce. Learn how to ship frozen food using reliable shipping services and
+  maintain your cold chain.
 altText: shipping frozen food
 image: images/goship-website-image-template-1024-x-768-px-1-.png
 ---
