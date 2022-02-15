@@ -70,9 +70,7 @@ Transit will often occur on a [refrigerated truck](https://www.goship.com/blog
 
 ### Warehousing
 
-Finally, proper [warehousing](https://www.goship.com/posts/attain-better-inventory-accuracy-to-improve-order-fulfillment) is critical. Every stop for your perishable between pickup and delivery should be at a facility designed to keep perishables safe. 
-
-By planning ahead—when packaging, when selecting a carrier, when warehousing—you can ship perishables quickly and safely, maximizing your time on the shelf and ability to get into consumers’ hands. 
+Finally, proper [warehousing](https://www.goship.com/posts/attain-better-inventory-accuracy-to-improve-order-fulfillment) is critical. Every stop for your perishable between pickup and delivery should be at a facility designed to keep perishables safe. By planning your packaging methods, selecting a trusted carrier, leading warehousing operations, you can ship perishables quickly and safely.
 
 ![small business owners packing and preparing to ship food and beverages at table](images/goship-website-image-template-1024-x-768-px-31-.png "Shipping Perishables")
 
@@ -90,9 +88,9 @@ Shipping fresh fruits and vegetables requires careful planning and near-perfect 
 
 Packaging is also a huge factor in the safety of your fruits and vegetables. Your produce should be carefully packaged and padded to prevent damage. Leverage moisture-wicking bags to help keep your produce dry. You should plan for your perishable goods to be able to survive 24-36 hours and stay under 40 degrees Fahrenheit throughout the trip. 
 
-GoShip can bridge you to the right shipper that provides safe and quick end-to-end temperature control for shipping your produce at a great price! 
+GoShip can bridge you to the right shipper that provides safe and quick end-to-end temperature control for shipping your product at a great price! 
 
-## Shipping Dairy 
+## Shipping Dairy
 
 Over the past year, grocery e-commerce has become the most popular means of food shopping, prompting dairy shippers to strengthen their supply chains. 
 
@@ -118,7 +116,7 @@ When looking for a carrier, make sure the company is compliant with the [FDA Fo
 
 ### Can you ship liquids to Canada? 
 
-Yes, you can ship liquids to Canada, although there are a number of prohibited liquids that you are unable to ship, including (but not limited to) gasoline, nail polish,  remover, perfumes that contain alcohol, alcoholic beverages, poisons, and flammable or explosive liquids. 
+Yes, you can ship liquids to Canada, although there are several prohibited liquids that you are unable to ship, including (but not limited to) gasoline, nail polish,  remover, perfumes that contain alcohol, alcoholic beverages, poisons, and flammable or explosive liquids. 
 
 Depending on what you are shipping, even if it's not prohibited, you may need a permit to ship it north of the border. To see if the item you wish to ship is prohibited or requires a permit, check out [Canada's shipping guidances](https://inspection.canada.ca/importing-food-plants-or-animals/plant-and-plant-product-imports/airs/eng/1300127512994/1300127627409). 
 
@@ -160,7 +158,7 @@ Finally, shipping wine can be more expensive compared to other goods due to�
 
 Safety is a primary concern when shipping spirits, so make sure to properly organize your shipping process. Many carriers accept shipments that contain alcoholic beverages, but there are some additional steps to the process. Most carriers require labeling liquor shipments and providing proper packaging for the bottles, like double-sealing, waterproof packaging, and then boxing. We recommend you completely cover the shipment in something soft to reduce the risk of glass damage and to absorb any liquid if the bottle breaks. 
 
-Additionally, some states require you to obtain a special license for shipping alcohol. Once you meet the necessary requirements, GoShip can help you [find quotes](https://quotes.goship.com/booking/request-quote) from a wide variety of experienced carriers. Final delivery requires an adult over 21 with proper identification to sign for the package, so you’ll want tight coordination between you, the recipient, and the carrier. 
+Additionally, some states require you to obtain a special license for shipping alcohol. Once you meet the requirements, GoShip can help you [find quotes](https://quotes.goship.com/booking/request-quote) from a wide variety of experienced carriers. Final delivery requires an adult over 21 with proper identification to sign for the package, so you’ll want tight coordination between you, the recipient, and the carrier. 
 
 ### Shipping Whiskey 
 
