@@ -112,17 +112,15 @@ Finally, you should make sure that you are falling on the right side of any carr
 
 ### Safest Way to Ship Liquids 
 
-Shipping liquids require enhanced safety and planning because many liquids are potentially inflammable. Before shipping liquids, make sure the carrier accepts liquids in the first place, and then provide proper packaging. It’s most safe when a product is double sealed, put in waterproof packaging, and only after that is placed in the box, crate, or other storage. 
+Shipping liquids require enhanced safety and planning because many liquids are potentially inflammable and considered dangerous goods. Before shipping liquids, make sure the carrier accepts liquids in the first place, and then provide proper packaging. It’s most safe when a product is double sealed, put in waterproof packaging, and only after that is placed in the box, crate, or other storage. 
 
 When looking for a carrier, make sure the company is compliant with the [FDA Food Safety Modernization Act](https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/food-safety-modernization-act-fsma). Let GoShip help deliver liquids and beverages straight to your customer's table with our advanced transportation solutions, carrier network, tracking capabilities, and decades of experience in shipping [food and beverage](https://www.goship.com/posts/all-you-need-to-know-about-shipping-food-cross-country) products. 
 
 ### Can you ship liquids to Canada? 
 
-Shipping liquids across the northern border to Canada is somewhat of a gray area. The short answer is yes, you can ship liquids to Canada, although there are a number of prohibited liquids that you are unable to ship, including (but not limited to) gasoline, nail polish, and remover, perfumes that contain alcohol, alcoholic beverages, poisons, and flammable or explosive liquids. 
+Yes, you can ship liquids to Canada, although there are a number of prohibited liquids that you are unable to ship, including (but not limited to) gasoline, nail polish,  remover, perfumes that contain alcohol, alcoholic beverages, poisons, and flammable or explosive liquids. 
 
-Depending on what you are shipping, even if it's not prohibited, you may need a permit to ship it north of the border. 
-
-To see if the item you wish to ship is prohibited or requires a permit, check out [Canada's shipping guidances](https://inspection.canada.ca/importing-food-plants-or-animals/plant-and-plant-product-imports/airs/eng/1300127512994/1300127627409). 
+Depending on what you are shipping, even if it's not prohibited, you may need a permit to ship it north of the border. To see if the item you wish to ship is prohibited or requires a permit, check out [Canada's shipping guidances](https://inspection.canada.ca/importing-food-plants-or-animals/plant-and-plant-product-imports/airs/eng/1300127512994/1300127627409). 
 
 ## Shipping Alcohol 
 
@@ -134,19 +132,21 @@ Shipping alcohol directly to consumers likely has legal constraints. For exampl
 
 Shipping alcohol tends to be more expensive than shipping most similarly sized items, so finding a reliable carrier that is affordable and trustworthy is a necessity. Using an online freight marketplace, like GoShip, allows you to run through a large list of pre-vetted carriers to find the right fit for your freight.  
 
-Overall, shipping alcohol can be an easy process if you make sure you (1) package your alcohol correctly, (2) make sure you operate within legal means to ship alcohol to its destination, and (3) choose the right carrier to ship your alcohol.  
+Overall, shipping alcohol can be an easy process if you make sure you:
+
+* Package your alcohol correctly.
+* Operate within legal means to ship alcohol to its destination.
+* Choose the right carrier to ship your alcohol. 
 
 ### Shipping Beer 
 
-While we’ve long since left the Prohibition era of smuggling into speakeasies and the Smokey and the Bandit days of bootlegging beer across state lines, shipping beer legally still isn’t exactly easy. 
-
-While you should follow the best practices for packaging and carrier selection outlined elsewhere on this page, beer tends to have strict laws wrapped around how you can move it. 
+Shipping beer legally still isn’t too easy. While you should follow the best practices for packaging and carrier selection outlined elsewhere on this page, beer tends to have strict laws wrapped around how you can move it. 
 
 Shipping beer in-state, or to and from locations within the same state, is the easiest scenario, as you only must worry about one state’s worth of legal constraints. For example, in Kentucky, you would need to know about the 11 completely dry counties and the other 56 with special circumstances. 
 
 Once you expand to shipping beer across state lines, you must start worrying about both the origin state and the destination state. For example, you may be fine to ship from your business in Nevada directly to consumers in Nevada, but you cannot ship from your business in Nevada directly to consumers in Utah, where direct-to-consumer beer shipments are prohibited. 
 
-In short, when shipping beer, follow the best practices for shipping liquid perishables, but work in close concert with your carrier and within the confines of both origin and destination laws. 
+To sum up, when shipping beer, it's safe to follow the best practices for shipping liquid perishables but work in close concert with your carrier and within the confines of both origin and destination laws. 
 
 ![Man stocking shelves with recent wine shipment](images/goship-website-image-template-1024-x-768-px-19-.png "Shipping Alcohol")
 
