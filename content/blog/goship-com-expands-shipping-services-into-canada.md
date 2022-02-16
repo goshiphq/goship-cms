@@ -24,12 +24,12 @@ For shipments to and from Canada, GoShip.com customers are able to use their own
 
 GoShip.com hopes to continue to expand its shipping services in the upcoming year. GoShip.com is committed to investing in new technology to provide customers with a seamless shipping experience.  
 
-# About GoShip.com
+## About GoShip.com
 
 Founded in 2017, GoShip.com is an innovative online exchange for less-than-truckload shipping services. Users can ship anything from household appliances, to living room furniture, to large freight – no matter the size, you can GoShip it. 
 
 GoShip.com has partnered with thousands of pre-qualified trucking companies to ensure customers are getting the best rate. With countless transportation companies in the market, GoShip.com differentiated itself with the lowest rates compared to other major competitors. Users can get a free, no-obligation quote and book their shipment within the same screen. To learn more visit www.GoShip.com.  
 
-# Press Contact:
+## Press Contact:
 
 Kelsey Magilton 833-846-7447 (833-U-GOSHIP) [kelsey@goship.com](mailto:kelsey@goship.com)
