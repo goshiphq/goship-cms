@@ -4,7 +4,7 @@ description: A step-by-step guide to the basics of ecommerce shipping. Learn how
   Ecommerce shipping works similarly to most industry’s shipping solutions.
 keywords: "Ecommerce Fulfillment, Etsy Shipping , Shopify Shipping "
 ---
-# How Ecommerce Shipping Works 
+## How Ecommerce Shipping Works 
 
 Ecommerce shipping works similarly to most industry’s shipping solutions, with a handful of caveats. The foremost of these differences is the amount of [drop shipping,](https://www.goship.com/blog/getting-started-with-dropshipping/) or when a third party takes care of some or all fulfillment needs. As a result, the e-commerce shipper doesn't need on-site inventory or a warehouse facilities, and instead, they can focus attention on customer-centric needs, such as marketing and customer service. 
 
