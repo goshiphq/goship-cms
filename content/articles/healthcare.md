@@ -4,9 +4,7 @@ description: Like in any other industry, healthcare logistics and shipping
   pharmaceuticals require fast and reliable shipping solutions.
 keywords: healthcare logistics
 ---
-
-
-# Healthcare logistics
+## Healthcare logistics
 
 The global pharmaceuticals market is expected to overrun [1.5$ trillion by 2023](https://www.iqvia.com/insights/the-iqvia-institute/reports/the-global-use-of-medicine-in-2019-and-outlook-to-2023). Thus, logistics must sustain the constantly growing demand in the healthcare industry. 
 
