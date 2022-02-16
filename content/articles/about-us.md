@@ -6,8 +6,6 @@ description: GoShip.com is a domestic freight shipping marketplace that provides
   innovative and cost-effective approach.
 keywords: GoShip.com
 ---
-# About GoShip.com
-
 ## What is GoShip.com?
 
 GoShip.com is a domestic freight shipping marketplace that provides affordable and simple full truckload and less-than-truckload shipping with an innovative and cost-effective approach. We work with all the major LTL carriers, and have over 50k FTL carriers on the platform.
