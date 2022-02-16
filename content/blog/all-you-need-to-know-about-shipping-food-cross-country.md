@@ -10,7 +10,7 @@ keywords: how to ship food across the country, shipping food cross country
 altText: shipping food
 image: images/goship-blog-63-.png
 ---
-# Everything You Need to Know About Shipping Food Cross Country
+## Everything You Need to Know About Shipping Food Cross Country
 
 Shipping food and perishables across the country can be challenging.
 
@@ -19,8 +19,6 @@ Especially during the produce season, businesses and farms ship vegetables, frui
 However, food shipments entail additional challenges concerning packaging and the delivery process itself. With that, shippers need to factor in weather conditions, food temperature requirements, and distance. These checks help ensure that goods arrive fresh and free from contamination, spoilage, and staleness.
 
 To help you out, we prepared a short yet comprehensive guide on how to [ship food domestically](https://www.goship.com/food-beverage).
-
-
 
 ## Factors that Affect Food Shipping Quote
 
@@ -81,8 +79,6 @@ Shipping frozen food requires dry ice to ensure freshness, but it should be hand
 Place the frozen food inside a styrofoam box lined with plastic. Instead of using ice packs, place dry ice inside the box. Frozen food should be vacuum-sealed or sealed tightly in a plastic bag as it shouldn’t come in contact with dry ice. 
 
 Line another cardboard box with plastic and fill it with packing peanuts so the styrofoam box stays secure inside. Seal all the seams with shipping tape and clearly label that the package contains dry ice.
-
-
 
 ## Ship Food with GoShip
 
