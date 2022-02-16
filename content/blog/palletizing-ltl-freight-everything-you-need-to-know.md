@@ -18,7 +18,7 @@ Providing safe and secure packaging is essential for smooth freight transportati
 
 It is crucial for adequate loading and is highly recommended for shippers. **Palletizing can help reduce overall shipping costs**, since a pallet is considered a single piece, regardless of the number of packages on it. Some carriers require mandatory palletizing, so knowing the basics will help you avoid confusion while shipping LTL freight.
 
-# Palletizing LTL Freight: Everything You Need to Know
+## Palletizing LTL Freight: Everything You Need to Know
 
 ## **When should I use pallets?**
 
