@@ -11,8 +11,7 @@ keywords: dry van quote, dry van trailer, dry van shipping
 altText: dry van truck driving down highway
 image: images/copy-of-goship-website-image-template-1024-x-768-px-7-.png
 ---
-
-# What Is the Best Way to Get a Dry Van Quote Fast
+## What Is the Best Way to Get a Dry Van Quote Fast
 
 Because of its versatility, dry van shipping is the most common way to send freight across state lines.
 
@@ -28,9 +27,9 @@ To learn more about dry van services and quotes, keep reading!
 
 Dry vans are standard non-temperature controlled trailers, measuring:
 
-- Length: 48 to 53 feet
-- Width: 8.5 feet
-- Height: 13.5 feet
+* Length: 48 to 53 feet
+* Width: 8.5 feet
+* Height: 13.5 feet
 
 Standard dry van trailers can haul a total of 45,000 pounds.
 
