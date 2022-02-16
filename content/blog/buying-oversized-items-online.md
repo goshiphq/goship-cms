@@ -25,7 +25,7 @@ description: Shipping oversized items can seem complicated and sometimes
 altText: Shipping Oversized Items truck
 image: images/goship-blog-9-.png
 ---
-# Shipping Oversized Items
+## Shipping Oversized Items
 
 The e-commerce sector is fiercely expanding, and the number of consumers who are purchasing online is constantly growing. According to, holiday e-commerce sales in 2018 have reached $120 billion compared to $103,88 in 2017, which is 15.5 percent growth. Purchasing oversized items, like furniture or equipment online is becoming more common as well. However, many people still experience difficulties when it comes to [shipping oversized items](https://www.goship.com/posts/how-to-ship-large-items).
 
