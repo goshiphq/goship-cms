@@ -1,12 +1,12 @@
 ---
-title: Check out our how to guide for Shipping Construction Materials
+title: "Shipping Construction Materials: An Ultimate Guide "
 description: A well-organized supply chain is meant to supply the construction
   sites with all the necessary materials for the job. Learn more about
   construction logistics.
 keywords: "Shipping Construction Materials, How To Ship Construction Supplies,
   Construction Logistics "
 ---
-# Construction Logistics: How To Ship Construction Supplies
+## Construction Logistics: How To Ship Construction Supplies
 
 Logistics plays an extremely important role in the modern construction industry. It directly influences the quality and timeliness of every construction project. 
 
