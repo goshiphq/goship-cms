@@ -18,7 +18,7 @@ image: images/goship-blog-1-.png
 ---
 It is well-known that sometimes shipping operations can be stressful and challenging. When it comes to less than truckload shipping mode, it is important to be familiar with all the key points of this transportation service.
 
-# What Is LTL Shipping?
+## What Is LTL Shipping?
 
 **LTL,** or **less than truckload shipping mode,** is one of the options for effective delivery of your items without spending extra costs. This shipping service is popular among retailers and small business owners since it allows them to move even small amounts of goods without booking the whole truck. Instead, you share the trailer with several partners and only pay for the space you need to locate your orders. Less than truckload shipping is a suitable logistics solution for those business owners whose products are small in size so that they don't usually need to fill the entire truck. LTL is also a great starting point for those who have just begun their logistics activity and want to gradually increase their sales. 
 
