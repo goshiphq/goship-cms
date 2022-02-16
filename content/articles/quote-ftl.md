@@ -5,7 +5,7 @@ description: With GoShip, you can get full truckload freight quote at wholesale
   today.
 keywords: truckload freight quote
 ---
-# Get a Full Truckload Freight Quote in a Seconds
+## Get a Full Truckload Freight Quote in a Seconds
 
 Booking a shipment doesn’t have to be difficult, and shipping services like GoShip help simplify the process through our wide network of reputable carriers and negotiated rates. With GoShip’s [freight rate calculator](https://beta.goship.com), you’ll get access to instant truckload freight quotes without having to talk to a freight broker.
 
