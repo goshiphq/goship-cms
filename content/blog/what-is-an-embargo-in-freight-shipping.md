@@ -28,7 +28,7 @@ image: images/goship-blog-55.jpg
 ---
 Logistics operations are often regulated by economic sanctions that can significantly affect global shipping processes. Embargoes are one of the influential freight shipping factors that you need to get familiar with.
 
-# What Is An Embargo?
+## What Is An Embargo?
 
 An embargo is any event or government restriction that prevents commerce or exchange (import or export) of freight to another country or state.  The embargo can be applied to different types of goods including:
 
