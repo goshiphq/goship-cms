@@ -1,7 +1,11 @@
 ---
 title: Get Help With TaskRabbit
+description: GoShip and TaskRabbit, an online task platform, have joined forces
+  to ease the burden of stressful freight shipping for shippers and provide a
+  smarter and more accessible all-in-one shipping solution.
+keywords: goship, taskrabbit
 ---
-# GoShip & TaskRabbit Partnership
+## GoShip & TaskRabbit Partnership
 
 ### *Get Help With Your Shipments!*
 
@@ -32,8 +36,6 @@ Now, the only thing you have to do with your freight is to book a shipment – l
 ### Furniture assembly
 
 Shipping furniture is easy when you hire a reliable shipping provider and skilled Taskers who will handle all the work.
-
- 
 
 ## GoShip & TaskRabbit FAQ
 
