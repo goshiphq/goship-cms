@@ -18,7 +18,7 @@ description: "There is a huge variety of products that need
 altText: refrigerated shipping truck on the road
 image: images/goship-blog-1-.png
 ---
-# What is refrigerated shipping?
+## What is refrigerated shipping?
 
 Refrigerated (or reefer) shipping and trucking is the transportation method of moving temperature-controlled goods. In reefer shipping, freight is loaded and transported in trailers with built-in refrigeration systems and climate control. 
 
