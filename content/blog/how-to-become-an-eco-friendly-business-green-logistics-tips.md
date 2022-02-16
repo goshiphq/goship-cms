@@ -18,11 +18,9 @@ keywords: eco-friendly shipping, eco-friendly shipping and logistics,
 altText: eco-friendly strategy
 image: images/goship-blog-44.jpg
 ---
-
-
 The rapid growth of online shopping services has allowed small businesses to effectively promote their products and find their target audience on the market. The enormous number of goods offered by retailers resulted in customers becoming extremely selective in their shopping choices. Not only the quality of suggested items affects your sales scope, but the ability to stay environmentally friendly. 
 
-# Why Consider Eco-Friendly Shipping?
+## Why Consider Eco-Friendly Shipping?
 
 Over the last few decades, eco-friendly strategy has evolved from one of the main business trends to a regular buyer’s expectation. Numerous [polls](https://www.businessnewsdaily.com/15087-consumers-want-sustainable-products.html) have proved that modern consumers are more prone to buy from companies caring about reducing waste and energy efficiency. Nowadays, it is nearly impossible to make your product popular without adopting environmentally sustainable business practices, such as green shipping and logistics. Besides making your business more competitive, you’ll cut the expenses by applying sustainable freight packaging. Altogether, your efforts will result in reducing carbon emissions and moving towards a [green future](https://www.goship.com/posts/how-shippers-can-support-green-shipping).
 
