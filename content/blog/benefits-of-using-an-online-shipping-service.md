@@ -18,7 +18,7 @@ image: images/goship-blog-11-.png
 ---
 Online shipping platforms like GoShip.com provide shipping solutions for small businesses and individual shippers without dealing with brokers or carriers. Whether you need to transport large items, multiple pallets full of goods, or over-sized parcel that ordinary delivery services don’t accept, online LTL shipping companies can help. Online platforms with a wide network of professional carriers and drivers let you find a perfect shipping option for any freight. Whether it is bulky furniture, supplies for your business or an old piano — the shipping process can be simple.
 
-# How does it work?
+## How does it work?
 
 All you need to do is to log onto the website, set your requirements and choose from a variety of available carriers. Online freight services like GoShip offer [less-than-truckload (LTL) shipping](https://www.goship.com/posts/ltl-freight-shipping-for-beginners), which means that your cargo doesn’t fill up the entire truck. You share the capacity with other customers and pay only for space that you actually use. Using an online service means that you don’t have to deal with middle links of the shipping chain. There’s no need to wait for voice messages, emails and dozens of confirmations to schedule your shipment. Most services have mobile apps or are smartphone-friendly, so you can track your freight and compare all the available options for transportation right at your fingertips. As the mechanism of booking is much faster, carriers and shippers can arrange deals more efficiently than ever before. Small businesses and individuals often find online shipping services the most useful for their needs. Here are 3 main reasons why you should use an online shipping service like GoShip.com:
 
