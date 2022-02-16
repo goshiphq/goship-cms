@@ -7,9 +7,7 @@ description: Consider the best shipping solutions and services for small
 keywords: shipping for small business, small business logistics, shipping
   options for small business, small business shipping. retail logistics
 ---
-
-
-# Shipping for Small Business
+## Shipping for Small Business
 
 When it comes to small business shipping, many business owners are not sure where they should start. Do they need to set up shipping accounts? Work with one company, or switch them? What's the best solution for their company's specific needs? What are the best shipping options for small businesses? GoShip's vast experience in small business shipping means we can help you find the right answers to all your logistics questions. 
 
