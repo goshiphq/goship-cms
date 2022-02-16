@@ -1,11 +1,11 @@
 ---
-title: What's the best way to ship car parts? Check out our guide.
+title: "The Best Way to Ship Car Parts: Auto Parts Shipping Guide"
 description: "Shipping auto parts is one of the most difficult tasks a shipper
   can face. GoShip has you covered with this helpful guide and small business
   resource. "
 keywords: auto parts shipping, how to ship auto parts, auto parts shipping guide
 ---
-# Auto Parts Shipping Guide
+## Auto Parts Shipping Guide
 
 Shipping auto parts can seem a complicated and time-consuming process. Yes, transporting automotive equipment requires a lot of inventory planning as well as great attention to detail. A huge variety of shapes and sizes of automotive parts are tied to a number of regulations. 
 
