@@ -1,7 +1,10 @@
 ---
 title: GoShip Freight Carriers
+description: reight carriers are the driving force of the shipping industry and
+  a crucial link for businesses to get their supplies and products on time.
+keywords: freight carriers, LTL carriers
 ---
-# Carriers
+## Carriers
 
 Freight carriers are the driving force of the shipping industry and a crucial link for businesses to get their supplies and products on time. Each day, thousands of companies across the globe rely on their freight being moved to destinations by freight carriers and truck drivers
 
