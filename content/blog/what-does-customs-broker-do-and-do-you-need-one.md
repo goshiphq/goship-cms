@@ -16,7 +16,7 @@ image: images/goship-blog-21.jpg
 ---
 Most companies start their business on a local level, but once you start observing a good trade flow, you may consider expanding to [international trade](https://www.goship.com/shipping-services/international-shipping). With the spike in e-commerce shops and giant retail platforms, it has become much easier to spread products beyond the border. However, customs brokerage still remains a challenging and complex procedure. To make importing operations and customs clearance easier and faster, businesses of all scales address customs brokers.
 
-# **What Is a Customs Broker?**
+## **What Is a Customs Broker?**
 
 A customs broker is an expert who provides professional services in arranging the customs clearance process for your international shipments. The main specialization of a customs broker is filling out paperwork and making sure to follow all of the rules and compliances of cross-border trade. A broker can be a private individual, corporation, or entity. All customs brokers must be certified and accredited by [the U.S. Custom and Border Protection](https://www.cbp.gov/) (CBP). Only the official verification gives them the right to operate on the market and provide their services to importers and exporters. Brokers tender required paperwork and bills to the CBP on behalf of the importer. Essentially, the customs broker receives a fee for providing customs clearance services.
 
