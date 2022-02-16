@@ -7,7 +7,7 @@ description: International freight shipping can incredibly help you grow your
 keywords: international freight shipping, how to ship to Canada, shipping to
   Canada, international shipping
 ---
-# International shipping
+## International shipping
 
 No matter the industry you work in, international freight shipping is one of the most powerful means of expanding and boosting your business. Along with the rapid development of global marketplaces and digital shopping, international delivery becomes more and more profitable for national economics. Complicated at a first sight, international freight shipping is all about advanced planning and learning the necessary information. 
 
