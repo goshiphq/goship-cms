@@ -7,7 +7,7 @@ description: GoShip's large item shipping allows you to ship oversize or heavy
 keywords: large items shipping, how to ship large items, best way to ship large
   items, shipping large items, oversized items, how to ship oversized items
 ---
-# Large Items Shipping
+## Large Items Shipping
 
 When you're shipping large items, GoShip can help. Our expertise and contacts in the industry ensure that you'll get a good match. We can help move your items across town or across the country fast and easily.
 
