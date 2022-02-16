@@ -18,8 +18,6 @@ description: Whether you are furnisihing your house or office, planning a
 altText: people moving furniture pieces
 image: images/goship-blog-3-.png
 ---
-# Moving cross country
-
 Whether you are moving cross country, planning a relocation, or just selling a piece of furniture, shipping can be challenging. Shipping furniture seems like a simple process at first, however, it can be complicated or too expensive. 
 
 You want your items to be protected so that they reach the destination safely. A major concern when choosing a shipping partner is how much does it cost to ship furniture, and that’s why shippers seek affordable, reliable furniture shipping platforms.
