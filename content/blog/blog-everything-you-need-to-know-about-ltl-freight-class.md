@@ -22,23 +22,23 @@ Less than truckload shipping has become one of the favorite transportations mode
 
 ## **What is the LTL freight class?**
 
-LTL freight classification is a system created by [NMFTA (National Motor Freight Traffic Association)](http://www.nmfta.org/) to categorize different types of cargo. It is based on a number of characteristics and pricing differentiation. All commodities are divided into 18 classes, varying from Class 50 to Class 500, and a unique NMFC code is attached to each commodity. The higher the class, the higher the rate per hundred pounds shipped is.
+LTL freight classification is a system created by [NMFTA (National Motor Freight Traffic Association)](http://www.nmfta.org/) to categorize different types of cargo. It is based on several haracteristics and pricing differentiation. All commodities are divided into 18 classes, varying from Class 50 to Class 500, and a unique NMFC code is attached to each commodity. The higher the class, the higher the rate per hundred pounds shipped is.
 
 ## **How to find out your LTL freight class?**
 
-Most of the latest online LTL shipping services like GoShip.com have automated freight class calculators. Once you’ve entered shipment information, you can just choose the right option from a list or it is generated for you. Otherwise, you can ask a manufacturer, who would definitely know their product freight class. You can view the full list of classifications in the [NMFC (National Motor Freight Classification) tariff](http://www.nmfta.org/pages/nmfc).
+Most of the latest online LTL shipping services like GoShip suggest computerized freight class calculators. Once you’ve entered shipment information, you can just choose the right option from a list or it will be automatically generated for you. Otherwise, you can ask a manufacturer, who would know the product's freight class in detail. You can view the full list of classifications in the [NMFC (National Motor Freight Classification) tariff](http://www.nmfta.org/pages/nmfc).
 
 ## **What factors define your freight class?**
 
-Essentially, there is a set of criteria, upon which carriers classify freight. Primarily, cargo code depends on the density, dimensions, and some additional characteristics:
+Essentially, there is a set of criteria, upon which carriers classify their freight. Primarily, the cargo group depends on the density, dimensions, and other additional characteristics.
 
 ### **Density**
 
-The density is the space the item occupies in relation to its weight. The density is an essential measure for determining freight class and is calculated by dividing the weight of the item in pounds by its volume in cubic feet. Your product’s volume in cubic feet is length x width x height/1,728, where you measure all dimensions in inches.
+The density is the space the item occupies comparatively to its weight. The [density](https://www.goship.com/posts/density-affect-ltl-shipping) is an essential measure for determining freight class and is calculated by dividing the weight of the item in pounds by its volume in cubic feet. Your product’s volume in cubic feet is length x width x height/1,728, where you measure all dimensions in inches.
 
 ### **Stackability**
 
- Some items, like boxes, are easy to stack and move. However, not all freight can fit the box due to the size, shape, or weight, and that’s why stackability is one of the important characteristics when classifying your freight.
+Some items, like boxes, are easy to stack and move. However, not all freight can fit the box due to the size, shape, or weight, and that’s why stackability is one of the important characteristics when classifying your freight.
 
 ### **Handling**
 
@@ -46,6 +46,6 @@ Most freight is loaded with mechanical equipment and poses no handling difficult
 
 ### **Liability**
 
-Liability is the probability of freight theft or damage. Perishable goods or hazardous items are classified based on liability and assigned a value per pound, which is a part of the carrier’s liability. When the classification is based on liability, density must also be considered.
+Liability is the probability of freight theft or damage. Perishable goods or hazardous items are classified based on liability and assigned a value per pound, which is a part of the carrier’s liability. When the classification is based on [liability](https://www.goship.com/posts/freight-liability-vs-freight-insurance), density must also be considered.
 
 Ultimately, defining the right LTL freight class is extremely important for a seamless and smooth shipping experience. The incorrect classification can bring a lot of stress and waste your money and time. Make sure you have double-checked the information about your load before transporting them to avoid any further confusion.
