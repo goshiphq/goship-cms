@@ -1,36 +1,32 @@
 ---
-keywords: LTL shipping, freight class
+keywords: LTL shipping, LTL freight shipping, freight class, LTL freight class,
+  what is LTL freight class
 author: GoShip Admin
-title: Everything You Need to Know About LTL Freight Class
-intro: >-
-  ![image] ()If you have been into the world of less-than-truckload shipping for
-  more than 30 minutes, you probably heard something about LTL freight class.
-  While the general concept of LTL shipping is easy, learning what a freight
-  class is and why it is important may be complex. 
-
-
-  What is the LTL freight class?
-
-  -
-
-
-  LTL freight classification is a system, created by NMFTA (National Motor Freight Traffic Association) to categorize cargo. It is based on a number of characteristics and pricing differentiation. Al
+title: "LTL Freight Class: Everything You Need to Know"
+intro: If you have been into the world of less-than-truckload shipping for more
+  than 30 minutes, you probably heard something about LTL freight class. While
+  the general concept of LTL shipping is easy, learning what a freight class is
+  and why it is important may be complex. What is the LTL freight class?-LTL
+  freight classification is a system, created by NMFTA (National Motor Freight
+  Traffic Association) to categorize cargo. It is based on a number of
+  characteristics and pricing differentiation. Al
 postedAt: 1551848406000
 news: false
-description: While the general concept of LTL shipping is easy, learning what a
-  freight class is and why it is important may be complex.
+description: LTL freight shipping is one of the best logistics solutions for
+  retailers and small businesses. Define your freight class and start your LTL
+  shipping easily.
 altText: LTL freight class box truck loading boxes
 image: images/copy-of-goship-blog-.png
 ---
-If you have been into the world of [less-than-truckload shipping](https://www.goship.com/shipping-services/ltl-freight-shipping/) for more than 30 minutes, you probably heard something about LTL freight class. While the general concept of LTL shipping is easy, learning what a freight class is and why it is important may be complex.
+Less than truckload shipping has become one of the favorite transportations modes among retailers. It is characterized by high capacity and affordable shipping costs. While the general concept of LTL is easy, understanding the freight class may be complex.
 
 ## **What is the LTL freight class?**
 
-LTL freight classification is a system, created by [NMFTA (National Motor Freight Traffic Association)](http://www.nmfta.org/) to categorize cargo. It is based on a number of characteristics and pricing differentiation. All commodities are divided into 18 classes, varying from Class 50 to Class 500, and a unique NMFC code is attached to each commodity. The higher the class, the higher the rate per hundred pounds shipped is.
+LTL freight classification is a system created by [NMFTA (National Motor Freight Traffic Association)](http://www.nmfta.org/) to categorize different types of cargo. It is based on a number of characteristics and pricing differentiation. All commodities are divided into 18 classes, varying from Class 50 to Class 500, and a unique NMFC code is attached to each commodity. The higher the class, the higher the rate per hundred pounds shipped is.
 
 ## **How to find out your LTL freight class?**
 
-Most of the latest online LTL shipping services like GoShip.com have automated freight class calculators. Once you’ve entered shipment information, you can just choose the right option from a list or it is generated for you. Otherwise, you can ask a manufacturer, who would definitely know their product freight class. You can view the full list of classification in the [NMFC (National Motor Freight Classification) tariff](http://www.nmfta.org/pages/nmfc).
+Most of the latest online LTL shipping services like GoShip.com have automated freight class calculators. Once you’ve entered shipment information, you can just choose the right option from a list or it is generated for you. Otherwise, you can ask a manufacturer, who would definitely know their product freight class. You can view the full list of classifications in the [NMFC (National Motor Freight Classification) tariff](http://www.nmfta.org/pages/nmfc).
 
 ## **What factors define your freight class?**
 
@@ -42,7 +38,7 @@ The density is the space the item occupies in relation to its weight. The densit
 
 ### **Stackability**
 
- Some items, like boxes, are easy to stack and move. However, not all freight can fit the box due to the size, shape or weight, and that’s why stackability is one of the important characteristics when classifying your freight.
+ Some items, like boxes, are easy to stack and move. However, not all freight can fit the box due to the size, shape, or weight, and that’s why stackability is one of the important characteristics when classifying your freight.
 
 ### **Handling**
 
