@@ -55,6 +55,6 @@ It is important to know that flatbed shipping doesn’t protect freight from wea
 
 When it comes to shipping equipment, finding the right carrier for your freight is the key to a successful shipping process. The best option is to choose an experienced platform that has a variety of professional flatbed carriers and provides high-quality service for your shipping needs. [GoShip online platform](https://www.goship.com/) lets you instantly compare offerings from multiple carriers and choose the most suitable option.
 
-## Do I need freight insurance for heavy equipment transport?
+## Do I need freight insurance to ship heavy equipment?
 
 There is a default carrier coverage liability for all shipments. However, it is highly recommended to purchase additional, full-value freight insurance to have peace of mind. Most of the equipment shipments are successful, but errors do happen. To be fully protected and confident about your shipment, adding [freight insurance](https://www.goship.com/resources/freight-insurance) is the best precaution to take.
