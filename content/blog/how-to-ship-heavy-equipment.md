@@ -19,7 +19,7 @@ image: images/goship-blog-24-.png
 ---
 Shipping heavy items like large equipment, machinery, or auto parts can be quite challenging. Before diving into the heavy equipment shipping process, you should understand the intricacies of shipping heavy equipment. Whether you’re shipping auto parts to another state, or regularly transport heavy commercial equipment, it is crucial to choose the [right transportation mode](https://www.goship.com/posts/modes-of-transportation-in-logistics), find a proper shipping partner, choose convenient freight insurance, and apply the best practices for a smooth shipping experience.
 
-## What qualifies as a heavy shipment?Oversized load dimensions
+## What qualifies as a heavy shipment? Oversized load dimensions
 
 A heavy shipment is any shipment that exceeds size limits and requires dimensional flexibility. Usually, such loads are transported with [flatbed trucks](https://www.goship.com/blog/what-is-flatbed-shipping/). In the United States, a wide or oversize freight is a load that is wider than 8’6” (2.59 m). The maximum permissible load width is 8.5 feet (102 inches), the max allowed height is 102 inches, and the legal length is usually 48 to 53 feet. If a load weighs more than 46,000 pounds, it is considered oversized, too. Speaking of machinery and equipment, cars, motorcycles, trucks, tractors, cranes, forklifts, large auto parts, and similar items all fall under the category of equipment and machinery. You can check out the full list of legal permits for oversized loads in this [DOT resource](http://www.dot.state.ak.us/mscve/assets/webdocs/permits_manual.pdf).
 
