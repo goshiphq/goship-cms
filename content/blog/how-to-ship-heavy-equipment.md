@@ -41,6 +41,8 @@ These trailers can handle up to 48,000 pounds and are one of the most suitable m
 
 ## How to ship heavy equipment?
 
+Proper organization and safety are top priorities of shipping heavy equipment. When planning to move [large items](https://www.goship.com/shipping-services/large-item-shipping), it is necessary to count several basic factors. 
+
 ### Collecting accurate information
 
 Giving accurate information about your shipment is a crucial part of any shipment process, especially in regard to large equipment shipping. Knowing your freight will help you choose the right mode, freight carrier, accurate pricing, and avoid unwanted charges and fees. It is much faster and easier to navigate through the freight shipping process with all the necessary information.
