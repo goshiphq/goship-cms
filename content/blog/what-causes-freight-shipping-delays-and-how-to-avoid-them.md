@@ -3,7 +3,7 @@ title: What Causes Freight Shipping Delays and How to Avoid Them?
 intro: Freight shipping delays are frequent in every supply chain. Discover how
   to avoid shipping delays and weaken their impact on customers' satisfaction.
 postedAt: "1645444809881"
-news: true
+news: false
 description: Freight shipping delays are frequent in every supply chain.
   Discover how to avoid shipping delays and weaken their impact on customers'
   satisfaction.
