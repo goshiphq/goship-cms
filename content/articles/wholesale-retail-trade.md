@@ -5,8 +5,6 @@ description: By building an effective retail logistics strategy, it is possible
   anytime and anywhere.
 keywords: retail logistics, wholesale shipping
 ---
-<!--StartFragment-->
-
 ## Retail Logistics
 
 The retail industry is a major player in global trade, and logistics is the key to delivering the right product to the right customer at the right time. By building an effective retail logistics strategy, it is possible to meet the rapidly growing consumer demand and make your products available anytime and anywhere.
@@ -111,5 +109,3 @@ Also, the cost of retail logistics may be influenced by the [seasonality](https:
 ## Retail logistics with GoShip
 
 With a network of over 45, 000 carriers, all of whom have been pre-vetted to deliver the safest journey for your freight, GoShip gives shippers a wide variety of choices through our [Get a Quote](https://www.goship.com/) tool. Shippers just need to enter basic information about their freight and, within seconds, they’ll receive a free range of quotes from which to choose.
-
-<!--EndFragment--
