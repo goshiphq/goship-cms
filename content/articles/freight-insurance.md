@@ -6,7 +6,7 @@ description: Freight insurance is an effective tool to secure your shipments.
 keywords: freight insurance, freight insurance coverage, how to get freight
   insurance, do i need freight insurance, what is freight insurance
 ---
-Here at [GoShip.com](https://www.goship.com/), we know how important it is for your shipment to arrive safely to its destination. We want our customers to have the best experience possible when shipping with us, and that’s why we have freight insurance options available to you to help guarantee your goods are covered in case of any unpredictable circumstances.
+Here at [GoShip.com](https://www.goship.com/), we know how important it is for your shipment to arrive safely to its destination. We want our customers to have the best experience possible when shipping with us. That’s why we have freight insurance options available for you to guarantee your goods are covered in case of any unpredictable circumstances.
 
 ## **What is freight insurance?**
 
