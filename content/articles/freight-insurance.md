@@ -21,7 +21,7 @@ Adding freight insurance to your shipment gives you unlimited benefits. Here are
 * You don’t have to prove the carrier’s fault
 * All the paperwork is completed for you by our insurance provider
 
-We work with [Falvey Insurance Group](http://falveyshippers.com/), industry professionals that assist customers with all necessary paperwork. Our partners will do their best to ensure your freight is safe and covered.
+We work with [Falvey Insurance Group](http://falveyshippers.com/), industry professionals that assist customers with all necessary paperwork. Our partners will do their best to ensure your freight is safe and covered. You can always discuss the coverage you need with insurance agents who consult the customers on insurance types and specifics.
 
 The option of adding insurance can help guarantee a fast and easy delivery process. Thanks to our service and partners, the claims process is painless and easy in the case of damage or loss. If you’ve had an experience with freight loss or damage, follow our guide on **[how to file a Falvey freight claim](https://www.goship.com/resources/filing-a-falvey-freight-claim)**.
 
