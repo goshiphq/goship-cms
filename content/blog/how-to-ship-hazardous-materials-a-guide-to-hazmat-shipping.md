@@ -3,7 +3,7 @@ title: "How to Ship Hazardous Materials: A Guide to Hazmat Shipping"
 intro: Hazmat items make up a big part of consumers’ regular purchases. Learn
   how to organize safe and consistent shipping of hazardous materials.
 postedAt: "1646053256673"
-news: true
+news: false
 description: Hazmat items make up a big part of consumers’ regular purchases.
   Learn how to organize safe and consistent shipping of hazardous materials.
 keywords: hazardous materials, hazmat shipping, shipping hazardous materials,
