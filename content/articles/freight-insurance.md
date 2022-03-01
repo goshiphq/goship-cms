@@ -3,14 +3,14 @@ title: "Freight Insurance: Do I Need to Get Freight Insurance for My Shipment?"
 description: Freight insurance is an effective tool to secure your shipments.
   Get reliable freight insurance to protect your items from possible supply
   chain disruptions.
-keywords: freight insurance, how to get freight insurance, do i need freight
-  insurance, what is freight insurance
+keywords: freight insurance, freight insurance coverage, how to get freight
+  insurance, do i need freight insurance, what is freight insurance
 ---
 Here at [GoShip.com](https://www.goship.com/), we know how important it is for your shipment to arrive safely to its destination. We want our customers to have the best experience possible when shipping with us, and that’s why we have freight insurance options available to you to help guarantee your goods are covered in case of any unpredictable circumstances.
 
 ## **What is freight insurance?**
 
-Freight insurance gives freight additional protection in case of loss or damage. Unlike freight liability, it suggests full coverage for your shipment regardless of the causes of the damage. Having freight insurance not only lets you simplify the refund process but lets you save yourself time and stress.
+Freight insurance coverage is an official document that totally or partially insures the value of your products. Freight insurance gives freight additional protection in case of loss or damage. Unlike freight liability, it suggests full coverage for your shipment regardless of the causes of the damage. Having freight insurance not only lets you simplify the refund process but lets you save time and avoid stress.
 
 ## **How can freight insurance help me?**
 
