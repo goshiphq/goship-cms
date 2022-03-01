@@ -17,9 +17,9 @@ Freight insurance coverage is an official document that totally or partially ins
 Adding freight insurance to your shipment gives you unlimited benefits. Here are some of the most compelling reasons to get additional protection for your freight:
 
 * Protection of your freight and its value. Cargo insurance will help you avoid big money losses that are often caused by frequent [freight shipping returns](https://www.goship.com/posts/reverse-logistics-how-to-deal-with-freight-shipping-returns). Often, the freight damage occurs due to external reasons you can't control like traffic congestion or bad weather.
-* Claims are paid within 30 days compared to 9 months without insurance
+* Claims are paid within 30 days compared to 9 months without insurance. You won't have to wait too long to finish the reimbursement process. This will save you much time and won't interrupt your financial operations.
 * You don’t have to prove the carrier’s fault. Freight insurance functions as an official document showing the freight loss or damage are not caused by the carrier. This will help you avoid many administrative procedures and fines. 
-* All the paperwork is completed for you by our insurance provider. You won't have to spend time managing big volumes of paperwork. Instead, you'll be able to focus on the core business and transportation operations.
+* All the paperwork is completed for you by our insurance provider. You won't have to spend time managing big volumes of paperwork. Instead, you'll be able to focus on the core business and transportation operations. Thus, you'll make your supply chain time-efficient and deliver your products with no delays.
 
 We work with [Falvey Insurance Group](http://falveyshippers.com/), industry professionals that assist customers with all necessary paperwork. Our partners will do their best to ensure your freight is safe and covered. You can always discuss the coverage you need with insurance agents who consult the customers on insurance types and specifics.
 
