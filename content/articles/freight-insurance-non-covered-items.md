@@ -8,11 +8,13 @@ keywords: freight insurance, freight damage, freight claims, freight insurance
 ---
 # **What is the freight insurance coverage?**
 
-Freight insurance coverage represents a list of items covered by your official insurance document. This type of paperwork allows you to protect every piece of your cargo from possible damage. 
+Freight insurance coverage represents a list of items covered by your official insurance document. This type of paperwork allows you to protect every piece of your cargo from possible damage. Freight insurance is a perfect option to secure your shipment. However, every insurance company has certain limitations on goods that can be covered.
+
+
+
+There are several types of products that are typically insurable for most insurance companies. Most often, they include non-perishables, goods shipped from residential locations, and some [electronics](https://www.goship.com/electronics) packaged in original boxes or other reliable packaging. 
 
 ## **What items cannot be covered with freight insurance?**
-
-Freight insurance is a perfect option to protect your shipment. However, every insurance company has certain limitations on goods that can be covered.
 
 Here is the list of items that **cannot be covered** with [Falvey Shippers Insurance](https://falveyinsurancegroup.com/falvey-shippers-insurance/):
 
