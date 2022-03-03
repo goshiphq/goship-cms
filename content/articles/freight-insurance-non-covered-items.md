@@ -6,7 +6,7 @@ description: Freight insurance is a perfect option to protect your shipment.
 keywords: freight insurance, freight damage, freight claims, freight insurance
   coverage, non-covered items
 ---
-If you want to obtain maximum protection for your cargo, it is worth getting freight insurance. 
+If you want to obtain maximum protection for your cargo, it is worth getting freight insurance. Make sure the items you want to ship can be covered, and start planning your successful delivery.
 
 # **What is the freight insurance coverage?**
 
