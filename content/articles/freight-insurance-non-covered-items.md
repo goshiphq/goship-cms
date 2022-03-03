@@ -18,6 +18,10 @@ There are several types of products that are typically insurable for most insura
 
 ## **What items cannot be covered with freight insurance?**
 
+GoShip online platform cooperates with our insurance partners Falvey to provide you with the best insurance options. 
+
+
+
 Here is the list of items that **cannot be covered** with [Falvey Shippers Insurance](https://falveyinsurancegroup.com/falvey-shippers-insurance/):
 
 * Accounts
