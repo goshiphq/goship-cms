@@ -50,6 +50,6 @@ It is important to remember that some products are less likely to be covered by 
 * Tickets
 * Tobacco
 
-Please note these limitations before purchasing insurance to avoid any misconduct and delays.
+Please note these limitations before purchasing insurance to avoid any misconduct and [delays](https://www.goship.com/posts/what-causes-freight-shipping-delays-and-how-to-avoid-them).
 
 If you’ve had an experience with freight loss or damage, follow our guide on **[how to file a Falvey freight claim](https://www.goship.com/falvey-freight-claim/)**.
