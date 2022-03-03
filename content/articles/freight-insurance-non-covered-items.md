@@ -6,6 +6,8 @@ description: Freight insurance is a perfect option to protect your shipment.
 keywords: freight insurance, freight damage, freight claims, freight insurance
   coverage, non-covered items
 ---
+If you want to obtain maximum protection for your cargo, it is worth getting freight insurance. 
+
 # **What is the freight insurance coverage?**
 
 Freight insurance coverage represents a list of items covered by your official insurance document. This type of paperwork allows you to protect every piece of your cargo from possible damage. Freight insurance is a perfect option to secure your shipment. However, every insurance company has certain limitations on goods that can be covered.
