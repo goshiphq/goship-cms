@@ -18,11 +18,9 @@ There are several types of products that are typically insurable for most insura
 
 ## **What items cannot be covered with freight insurance?**
 
-GoShip online platform cooperates with our insurance partners Falvey to provide you with the best insurance options. 
+GoShip online platform cooperates with our insurance partners Falvey to provide you with the best insurance options. Falvey Shippers Insurance is a reliable coverage provider that can assist you with the insurance choice to meet your business needs.
 
-
-
-Here is the list of items that **cannot be covered** with [Falvey Shippers Insurance](https://falveyinsurancegroup.com/falvey-shippers-insurance/):
+It is important to remember that some products are less likely to be covered by your insurance due to their characteristics or special handling requirements. Knowing what items are not insurable, it will be much easier to get a suitable paperwork. Here is the list of items that **cannot be covered** with [Falvey Shippers Insurance](https://falveyinsurancegroup.com/falvey-shippers-insurance/):
 
 * Accounts
 * Alcohol/wines/beers/similar spirits
