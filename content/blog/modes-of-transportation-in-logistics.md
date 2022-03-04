@@ -23,7 +23,13 @@ Sometimes, it may be challenging for a company to choose the right mode of trans
 
 ## What Are The Modes Of Transportation In Logistics?
 
-There are various forms of transportation, but when it comes to freight shipping, there are several main transportation methods in the freight industry: ● Ocean ● Air ● Rail ● Road ● Intermodal and Multimodal
+There are various forms of transportation, but when it comes to freight shipping, there are several main transportation methods in the freight industry: 
+
+● Ocean \
+● Air \
+● Rail \
+● Road \
+● Intermodal and multimodal
 
 ## Types of Transportation: Why Are They Important?
 
