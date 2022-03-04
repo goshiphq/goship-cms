@@ -57,7 +57,7 @@ FTL shipping means that one shipper takes the entire truck capacity to move the 
 
 ### Rail
 
-Rail transportation plays a crucial role in intermodal shipments and is cheaper and more eco-friendly than over-the-road shipping. Rail is best used for pre-planned long-hauls, and moving from OTR to rail could benefit your supply chain in several ways. 
+Rail transportation plays a crucial role in intermodal shipments and is cheaper and more eco-friendly than over-the-road shipping. Rail is best used for pre-planned long-hauls, and moving from OTR to rail could benefit your logistics and supply chain management in several ways. 
 
 Significant investments in intermodal transportation in recent decades have made it more reliable, cost-effective, and service-oriented. Rail freight rates are flexible and much lower than truck rates. Due to the large volume of goods being moved, the price per load is low. Also, rail transport doesn’t make frequent stops and uses a minimum of fuel.
 
@@ -65,8 +65,8 @@ Significant investments in intermodal transportation in recent decades have made
 
 Choosing the right mode of transportation may be difficult, especially if you have a long and complicated route. Intermodal and multimodal transportation solve this problem, as they are two types of combination transportation modes. Generally, [intermodal and multimodal](https://www.plslogistics.com/modes/intermodal-shipping) shipping suggest the combination of road, rail, ocean, or air for a single shipment. 
 
-The only difference between both methods is that intermodal is handled under a single bill, while multimodal goes with separate bills from all the carriers involved. Generally, intermodal and multimodal can be very beneficial to the shipper in terms of price and flexibility. Ultimately, each mode of transportation has its advantages and drawbacks. Depending on the size and needs of your business, you have a variety of options to choose from.
+The only difference between both methods is that intermodal is handled under a single bill, while multimodal goes with separate bills from all the carriers involved. Generally, intermodal and multimodal can be very beneficial to the shipper in terms of price and flexibility. Ultimately, each mode of transportation has its advantages and drawbacks. Depending on the size and needs of your business, you'll have a variety of options to choose from.
 
-## Freight Shipping with GoShip.com
+## Freight Shipping with GoShip
 
-Looking for reliable online shipping services? GoShip.com can help! Learn more about our convenient freight [shipping services](https://www.goship.com/shipping-services/)!
+Looking for reliable online shipping services? GoShip can help! Learn more about our convenient freight [shipping services](https://www.goship.com/shipping-services/)!
