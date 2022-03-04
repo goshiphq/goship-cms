@@ -1,7 +1,7 @@
 ---
 keywords: shipping modes, modes of transportation
 author: GoShip Admin
-title: "Different Modes of Transportation: Transport & Logistics"
+title: "Different Modes of Transportation: Transport and Logistics"
 intro: Logistics and the transportation of goods are very diverse and complex
   industries. Shippers rely on overseas shipping, air transportation, and ground
   delivery to move freight. It involves many shipping modes or different types
@@ -11,9 +11,11 @@ intro: Logistics and the transportation of goods are very diverse and complex
   shipping. However, knowing the differences and benefits
 postedAt: 1562734806000
 news: false
-description: "The different modes of transportation of goods are very diverse.
-  Shippers rely on overseas shipping, air transportation, and ground delivery to
-  move freight. "
+description: The different modes of transportation of goods are diverse and can
+  meet any logistics needs. Shippers and retailers rely on overseas shipping,
+  air transportation, and ground delivery to move their freight. LTL and FTL
+  transport and logistics services can be extremely helpful in terms of your
+  ground delivery operations.
 altText: modes of transportation
 image: images/copy-of-goship-blog-4-.png
 ---
@@ -33,17 +35,17 @@ There are various forms of transportation, but when it comes to freight shipping
 
 ## Types of Transportation: Why Are They Important?
 
-All of these modes of transport are extremely important and play a significant role in the industry. However, there are many differences in terms of price, shipped commodities, transit distance, etc. While some modes may be the perfect solution to one business, they may also be absolutely useless to another business.
+All of these modes of transport are extremely important and play a significant role in the industry. However, there are many differences in terms of price, shipped commodities, transit distance, etc. While some modes may be the perfect solution to one business, they may also be useless to another business.
 
 ### Ocean shipping
 
 Ocean shipping is the most popular way of moving large volumes of goods overseas. Compared to air, the ocean is a much more cost-efficient option but is also a rather slow option. This mode of transportation works best for shippers who need to move goods on a distance longer than 400 km. Also, it works for oversized, hazardous, liquids, and weird-shaped freight. 
 
-Ocean shipping is common among large and mid-sized businesses because they need global shipping on a regular basis. The freight is stacked in containers that are later loaded onto the ships or barges.
+Ocean shipping is common among large and mid-sized businesses because they need to make global logistics operations more regular. The freight is stacked in containers that are later loaded onto the ships or barges.
 
 ### Air shipping
 
-Probably the fanciest shipping mode, air transport is a reliable and extremely quick way to ship freight. Obviously, extraordinary speed comes at a higher price. Because of its larger cost, air transport is mostly used by bigger companies, but small businesses often use it too. 
+Probably the fanciest shipping mode, air transport is a reliable and extremely quick way to ship freight. In terms of shipping, extraordinary speed comes at a higher price. Because of its larger cost, air transport is mostly used by bigger companies, but small businesses often use it too. 
 
 This option is the perfect solution for retail companies and light industries. Essentially, there are specialized aircraft for hefty cargo but in general, planes are not developed for handling oversized freight of unusual shape.
 
@@ -67,4 +69,4 @@ The only difference between both methods is that intermodal is handled under a s
 
 ## Freight Shipping with GoShip.com
 
-Looking for reliable online shipping service? GoShip.com can help! Learn more about our convenient freight [shipping services](https://www.goship.com/shipping-services/)!
+Looking for reliable online shipping services? GoShip.com can help! Learn more about our convenient freight [shipping services](https://www.goship.com/shipping-services/)!
