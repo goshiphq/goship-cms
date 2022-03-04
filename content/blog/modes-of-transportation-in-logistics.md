@@ -67,6 +67,10 @@ Choosing the right mode of transportation may be difficult, especially if you ha
 
 The only difference between both methods is that intermodal is handled under a single bill, while multimodal goes with separate bills from all the carriers involved. Generally, intermodal and multimodal can be very beneficial to the shipper in terms of price and flexibility. Ultimately, each mode of transportation has its advantages and drawbacks. Depending on the size and needs of your business, you'll have a variety of options to choose from.
 
+
+
+Applying different modes of transportation can also help you build a warehouse management system. If you want to ship your material and product more effectively or consider international shipments, you can think about delivering goods to a distribution center. 
+
 ## Freight Shipping with GoShip
 
 Looking for reliable online shipping services? GoShip can help! Learn more about our convenient freight [shipping services](https://www.goship.com/shipping-services/)!
