@@ -33,6 +33,10 @@ Strengthening a [local supply chain](https://www.goship.com/blog/what-is-local
 
 ## 3 best practices for a stronger local supply chain
 
+
+
+
+
 ### Investigating the market
 
 It is important to conduct thorough market research to figure out if there are any manufacturers in your area related to your business. Firstly, it would be insightful to look at what your local competitors are doing. Do they work with local suppliers and manufacturers? How successful are they with their efforts? At first sight, it might seem that a selection of suppliers in your area doesn’t provide solutions that directly meet your needs. However, this doesn’t necessarily mean they lack skills or expertise. Local manufacturers can turn out to be surprisingly flexible and open to discussing new services or solutions to offer.
@@ -47,4 +51,4 @@ Apart from production, there is another vital part of any supply chain - trans
 
 ## Optimize your local supply chain with GoShip
 
-GoShip.com can help you build a reliable network of regional carriers with our shipping platform. Compare rates from different freight carriers in your area or across the country. [Get a quote](https://www.goship.com/) today!
+GoShip can help you build a reliable network of regional carriers with our shipping platform. Compare rates from different freight carriers in your area or across the country. [Get a quote](https://www.goship.com/) today!
