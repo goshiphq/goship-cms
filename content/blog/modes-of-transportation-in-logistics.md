@@ -35,11 +35,11 @@ There are various forms of transportation, but when it comes to freight shipping
 
 ## Types of Transportation: Why Are They Important?
 
-All of these modes of transport are extremely important and play a significant role in the industry. However, there are many differences in terms of price, shipped commodities, transit distance, etc. While some modes may be the perfect solution to one business, they may also be useless to another business.
+All of these modes of transport are extremely important and play a significant role in the logistics industry. However, there are many differences in terms of price, shipped commodities, transit distance, etc. While some modes may be the perfect solution to one business, they may also be useless to another business.
 
 ### Ocean shipping
 
-Ocean shipping is the most popular way of moving large volumes of goods overseas. Compared to air, the ocean is a much more cost-efficient option but is also a rather slow option. This mode of transportation works best for shippers who need to move goods on a distance longer than 400 km. Also, it works for oversized, hazardous, liquids, and weird-shaped freight. 
+Ocean shipping is the most popular way of moving large volumes of goods overseas. Compared to air, the ocean is a much more cost-efficient option but is also rather slow. This mode of transportation is best for shippers who need to move products at a distance longer than 400 km. Also, it works for oversized, [hazardous](https://www.goship.com/posts/how-to-ship-hazardous-materials-a-guide-to-hazmat-shipping), liquids, and weird-shaped freight. 
 
 Ocean shipping is common among large and mid-sized businesses because they need to make global logistics operations more regular. The freight is stacked in containers that are later loaded onto the ships or barges.
 
