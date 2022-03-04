@@ -17,11 +17,19 @@ description: Learn how to create a stable local supply chain business and
 altText: local business owners
 image: images/goship-blog-36-.png
 ---
-Supply chains in the US have been widely stretched around the globe for decades. Outsourcing and offshoring manufacturing has been a gold standard in the industry until 2020. Then, the pandemic happened, accompanied by many other economic and political factors like the US-China trade war and Brexit. Considering these factors, the time has come to shorten the supply chains. Many retailers and businesses in the US are trying to develop a better local supply chain, use regional freight carriers, and take other steps to make their supply chain more flexible and prone to disruptions. Are the new times coming? Maybe. Regardless, it’s better to be prepared. Here are a few best practices for building a strong local supply chain to complement your [shipping strategy](https://www.goship.com/blog/3-tips-for-shipping-strategy-success-in-2021/).
+Supply chains in the US have been widely stretched around the globe for decades. Outsourcing and offshoring manufacturing has been a gold standard in the industry until 2020. Then, the pandemic happened, accompanied by many other economic and political factors like the US-China trade contest and Brexit. Considering these factors, the time has come to shorten the supply chains. 
 
-## What are the benefits of developing a local supply chain?
 
-The cost has always been the greatest obstacle for businesses when considering developing or optimizing their local supply chains. Outsourcing and offshoring are common because remote areas offer much cheaper services and products. The increase in global consumer demand has driven remote suppliers to become more versatile and flexible in their service offerings. This made outsourcing more desirable than local supply chains. Strengthening a [local supply chain](https://www.goship.com/blog/what-is-local-supply-chain-and-how-it-can-help-your-business/) can provide many benefits and reduce costs if done right. A developed local supply chain fosters trusted relationships with suppliers, provides flexibility and an opportunity to negotiate the terms of your partnerships more successfully. But most importantly, this way you make your supply chain less vulnerable to disruptions and increase chances of on-time deliveries, while also helping local manufacturers' community to grow their businesses.
+
+Many retailers and businesses in the US are trying to develop a better local supply chain, use regional freight carriers, and take other steps to make their supply chain more flexible and prone to disruptions. Are the new times coming? Maybe. Regardless, it’s better to be prepared. Here are a few best practices for building a strong local supply chain to complement your [shipping strategy](https://www.goship.com/blog/3-tips-for-shipping-strategy-success-in-2021/).
+
+# What are the benefits of developing a local supply chain?
+
+The cost has always been the greatest obstacle for businesses when considering developing or optimizing their local supply chains. Outsourcing and offshoring are common because remote areas offer much cheaper services and products. The increase in global consumer demand has driven remote suppliers to become more versatile and flexible in their service offerings. This made outsourcing more desirable than local supply chains. 
+
+
+
+Strengthening a [local supply chain](https://www.goship.com/blog/what-is-local-supply-chain-and-how-it-can-help-your-business/) can provide many benefits and reduce costs if done right. A developed local supply chain fosters trusted relationships with suppliers, provides flexibility and an opportunity to negotiate the terms of your partnerships more successfully. But most importantly, this way you make your supply chain less vulnerable to disruptions and increase chances of on-time deliveries, while also helping local manufacturers' community to grow their businesses.
 
 ## 3 best practices for a stronger local supply chain
 
@@ -35,8 +43,8 @@ Establishing relationships with [regional manufacturers](https://www.goship.com
 
 ### Using regional carriers
 
-Apart from production, there is another vital part of any supply chain - transportation. Obviously, larger carriers are much more common than regional ones, but regional carriers can close the most challenging gaps across your supply chain, like [last-mile deliveries](https://www.goship.com/blog/3-ways-to-master-your-last-mile-delivery/). Additionally, having a diverse network of regional carriers ensures better expedited and overnight on-time delivery rates, as well as having personalized customer service.
+Apart from production, there is another vital part of any supply chain - transportation. Larger carriers are much more common than regional ones, but regional carriers can close the most challenging gaps across your supply chain, like [last-mile deliveries](https://www.goship.com/blog/3-ways-to-master-your-last-mile-delivery/). Additionally, having a diverse network of regional carriers ensures better expedited and overnight on-time delivery rates, as well as having personalized customer service.
 
-## Optimize your local supply chain with GoShip.com
+## Optimize your local supply chain with GoShip
 
 GoShip.com can help you build a reliable network of regional carriers with our shipping platform. Compare rates from different freight carriers in your area or across the country. [Get a quote](https://www.goship.com/) today!
