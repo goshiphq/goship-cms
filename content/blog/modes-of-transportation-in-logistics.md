@@ -47,7 +47,7 @@ Ocean shipping is common among large and mid-sized businesses because they need 
 
 Probably the fanciest shipping mode, air transport is a reliable and extremely quick way to ship freight. In terms of shipping, extraordinary speed comes at a higher price. Because of its larger cost, air transport is mostly used by bigger companies, but small businesses often use it too. 
 
-This option is the perfect solution for retail companies and light industries. Essentially, there are specialized aircraft for hefty cargo but in general, planes are not developed for handling oversized freight of unusual shape.
+This option is the perfect solution for many retail companies and light industries. Essentially, there are specialized aircraft for hefty cargo but in general, planes are not developed for handling [oversized freight](https://www.goship.com/shipping-services/large-item-shipping) of unusual shape.
 
 ### Trucking (Over-the-Road Shipping)
 
