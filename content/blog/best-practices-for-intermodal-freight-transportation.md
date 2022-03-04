@@ -11,8 +11,6 @@ keywords: intermodal freight transportation, best practices for intermodal
 altText: intermodal transportation
 image: images/goship-blog-69-.png
 ---
-
-
 The shipping industry is growing at an incredible rate and shippers are finding it harder to navigate the complicated supply chain process. 
 
 With all the options to choose from, we get how overwhelming it can be to choose a transportation method that’s right for you.
@@ -33,7 +31,7 @@ Intermodal freight is the transportation of [products and raw materials](https:/
 
 It is a term used for two or more methods of transporting freight, most commonly truck and rail.
 
-Intermodal container dimensions adhere to the International Organization for Standardization, which is why there is no need for additional handling when changing transportation modes. This prevents potential damage to products while encouraging seamless and fast delivery.
+Intermodal container dimensions adhere to the International Organization for Standardization, which is why there is no need for additional handling when changing [transportation modes](https://www.goship.com/posts/modes-of-transportation-in-logistics). This prevents potential damage to products while encouraging seamless and fast delivery.
 
 ## How does intermodal transportation work?
 
