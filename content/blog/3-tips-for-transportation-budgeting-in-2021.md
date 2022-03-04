@@ -27,13 +27,13 @@ description: Here are 3 key things to consider when calculating your costs and
 altText: " transportation budget planning"
 image: images/goship-blog-42-.png
 ---
-Setting a transportation budget for [2021](https://www.goship.com/blog/2021-outlook-small-business-trends/) seems like a daunting task after the roller coaster that was 2020. While many companies will surely keep their budgets low, logistics and transportation experts anticipate a rise in short-term contracts, extending existing agreements, and early planning.
+Setting a transportation budget for [2021](https://www.goship.com/blog/2021-outlook-small-business-trends/) seems like a daunting task after the roller coaster that was in 2020. While many companies will surely keep their budgets low, logistics and transportation experts anticipate a rise in short-term contracts, extending existing agreements, and early planning.
 
 ## What are 3 key things to consider when planning your transportation budget in 2021?
 
 ### 1. Rates will increase
 
-As a direct reflection of conditions created by COVID-19, there has been a dip in pricing across all main transportation modes: parcel, LTL, and truckload. Parcel and LTL rates recovered from their top positions at the beginning of 2020 while truckload rates continued their descending course that had begun prior to 2020. Rates are expected to grow, eventually. Parcel giants UPS and FedEx have recently announced a 4.9% General Rate Increase, but the real cost to shippers is expected to be much higher. LTL rates are predicted to grow 2-5%, while contract rates are to climb 3-5%. Expect spot market rates to increase 5-7% range and intermodal rates to rise close to 10%.
+As a direct reflection of conditions created by COVID-19, there has been a dip in pricing across all main [transportation modes](https://www.goship.com/posts/modes-of-transportation-in-logistics): parcel, LTL, and truckload. Parcel and LTL rates recovered from their top positions at the beginning of 2020 while truckload rates continued their descending course that had begun before 2020. Rates are expected to grow, eventually. Parcel giants UPS and FedEx have recently announced a 4.9% General Rate Increase, but the real cost to shippers is expected to be much higher. LTL rates are predicted to grow 2-5%, while contract rates are to climb 3-5%. Expect spot market rates to increase 5-7% range and intermodal rates to rise close to 10%.
 
 ### 2. Advanced planning
 
