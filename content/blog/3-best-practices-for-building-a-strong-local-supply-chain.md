@@ -35,7 +35,7 @@ Strengthening a [local supply chain](https://www.goship.com/blog/what-is-local
 
 
 
-
+To upgrade your local supply chain operations, it is recommended to follow a conventional business strategy. If you get well-informed about the market trends, establish relationships with local suppliers, and choose a reliable carrier, your small business will grow significantly.
 
 ### Investigating the market
 
