@@ -1,5 +1,7 @@
 ---
-keywords: how shipping has evolved, last changes in shipping industry
+keywords: how shipping has evolved, last changes in shipping industry, changes
+  in shipping industry, changes in logistics, logistics development, development
+  of shipping
 author: GoShip Admin
 title: How Shipping Has Evolved Over the Years
 intro: "It’s crazy to think about how much the shipping industry has changed
@@ -18,6 +20,10 @@ altText: shipping and logistics industry
 image: images/goship-blog-2022-01-12t095544.129.png
 ---
 It’s crazy to think about how much the shipping industry has changed over the years. Ordering and shipping packages can be as easy as clicking a few buttons on a website, and your package is already on its way to the destination. Many years ago, if you wanted to send anything to a different location, it had to be done manually with no truck or technology to help. 
+
+
+
+# Development of shipping and logistics
 
 Let’s take a look at the evolution of the shipping industry. One thing we can agree on is that Americans have always wanted items shipped at a fast rate. Many years ago, whenever you wanted something shipped, a courier would do it for you and drop the package off at some kind of central location to be picked up. 
 
