@@ -34,3 +34,9 @@ Today, the shipping industry has come a long way from wooden carts to trucks, ra
 
 
 ## Last changes in the shipping industry
+
+Today, we can see many developments that have modernized and simplified the logistics process. 
+
+Shipment tracking
+
+Logistics software
