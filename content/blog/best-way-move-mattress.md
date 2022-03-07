@@ -1,6 +1,6 @@
 ---
 keywords: how to move mattress, how to properly pack and move mattress, how to
-  pack a mattress, how to ship a mattress
+  pack a mattress, how to ship a mattress, shipping mattress
 author: GoShip Admin
 title: "How to Properly Pack and Move Your Mattress: A Short Guide"
 intro: "Have you ever struggled to move your mattress during a big move?
