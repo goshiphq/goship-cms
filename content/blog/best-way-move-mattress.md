@@ -39,4 +39,6 @@ If you are hiring a carrier to move your mattress, remember they normally requir
 
 ## How to ship a mattress?
 
-If you are moving and need shipping service, check out GoShip.com’s furniture shipping options.
+To move your mattress fast and properly, it is necessary to choose a reliable carrier. If you need to ship a single item, shipping services will offer you [less than truckload (LTL)](https://www.goship.com/posts/ltl-freight-shipping-for-beginners) delivery which implies sharing the truck space with other shippers thus saving your costs. In case your shipment is time-sensitive, or you've got several mattresses to move, it is better to go for [full truckload (FTL)](https://www.goship.com/posts/when-should-you-switch-to-full-truckload-shipping) shipping mode where you'll fill the whole trailer out. Besides, the driver won't make any additional stops on the road.
+
+If you want to move a mattress and need shipping assistance, check out GoShip shipping options.
