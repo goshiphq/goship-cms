@@ -33,7 +33,7 @@ Whether you chose to move your mattress yourself or use a shipping company, it i
 
 When shipping a mattress, most people fasten it to the top of their car or pack it into a van or the bed of a truck. If you are planning to locate the item on the roof of your car, tape or tie down any extra plastic and balance the mattress in the middle of the car roof. It is also important to drive slowly to avoid the mattress shifting out of place. You need to make sure you can see out of the proper windows in the vehicle you will be driving for your safety. 
 
-If you are hiring a carrier to move your mattress, remember they normally require mattresses to be bagged and boxed before the pickup day. To do it, you can use a professional help service that will assist you with proper packing performance and totally prepare your mattress for shipment. GoShip partners with [TaskRabbit service](https://www.goship.com/resources/get-help-with-taskrabbit) provider that effectively helps with packing, shifting, lifting, etc. 
+If you are hiring a carrier to move your mattress, remember they normally require mattresses to be bagged and boxed before the pickup day. To do it, you can use a professional help service that will assist you with proper packing performance and perfectly prepare your mattress for shipment. GoShip partners with [TaskRabbit service](https://www.goship.com/resources/get-help-with-taskrabbit) provider that effectively helps with packing, shifting, lifting, etc. 
 
 
 
