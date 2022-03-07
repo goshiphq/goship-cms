@@ -23,10 +23,14 @@ It’s crazy to think about how much the shipping industry has changed over the 
 
 
 
-# Development of shipping and logistics
+# Development of supply chain and logistics
 
 Let’s take a look at the evolution of the shipping industry. One thing we can agree on is that Americans have always wanted items shipped at a fast rate. Many years ago, whenever you wanted something shipped, a courier would do it for you and drop the package off at some kind of central location to be picked up. 
 
 Many packages were delivered via horseback instead of by truck or cargo ship. It wasn’t until the 1800’s that boats and railroads were introduced and could be utilized as a viable shipping option. In the 1900s, cars were becoming more popular in cities and roads were getting paved. In 1980, the Motor Carrier Act was passed to deregulate the emerging trucking industry. The Motor Carrier Act set freight-hauling rate regulations, monitored trucking companies’ range and restricted the number of driving hours truckers drove. By the late 1900s, there were more and more trucks traveling across major roadways delivering freight. 
 
 Today, the shipping industry has come a long way from wooden carts to trucks, rail and cargo ships. Companies have always searched for the fastest, cost-effective way to ship their items, and thanks to new technology, there are now various options in today’s society for shipping freight. Technology is constantly changing the industry, and sooner or later, shipping will be handled by autonomous trucks and drones to delivery our shipments. The way we ship is constantly changing and being integrated with new technology. It will be interesting to see how shipping will be transformed in the coming years.
+
+
+
+## Last changes in the shipping industry
