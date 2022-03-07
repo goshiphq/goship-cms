@@ -29,8 +29,14 @@ First, we would like to break down the common types of mattresses. Most mattress
 
 ## How to pack a mattress?
 
+Whether you chose to move your mattress yourself or use a shipping company, it is recommended to wrap the mattress in plastic or a special mattress bag to protect it from any damage. When shipping a mattress, most people fasten it to the top of their car or pack it into a van or the bed of a truck. If you are planning to locate the item on the roof of your car, tape or tie down any extra plastic and balance the mattress in the middle of the car roof. It is also important to drive slowly to avoid the mattress shifting out of place. You need to make sure you can see out of the proper windows in the vehicle you will be driving for your safety. 
+
+
+
+If you are hiring movers to help move your mattress, remember that movers normally require mattresses to be bagged and boxed before moving day. 
+
 
 
 ## How to ship a mattress?
 
-There are two main ways that you can move your mattress: you can move it yourself or you can ship it. If you are only moving your mattress a short distance, it may be more convenient and beneficial for you to move it yourself. Whether you chose to move your mattress yourself or use a shipping company, you should wrap your mattress in plastic or a special mattress bag before you move it to protect it from damages.   When moving your mattress, most people secure the mattress to the top of their car or pack it into a rented van or the bed of a truck. If you are planning on securing it to the roof of your car, tape or tie down any extra plastic and balance the mattress in the middle of the roof of your car. You should also drive slowly to avoid the mattress shifting out of place. You need to make sure that you can see out of the proper windows in the vehicle you will be driving for your safety.  If you are hiring movers to help move your mattress, remember that movers normally require mattresses to be bagged and boxed before moving day. If you are moving and need shipping service, check out GoShip.com’s furniture shipping options.
+If you are moving and need shipping service, check out GoShip.com’s furniture shipping options.
