@@ -17,7 +17,7 @@ description: "Follow a few easy steps to properly pack and move a mattress
 altText: moving mattress
 image: images/goship-blog-71-.png
 ---
-Have you ever struggled to move a mattress during your shipment? Although mattresses may not seem too important, they are a frequent request of delivery services. Still, mattresses aren't the easiest to ship as they're heavy, bulky, and require reliable packaging and fixation. If you are planning a shipment and need to find an easy way to move your mattress, we want to help. 
+Have you ever struggled to move a mattress during your shipment? Although mattresses may not seem too important, they are a frequent request of delivery services. Still, mattresses aren't the easiest to ship as they're bulky, heavy, and require reliable packaging and fixation. If you are planning a shipment and need to find an easy way to move your mattress, we want to help. 
 
 
 
