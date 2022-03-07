@@ -23,13 +23,15 @@ Have you ever struggled to move a mattress during your shipment? Although mattre
 
 # Shipping mattress
 
-First, we would like to break down the common types of mattresses. Most mattresses fall into one of seven categories: innerspring, hybrid, pillow top, water, memory foam, latex, and gel spring. Each mattress is made up of a different support system to make sleeping the most comfortable for you. If you are looking to purchase a mattress, you should do your research on different types and makeup of mattresses to verify the one you select will fit your comfort and sleeping needs.  
+First, we would like to break down the common types of mattresses. Most mattresses fall into one of seven categories: innerspring, hybrid, pillow top, water, memory foam, latex, and gel spring. Each mattress is made up of a different support system to make sleeping the most comfortable for you. If you are looking to purchase a mattress, you should do your research on different types and makeup of mattresses to be sure the one you select fits your comfort and sleeping needs.  
 
 
 
 ## How to pack a mattress?
 
-Whether you chose to move your mattress yourself or use a shipping company, it is recommended to wrap the mattress in plastic or a special mattress bag to protect it from any damage. When shipping a mattress, most people fasten it to the top of their car or pack it into a van or the bed of a truck. If you are planning to locate the item on the roof of your car, tape or tie down any extra plastic and balance the mattress in the middle of the car roof. It is also important to drive slowly to avoid the mattress shifting out of place. You need to make sure you can see out of the proper windows in the vehicle you will be driving for your safety. 
+Whether you chose to move your mattress yourself or use a shipping company, it is recommended to preliminary remove any external elements from the mattress and verify it's clean and dry. Then, wrap the mattress in plastic or a special mattress bag to protect it from any damage. After condensing the item into a shipping bag, tape its ends to keep the mattress away from dirt and moisture.
+
+When shipping a mattress, most people fasten it to the top of their car or pack it into a van or the bed of a truck. If you are planning to locate the item on the roof of your car, tape or tie down any extra plastic and balance the mattress in the middle of the car roof. It is also important to drive slowly to avoid the mattress shifting out of place. You need to make sure you can see out of the proper windows in the vehicle you will be driving for your safety. 
 
 
 
