@@ -31,10 +31,18 @@ Today, the shipping industry has come a long way from wooden carts to trucks, ra
 
 ## Last changes in the shipping industry
 
-Today, we can see many developments that have modernized and simplified the logistics flow. 
+Today, we can see many developments that have modernized and simplified the logistics flow. Most of them are based on the technical achievements of the sphere experts. Technological advances made it possible for us to plan and organize any kind of shipment avoiding any inconvenience.
 
 ### Shipment tracking
 
 Modern technologies allow us to easily [track](https://www.goship.com/posts/3-benefits-of-shipment-tracking) the exact shipment location and check the delivery time. Thus, every customer can actively participate in the shipping process and stay updated about any changes or delays.
 
-Logistics software
+### Automated warehousing
+
+Nowadays, the shipping industry tends to imply more and more technology of automation, especially when it comes to inventory management. Automated warehousing allows supervising a lot of manual storage operations remotely, which makes shipping faster and more effective.
+
+### Logistics software
+
+Successful shipping companies widely use different kinds of logistics software. It adjusts the supply chain organization and helps to detect possible problems. Besides, modern [logistics software](https://www.goship.com/posts/how-to-choose-the-best-shipping-software-for-your-business) eliminates the need to perform certain activities by making them automated. For the customers, logistics software comes in the form of shipping apps. 
+
+At GoShip, we can connect you to numerous carriers who already use logistics improvements for better shipping. Use our [free quote tool](https://www.goship.com/) to book a shipment today!
