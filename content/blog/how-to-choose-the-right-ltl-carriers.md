@@ -46,11 +46,11 @@ Whether you send or receive freight shipment, transportation speed is an importa
 
 ### Shipment tracking
 
-Good LTL carriers have to inform you about your shipment’s location and properly communicate any route changes or delays. Also, some carriers offer [online tracking](https://www.goship.com/blog/3-reasons-shipment-tracking-matters/), so make sure to figure out whether this option is available.
+Good LTL carriers have to inform you about your shipment’s location and properly communicate any route changes or delays. Also, some carriers offer [online tracking](https://www.goship.com/blog/3-reasons-shipment-tracking-matters/), so make sure to figure out whether this option is available. Shipment tracking is one of the most influential technical factors. Being notified about the shipment location and expected delivery time significantly increases customers' experience.
 
 ### Freight liability
 
-Each freight carrier ensures a certain amount of [freight liability](https://www.goship.com/blog/freight-liability-vs-freight-insurance/). In most cases, this liability won’t cover the declared value of your cargo in case of [damage](https://www.goship.com/blog/freight-damage-how-to-file-a-freight-claim/). That’s why shipping companies recommend obtaining full-coverage [freight insurance](https://www.goship.com/blog/what-is-freight-insurance/). Knowing the amount of liability is important for your shipment’s safety.
+Every freight carrier ensures a certain amount of freight liability. In most cases, this liability won’t cover the declared value of your cargo in case of damage. That’s why shipping companies recommend obtaining full-coverage [freight insurance](https://www.goship.com/blog/what-is-freight-insurance/). Knowing the amount of liability is important for your shipment’s safety. 
 
 ### Customer service
 
