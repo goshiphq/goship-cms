@@ -51,4 +51,4 @@ Even after getting the full-scale insurance, it is necessary to remember about f
 * Giving **accurate information** about your freight is a necessity. It will save you time and money in case of cargo damage. Also, you'll be able to compare your freight characteristics when filing a claim.
 * Take **pictures of your freight** before the transit. It is a good recommendation that can be helpful while reviewing the reasons and consequences of freight damage/loss.
 
-Purchasing freight insurance is a smart decision and irreplaceable option for shippers who want to play it safe. Check with your shipping provider today to see what different options they have available for insuring your shipment.
+Purchasing freight insurance is a smart decision and irreplaceable option for shippers who want to play it safe. Check with your shipping provider today to see what different options they have available for insuring your shipment. GoShip cooperates with one of the most reliable cargo insurance providers, [Falvey Insurance Group](https://falveyshippers.com/). Falvey will take care of your freight shipments' safety and assist you with the required paperwork.
