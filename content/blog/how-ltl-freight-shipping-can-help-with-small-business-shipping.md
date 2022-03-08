@@ -14,7 +14,7 @@ image: images/goship-blog-12-.png
 ---
 If you’re contemplating whether LTL makes sense for your business, the first thing we’d like to do is say is “congratulations!” Businesses, even the ones that are just starting out, have great potential for growth with LTL shipping.
 
-The switch from parcel shipping to LTL can cut back shipping costs and improve security and traceability. LTL shipping also offer more services for improved customer experience compared to FTL shipments.
+The switch from parcel shipping to LTL can cut back shipping costs and improve security and traceability. LTL shipping also offers more services for improved customer experience compared to FTL shipments.
 
 More importantly, LTL gives small businesses an efficient and logical way to scale up their business.
 
@@ -74,7 +74,7 @@ Another important aspect of improved communication is allowing businesses a cert
 
 LTL carriers generally offer better rates and more services compared to parcel services and FTL services.
 
-Most LTL carriers offer these additional services at competitive prices at a predetermined flat rate or a weight-based surcharge:
+Most [LTL carriers](https://www.goship.com/posts/how-to-choose-the-right-ltl-carriers) offer these additional services at competitive prices at a predetermined flat rate or a weight-based surcharge:
 
 * Liftgate service pickup and delivery
 * Onsite pickup and delivery (Commercial and residential)
@@ -87,7 +87,7 @@ With these additional options, it’s much easier to give your customers the sen
 
 In the end, customer satisfaction with efficient and reliable shipping is key to expanding and scaling up your business.
 
-## Scale Up your Business with GoShip.com LTL Shipping
+## Scale Up your Business with GoShip LTL Shipping
 
 If you’re thinking of taking your small business to the next level, making the switch to LTL shipment will provide you with the foundation to make efficient and cost-effective changes to your shipping strategy.
 
