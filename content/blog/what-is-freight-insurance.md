@@ -31,9 +31,9 @@ Freight insurance is the additional protection that covers your cargo in case of
 
 Shippers often assume that freight insurance and freight liability are the same when actually, they’re not. Every booked shipment comes with limited liability coverage, and the word “limited” explains the main difference. The final amount of coverage is based on the commodity type and defined by the carrier’s tariffs. In most cases, it does not fully cover your shipment’s value, especially when it’s high. 
 
-Carriers can pay you the refund when it’s damaged due to their fault. To receive the maximum amount of carrier’s coverage liability, you have to prove your goods were packed properly and undamaged at the pick-up. Other circumstances, like weather conditions and disasters, do not suggest the carrier is completely liable for your freight. With the insurance, you are safe no matter what happens to your freight. 
+Carriers can pay you the refund when the cargo is destructed due to their fault. To receive the maximum amount of carrier’s coverage liability, you have to prove your goods were packed properly and undamaged at the pick-up. Under the circumstances like bad weather conditions and natural disasters, the carrier is not completely liable for your freight.
 
-You don’t have to prove it was the carrier’s fault, wait until your claim is processed or stress out about whether you will get a refund or not. Compared to liability coverage, freight insurance offers much more comfort for the shipper and lets you receive a refund faster.
+With the insurance, you are safe no matter what happens to your freight. You also won’t have to prove the incident was the carrier’s fault. If your goods are shipped via freight insurance, you don't need to wait until your claim is processed or stress out about whether you will get a refund or not. Compared to liability coverage, freight insurance offers much more comfort for the shipper and lets you receive a refund faster. Typically, claims are paid within 30 days instead of several months. In the long run, getting freight insurance is a cost-effective solution. 
 
 ## **In which case should I get freight insurance?**
 
