@@ -17,19 +17,27 @@ description: Purchasing a full value freight insurance from a shipping provider
 altText: freight insurance
 image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-freight-insurance.jpg
 ---
-If you have ever shipped goods, you must have heard about cases of freight loss or damage due to many different circumstances. With services like [GoShip.com](https://www.goship.com/about-us/), shipping items is a safe and smooth process, but there are things that nobody can predict: natural disasters, hard weather conditions, etc. Freight insurance is the additional protection that covers your cargo in case of loss or damage. Cargo insurance keeps you calm and confident about shipping. Shippers often assume that freight insurance and freight liability are the same when actually, they’re not.
+If you have ever shipped goods, you must have heard about cases of freight loss or damage due to many different circumstances. With a reliable delivery service like [GoShip](https://www.goship.com/about-us/), the transit of items is a safe and smooth process. Still, there are things that nobody can predict: natural disasters, hard weather conditions, etc. 
+
+
+
+# What is freight insurance?
+
+
+
+Freight insurance is the additional protection that covers your cargo in case of loss or damage. Cargo insurance keeps you calm and confident during the shipping process. If something happens to your freight, the insurer will reimburse its value so you don't have to cover the expenses yourself. Freight insurance can be ordered from the shipping company or third-party insurers. Depending on your business needs, there are several [types](https://www.goship.com/posts/an-introduction-to-freight-insurance) of freight shipping isurance. 
 
 ## **What is the difference between freight insurance and freight liability?**
 
-Every booked shipment comes with limited liability coverage, and the word “limited” explains the main difference between freight liability and insurance. The final amount of coverage is based on the commodity type and defined by the carrier’s tariffs. In most cases, it does not fully cover your shipment’s value, especially when it’s high. 
+Shippers often assume that freight insurance and freight liability are the same when actually, they’re not. Every booked shipment comes with limited liability coverage, and the word “limited” explains the main difference. The final amount of coverage is based on the commodity type and defined by the carrier’s tariffs. In most cases, it does not fully cover your shipment’s value, especially when it’s high. 
 
-Carriers can pay you the refund when it’s damaged because of their fault. To receive the maximum amount of carrier’s coverage liability, you have to prove your goods were packed properly and were undamaged at the pick-up. Other circumstances, like weather conditions and disasters, do not suggest the carrier is completely liable for your freight. With the insurance, you are safe no matter what happens to your freight. 
+Carriers can pay you the refund when it’s damaged due to their fault. To receive the maximum amount of carrier’s coverage liability, you have to prove your goods were packed properly and undamaged at the pick-up. Other circumstances, like weather conditions and disasters, do not suggest the carrier is completely liable for your freight. With the insurance, you are safe no matter what happens to your freight. 
 
 You don’t have to prove it was the carrier’s fault, wait until your claim is processed or stress out about whether you will get a refund or not. Compared to liability coverage, freight insurance offers much more comfort for the shipper and lets you receive a refund faster.
 
 ## **In which case should I get freight insurance?**
 
-While booking a shipment and partnering with a certain carrier, figure out what is the maximum liability coverage for your commodities. If your freight’s value exceeds the stated amount, it is better to get insurance. Also, cargo insurance is essential when:
+While booking a shipment and partnering with a certain carrier, figure out what is the maximum liability coverage for your commodities. If your freight value exceeds the stated amount, it is better to get insurance. Also, cargo insurance is essential when:
 
 * You ship fragile goods
 * The cost of a product is very high
