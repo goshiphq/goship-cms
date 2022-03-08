@@ -58,7 +58,7 @@ Essentially, you expect to receive [good service](https://www.goship.com/blog/ho
 
 ### Additional services
 
-Many shippers book a shipment because of the low rate and later end up paying much more for hidden services. If your freight has special handling requirements, needs [inside delivery](https://www.goship.com/blog/what-is-inside-delivery/), or you’re shipping to a [limited access area](https://www.goship.com/blog/limited-access-shipping-location/), make sure to notify your LTL carrier. This will not only save you from additional charges but also help build a better relationship with the carrier.
+Many shippers book a shipment because of the low rate and later end up paying much more for hidden services. If your freight has special handling requirements, needs [inside delivery](https://www.goship.com/blog/what-is-inside-delivery/), or you’re shipping to a [limited access area](https://www.goship.com/blog/limited-access-shipping-location/), make sure to notify your LTL carrier. This will not only save you from additional charges but also help build a better relationship with the carrier. Thus, you'll start to build a strong supply chain and develop a network of trusted carriers.
 
 ## **Ready to choose LTL carriers?**
 
