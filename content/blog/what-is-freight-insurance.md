@@ -35,13 +35,13 @@ Carriers can pay you the refund when the cargo is destructed due to their fault.
 
 With the insurance, you are safe no matter what happens to your freight. You also won’t have to prove the incident was the carrier’s fault. If your goods are shipped via freight insurance, you don't need to wait until your claim is processed or stress out about whether you will get a refund or not. Compared to liability coverage, **freight insurance** offers much more comfort for the shipper and lets you receive a refund faster. Typically, claims are paid within 30 days instead of several months. In the long run, getting freight insurance is a cost-effective solution. In addition, insurance agents will manage the paperwork for you.
 
-## **In which case should I get freight insurance?**
+## **When should I get freight insurance?**
 
-While booking a shipment and partnering with a certain carrier, figure out what is the maximum liability coverage for your commodities. If your freight value exceeds the stated amount, it is better to get insurance. Also, cargo insurance is essential when:
+While booking a shipment and partnering with a certain carrier, try to figure out what is the maximum liability coverage for your commodities. If your freight value exceeds the stated amount, it is better to get insured. Also, cargo insurance is essential when:
 
-* You ship fragile goods
-* The cost of a product is very high
-* You don’t have time to wait for claim processing in the case of freight damage or loss
+* You ship fragile goods. If your freight refers to the class of fragile items, it is more prone to get broken. 
+* The cost of a product is very high. Often, such products require special handling and mentioning their size and weight details on insurance documents.
+* You don’t have time to wait for claim processing in the case of freight damage or loss. Claims filed in terms of freight insurance get paid within a month.
 
 ### Important things to take care of
 
