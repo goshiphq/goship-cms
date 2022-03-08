@@ -25,7 +25,7 @@ If you have ever shipped goods, you must have heard about cases of freight loss 
 
 
 
-Freight insurance is the additional protection that covers your cargo in case of loss or damage. Cargo insurance keeps you calm and confident during the shipping process. If something happens to your freight, the insurer will reimburse its value so you don't have to cover the expenses yourself. Freight insurance can be ordered from the shipping company or third-party insurers. Depending on your business needs, there are several [types](https://www.goship.com/posts/an-introduction-to-freight-insurance) of freight shipping isurance. 
+Freight insurance is the additional protection that covers your cargo in case of loss or damage. Cargo insurance keeps you calm and confident during the shipping process. If something happens to your freight, the insurer will reimburse its value so you don't have to cover the expenses yourself. Freight insurance can be ordered from the shipping company or third-party insurers. Depending on your business needs, there are several [types](https://www.goship.com/posts/an-introduction-to-freight-insurance) of freight shipping insurance. 
 
 ## **What is the difference between freight insurance and freight liability?**
 
@@ -43,10 +43,12 @@ While booking a shipment and partnering with a certain carrier, figure out what 
 * The cost of a product is very high
 * You don’t have time to wait for claim processing in the case of freight damage or loss
 
-## **There are some important things you should take care of, even with insurance:**
+### Important things to take care of
 
-* Make sure to provide proper packaging for your goods, for it is the first step to avoid damage. Whether they are fragile or require additional protection, ensure the safe conditions for transportation.
-* Giving accurate and comprehensive information about your freight is necessary. It will save you time and money in case of cargo damage.
-* Take pictures of your freight before the transit. It is a good recommendation that can be helpful while reviewing reasons for freight damage/loss.
+Even after getting the full-scale insurance, it is necessary to remember about freight delivery specifics. The better you organize the freight transportation, the lower the chances of damage are.
+
+* Make sure to provide **proper packaging** for your goods. This is the first step to avoid any damage. Whether they are fragile or require additional protection, ensure the safe conditions for transportation.
+* Giving **accurate information** about your freight is necessary. It will save you time and money in case of cargo damage.
+* Take **pictures of your freight** before the transit. It is a good recommendation that can be helpful while reviewing reasons for freight damage/loss.
 
 Purchasing freight insurance is a smart decision and irreplaceable option for shippers who want to play it safe. Check with your shipping provider today to see what different options they have available for insuring your shipment.
