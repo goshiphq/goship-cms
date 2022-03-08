@@ -38,11 +38,11 @@ Choosing the right LTL carrier may be challenging. Shippers often get [attracted
 
 ### Geographic coverage
 
-Understanding the service area of your LTL carriers will help you decide on the most viable option for your shipment. Regional carriers typically have more freight on the trailer, so shipping cost becomes lower. It is also important to figure out in advance since many carriers do direct pickup and delivery only within their served area.
+Understanding the service area of your LTL carriers will help you decide on the most viable option for your shipment. Regional carriers typically have more freight on the trailer, so shipping cost becomes lower. It is also important to figure out in advance since many carriers do direct pickup and delivery only within their served area. Going extra miles usually results in additional charges. If you get well-familiar with the shipment route, it'll help you with the proper carrier choice.
 
 ### Transit time
 
-Whether you send or receive freight shipment, shipping speed is an important concern. Therefore, make sure to consider transit times are as mentioned. If your LTL carrier does long hauls, it will most likely take longer for them to deliver the shipment, than for a regional carrier.
+Whether you send or receive freight shipment, transportation speed is an important concern. Therefore, make sure to consider transit times are as mentioned. If your LTL carrier does long hauls, it will most likely take longer for them to deliver the shipment, than for a regional carrier. Advanced planning and scheduling can help you calculate shipping time to avoid possible delays and disruptions.
 
 ### Shipment tracking
 
