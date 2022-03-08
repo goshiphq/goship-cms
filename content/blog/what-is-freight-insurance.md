@@ -1,5 +1,6 @@
 ---
-keywords: freight insurance, freight damage
+keywords: freight insurance, freight damage, what is freight insurance, freight
+  liability, get freight insurance, cargo insurance, freight coverage
 author: GoShip Admin
 title: What is Freight Insurance and Why Do Shippers Need It?
 intro: "If you have ever shipped goods, you must have heard about cases of
@@ -13,7 +14,8 @@ postedAt: 1547010037000
 news: false
 description: Purchasing a full value freight insurance from a shipping provider
   is a smart decision and irreplaceable option for shippers who want to play it
-  safe.
+  safe. Learn what is freight insurance and why you need it to ship
+  successfully.
 altText: freight insurance
 image: https://storage.googleapis.com/goshiprepo/prod/blog/images/what-is-freight-insurance.jpg
 ---
