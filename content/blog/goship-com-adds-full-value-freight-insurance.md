@@ -18,7 +18,7 @@ image: images/goship-blog-86-.png
 
 [Falvey Shippers Insurance](https://falveyinsurancegroup.com/) is a subsidiary of Falvey Cargo Underwriting, which was established in 1995 and is currently the largest cargo cover note holder at Lloyd’s of London. Falvey Shippers provides full-value, all-risk domestic and international shipping insurance through an API integration within clients’ existing shipping software. Additionally, Falvey Shippers’ comprehensive coverage, turnkey integration capabilities, in-house claims handling, and processing speed are unparalleled in the industry.
 
-## About GoShip.com
+## About GoShip
 
 Founded in 2017, GoShip is an innovative online exchange for less-than-truckload shipping services. Users can ship anything from household appliances to living room furniture, to large freight – no matter the size, you can GoShip it. GoShip has partnered with thousands of pre-qualified trucking companies to ensure customers are getting the best rate. Additionally, with countless transportation companies in the market, GoShip differentiated itself with the [lowest rates](https://app.goship.com/#/wizard) compared to other major competitors. Finally, users can get a free, no-obligation quote and book their shipment within the same screen. To learn more visit [GoShip.](https://www.goship.com/)
 
