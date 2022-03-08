@@ -49,7 +49,7 @@ If the carrier is unable to prove that one of these requirements was not met, th
 
 ## Freight Insurance
 
-Freight insurance is almost always set up through a third party. Normally, you send the insurance company your freight information and you will receive a quote back informing you how much they will charge to cover the shipment. There are many different types of freight insurance options, so here are some helpful tips to help you along the process:
+[Freight insurance](https://www.goship.com/posts/what-is-freight-insurance) is almost always set up through a third party. Normally, you send the insurance company your freight information and you will receive a quote back informing you how much they will charge to cover the shipment. There are many different types of freight insurance options, so here are some helpful tips to help you along the process:
 
 * There is no such thing as total and complete coverage.
 * Make sure to read your policy very carefully. You don’t want to make a mistake and have your policy not cover what you needed it to.
