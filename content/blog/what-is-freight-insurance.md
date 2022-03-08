@@ -33,7 +33,7 @@ Shippers often assume that freight insurance and freight liability are the same 
 
 Carriers can pay you the refund when the cargo is destructed due to their fault. To receive the maximum amount of **carrier’s coverage liability**, you have to prove your goods were packed properly and undamaged at the pick-up. Under the circumstances like bad weather conditions and natural disasters, the carrier is not completely liable for your freight.
 
-With the insurance, you are safe no matter what happens to your freight. You also won’t have to prove the incident was the carrier’s fault. If your goods are shipped via freight insurance, you don't need to wait until your claim is processed or stress out about whether you will get a refund or not. Compared to liability coverage, **freight insurance** offers much more comfort for the shipper and lets you receive a refund faster. Typically, claims are paid within 30 days instead of several months. In the long run, getting freight insurance is a cost-effective solution. 
+With the insurance, you are safe no matter what happens to your freight. You also won’t have to prove the incident was the carrier’s fault. If your goods are shipped via freight insurance, you don't need to wait until your claim is processed or stress out about whether you will get a refund or not. Compared to liability coverage, **freight insurance** offers much more comfort for the shipper and lets you receive a refund faster. Typically, claims are paid within 30 days instead of several months. In the long run, getting freight insurance is a cost-effective solution. In addition, insurance agents will manage the paperwork for you.
 
 ## **In which case should I get freight insurance?**
 
@@ -48,7 +48,7 @@ While booking a shipment and partnering with a certain carrier, figure out what 
 Even after getting the full-scale insurance, it is necessary to remember about freight delivery specifics. The better you organize the freight transportation, the lower the chances of damage are.
 
 * Make sure to provide **proper packaging** for your goods. This is the first step to avoid any damage. Whether they are fragile or require additional protection, ensure the safe conditions for transportation.
-* Giving **accurate information** about your freight is necessary. It will save you time and money in case of cargo damage.
-* Take **pictures of your freight** before the transit. It is a good recommendation that can be helpful while reviewing reasons for freight damage/loss.
+* Giving **accurate information** about your freight is a necessity. It will save you time and money in case of cargo damage. Also, you'll be able to compare your freight characteristics when filing a claim.
+* Take **pictures of your freight** before the transit. It is a good recommendation that can be helpful while reviewing the reasons and consequences of freight damage/loss.
 
 Purchasing freight insurance is a smart decision and irreplaceable option for shippers who want to play it safe. Check with your shipping provider today to see what different options they have available for insuring your shipment.
