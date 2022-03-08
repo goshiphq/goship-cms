@@ -50,11 +50,11 @@ Good LTL carriers have to inform you about your shipment’s location and proper
 
 ### Freight liability
 
-Every freight carrier ensures a certain amount of freight liability. In most cases, this liability won’t cover the declared value of your cargo in case of damage. That’s why shipping companies recommend obtaining full-coverage [freight insurance](https://www.goship.com/blog/what-is-freight-insurance/). Knowing the amount of liability is important for your shipment’s safety. 
+Every freight carrier ensures a certain amount of freight liability. In most cases, this liability won’t cover the declared value of your cargo in case of damage. That’s why shipping companies recommend obtaining full-coverage [freight insurance](https://www.goship.com/blog/what-is-freight-insurance/). Knowing the amount of liability is important for your shipment’s safety. If your freight gets damaged due to various external reasons, you won't have to spend your costs.
 
 ### Customer service
 
-Essentially, you expect to receive [good service](https://www.goship.com/blog/how-to-improve-your-customers-experience-through-shipping/). Double-check whether your carrier provides updates, delivers on time, notifies customers in case of any issues, etc. Learning this in advance would save you time, costs, and patience.
+Essentially, you expect to receive [good service](https://www.goship.com/blog/how-to-improve-your-customers-experience-through-shipping/). Double-check whether your carrier provides updates, delivers on time, notifies customers in case of any issues, etc. Learning this in advance would save you time, costs, and patience. Besides, many buyers address customer services to get consulted on numerous questions. Make sure you can provide the best customer experience and meet your audience's needs.
 
 ### Additional services
 
