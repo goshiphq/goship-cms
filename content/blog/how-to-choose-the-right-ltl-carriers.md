@@ -28,7 +28,7 @@ The LTL shipping industry keeps growing, and experts estimate this [$38 billion]
 
 Less than truckload (LTL) shipping is extremely popular among retailers and small business owners. This transportation mode implies sharing trailer space with other shippers to move your goods. If your items belong to the [LTL freight class](https://www.goship.com/posts/blog-everything-you-need-to-know-about-ltl-freight-class) and you don't need to fill the whole truck, you can confidently choose LTL mode. 
 
-
+LTL shipping is cost-efficient since you only have to pay for the space needed to locate your products. When organizing LTL shipments, it is necessary to count the required deadlines. LTL carriers complete delivery multiple times, which can sometimes take a bit longer.
 
 ## How to select an LTL carrier?
 
