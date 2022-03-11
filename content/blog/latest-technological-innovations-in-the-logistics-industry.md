@@ -3,7 +3,7 @@ title: Latest Technological Innovations in the Logistics Industry
 intro: Explore the best ways to introduce technological innovations into your
   supply chain and develop a smart logistics strategy.
 postedAt: "1647018002430"
-news: true
+news: false
 description: Explore the best ways to introduce technological innovations into
   your supply chain and develop a smart logistics strategy.
 keywords: technology in logistics, logistics technologies, technological
