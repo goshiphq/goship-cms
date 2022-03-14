@@ -1,7 +1,7 @@
 ---
-keywords: "moving season, moving cross-country "
+keywords: moving season, moving cross-country, best way to move cross-country
 author: GoShip Admin
-title: "Moving Season: 3 Tips for Moving Cross-Country"
+title: "Best Way to Move Cross-Country: 3 Moving Tips"
 intro: "Moving season is just around the corner, marking a busy period for many
   people and moving companies. While any move can be stressful, moving cross
   country is usually perceived as the most stressful type of move because it can
@@ -11,9 +11,9 @@ intro: "Moving season is just around the corner, marking a busy period for many
   have a better understanding of what you need to do to "
 postedAt: 1617166834000
 news: false
-description: Whether you need to find the best way to move freight cross
-  country, moving can be a smooth and positive experience with the help of
-  modern shipping services.
+description: With the help of modern shipping services, moving your freight can
+  be a smooth and positive experience. Find the best way to move cross-country
+  and start delivering your goods with no disruptions.
 altText: moving season
 image: https://storage.googleapis.com/goshiprepo/prod/blog/images/tips-and-tricks-to-successfully-move-cross-country.jpg
 ---
