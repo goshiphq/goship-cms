@@ -51,10 +51,6 @@ If you have ever moved to another location, chances are you know a DIY option is
 
 
 
-If you are searching for a cross-country moving company, check out GoShip services and get a free estimate online. We offer different moving options, free price estimates, and the possibility of hiring additional helpers for packaging, loading, and unloading services.
-
-
-
 ## What is the cost of moving cross-country?
 
-The moving costs of cross-country transportation depend on many factors and can vary greatly, so it is impossible to outline a generalized price. Some factors to consider when planning your budget include mileage, amount of belongings, packaging, extra services, etc. The best way to get an accurate price estimate is to use online quoting tools, like [GoShip’s online calculator](https://www.goship.com/).
+The moving costs of cross-country transportation depend on many factors and can vary greatly, so it is impossible to outline a generalized price. Some factors to consider when planning your budget include mileage, amount of belongings, packaging, extra services, etc. If you are searching for a cross-country moving company, check out GoShip services and get a free estimate online. We offer different moving options, free price estimates, and the possibility of hiring additional helpers for packaging, loading, and unloading services. The easiest way to get a free quote is to use online tools like [GoShip’s online calculator](https://www.goship.com/).
