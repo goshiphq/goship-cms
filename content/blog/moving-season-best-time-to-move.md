@@ -17,7 +17,7 @@ description: Summer is traditionally known as a popular time for moving, or a
 altText: moving season
 image: images/copy-of-goship-blog-.png
 ---
-## What is the peak moving season?
+# What is the peak moving season?
 
 Summer is traditionally known as a popular time for moving. Usually, the peak moving season starts in April and lasts until September. There are many reasons why most relocations happen in summer. 
 
