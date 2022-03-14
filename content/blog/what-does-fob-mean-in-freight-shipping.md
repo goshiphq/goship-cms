@@ -48,11 +48,11 @@ Another key FOB role in logistics is when the load gets lost or damaged. Since F
 
 ## How is FOB used in freight shipping?
 
-Another thing to know about FOBs is that it always contains additional information about the party liable for the shipment. For example, if there is a FOB with an origin point, the shipper or seller is responsible for transporting and loading the freight. But once it arrives at the destination, the shipper passes the responsibility to the receiver or consignee. 
+Another thing to know about FOBs is that it always contains additional information about the party liable for the shipment. For example, if there is a FOB with an origin point, the shipper or seller is responsible for transporting and loading the goods. But once it arrives at the final destination, the shipper passes the responsibility to the receiver or consignee. 
 
 This way, there are four ways to use FOB for freight shipping:
 
 * Origin: If the origin point is declared, the receiver owns the shipment after the BOL is signed.
-* Destination: If there is a final destination point, the shipper is liable for the items.
+* Destination: If there is a destination point, the shipper is liable for the items.
 * Freight (Collect): If the place of origin is declared, the receiver owns the shipment after the BOL is signed.
 * Freight (Prepaid): If there is a place of destination, the shipper is held liable for the shipment.
