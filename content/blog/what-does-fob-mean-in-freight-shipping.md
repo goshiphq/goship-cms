@@ -30,11 +30,11 @@ The freight shipping industry is saturated with [many shipping terms](https://ww
 
 
 
-FOB is one of the rarely recognized words in freight shipping vocabulary, yet it is still vital. FOB is an international term that stands for **free (freight) on board** and designates the liability for the transported goods. Generally, FOB marks who handles the payments and responsibility for cargo. 
+FOB is one of the rarely recognized words in freight shipping vocabulary, yet it is still vital. FOB is an international term that stands for **free (freight) on board** and designates the liability for the transported goods. Generally, FOB marks who handles the payments and responsibility for cargo, and when the responsibility should be transferred from the seller to the buyer. 
 
 
 
-## What does FOB (Free on Board) mean in shipping?
+## What does FOB mean in logistics?
 
 There are a few key papers when it comes to freight shipping, and apart from the [bill of lading](https://www.goship.com/blog/what-is-the-bill-of-lading-bol/), FOB is an essential mark that indicates who is liable for the freight and who pays all the remaining charges upon shipment arrival. Essentially, the FOB note designates which party is responsible for the cargo, payments, and paperwork. Another critical role of FOB in freight shipping is when your load is lost or damaged. Since FOB contains information about who is responsible for the shipment, it further specifies the process of returns, claims, or delivery refusal if the shipment is damaged.
 
