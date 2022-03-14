@@ -42,7 +42,7 @@ There are a few key papers when it comes to freight shipping, and apart from the
 
 
 
-Another key FOB role in logistics is when the load gets lost or damaged. Since FOB contains information about who is responsible for the shipment, it further specifies the process of returns, claims, or a delivery refusal. If the cargo gets damaged during transportation, it is necessary to possess a document showing what side will cover the financial losses.
+Another key FOB role in logistics is when the load gets lost or damaged. Since FOB contains information about who is responsible for the shipment, it further specifies the process of returns, claims, or a delivery refusal. If the cargo gets damaged during transportation, it is necessary to possess a document showing what side will cover the financial losses without further complaints.
 
 
 
@@ -52,7 +52,7 @@ Another thing to know about FOBs is that it always contains additional informati
 
 This way, there are four ways to use FOB for freight shipping:
 
-* Origin: If the origin point is declared, the receiver owns the shipment after the BOL is signed.
-* Destination: If there is a destination point, the shipper is liable for the items.
-* Freight (Collect): If the place of origin is declared, the receiver owns the shipment after the BOL is signed.
-* Freight (Prepaid): If there is a place of destination, the shipper is held liable for the shipment.
+* FOB origin: if the origin point is declared, the receiver owns the shipment after signing the BOL. When the carrier company picks up and signs the BOL, the buyer claims their ownership of the items.
+* FOB destination: if there is a destination point, the shipper is liable for the items. In this case, the seller is responsible for the goods until their very arrival.
+* Freight (Collect): if the place of origin is declared, the receiver owns the shipment after the BOL is signed. Here, the receiver is well-aware of all the transport costs and assumes risks of freight damage.
+* Freight (Prepaid): if there is a place of destination, the shipper is held liable for the shipment. Carrier companies accept responsibility for the shipped items and possible transportation risks.
