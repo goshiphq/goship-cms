@@ -33,7 +33,11 @@ Do you really need that old sofa? It may surprise you, but it might be cheaper t
 
 ### Correct packaging
 
-It doesn’t matter what moving alternative you choose – DIY, friends, or a shipping service – packing is your part in the shipment process. Protection of your cargo is essential for secure transportation. Make sure to buy the right cardboard boxes, pallets, and packing materials, such as industrial tapes. It’s better to put more layers on the entire package to make sure the freight is safe. When it comes to packing – more is better than less. While many shipping companies provide reliable options for fragile items’ shipping, it’s probably better to count on yourself, especially if you are moving your grandma’s antique cup collection. Take the most fragile objects with you in your hand luggage while flying to the destination. While this is a best practice, shippers typically don’t have enough time or necessary supplies to pack the items properly. For this case, it’s better to use professional services. GoShip partners with [TaskRabbit](https://www.taskrabbit.com/), a helping service where you can request taskers to pack, load, and unload your items.
+It doesn’t matter what moving alternative you choose – DIY, friends, or a shipping service – packing is your part in the shipment process. Protection of your cargo is essential for secure transportation. Make sure to buy the right cardboard boxes, pallets, and packing materials, such as industrial tapes. It’s better to put more layers on the entire package to make sure the freight is safe. Besides, consider applying [shipping pallets](https://www.goship.com/posts/a-guide-to-different-types-of-shipping-pallets) to provide additional fixating of the cargo inside the truck.
+
+
+
+When it comes to packing – more is better than less. While many shipping companies provide reliable options for fragile items’ shipping, it’s probably better to count on yourself, especially if you are moving your grandma’s antique cup collection. Take the most fragile objects with you in your hand luggage while flying to the destination. While this is a best practice, shippers typically don’t have enough time or necessary supplies to pack the items properly. For this case, it’s better to use professional services. GoShip partners with [TaskRabbit](https://www.taskrabbit.com/), a helping service where you can request taskers to pack, load, and unload your items.
 
 
 
