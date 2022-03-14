@@ -29,7 +29,11 @@ Whether you need to find the best way to move freight across the country or chan
 
 ### Cargo downsizing
 
-Do you really need that old sofa? It may surprise you, but it might be cheaper to buy items in a new place instead of transporting them to another part of the country, depending on which shipping service you decide to use. The more items you want to ship, the more costly the delivery gets. You will probably need to book a large truck or several to condense every interior piece. Take the time to make a detailed review of the things you actually need and get rid of all the unnecessary elements. Check all the items in your home and define the ones that are still useful and in good condition, as well as the stuff you don’t need. You can sell various types of oversized or underused items, ranging from old furniture to pieces of equipment. You can also take some good pictures and put them on Craigslist. It is one of the ways to make your moving process beneficial and easier to organize.
+Do you really need that old sofa? It may surprise you, but it might be cheaper to buy items in a new place instead of transporting them to another part of the country, depending on which shipping service you decide to use. The more items you want to ship, the more costly the delivery gets. You will probably need to rent a truck or several large vehicles to condense all the interior pieces. Take the time to make a detailed review of the things you actually need and get rid of all the unnecessary elements. 
+
+
+
+Check all the items in your home and define the ones that are still useful and in good condition, as well as the stuff you don’t need. You can sell various types of oversized or underused items, ranging from old furniture to pieces of equipment. You can also take some good pictures and put them on Craigslist. It is one of the ways to make your moving process beneficial and easier to organize.
 
 ### Correct packaging
 
