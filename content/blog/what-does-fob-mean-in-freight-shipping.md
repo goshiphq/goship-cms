@@ -1,6 +1,6 @@
 ---
-keywords: FOB, free on board, freight on board, what is free on board, what does
-  free on board mean
+keywords: what is FOB, FOB, free on board, freight on board, what is free on
+  board, what does free on board mean, what does FOB mean
 author: GoShip Admin
 title: "Free On Board: What Does FOB Mean in Supply Chain and Logistics?"
 intro: >-
@@ -16,8 +16,9 @@ intro: >-
   What is FOB in
 postedAt: 1618981255000
 news: false
-description: Learn what the free on board service includes and how it
-  contributes to the organization of shipping process.
+description: Free on board is a special transportation service that contributes
+  to the organization of the shipping process. Learn what does FOB mean in the
+  logistics industry.
 altText: free on board
 image: images/goship-blog-20-.png
 ---
