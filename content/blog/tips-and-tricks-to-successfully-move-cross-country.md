@@ -45,12 +45,16 @@ When it comes to packing – more is better than less. While many shipping compa
 
 
 
-### Cross country freight solutions
+### Effective freight shipping solutions
 
-If you have ever moved to another location, chances are you know a DIY option is not the best one. The best way to move across the country is to find a reputable shipping service. If you are searching for a cross-country moving company, check out GoShip services and get a free estimate online. We offer different shipping modes, free price estimates, and the option to hire additional help for services like packaging, loading, and unloading.
+If you have ever moved to another location, chances are you know a DIY option is not the best one. The best way to move across the country is to find a reputable shipping service. 
+
+
+
+If you are searching for a cross-country moving company, check out GoShip services and get a free estimate online. We offer different shipping modes, free price estimates, and the option to hire additional help for services like packaging, loading, and unloading.
 
 
 
 ## What is the cost of moving cross-country?
 
-The cost of moving cross-country depends on many factors and can vary greatly, so it is impossible to outline a generalized price. Some factors to consider when planning your budget include mileage, amount of belongings, packaging, extra services, etc. The best way to get an accurate price estimate is to use online quoting tools, like [GoShip’s online calculator](https://www.goship.com/).
+The moving costs of cross-country transportation depend on many factors and can vary greatly, so it is impossible to outline a generalized price. Some factors to consider when planning your budget include mileage, amount of belongings, packaging, extra services, etc. The best way to get an accurate price estimate is to use online quoting tools, like [GoShip’s online calculator](https://www.goship.com/).
