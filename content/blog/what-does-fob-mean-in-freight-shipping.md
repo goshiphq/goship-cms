@@ -40,7 +40,7 @@ There are a few key papers when it comes to freight shipping, and apart from the
 
 ## How is FOB used in freight shipping?
 
-Another thing to know about FOBs is that it always contains additional information about the party who is liable for the shipment. For example, if there is a FOB with an origin point, the shipper (seller) is responsible for the transportation and loading of the freight. But once it arrives at the destination, the shipper passes the responsibility to the receiver or consignee. 
+Another thing to know about FOBs is that it always contains additional information about the party who is liable for the shipment. For example, if there is a FOB with an origin point, the shipper (seller) is responsible for transporting and loading the freight. But once it arrives at the destination, the shipper passes the responsibility to the receiver or consignee. 
 
 This way, there are four ways to use FOB for freight shipping:
 
