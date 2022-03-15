@@ -30,17 +30,23 @@ There are different trailers in truckload shipping, each created to move differe
 
 
 
-Gathering the necessary data is the key to finding the right trailer that will both condense and secure your cargo. Determining your product type will help the carrier company select the vehicle for you and meet your transit expectations. Ensure you can provide the required data before booking a trailer to avoid possible transportation risks caused by wrong trailer choice.
+Gathering the necessary data is the key to finding the right trailer that will both condense and secure your cargo. Determining your product type will help the carrier company select the vehicle for you and meet your transit expectations. Ensure you can provide the required data before booking a trailer to avoid possible transportation risks caused by wrong trailer choices.
 
 
 
 ## What are the types of trailers?
 
-## Dry van trailer
+
+
+
+
+
+
+### Dry van trailer
 
 [Dry vans](https://www.plslogistics.com/blog/dry-van-shipping-8-facts/) are the stars of the truckload freight shipping industry, as this is the most commonly used type of freight shipping equipment. They are called ‘dry’ because shippers move their dry freight, which means goods that don't require temperature control. Dry van trailers are enclosed boxes that are fully protected from external influence. They work for everything except perishable and oversized freight.
 
-### The most frequently moved commodities:
+#### The most frequently moved commodities:
 
 * Clothing, fabrics, textile
 * Electronics and machinery
@@ -48,36 +54,36 @@ Gathering the necessary data is the key to finding the right trailer that will b
 * Non-perishable food and beverages
 * Retail products
 
-### Dry van trailer dimensions:
+#### Dry van trailer dimensions:
 
 Length: 28, 32, 36, 40, 42, 43, 45, 48, 53 feet Widths: 96 – 102 inches Height: 12.5 – 13.5 feet
 
-## Refrigerated trailers
+### Refrigerated trailers
 
 In a nutshell, [refrigerated trailers](https://www.plslogistics.com/blog/refrigerated-shipping-trailers-7-facts/), or reefers, are just refrigerators on wheels. On the outside, they look like dry van trailers but have built-in climate control systems inside to maintain a specific temperature during transit. It’s not hard to guess that reefers typically move perishable products.
 
-### The most frequently moved commodities:
+#### The most frequently moved commodities:
 
 * Perishable food and beverages
 * Flowers
 * Pharmaceuticals
 * Fine art products
 
-### Refrigerated trailer dimensions:
+#### Refrigerated trailer dimensions:
 
 Length: 28, 32, 36, 40, 48, 51, 53 feet Widths: 96 – 102 inches Height: 12.5 – 13.5 feet
 
-## Flatbed trailer
+### Flatbed trailer
 
-Flatbed is an open trailer with sides but no roof and a specific deck to load freight. Essentially, flatbeds won’t work if your freight is sensitive to wind or rain, because these trailers don’t protect like dry vans. However, [flatbed shipping](https://www.goship.com/blog/what-is-flatbed-shipping/) may be the only reasonable solution for oversized freight. These trailers handle cargo of irregular shape and size and are in high demand among industrial shippers.
+Flatbed is an open trailer with sides but no roof and a specific deck to load freight. Essentially, flatbeds won’t work if your cargo is sensitive to wind or rain because these trailers don’t protect like dry vans. However, [flatbed shipping](https://www.goship.com/blog/what-is-flatbed-shipping/) may be the only reasonable solution for oversized freight. These trailers handle cargo of irregular shape and size and are in high demand among industrial shippers.
 
-### The most frequently moved commodities:
+#### The most frequently moved commodities:
 
 * Oversized machinery
 * Industrial equipment
 * Steel products, pipes, and rigs
 * Aircraft, engines
 
-### Flatbed trailer dimensions:
+#### Flatbed trailer dimensions:
 
 Length: 40, 42, 45, 48, 53 feet Widths: 102 inches Height: 58 – 62 inches. Now, when you know all the main trailer types, you’re good to arrange a shipment and choose the right equipment for your freight! Check out our [truckload shipping](https://www.goship.com/shipping-services/truckload-freight-shipping/) services.
