@@ -24,7 +24,7 @@ description: Dry van shipping is one of the most effective ways to deliver your
 altText: Dry Van Shipping
 image: images/copy-of-goship-website-image-template-1024-x-768-px-7-.png
 ---
-Whether you are shipping full truckload or less than truckload freight, using dry van trailers can enhance your transit efficiency. Dry vans are the most commonly used trailer types within the logistics industry as they allow you to move different amounts of goods fast and easily due to their high availability.
+Whether you are shipping full truckload or less than truckload freight, using dry van trailers can enhance your transit efficiency. Dry vans are the most commonly used [trailer types](https://www.goship.com/posts/what-are-the-types-of-trailers-in-truckload-shipping) within the logistics industry as they allow you to move different amounts of goods fast and easily due to their high availability.
 
 ## What is a dry van trailer?
 
