@@ -46,7 +46,7 @@ Gathering the necessary data is the key to finding the right trailer that will b
 
 ### Dry van trailer
 
-[Dry vans](https://www.plslogistics.com/blog/dry-van-shipping-8-facts/) are the stars of the truckload freight shipping industry, as this is the most commonly used type of freight shipping equipment. They are called ‘dry’ because shippers move their dry freight, which means goods that don't require temperature control. Dry van trailers are enclosed boxes that are fully protected from external influence. They work for everything except perishable and oversized freight.
+[Dry vans](https://www.plslogistics.com/blog/dry-van-shipping-8-facts/) are the stars of the truckload freight shipping industry, as this is the most commonly used type of freight shipping equipment. They are called ‘dry’ because shippers move their dry freight, which means goods that don't require temperature control. Dry van is an enclosed trailer that is fully protected from external influence. They work for everything except perishable and oversized freight.
 
 #### The most frequently moved commodities:
 
