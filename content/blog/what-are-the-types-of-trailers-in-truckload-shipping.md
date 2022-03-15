@@ -58,7 +58,7 @@ The versatility of truckload shipping strongly depends on the variety of trailer
 
 ### Refrigerated trailers
 
-In a nutshell, [refrigerated trailers](https://www.plslogistics.com/blog/refrigerated-shipping-trailers-7-facts/), or reefers, are just refrigerators on wheels. On the outside, they look like dry van trailers but have built-in climate control systems inside to maintain a specific temperature during transit. It’s not hard to guess that reefers typically move perishable products and healthcare goods requiring specific temperature regime.
+In a nutshell, [refrigerated trailers](https://www.plslogistics.com/blog/refrigerated-shipping-trailers-7-facts/), or reefers, are just refrigerators on wheels. On the outside, they look like dry van trailers but have built-in climate control systems inside to maintain a specific temperature during transit. It’s not hard to guess that reefers typically move perishable products and healthcare goods requiring specific temperature regime. Modern reefers suggest automated regulation tools that remotely regulate the temperature throughout the shipment.
 
 #### The most frequently moved commodities:
 
@@ -90,4 +90,6 @@ The category of flatbed trucks include the whole range of trailers of different 
 * Widths: 102 inches
 * Height: 58 – 62 inches
 
-Now, when you know all the main trailer types, you’re good to arrange a shipment and choose the right equipment for your freight! Check out our [truckload shipping](https://www.goship.com/shipping-services/truckload-freight-shipping/) services.
+
+
+Now, when you know all the main trailer types, you’re good to arrange a shipment and choose the right equipment for your freight. At GoShip, we offer you to collaborate with many professional carriers that are ready to help you pick a suitable trailer. Check out our truckload shipping services and [book a shipment](https://www.goship.com/) today!
