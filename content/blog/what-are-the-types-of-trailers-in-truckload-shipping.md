@@ -26,7 +26,7 @@ If you don’t have a lot of experience with [truckload freight shipping](https:
 
 # How to choose a trailer?
 
-There are different trailers in truckload shipping, each created to move different kinds of freight. Before booking a shipment, it’s crucial to know the differences between truck trailers, their roles, and specifics. It is critical to examine your cargo in detail and understand its size and dimensions to pick the most suitable trailer type. The weight of your items also matters when choosing a trailer for transportation. Characteristics like freight fragility or special chemical features will influence your trailer choice, too. 
+There are different trailers in truckload shipping, each created to move different kinds of freight. Before booking a shipment, it’s crucial to know the differences between truck trailers, their roles, and specifics. It is critical to examine your cargo in detail and understand its size and dimensions to pick the most suitable trailer type. The weight limit also matters when choosing a trailer for transporting freight. Characteristics like items' fragility or special chemical features will influence your trailer choice, too. 
 
 
 
