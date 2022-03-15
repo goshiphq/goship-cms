@@ -71,7 +71,7 @@ In a nutshell, [refrigerated trailers](https://www.plslogistics.com/blog/refrige
 
 ### Flatbed trailers
 
-The category of flatbed trucks includes the whole range of trailers of different [sizes and design](https://www.saferack.com/glossary/flatbed-trailer-types/)s (step deck trailer, side kit trailer, conestoga trailer, etc. ). Generally, a flatbed is an open trailer with sides but no roof and a specific deck to load freight. Essentially, flatbeds won’t work if your cargo is sensitive to wind or rain because these trailers don’t protect like dry vans. However, [flatbed shipping](https://www.goship.com/blog/what-is-flatbed-shipping/) may be the only reasonable solution for oversized freight. These trailers handle cargo of irregular shape and size and are in high demand among industrial shippers.
+The category of flatbed trucks includes the whole range of trailers of different [sizes and designs](https://www.saferack.com/glossary/flatbed-trailer-types/) (step deck trailer, side kit trailer, conestoga trailer, etc. ). Generally, a flatbed is an open trailer with sides but no roof and a specific deck to load freight. Essentially, flatbeds won’t work if your cargo is sensitive to wind or rain because these trailers don’t protect like dry vans. However, [flatbed shipping](https://www.goship.com/blog/what-is-flatbed-shipping/) may be the only reasonable solution for oversized freight. These trailers handle cargo of irregular shape and size and are in high demand among industrial shippers.
 
 #### The most frequently moved commodities:
 
