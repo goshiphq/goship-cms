@@ -61,9 +61,9 @@ Lastly, because intermodal freight is subject to less handling, cargo damage or 
 
 ### Personalized Packaging
 
-Since intermodal shipping containers stay sealed throughout the entirety of its journey, shippers have more flexibility in choosing their own packaging. 
+Since intermodal shipping containers stay sealed throughout the entirety of their journey, shippers have more flexibility in choosing their own packaging. 
 
-In case of any damage to your freight, the carrier will most likely shoulder the damage since it most likely occurred in-transit.
+In case of any damage to your freight, the carrier will most likely shoulder the damage since it most likely occurred in transit.
 
 ### Eco-Friendly
 
@@ -81,7 +81,7 @@ Before you book an intermodal shipment, you need to learn about the specific ben
 
 For road transport, one of the first things you need to check is the amount of fuel consumed by your truck and rail options. On top of that, make sure to check head haul and backhaul pricing and requirements.
 
-You also need to learn about the number of available containers and trailer and their sizes. 
+You also need to learn about the number of available containers and [trailer types](https://www.goship.com/posts/what-are-the-types-of-trailers-in-truckload-shipping). 
 
 Compare the transit times and the overall costs of all road options, considering the proximity of terminals and their hours of operation.
 
@@ -97,7 +97,7 @@ Try to allocate some time planning your shipping schedule where you may be able 
 
 Even though intermodal shipping containers stay sealed from pick up until it reaches the final destination, you still need to give extra thought to packaging. Remember that it will be transferred from two or more vehicles, so you’ll want to keep the freight secure inside the container. 
 
-Try to reduce movement inside the container by distributing the weight of the cargo and avoid stacking parcels. You can also use filler products to prevent cargo from shifting positions.
+Try to reduce movement inside the container by distributing the weight of the cargo and avoiding stacking parcels. You can also use filler products to prevent cargo from shifting positions.
 
 ## Intermodal container companies 
 
@@ -105,7 +105,7 @@ There are many different types of intermodal providers, but we’ll focus on ass
 
 ### Bi-Modal IMC
 
-Asset or Bi-modal IMCs own dray assets including containers, chassis, vehicles and drivers. However, asset IMCs don’t own the railroad assets.
+Asset or Bi-modal IMCs own dray assets including containers, chassis, vehicles, and drivers. However, asset IMCs don’t own the railroad assets.
 
 The most common bi-modal shipping methods are trailer on flat car (TOFC) and container on flat car (COFC).
 
