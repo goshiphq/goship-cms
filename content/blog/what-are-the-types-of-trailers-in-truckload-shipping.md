@@ -32,15 +32,11 @@ Gathering the necessary data is the key to finding the right trailer that will b
 
 ## What are the types of trailers?
 
-
-
-The versatility of truckload shipping strongly depends on the variety of trailers. Every of them is constructed to serve certain transportation modes. Knowing characteristics of your freight, you can easily decide on the most appropriate trailer type.
-
-
+The versatility of truckload shipping strongly depends on the variety of trailers. Each of them is constructed to serve specific transportation modes. Knowing the characteristics of your freight, you can easily decide on the most appropriate trailer type.
 
 ### Dry van trailer
 
-[Dry vans](https://www.plslogistics.com/blog/dry-van-shipping-8-facts/) are the stars of the truckload freight shipping industry, as this is the most commonly used type of freight shipping equipment. They are called ‘dry’ because shippers move their dry freight, which means goods that don't require temperature control. Dry van is an enclosed trailer that is fully protected from external influence. They work for everything except perishable and oversized freight.
+[Dry vans](https://www.plslogistics.com/blog/dry-van-shipping-8-facts/) are the stars of the truckload freight shipping industry, as this is the most commonly used type of freight shipping equipment. They are called ‘dry’ because shippers move their dry freight, which means goods that don't require temperature control. A dry van is an enclosed trailer fully protected from external influence. They work for everything except perishable and oversized freight.
 
 #### The most frequently moved commodities:
 
@@ -58,7 +54,7 @@ The versatility of truckload shipping strongly depends on the variety of trailer
 
 ### Refrigerated trailers
 
-In a nutshell, [refrigerated trailers](https://www.plslogistics.com/blog/refrigerated-shipping-trailers-7-facts/), or reefers, are just refrigerators on wheels. On the outside, they look like dry van trailers but have built-in climate control systems inside to maintain a specific temperature during transit. It’s not hard to guess that reefers typically move perishable products and healthcare goods requiring specific temperature regime. Modern reefers suggest automated regulation tools that remotely regulate the temperature throughout the shipment.
+In a nutshell, [refrigerated trailers](https://www.plslogistics.com/blog/refrigerated-shipping-trailers-7-facts/), or reefers, are just refrigerators on wheels. On the outside, they look like dry van trailers but have built-in climate control systems inside to maintain a specific temperature during transit. It’s not hard to guess that reefers typically move perishable products and healthcare goods requiring a particular temperature regime. Modern reefers suggest automated regulation tools that remotely regulate the temperature throughout the shipment.
 
 #### The most frequently moved commodities:
 
@@ -75,7 +71,7 @@ In a nutshell, [refrigerated trailers](https://www.plslogistics.com/blog/refrige
 
 ### Flatbed trailers
 
-The category of flatbed trucks include the whole range of trailers of different [sizes and design](https://www.saferack.com/glossary/flatbed-trailer-types/) (step deck trailer, side kit trailer, conestoga trailer, etc. ). Generally, a flatbed is an open trailer with sides but no roof and a specific deck to load freight. Essentially, flatbeds won’t work if your cargo is sensitive to wind or rain because these trailers don’t protect like dry vans. However, [flatbed shipping](https://www.goship.com/blog/what-is-flatbed-shipping/) may be the only reasonable solution for oversized freight. These trailers handle cargo of irregular shape and size and are in high demand among industrial shippers.
+The category of flatbed trucks includes the whole range of trailers of different [sizes and design](https://www.saferack.com/glossary/flatbed-trailer-types/)s (step deck trailer, side kit trailer, conestoga trailer, etc. ). Generally, a flatbed is an open trailer with sides but no roof and a specific deck to load freight. Essentially, flatbeds won’t work if your cargo is sensitive to wind or rain because these trailers don’t protect like dry vans. However, [flatbed shipping](https://www.goship.com/blog/what-is-flatbed-shipping/) may be the only reasonable solution for oversized freight. These trailers handle cargo of irregular shape and size and are in high demand among industrial shippers.
 
 #### The most frequently moved commodities:
 
@@ -90,6 +86,4 @@ The category of flatbed trucks include the whole range of trailers of different 
 * Widths: 102 inches
 * Height: 58 – 62 inches
 
-
-
-Now, when you know all the main trailer types, you’re good to arrange a shipment and choose the right equipment for your freight. At GoShip, we offer you to collaborate with many professional carriers that are ready to help you pick a suitable trailer. Check out our truckload shipping services and [book a shipment](https://www.goship.com/) today!
+Now, when you know all the main trailer types, you’re good to arrange a shipment and choose the right equipment for your freight. At GoShip, we offer to collaborate with many professional carriers ready to help you pick a suitable trailer. Check out our truckload shipping services and [book a shipment](https://www.goship.com/) today!
