@@ -15,7 +15,7 @@ If you’re shipping goods via less than truckload or full truckload, there’s 
 
 Dry van shipping with 53’ trailers is the most common way to transfer non-perishable cargo goods on the road.  Because of its large size (53' x 8' 6” x 8' 6”) it can accommodate large quantities of goods at a time as well as oversized cargo.
 
-To ship freight in a 53’ dry van trailer, you need to figure out whether FTL or LTL shipping will suit your needs better, depending on the type of cargo, its dimensions, quantity, and how fast you want it shipped. With an online freight marketplace, it’s easier to get freight quotess, book a carrier, and ship your package.
+To ship freight in a 53’ dry van trailer, you need to figure out whether FTL or LTL shipping will suit your needs better, depending on the type of cargo, its dimensions, quantity, and how fast you want it shipped. With an online freight marketplace, it’s easier to get freight quotes, book a carrier, and ship your package.
 
 In this article, we’ll give you an overview of everything you need to know to ship freight in 53’ dry van trailers.
 
@@ -67,7 +67,7 @@ Shippers also can’t ship items that are more than 45,000 pounds.
 
 2. Loading dock restrictions
 
-Dry van trailers can only be loaded/unloaded through the rear, so cargo that need to be accessed from the side of the trailer or through an open deck are not ideal for dry van trailers.
+Dry van trailers can only be loaded/unloaded through the rear, so cargo that needs to be accessed from the side of the trailer or through an open deck is not ideal for dry van trailers.
 
 3. Temperature restrictions
 
