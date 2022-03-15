@@ -1,5 +1,6 @@
 ---
-keywords: truckload shipping, what are the types of trailers, types of trailers, dry van
+keywords: truckload shipping, what are the types of trailers, types of trailers,
+  dry van, how to choose a suitable trailer
 author: GoShip Admin
 title: "Types of Trailers in Truckload Shipping: How to Choose a Suitable Trailer"
 intro: >-
@@ -15,9 +16,9 @@ intro: >-
   What are the types of trai
 postedAt: 1571806822000
 news: false
-description: Truckload shipping operations are held using different types of
-  trailers, depending on your transportation needs and the features of your
-  freight.
+description: Different types of trailers suit different shipping modes depending
+  on your transportation needs. Learn how to choose a suitable trailer to
+  organize a successful shipment.
 altText: trailer types
 image: images/goship-blog-29-.png
 ---
