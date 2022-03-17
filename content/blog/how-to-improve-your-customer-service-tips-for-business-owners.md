@@ -4,7 +4,7 @@ intro: Retailers put much time and effort into building loyal relationships with
   customers. Luckily, present customer service techniques can help the buyers
   recognize and appreciate these efforts.
 postedAt: "1647530946219"
-news: true
+news: false
 description: Good customer service is a distinguishing feature of a profitable
   business. Learn how to update your customer support methods and provide your
   clients with a better experience.
