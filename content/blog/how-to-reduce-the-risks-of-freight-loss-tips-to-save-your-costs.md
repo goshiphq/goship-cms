@@ -5,7 +5,7 @@ intro: "It is sometimes hard to predict situations like freight losses.
   shipment at a certain level. Although you can’t prevent others from making a
   mistake, you can decrease the threat of cargo loss on your side. "
 postedAt: "1648229438073"
-news: true
+news: false
 description: Learn how to effectively prevent freight losses and save your costs
   when managing complex shipping operations.
 keywords: cargo loss, what causes cargo losses, freight loss, how to prevent
