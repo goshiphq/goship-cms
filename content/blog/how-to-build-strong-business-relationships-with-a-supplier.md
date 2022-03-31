@@ -5,7 +5,7 @@ intro: Every business person knows how critical it is to work with reliable
   supply chain. An advanced approach and effective business communication will
   make you preferable to well-grounded vendors.
 postedAt: "1648722899653"
-news: true
+news: false
 description: Building trusted business relationships has always been a
   challenge. Learn how to cooperate with your suppliers and gain a long-term
   partnership properly.
