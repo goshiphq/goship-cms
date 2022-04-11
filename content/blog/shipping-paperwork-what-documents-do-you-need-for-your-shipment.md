@@ -5,7 +5,7 @@ intro: Apart from organizing core supply chain operations, it is critical to
   eliminate probable shipment constraints and let you deliver the goods with no
   disruptions.
 postedAt: "1649693331713"
-news: true
+news: false
 description: Proper documentation validates strong logistics management. Learn
   how to document your shipment and secure your cargo with the necessary
   paperwork.
