@@ -28,28 +28,46 @@ description: Become an experienced shipper by exploring the most common freight
 altText: shipping mistakes
 image: images/goship-blog-67-.png
 ---
-Mistakes happen, and they can potentially cost companies thousands of dollars. When it comes to freight shipping, time is money. Even the most experienced shippers make common freight shipping mistakes during their everyday planning.
 
-To avoid these freight shipping mistakes, we laid out 4 major strategies for you and your small business to follow when ready for shipment:
--------------------------------------------------------------------------------------------------------------------------------------------
 
-### **Packaging your freight properly**
+When trying to arrange a shipment as soon as possible, business owners sometimes miss out on significant points. Still, the attention to detail and your desire to improve the delivery process can eliminate the risks of shipping errors.
 
-It’s up to the shipper to [package their freight](https://www.goship.com/blog/package-vs-pallet-shipping/) properly if damaged during shipment was due to improper packaging, the option to submit a claim may be eliminated. Taking your time when packaging is worth it when your freight arrives intact and damage-free, a few extra minutes is all you need. If you’re unsure how to package correctly, consider consulting with a GoShip.com professional to ensure your packaging is correct.
 
-### **Properly estimating the freight class**
 
-Understanding your [freight class](https://www.goship.com/blog/blog-everything-you-need-to-know-about-ltl-freight-class/) will not only aid your carrier in planning, but it will ensure you save the most money. Estimating the freight class could cause you to pay more than you should or it could also create fees that may surprise you and add up fast. Estimating weight or size is the same. If you don’t give the most accurate specifications of your shipment, carriers will have to adjust the rate. Having the correct weight, size, and freight class will save time and money for all parties involved.
+# How can you avoid freight shipping errors?
 
-### **Comparing Carriers**
 
-Each carrier has its own strengths and weaknesses. It’s important to find the carrier that can not only provide you with the best rate but also the best service. Some carriers will be more suitable for certain types of freight than others. Therefore, as a shipper, you have access to a large list of carriers to choose from.
 
-### **Forgetting about the shipment after pickup**
+Mistakes happen, and they can potentially cost companies thousands of dollars. Even the most experienced shippers make common mistakes during their everyday planning. We laid out five practical strategies for you to follow when ready for shipment to avoid these mistakes.
 
-As a shipper, you want to make sure your shipment arrives on time. Many times, if it is forgotten, the receiver will be forced to reach out and complain if the shipment is not on time. It is best to have a clear understanding of when your shipment will reach his destination. You should be sure to factor in possible delays due to weather or holidays which may increase the time to deliver.
 
-LTL Shipping with GoShip.com
-----------------------------
 
-At GoShip.com, we are here to take the stress out of shipping. Let us use our advanced industry knowledge to get your LTL freight where it needs to go. With plenty of qualified and experienced carriers for you to choose from, you have the option to find the best rate that suits your budget and your freight. Be sure to see how we can help with our easy-to-use online solution by getting a [Free Quote](https://app.goship.com/#/wizard) today! Find our blogs useful? Be sure to subscribe and share! Also, don't forget to follow our social media pages for special updates and noteworthy-news.
+## Package your freight properly
+
+It’s up to you to [](https://www.goship.com/blog/package-vs-pallet-shipping/) package their freight correctly. A few extra minutes is all you need when deciding on a suitable packaging method. Luckily, today there are many available options to prevent your items from any possible damage during transportation. It is better to start with picking the crates fitting your goods and increasing the cargo density by using various void fillers and protective wrapping materials. Then, it’s time to take care of fixating your boxes inside the trailer. The most practical way to do it is [palletizing](https://www.goship.com/posts/package-vs-pallet-shipping) your freight. Pallets will limit the unwanted movement of the cargo during transportation and simplify loading/unloading processes. Taking your time to pack the goods properly is worth it when your freight arrives intact and damage-free.
+
+
+
+## Estimate the freight class
+
+Understanding your [freight class](https://www.goship.com/blog/blog-everything-you-need-to-know-about-ltl-freight-class/) will aid your carrier in planning and ensure you avoid hidden costs. Skipping the estimation of the freight class could cause you to pay more than you should. If you don’t give the most accurate specifications of your shipment, carriers will have to adjust the rate. In advance, try to gather all the necessary information, primarily the weight, size, and dimensions. It will also give you a clear understanding of the transport type needed to deliver the goods. Besides, the cargo volume is the most critical factor in choosing a suitable [shipping method](https://www.goship.com/posts/ltl-vs-ftl-which-option-is-best-for-me). For example, you would usually transport large shipments via full truckload (FTL) mode to fill out the entire trailer space. On the other hand, smaller shipments are compatible with less than truckload (LTL) shipping mode, where you will share the trailer space with several other shippers.
+
+
+
+## Collect the required paperwork
+
+Shipping documentation is one of the core questions business owners sometimes overlook during transit preparation. However, it’s critical to take care of the necessary paperwork to prevent possible supply chain disruptions. Ensure to gather the pack of documents, including the [Bill of Lading](https://www.goship.com/posts/how-to-complete-a-bol-bill-of-lading-form), containing the data about the shipped items and the carrier invoice, which works as a freight bill of the provided transportation services. Some shipments will also require you to prepare the packing list with details goods descriptions and some other papers - everything depends on what and how you are moving. Shipping paperwork also involves [freight insurance](https://www.goship.com/resources/freight-insurance), which can help you reduce the risks of cargo damage or loss. 
+
+
+
+## Track the shipment after pickup
+
+As a solid business owner, you want to make sure your shipment arrives on time. If you overlook timing, it will force the receiver to reach out and complain about shipping delays. It is best to understand when your shipment will reach its destination. You should be sure to factor in harsh weather or the holiday season, which may increase delivery time. It is where the option of [shipment tracking](https://www.goship.com/posts/3-reasons-shipment-tracking-matters) comes in handy. The tracking system is helpful for both retailers and the customers as everyone can keep an eye on a shipment flow from any type of gadget. Thus, you feel in control of the supply chain process, and your buyers stay updated on the emerging changes. Simultaneously, they will receive notifications in case of delivery shifts.
+
+
+
+## Choose reliable carriers
+
+Finally, it’s essential to find the carrier that can provide you with the best rate and service. Some carriers will be suitable for certain types of freight. Therefore, you have access to an extensive list of carriers to make the right decision. When planning a shipment, consider your cargo specifics and outline the most relevant shipping mode and types of transport you find the best in your case. It is also vital to count your budgeting and work out the optimal timeline. Thus, you’ll know what type of carrier would meet your logistics needs the best.
+
+At GoShip, we take the stress out of shipping. Let us use our advanced industry knowledge to get your freight where it needs to go. With plenty of qualified and experienced carriers, you can find the best rate for your budget and freight. See how we can help with our online solution by [getting a free quote](https://www.goship.com/) today!
