@@ -1,6 +1,7 @@
 ---
 keywords: common freight shipping mistakes, freight shipping mistakes, how to
-  avoid freight shipping mistakes
+  avoid freight shipping mistakes, freight shipping errors, how to avoid freight
+  shipping errors
 author: kmagilton
 title: Best Tips to Avoid Common Freight Shipping Mistakes
 intro: >-
@@ -24,7 +25,7 @@ postedAt: 1511940619000
 news: false
 description: Become an experienced shipper by exploring the most common freight
   shipping mistakes and how to avoid them.
-altText: freight shipping mistakes
+altText: shipping mistakes
 image: images/goship-blog-67-.png
 ---
 Mistakes happen, and they can potentially cost companies thousands of dollars. When it comes to freight shipping, time is money. Even the most experienced shippers make common freight shipping mistakes during their everyday planning.
