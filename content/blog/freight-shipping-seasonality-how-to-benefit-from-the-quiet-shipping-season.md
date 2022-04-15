@@ -4,7 +4,7 @@ intro: Sometimes, it is hard to find the right time to work on your business
   shortcomings and improve your supply chain. The quiet shipping season is when
   you can delve into the core logistics processes.
 postedAt: "1650055992124"
-news: true
+news: false
 description: Explore the best ideas to make the quiet shipping season beneficial
   for your business and prepare for active logistics operations in advance.
 keywords: freight shipping seasonality, quiet shipping season, upcoming shipping
