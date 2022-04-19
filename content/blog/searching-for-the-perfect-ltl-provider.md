@@ -1,6 +1,6 @@
 ---
 keywords: ltl shipping, ltl freight shipping provider, how to choose a perfect
-  ltl carrier,
+  ltl carrier
 author: GoShip Admin
 title: How to Choose the Perfect LTL Freight Shipping Provider
 intro: The search for a new LTL provider can often be a daunting task leaving
@@ -13,8 +13,9 @@ intro: The search for a new LTL provider can often be a daunting task leaving
 postedAt: 1514964905000
 news: false
 description: Finding the right LTL freight shipping provider can mean the
-  difference between deliveries showing up on time and intact or not showing up
-  at all.
+  difference between deliveries showing up on time and intact or failing the
+  shipping process. Learn how to search for professional LTL carriers and find
+  your perfect match.
 altText: packing ltl freight
 image: images/goship-website-image-template-1024-x-768-px-15-.png
 ---
