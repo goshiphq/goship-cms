@@ -50,6 +50,8 @@ We use the Order Information that we collect generally to fulfill any orders pla
 * We may use third-party advertising companies and/or media partners to serve ads on our Website and/or on the sites on which we advertise. Please note that these companies may use Usage Information about your visit to the applicable site in accordance with the policies on the site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements, these companies may place or recognize a unique cookie on your browser. In addition, we may use web beacons provided by third-party advertising companies to help manage our online advertising. These web beacons enable us to recognize a browser’s cookie when a browser visits this Website to learn which advertisements bring users to our Website. To learn more about third-party advertising companies, cookies, and how to "opt-out" of this type of advertising, please go to http://www.aboutads.info/choices/.
 * We use the Device Information for remarketing purposes utilizing Google display advertisements. By using Device Information, Google remarketing will show our ads on other websites you visit. You may opt out of Google’s use of Device Information by visiting http://www.google.com/settings/ads or http://www.networkadvertising.org/managing/opt_out.asp
 
+
+
 **SHARING YOUR PERSONAL INFORMATION**
 
 We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
@@ -93,6 +95,8 @@ The Site is hosted in the United States. If you are attempting to access the Web
 * such transfer;
 * the application of the laws of the United States and/or the State of Pennsylvania with respect to any dispute arising from or related to the Privacy Policy and/or your use of the Site, other than such rules, regulations, case law, and/or international treaties that would result in the application of the laws of a jurisdiction other than the United States or the State of Pennsylvania, and;
 * the exclusive jurisdiction of the courts of Butler County, Pennsylvania, and the federal courts sitting in Pittsburgh, Pennsylvania.
+
+
 
 Any claim or dispute between you and us that arises from your use of the Site or in connection with the Privacy Policy shall be decided exclusively by a court of competent jurisdiction located in Allegheny County, Pennsylvania, U.S.A.
 
