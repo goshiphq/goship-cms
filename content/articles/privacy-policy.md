@@ -27,21 +27,14 @@ Additionally, when you make a purchase or attempt to make a purchase through the
 
 Details of personal information we collect:
 
-o Company Name
-
-o Job Title
-
-o Contact Phone Numbers
-
-o First and Last Names
-
-o Email Address
-
-o Phone number
-
-o Fax number
-
-o Other personal information as necessary
+* Company Name
+* Job Title
+* Contact Phone Numbers
+* First and Last Names
+* Email Address
+* Phone number
+* Fax number
+* Other personal information as necessary
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
@@ -49,19 +42,13 @@ When we talk about “Personal Information” in this Privacy Policy, we are tal
 
 We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
-· Communicate with you;
-
-· Screen our orders for potential risk or fraud; and
-
-· When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services;
-
-· Marketing efforts;
-
-· We use the Device Information that we collect to help us screen for potential risk and fraud (your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns); and
-
-· We may use third-party advertising companies and/or media partners to serve ads on our Website and/or on the sites on which we advertise. Please note that these companies may use Usage Information about your visit to the applicable site in accordance with the policies on the site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements, these companies may place or recognize a unique cookie on your browser. In addition, we may use web beacons provided by third-party advertising companies to help manage our online advertising. These web beacons enable us to recognize a browser’s cookie when a browser visits this Website to learn which advertisements bring users to our Website. To learn more about third-party advertising companies, cookies, and how to "opt-out" of this type of advertising, please go to http://www.aboutads.info/choices/.
-
-· We use the Device Information for remarketing purposes utilizing Google display advertisements. By using Device Information, Google remarketing will show our ads on other websites you visit. You may opt out of Google’s use of Device Information by visiting http://www.google.com/settings/ads or http://www.networkadvertising.org/managing/opt_out.asp
+* Communicate with you;
+* Screen our orders for potential risk or fraud; and
+* When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services;
+* Marketing efforts;
+* We use the Device Information that we collect to help us screen for potential risk and fraud (your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns); and
+* We may use third-party advertising companies and/or media partners to serve ads on our Website and/or on the sites on which we advertise. Please note that these companies may use Usage Information about your visit to the applicable site in accordance with the policies on the site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements, these companies may place or recognize a unique cookie on your browser. In addition, we may use web beacons provided by third-party advertising companies to help manage our online advertising. These web beacons enable us to recognize a browser’s cookie when a browser visits this Website to learn which advertisements bring users to our Website. To learn more about third-party advertising companies, cookies, and how to "opt-out" of this type of advertising, please go to http://www.aboutads.info/choices/.
+* We use the Device Information for remarketing purposes utilizing Google display advertisements. By using Device Information, Google remarketing will show our ads on other websites you visit. You may opt out of Google’s use of Device Information by visiting http://www.google.com/settings/ads or http://www.networkadvertising.org/managing/opt_out.asp
 
 **SHARING YOUR PERSONAL INFORMATION**
 
@@ -103,11 +90,9 @@ When you place an order through the Site, we will maintain your Order Informatio
 
 The Site is hosted in the United States. If you are attempting to access the Website from a physical location within the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that your use of the Website is governed by U.S. law, this Privacy Policy, and the Terms of Use. To the extent you provide Personal Information through the Website, you are transferring your Personal Information to the United States, and you consent to:
 
-• such transfer;
-
-• the application of the laws of the United States and/or the State of Pennsylvania with respect to any dispute arising from or related to the Privacy Policy and/or your use of the Site, other than such rules, regulations, case law, and/or international treaties that would result in the application of the laws of a jurisdiction other than the United States or the State of Pennsylvania, and;
-
-• the exclusive jurisdiction of the courts of Butler County, Pennsylvania, and the federal courts sitting in Pittsburgh, Pennsylvania.
+* such transfer;
+* the application of the laws of the United States and/or the State of Pennsylvania with respect to any dispute arising from or related to the Privacy Policy and/or your use of the Site, other than such rules, regulations, case law, and/or international treaties that would result in the application of the laws of a jurisdiction other than the United States or the State of Pennsylvania, and;
+* the exclusive jurisdiction of the courts of Butler County, Pennsylvania, and the federal courts sitting in Pittsburgh, Pennsylvania.
 
 Any claim or dispute between you and us that arises from your use of the Site or in connection with the Privacy Policy shall be decided exclusively by a court of competent jurisdiction located in Allegheny County, Pennsylvania, U.S.A.
 
