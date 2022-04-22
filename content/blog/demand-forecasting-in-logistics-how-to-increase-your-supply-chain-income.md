@@ -4,7 +4,7 @@ intro: " A successful business is unlikely without studying your audience. When
   demand forecasting steps into the game, it allows retailers to meet their
   customers’ needs."
 postedAt: "1650622458833"
-news: true
+news: false
 description: Demand forecasting is one of the critical points of an advanced
   supply chain. Find out the best ways to implement demand forecasting in your
   logistics strategy.
