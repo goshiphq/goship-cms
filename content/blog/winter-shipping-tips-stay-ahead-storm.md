@@ -1,7 +1,7 @@
 ---
 keywords: winter shipping, shipping in winter
 author: GoShip Admin
-title: Winter Shipping Tips to Stay Ahead of the Storm
+title: "Winter Shipping Tips: How to Stay Ahead of the Storm"
 intro: Winter is upon us. Have you prepared for the cold season? With the
   unpredictable weather patterns from Mother Nature, you never know when or
   where a storm will take place. Winter is one of the most challenging seasons
