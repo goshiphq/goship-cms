@@ -4,7 +4,7 @@ intro: "Along with the growth of your retail business, the question of
   appropriate goods storage emerges. Maintaining the order of your products does
   not solely improve inventory transparency but streamlines your supply chain. "
 postedAt: "1651154536685"
-news: true
+news: false
 description: Check out the benefits of warehousing in logistics and evaluate the
   need to use a warehouse in your supply chain.
 keywords: warehousing in logistics, benefits of using warehouses, types of
