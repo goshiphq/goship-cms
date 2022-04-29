@@ -2,7 +2,7 @@
 title: About Us
 image: ""
 description: GoShip is a domestic freight shipping marketplace that provides
-  affordable and simple full truckload and less-than-truckload shipping with an
+  affordable and simple full truckload and less than truckload shipping with an
   innovative and cost-effective approach.
 keywords: GoShip, what is GoShip, how does GoShip work, how to move with GoShip
 ---
@@ -36,7 +36,7 @@ GoShip has partnered with thousands of pre-qualified trucking companies to ensur
 
 
 
-GoShip is the industry’s latest innovation for meeting all your shipping needs. We can connect you with trusted carriers to ensure your shipment reaches its destination fast and safely. GoShip online service offers quick turnaround times and an easy, hands-off way for you to move various types of goods. 
+GoShip is the industry’s latest innovation for meeting all your shipping needs. We can connect you with trusted carriers to ensure your shipment reaches its destination fast and safely. GoShip online service offers quick turnaround times and an easy, **hands-off way for you to move** various types of goods. 
 
 
 
@@ -73,15 +73,15 @@ We alleviate the hassle of heavy lifting and inconvenient shipping. We have an e
 
 
 
-You no longer have to contact a freight broker or borrow your uncle’s truck to transport your large items. You can book your shipment entirely online through our platform. Our digital shipping platform is available 24/7 at your office or home, allowing customers to ship freight anywhere.
+You no longer have to contact a freight broker or borrow your uncle’s truck to transport your large items. You can book your shipment entirely online through our platform. Our digital shipping platform is **available 24/7** at your office or home, allowing customers to ship freight anywhere.
 
 
 
-Shipping some items is as easy as putting them in a box and handing the box off to a shipping company or the post office. However, some things are too bulky for a standard shipping procedure. That’s where GoShip can arrange the shipping process for any service you need. Thanks to our network of freight carriers, GoShip can organize the shipping process for any assistance you need.
+Shipping some items is as easy as putting them in a box and handing the box off to a shipping company or the post office. However, some things are too bulky for a standard shipping procedure. That’s where GoShip can arrange the shipping process for any service you need. Thanks to our **network of freight carriers**, GoShip can organize the shipping process for any assistance you need.
 
 
 
-Unlike traditional small parcel shipping companies, GoShip specializes in oversized and bulky items that other freight shipping platforms won’t handle. Thanks to our easy-to-use website, competitive rates, and advanced technology, working with GoShip makes shipping easy and convenient for you.
+Unlike traditional small parcel shipping companies, GoShip specializes in oversized and bulky items that other freight shipping platforms won’t handle. Thanks to our **easy-to-use website**, **competitive rates**, and **advanced technology**, working with GoShip makes shipping easy and convenient for you.
 
 
 
@@ -117,7 +117,7 @@ GoShip gives its customers a step-by-step approach to making shipping simple, af
 
 
 
-## How to move freight with GoShip
+## How to move with GoShip?
 
 
 
