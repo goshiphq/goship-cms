@@ -4,7 +4,7 @@ intro: When it comes to planning your shipping budget, it’s easy to get confus
   over the principles of transportation pricing. Let us make it easier for you
   and help you decide on the best shipping rate.
 postedAt: "1651866658636"
-news: true
+news: false
 description: Explore the main freight shipping pricing strategies and start
   delivering your goods at the best rates.
 keywords: freight shipping pricing, pricing of shipping services, contract and
