@@ -1,5 +1,6 @@
 ---
-keywords: how to save on shipping, save money on shipping
+keywords: how to save on shipping, save money on shipping, reduced shipping
+  cost, retail consolidation programs
 author: GoShip Admin
 title: Top 5 Tips to Effectively Save Money on Shipping
 intro: >-
@@ -64,7 +65,7 @@ Many factors determine the net cost of your shipment, including cargo features, 
 
 
 
-Accessorial fees vary depending on the selected carrier. Knowing all the involved additional charges is essential when choosing a shipping service. For example, carriers may charge some money for handling fragile or hazardous goods. Besides, large-item shipping typically embraces loading, unloading, and fixating operations to meet all the requirements of oversized transportation. 
+Accessorial fees vary depending on the selected carrier. Knowing all the involved additional charges is essential when choosing a shipping service. For example, carriers may charge some money for handling fragile or hazardous goods. Besides, [large-item shipping](https://www.goship.com/shipping-services/large-item-shipping) typically embraces loading, unloading, and fixating operations to meet all the requirements of oversized transportation. 
 
 
 
