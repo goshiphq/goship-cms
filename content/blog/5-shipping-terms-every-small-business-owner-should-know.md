@@ -1,5 +1,5 @@
 ---
-title: 5 Shipping Terms Every Small Business Owner Should Know
+title: 5 Shipping Terms Every Business Owner Should Know
 intro: Freight shipping is overwhelming for any business owner. However, if you
   want to find the best shipping strategy that will work for you and your
   customers, it’s critical to understand how the process works.
