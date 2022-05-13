@@ -5,7 +5,7 @@ intro: Synchronizing numerous logistics operations often gets perplexing, so
   shippers and retailers keep looking for optimal solutions for their supply
   chains.
 postedAt: "1652429053983"
-news: true
+news: false
 description: Transportation management systems are an excellent solution for
   improved shipping visibility and upgrading your supply chain organization.
 keywords: transportation management system, TMS, benefits of TMS, what is a TMS,
